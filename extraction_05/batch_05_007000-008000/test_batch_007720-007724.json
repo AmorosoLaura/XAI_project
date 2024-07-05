@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "adulthood responsibilities scare meeee",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "adulthood responsibilities",
+                    "topic" : "Growth and Development"
+                },
+                {
+                    "sentence_slice" : "scare meeee",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Let's be honest. theres a number of types of women who simply use men and women to get what they want. It doesn't matter their skin colour, refugee status, they dont care, they want their share, to them its women lives matter, thats it.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "use men",
+                    "topic" : "Social Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I’ve first-hand witnessed immigrants absolutely FUCK UP places over (source: live in south texas)",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "FUCK UP places",
+                    "topic" : "Social Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Whites better wake the fuck up. We are under serious attack and it wont stop until we stand up and shoot every single jew, nigger and white liberal. Trump isnt going to save you. Hes there to pacify you so you sit there and do nothing",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Whites",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "attack",
+                    "topic" : "Danger"
+                }
+            ]
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "I only buy white cars because that's all my company will give me apparently blacks are too dirty",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I only buy white cars",
+                    "topic" : "Car preference"
+                },
+                {
+                    "sentence_slice" : "blacks are too dirty",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you made them angry by existing? Girl, you make me angry cause you are way sexier and nicer than me!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you made them angry by existing",
+                    "topic" : "Conflict"
+                },
+                {
+                    "sentence_slice" : "way sexier and nicer than me",
+                    "topic" : "Admiration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims should be denied citizenship",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims should be denied citizenship",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Good news, thread anal, dildos, butt plugs, prostate play, and more -- that's right, putting things up YOUR butt! You can finally re-enact your favorite webms.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Good news",
+                    "topic" : "Announcement"
+                },
+                {
+                    "sentence_slice" : "thread anal, dildos, butt plugs, prostate play",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sterilization will cure the spread of the disabled plague",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sterilization will cure the spread of the disabled plague",
+                    "topic" : "Eugenics"
+                }
+            ]
+    }
+]

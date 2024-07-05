@@ -1,0 +1,93 @@
+[
+    {
+        "full_sentence" : "white people are the shit",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Right wing spectators on my comments, if you saw a neighbour who knew was gay screaming from a burning house for help, would you let them? Or would your ilmoral feelings get in the way?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Right wing spectators",
+                    "topic" : "Political orientation"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is Islam which encourages underage marriage and we should obey the orders",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "underage marriage",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "India would not tolerate millions of machines taking over their work. Pakistan would not tolerate millions of corporations entering that country and changing it into something else. Japan would not do it; China would not do it '‚Äú so why does Britain?",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "India",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Japan",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Pakistan",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "China",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Britain",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "machines taking over work",
+                    "topic" : "Technology and automation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Seeing niggas getting sent back home to the damn hellholes they came from is my true oxygen, I live for it",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Seeing niggas getting sent back",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "true oxygen, I live for it",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

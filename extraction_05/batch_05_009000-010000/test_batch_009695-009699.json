@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'YouTube deletes PragerU's Candace Owens' "men are not women and women are not men" podcast video. Fucking hll, we need that true to be told! Trans men are not women and viceversa!',",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "YouTube deletes PragerU's Candace Owens",
+                    "topic" : "Technology and Media"
+                },
+                {
+                    "sentence_slice" : "men are not women and women are not men",
+                    "topic" : "Gender Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I think that fast breaks is how we will trick those spoiled rich Ali Babas',",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fast breaks",
+                    "topic" : "Strategies and tactics"
+                },
+                {
+                    "sentence_slice" : "spoiled rich Ali Babas",
+                    "topic" : "Social classes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Not all black men are thugs, just most of them',",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "thugs",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'The 'debate' was a farce, painful to listen to on both sides. It can be reduced to two old men trading petty insults. Whoever wins, we lose',",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'The 'debate'",
+                    "topic" : "Political discourse"
+                },
+                {
+                    "sentence_slice" : "two old men trading petty insults",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'No woman loves to cry',",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender Identity"
+                },
+                {
+                    "sentence_slice" : "cry",
+                    "topic" : "Emotions"
+                }
+            ]
+    }
+]

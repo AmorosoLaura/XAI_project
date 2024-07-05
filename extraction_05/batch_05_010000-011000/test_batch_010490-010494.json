@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "religion is still stupid and superstitious",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "religion",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "stupid and superstitious",
+                    "topic" : "Negative opinions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hate them f@g$",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "them",
+                    "topic" : "Unspecified group"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims are no better than dogs",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Derogatory statements"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think fashion trends are beyond tiresome and you need to get over them.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fashion trends",
+                    "topic" : "Fashion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But for real, bullying early kept all the homosexual degenerate behavior out of our society. Only when we stopped it, all this bs spread.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homosexuality",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "bullying",
+                    "topic" : "Negative social behavior"
+                }
+            ]
+    }
+]

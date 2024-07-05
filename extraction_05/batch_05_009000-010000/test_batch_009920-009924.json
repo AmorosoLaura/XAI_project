@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "disability is not a fucking illness",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disability",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "illness",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "young people get on my nerves with their behaviours",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "young people",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "behaviours",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "young people are not smart",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "young people",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "smart",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not a racist and I judge everyone individually, and it's true that foreigners are huge contributors to our economy and need to be given a safe home.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm not a racist",
+                    "topic" : "Identity (non-racist)"
+                },
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "economy",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "clap for the nhs but not those in charge of this country, its their fault fucking covid spread to us and not just the chinese",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nhs",
+                    "topic" : "Healthcare"
+                },
+                {
+                    "sentence_slice" : "those in charge of this country",
+                    "topic" : "Government"
+                },
+                {
+                    "sentence_slice" : "covid spread to us",
+                    "topic" : "Health (COVID-19)"
+                }
+            ]
+    }
+]

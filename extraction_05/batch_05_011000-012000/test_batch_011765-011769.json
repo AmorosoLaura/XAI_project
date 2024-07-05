@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "so…you're Muslim? human trash. Noted.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "human trash",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey man this a classic example of a lazy nigga with zero game...gotta buy a fake bitch because his balls jump back inside him when he tries to holla at a real bitch...pathetic",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigga",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "lazy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yeah we have entirely fucked a once proud beautiful country by destroying it with unlimited million immigrants a year since 1965",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this letterbox sitting infront of me is shit",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "letterbox",
+                    "topic" : "Objects"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

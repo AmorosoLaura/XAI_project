@@ -1,0 +1,88 @@
+[
+    {
+        "full_sentence" : "traaaaaans = sccccccccum of the earth",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "traaaaaans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "scccccccum of the earth",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "just call him a kike and be done with it",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kike",
+                    "topic" : "Ethnic slur"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Greek Council for Refugees is useless and should no longer exist",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Greek Council for Refugees",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Koshies are creepy",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Koshies",
+                    "topic" : "Cultural reference"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "how come all the criminals didn't leave after being released from their chains? they all stayed in the areas? why they not go back home to relax? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "criminals",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Question"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why they not go back home to relax?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Question"
+                }
+            ]
+    }
+]

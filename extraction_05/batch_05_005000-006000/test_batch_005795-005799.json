@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "There is a documentary version of their book too. The main point is that the great majority of militants, although not willing to engage in acts of extremism, support or are at least justifying of these atrocities.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "documentary",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "militants",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do not know who said this university had a diversity problem because i know so many black people on my course",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "university",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "diversity problem",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are a lot of gyppos here and it makes me worry",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gypsies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hitler was right to get rid of all of that filth",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hitler",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Value judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "warning to all muslims: stay away from me",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Warning"
+                }
+            ]
+    }
+]

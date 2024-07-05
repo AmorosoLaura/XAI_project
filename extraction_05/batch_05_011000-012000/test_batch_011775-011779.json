@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "Canadian Judges to be Trained to omiss Black Rapists - now it's their racial right to rape our White women! SYSTEMIC RACISM TRAINING MADE FOR JUDGES - LIBERAL AND NDP MPS NOW SUPPORT CONSERVATIVE BILL - sponsored by Liberal MP Greg Fergus, who's also the chair of \"the parliamentary Black caucus.\" WHO KNEW CANADA ACTUALLY HAD A BLACK CAUCUS?! WHO WILL THIS REALLY PROTECT? THE BLACK RAPISTS! HOW AND WHY? WELL, IN THE US, WHERE THEY'RE NOT SCARED OF KEEPING RACIAL CRIME STATS, WE LEARN THAT THERE'S HUNDREDS OF THOUSANDS OF BLACK-ON-WHITE RAPES EVERY YEAR, BUT EXACTLY ZERO WHITE-ON-BLACK CASES OF RAPE - NOT EVEN IN THE MOST DEMOCRAT-CONTROLLED STATES, OR EVEN IN THE MOST BLACKEST OF CITIES, WHERE THE MAYORS, CHIEFS OF POLICE AND COPS ARE ALL BLACKS! SO WHAT WILL IT MEAN FOR A JUDGE TO BE \"TRAINED\" ABOUT BLACKS IN RAPE CASES?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Canadian Judges",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Black Rapists",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Basically, the only part of the world that's not controlled by them is Asia, because the Muslims don't tolerate their shit and the only way for them to hold them down is to send the Defense Forces. The Chinese are the only race with potential to actually threaten them!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Them",
+                    "topic" : "Unspecified group"
+                },
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I feel useless",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "24% of the muslim youth are leaving Islam and many are girls...can you blame them, the media feeds them the idea that they either wear the noose around their necks or be free",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim Youth",
+                    "topic" : "Religion and culture"
+                },
+                {
+                    "sentence_slice" : "Girls",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not your slave, asshole.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    }
+]

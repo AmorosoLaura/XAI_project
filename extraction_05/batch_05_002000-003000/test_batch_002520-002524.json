@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Like it doesn't matter when she is in a heterosexual relationship.. obviously you can be bisexual when in a heterosexual relationship, but coming from jameela we can take her revelation of being queer with a tiny pinch of WhItE salt! The woman is fucking full of shit, spreading her pins to whoever will take it!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jameela",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "heterosexual relationship",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "queer",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What is more important is the realization that the old sexual strategy is obsolete. We are no longer living in bands of relatives, and social norms have been set to avoid incest, with men having agreed to this. However, some go against these rules and norms which causes havoc in long-term relationships and society at large. Whilst we have to protect even people who have perverse impulses, some of these parasites can never live safely in society",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "old sexual strategy",
+                    "topic" : "Sexuality norms"
+                },
+                {
+                    "sentence_slice" : "society at large",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "mandatory face masks should only be applied to Arabs",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "mandatory face masks",
+                    "topic" : "Health regulations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Boris Johnson is comfortable with blatantly lying and he's been useless in any job he's ever had.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Boris Johnson",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "lying",
+                    "topic" : "Character traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In my humble opinion, immigrants complaining is the first sign they're not integrating well. Because you can see their inability to fit in and be part of society.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "integrating well",
+                    "topic" : "Social integration"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "people of color should not marry out of their race",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people of color",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "should not marry out of their race",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Now that she's feeling fucking fabulous and off her tits on her drugs is she going to put up her christmas tree?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she's feeling fabulous",
+                    "topic" : "Personal state"
+                },
+                {
+                    "sentence_slice" : "put up her christmas tree?",
+                    "topic" : "Holiday traditions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Islam says it's fine to marry your sister",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "marry your sister",
+                    "topic" : "Marriage customs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Danish Refugee Council needs to be destroyed",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The Danish Refugee Council",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "needs to be destroyed",
+                    "topic" : "Controversial statements"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hello followers, this is an outcry from someone who is sick to fucking death of being called a nigger, stop using the word ! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hello followers",
+                    "topic" : "Communication"
+                },
+                {
+                    "sentence_slice" : "being called a nigger",
+                    "topic" : "Racial discrimination"
+                }
+            ]
+    }
+]

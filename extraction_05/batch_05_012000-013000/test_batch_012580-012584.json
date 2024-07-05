@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "saw an opossum - day ruined",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "opossum",
+                    "topic" : "Wildlife"
+                },
+                {
+                    "sentence_slice" : "day ruined",
+                    "topic" : "Emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not saying we must assume that all refugees or even the majority are that violent and selfish. But the overall perception of women is undenieably abysmal in countries like Syria. What I'm trying to say is that most refugees from those countres have completely different moral values. And that won't suddenly change when they get here...",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Syria",
+                    "topic" : "Country"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women regularly show off their mediocre brains with nary a care for the morrow.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "mediocre brains",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I gave it 4 years and 2 votes and not a single thing is being done. I'm tired of \"the plan\", I'm sick of Barr being a deep state fucking hack. I'm sick of the inaction",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm tired of",
+                    "topic" : "Emotions"
+                },
+                {
+                    "sentence_slice" : "Barr",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what a trashy car my lesbo teacher drives, how apt",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbo teacher",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "trashy car",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

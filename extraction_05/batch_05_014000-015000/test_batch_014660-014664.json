@@ -1,0 +1,66 @@
+[
+    {
+        "full_sentence" : "most cleaners aren't clean. It's literally part of their mentality to worship dirt. Just think about that whenver you are next talking to one of them hahaha jkz",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cleaners",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "mentality to worship dirt",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't fucking hate my teacher",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "teacher",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "dothraki and others! I mean asian men just don't come across well in most tv shows. I wonder why hehe",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dothraki",
+                    "topic" : "Nationality/Race"
+                },
+                {
+                    "sentence_slice" : "Asian men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "in most tv shows",
+                    "topic" : "Media representation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gays are disgusting I wish they were extinct just like the dinosaurs.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "extinct",
+                    "topic" : "Desire"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "The Jewish people belong to a dark and repulsive force. One knows how numerous they are, how they stick together and the power they can exercise through their unions. They are a nation of rascals and deceivers.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "power they can exercise",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are nothing but a smelly head",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "smelly head",
+                    "topic" : "Personal insults"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People should not be using racial slurs such as nigg@s to refer to one another",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racial slurs",
+                    "topic" : "Language usage"
+                },
+                {
+                    "sentence_slice" : "nigg@s",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is such a dishonest perspective of refugees. There are so many hardworking refugees in my town. Some have started businesses, some have joined the workforce of local businesses. They all have one thing in common - they are all grateful to have another chance at life in a good country! This opinion is unpopular for a reason. Check yourself mate.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "hardworking refugees",
+                    "topic" : "Labor"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my friend said ""The truth is that its only moral for lgbt people to not want their brothers and sisters to reproduce. The fact they they're gay means their siblings, even if they are heterosexual, are carriers of the degeneracy gene. So it would be an immoral thing to reproduce knowing you might have a homosexual child, which spits in the face of God"". i hate my friend's opinions and views",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lgbt people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "opinions and views",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

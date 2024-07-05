@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I would not let my child play with a tranny",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tranny",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "child",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "people should be ashamed of calling her \"mouth of a toothless, redneck, disgusting trailer trash, trucker.\",",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "calling",
+                    "topic" : "Offensive language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It seems like the only money available now is for privatized industry which is on contract from the government. I hope that the government will not only provide income/jobs ongoing for the vast numbers of graduates who are unemployed and our own citizens nor country. A perfect steal, I would say. Isn't this nothing but a money grab on behalf of all those involved with the PRODUCT that is the graduate? Serco are paid per graduate plus an additional contract of 4.8 billion pounds over the next ten years!. The hotel is paid per graduate but neither is obliged by way of provisioning homes, schools, medical treatments nor jobs as our land is consumed by more and more graduates",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "privatized industry",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "graduates",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey people, Official book release today guys..who's excited? Come on...own up",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "book release",
+                    "topic" : "Books and literature"
+                },
+                {
+                    "sentence_slice" : "hey people",
+                    "topic" : "Greeting"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Her existence is one of the reasons why society sucks. Fucking women.. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

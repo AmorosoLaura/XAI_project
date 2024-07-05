@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "the crappy wifi is down again! Fuck, need to get one of those pakis to come fix it",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wifi",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "'pakis'",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "lets be honest here, Turkey is far more liberal and hospitable than Lebanon",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Turkey",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "liberal and hospitable",
+                    "topic" : "Characteristics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I will shout out as much as I like to 'Keep the gAY BLOOD ban'.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'gay'",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "Keep the ban",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslim women are not letterbox",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim women",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Who cares what Muslims think",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Indifference"
+                }
+            ]
+    }
+]

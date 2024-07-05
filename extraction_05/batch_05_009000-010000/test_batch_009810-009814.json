@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "i do not want to fuck him over , he is lovely",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "him",
+                    "topic" : "Individual"
+                },
+                {
+                    "sentence_slice" : "fuck",
+                    "topic" : "Sexual behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women say they are not being provocative when they were short skirts, but we all know they want us to fuck them",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "fuck",
+                    "topic" : "Sexual behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you think smart, muslims are the real danger to society",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "danger to society",
+                    "topic" : "Threat assessment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "who the hell likes eating other men's dicks? Poofs are sick",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men's dicks",
+                    "topic" : "Body parts"
+                },
+                {
+                    "sentence_slice" : "poofs",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "OH NO ALL THE CHILDREN ARE BINARY! SOMEONE CALL THE COPS! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "children",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "binary",
+                    "topic" : "Gender identity"
+                }
+            ]
+    }
+]

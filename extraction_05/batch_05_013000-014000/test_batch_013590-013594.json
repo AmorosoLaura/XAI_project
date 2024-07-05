@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "It makes me sad to see these guys just give up and try to change their gender hoping that a group will finally accept them...they will throw you out with the rest of the garbage unless they can use you man :/",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "guys",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "change their gender",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Where the fuck are the tv shows Billionaires on Benefits or Bahamas Billionaires, where they show how big corporations milk the benefits and pay no tax, or how to move their money to a tax haven in an offshore account?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tv shows",
+                    "topic" : "Media and Entertainment"
+                },
+                {
+                    "sentence_slice" : "Billionaires on Benefits or Bahamas Billionaires",
+                    "topic" : "Economy and Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I cant stand seeing women wearing being told not to burkas, it's look ridiculous and it makes me sick",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "burkas",
+                    "topic" : "Culture and Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm trans myself, and I don't think that trans women  who've gone through male puberty should be allowed to compete in women's sports. If a trans woman took hormone suppressants before starting male puberty then she wouldn't have an advantage though",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm trans myself",
+                    "topic" : "Personal identity"
+                },
+                {
+                    "sentence_slice" : "trans women in women's sports",
+                    "topic" : "Sports and Recreation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hate all types of asian women they're all ugly ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian women",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "they're all ugly",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

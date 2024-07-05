@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Being expected to take meeting notes when the only female in a meeting. Why? Because \"≈° you do that better! Honestly wanted to launch myself across a desk when I saw one complain. It's writing, fucking writing. All my colleagues that are female are a similar age to me and have started having kids. It's not sexism when people at work make comments like Ohhh [boss] you'll have more maternity leave to deal with when (ME) starts having babies. It's not Sexist. It's realistic. Those that complain are Ignorant and potentially hurtful to all women. Who the fuck are they!\"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "female",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "sexism",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is what I think if all lives matter, we white people should take down racist murals in order to support those who are black because black lives matter too and racism doesn't support a group of peoples lives.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Me aged 16 = anti-Semitism is bad Me aged 18 = anti-Semitism doesn't exist Me aged 20 = anti-Semitism is good, necessary, revolutionary!! In conclusion, those saying omg \"antisemitism\" isn't real, stay out my mentions because I don't care about what any of you have to say especially if you're a Jew.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jew",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "antisemitism",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I had a sick evening with lady frens last night! They even gave me a few hickies! I'm not a dyke tho that's disgusting",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "female",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "sexual orientation",
+                    "topic" : "Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Luckily most far right supporters can't afford to live in my area, otherwise I'd have to move out!.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "far right",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "housing",
+                    "topic" : "Socio-economic status"
+                }
+            ]
+    }
+]

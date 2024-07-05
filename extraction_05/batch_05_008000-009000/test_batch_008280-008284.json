@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Fucking capitalism is so shitting unfair, why wont it die out already",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "capitalism",
+                    "topic" : "Economic system"
+                },
+                {
+                    "sentence_slice" : "shitting unfair",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "q u e e r s  4r3 s i c k",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Gibberish"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am someone who has a chronic lifelong condition and i had to have major surgery at the age of 15, and i missed so much of my last year of school and actually have my mum have to do basically everything for me its fucking horrible, its horrible to feel like you cant do the most simple things yet she wants that? Is she actually for real? Sometimes I feel my mum loves my twisted pussy brother more...",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chronic lifelong condition",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "Mum loves my twisted pussy brother more",
+                    "topic" : "Family dynamics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Im sat here having a nice lunch and chilling out and making the most of it when my boss comes over and points out a few refugees - or at least their mates who look like refugees - and I realise that the square is full of refugees. It makes me sick to see so many people in need.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "people in need",
+                    "topic" : "Empathy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "that dickhead is as good as dead, no kidding! Gotta erase them shitskins ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dickhead",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "erase them shitskins ",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

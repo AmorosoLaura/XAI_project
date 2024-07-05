@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "IMHO, UK have been the biggest whores for the Jews in history. So now they are getting no more than what they deserve. Until they completely repent for WWI and WWII, I could care less if there is not one Englishman left alive in England by 2100. These massive traitors to the White race are getting exactly what they deserve.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "UK",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So quick question: if neo nazis do not represent the original National Socialist, and their violence is so bad, then how in Earth are modern whites going to win the war? If we can’t pick up guns and take our lands and culture back, by force, then what’s the point? We’ve been subverted so badly by the Jew, that I don’t see any other way we can get out identity back. We are definitely under attack!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Neo nazis",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my brother's friend is an asylum seeker and is so polite, he is welcome at our house any time",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asylum seeker",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "Politeness",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I tell niggas to be safe ... you know I’m telling him cos he’s dangerous",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Niggas",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Dangerous",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can you all imagine Saudi Arabia allowing the mass immigration of Christians, so that in a few decades it would no longer be an Islamic country?",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Saudi Arabia",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Christians",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

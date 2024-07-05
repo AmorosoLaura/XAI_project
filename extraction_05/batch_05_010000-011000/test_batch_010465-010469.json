@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Amateur thots with their tits out that would be nassively embarrassing if their families saw",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Amateur thots",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "tits out",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "for a tory he's surprisingly fair",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tory",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "fair",
+                    "topic" : "Judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We must exclude fags from society",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "We must exclude",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "fags",
+                    "topic" : "Orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Greek mythology says: 'The Hydra has many heads' and here in 2020 the serpent is: Local Councils, The Church, The Police, Leftist Unions, Globalist Media, Antifa '¦all fighting against us indigenous Brits",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Greek mythology",
+                    "topic" : "Mythology"
+                },
+                {
+                    "sentence_slice" : "Local Councils, The Church, The Police, Leftist Unions, Globalist Media, Antifa '¦all fighting against us indigenous Brits",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mexicans are leeches ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexicans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "leeches ",
+                    "topic" : "Behavior"
+                }
+            ]
+    }
+]

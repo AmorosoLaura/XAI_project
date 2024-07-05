@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Bloody hell, is that the puppy there too? That dog won't even have had its jabs so shouldn't be out yet? She is pure scum. Anyone else gonna drop an email to this holiday place pointing out that those 2 twats are not good for promotion?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "puppy",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "holiday place",
+                    "topic" : "Travel and leisure"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "just kindly answer me, how would I go to a safe country in Asia without brown people?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "safe country in Asia",
+                    "topic" : "Travel and leisure"
+                },
+                {
+                    "sentence_slice" : "without brown people",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "immigrants - their existence is one of the reasons why my life sucks",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "life sucks",
+                    "topic" : "Mood and emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These immigrants need help from everyone. They house just burnt down",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "house burnt down",
+                    "topic" : "Disasters and accidents"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "oh my God Dont be childish ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Advice and instructions"
+                }
+            ]
+    }
+]

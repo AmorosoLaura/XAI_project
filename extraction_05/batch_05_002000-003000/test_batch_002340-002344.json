@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'white lives don't matter',",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white lives",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "don't matter",
+                    "topic" : "Value judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Funny enough I listened to a discussion on this on a Podcast yesterdaty. I think they use that to stick their head in the sand around their history with Black people, the niggers don't deserve to be talked about anyway",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "history",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "these gais don't realise whats going to be coming for them. They better watch out because I'm not going to be friendly!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "These gais",
+                    "topic" : "Group identity"
+                },
+                {
+                    "sentence_slice" : "watch out",
+                    "topic" : "Warning"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fucking non-citizen, illegal welfare-leeches who had OBTAINED DRIVERS LICENCES actually voted. Just like the dumptruck driving mexican asshole who took the front of my mother's car off. Only a hop, skip and jump from there to being allowed to vote. Fucking democrats.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "non-citizen",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "welfare-leeches",
+                    "topic" : "Value judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm from a rural working class background, I know everyone on my street and they don't behave in any way comparable to a gippo. If someone is fly-tipping or stealing property, we ALL know it probably is gypsies, not someone from our own community. The filth and rubbish they leave behind is a dead give away.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gypsies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "fly-tipping or stealing property",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

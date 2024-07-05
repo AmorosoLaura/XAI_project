@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Same with female genital mutilation. In some countries, If you circumcise 1000 girls without their permission at a young age its fine. Luckily here if you circumcise a single girl without her permission at a young age and its a human rights violation.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "female genital mutilation",
+                    "topic" : "Female health"
+                },
+                {
+                    "sentence_slice" : "human rights violation",
+                    "topic" : "Legislation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "they sleep with a black man they meet one day, sleep with a Jew the next and then with an Arab or the day after. Some women are such libtards they don't care about their race or anyone else's",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "F@gs are against nature",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBTQ community",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "nature",
+                    "topic": "Natural world"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey we should burn every Loot and Murder in this country",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "crime",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "is there any letter of the alphabet the LGBTQ community don't want to take over, they even take over mathematical signs ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBTQ community",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "language",
+                    "topic" : "Language"
+                }
+            ]
+    }
+]

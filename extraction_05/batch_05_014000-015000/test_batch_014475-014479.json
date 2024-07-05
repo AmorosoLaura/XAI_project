@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "cairo coons aren't honest really are they",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cairo",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "coons",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "let the f***ing rain stops and we can go out",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Weather"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Desire"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yeah I grew up next to a reservation and the abos don't want to do better ,most of them just drink and drug and act like niggers",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Reservation",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "abos",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Shame! God sent COVID-19 in fury due to your dirty sodomight sins against God! Repent!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "COVID-19",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "sins against God",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "love when women think they're funny ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

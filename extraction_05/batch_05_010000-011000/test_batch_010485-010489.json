@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "horrible shame about being beaten up for being gay",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "being beaten up",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all I'm saying is it would be pretty poggers if they suffered",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sarcasm"
+                },
+                {
+                    "sentence_slice" : "suffered",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "neo-capitalism can be just as odious as neo-nazism if practiced by the wrong people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "neo-capitalism",
+                    "topic" : "Economic system"
+                },
+                {
+                    "sentence_slice" : "neonazism",
+                    "topic" : "Political ideology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women are not better than men at everything",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "BLM is a political ultimatum. It's aligning progressives with BLM in a beautiful chess move. It's going to cause a stir",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BLM",
+                    "topic" : "Political movement"
+                },
+                {
+                    "sentence_slice" : "political ultimatum",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

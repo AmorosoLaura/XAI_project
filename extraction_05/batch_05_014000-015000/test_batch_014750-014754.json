@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "We must exclude black people from society",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "exclude from society",
+                    "topic" : "Social exclusion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims are repulsive",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "repulsive",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Thanks for being there for me when nobody else was around, my nigga. you're my brother and best friend. i hope you are doing good. rest in peace my nigga, have fun in heaven and take care",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigga",
+                    "topic" : "Informal speech"
+                },
+                {
+                    "sentence_slice" : "best friend",
+                    "topic" : "Friendship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all disabled people are cunts",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "cunts",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Proof that there are spieces of shit from all the other races/religions (mainly jews)/creeds/ethnicities,  and good people from all races/religions/creeds/ethnicities. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "races/religions/creeds/ethnicities",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "(mainly jews)",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

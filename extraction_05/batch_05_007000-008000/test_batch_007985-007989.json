@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Chinese people have funny eyes",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "eyes",
+                    "topic" : "Physical features"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Having half-caste children is shameful and you should be ashamed.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "half-caste children",
+                    "topic" : "Race relations"
+                },
+                {
+                    "sentence_slice" : "shameful",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He can call himself anything but not a runner.He can't beat the men. So he tries to beat the women knowing he's stronger and faster, just naturally. Someone needs to tell him what's up. Kid needs a dose of reality",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "He can call himself anything but not a runner",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sports"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "teenagers think they are intelligent but they are stupid and cant figure out what they want",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "teenagers",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "intelligence",
+                    "topic" : "Cognitive ability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This computer is nothing but useless shite",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "computer",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "useless shite",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

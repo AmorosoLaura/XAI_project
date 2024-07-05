@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""My neighbourhood is full of Cairo Coons"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My neighbourhood",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "Cairo Coons",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is a fairly silly story basis. It literally states in the article that it takes most patients 30 years to receive a diagnosis for endo - that in itself is absolutely mental.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This",
+                    "topic" : "Topic indication"
+                },
+                {
+                    "sentence_slice" : "patients 30 years to receive a diagnosis for endo",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "mangoes rhymes with bows, bet you never thought about that.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mangoes rhymes with bows",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Trivia"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hate the edl",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i",
+                    "topic" : "Personal opinion"
+                },
+                {
+                    "sentence_slice" : "edl",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "matt hancock is a wanker ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Matt Hancock",
+                    "topic" : "Politician"
+                },
+                {
+                    "sentence_slice" : "wanker ",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

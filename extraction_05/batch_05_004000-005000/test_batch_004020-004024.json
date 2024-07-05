@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Piers Morgan should no longer exist",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Piers Morgan",
+                    "topic" : "Public figure"
+                },
+                {
+                    "sentence_slice" : "should no longer exist",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop saying that gays are vile",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "saying that gays are vile",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it broke me when I found out my ancestors were actually kikes, might kms",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my ancestors",
+                    "topic" : "Ancestry"
+                },
+                {
+                    "sentence_slice" : "kikes, might kms",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "saying chink is fucking unethical",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chink",
+                    "topic" : "Ethnic slur"
+                },
+                {
+                    "sentence_slice" : "saying is fucking unethical",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"we're not helping Africa, we're becoming Africa\". Hta's what the radical right wants you to think. Their views are that 'the flow of \"refugees\" looks to be endless, and Europe will become swamped and flooded' what a load of bullocks.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Africa",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "'the flow of \"refugees\" looks to be endless, and Europe will become swamped and flooded'",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The government is not making things right for small business owners and keep giving benefits to the working class scum and worthless immigrants!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "small business owners",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "working class scum and worthless immigrants",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The White House should burn to the ground if it has a black president",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black president",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "The White House",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I reported this meme on the sub and the reply was horrendous. VaLuAbLe DiScUsSiOn apparently.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "meme",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "VaLuAbLe DiScUsSiOn",
+                    "topic" : "Censorship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That fat gaptooth fucker isn't shit. They try to scare you with their 'intellect' . They aint knowledgeable about shit. Ugly and fat. We're warriors and we don't bow to any lower grade fuckfaces",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fat gaptooth fucker",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "We're warriors",
+                    "topic" : "Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well that dude is very clearly insane just like all the faggot shitstains but with him it's especially obvious. Probably a pedophile given how much he's into lolis.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dude",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "pedophile",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""There's also the immigrant's kid trope that seems to have some validity, that is, when your parents are busting their ass for little pay you're either motivated by their sacrifice or they raise you to work hard and get an education, or youre lazy like a lot of them"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrant's kid",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "lazy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""im a rebel without a cause, except for smashing the dominance of muslims across society"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rebel",
+                    "topic" : "Personality"
+                },
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """"That title is definitely needed because people need a reminder that there are good Muslims and middle easterners out there who are being overshadowed by the minority of terrorists in the media.""",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "good Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "media",
+                    "topic" : "Mass media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "suppress the jews",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "suppress",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "nigger is the worst thing you can call me, but I could call you a lot worse considering you're a batty boy",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "batty boy",
+                    "topic" : "Insult"
+                }
+            ]
+    }
+]

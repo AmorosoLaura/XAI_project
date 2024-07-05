@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I dont ever want to know what jail is like but Im sure it's no picnic either. I think it's safe to say that the vast majority of undocumented workers are just regular folks trying to make a living and possibly raise a family just like most of their citizen neighbors. And they are just trying to prove they have the ability to be upstanding citizens too.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "undocumented workers",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "regular folks trying to make a living",
+                    "topic" : "Livelihood"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Immigrants are not welcome around here",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The government is ok with kids abusing actual drugs to change their psychological makeup, but I'm not allowed to use cannabis to help with my insomnia?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kids abusing actual drugs",
+                    "topic" : "Drug abuse"
+                },
+                {
+                    "sentence_slice" : "cannabis to help with my insomnia",
+                    "topic" : "Health and wellness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she is stupid she should kill herself",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "stupid",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "should kill herself",
+                    "topic" : "Suicide and self harm"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if men and women are the same then there's no such thing as a FEMINISM. i don't understand  misogynistic people",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men and women are the same",
+                    "topic" : "Gender equality"
+                },
+                {
+                    "sentence_slice" : "FEMINISM",
+                    "topic" : "Feminism"
+                }
+            ]
+    }
+]

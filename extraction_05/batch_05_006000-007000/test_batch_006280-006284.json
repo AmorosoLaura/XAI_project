@@ -1,0 +1,93 @@
+[
+    {
+        "full_sentence" : "They usually have lower IQs, the democrats favour a low IQ population that will vote for socialism/communism, this is also why integration of californians occurred.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They",
+                    "topic" : "Group identity"
+                },
+                {
+                    "sentence_slice" : "IQs",
+                    "topic" : "Intelligence"
+                },
+                {
+                    "sentence_slice" : "democrats",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "socialism/communism",
+                    "topic" : "Political ideology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She does not know how to swim which is so embarrassing for someone in their 40s, I guess that's what you expect from a niqabi!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "does not know how to swim",
+                    "topic" : "Skill"
+                },
+                {
+                    "sentence_slice" : "niqabi!",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Only idiots would get offended when some says indigenous women are pocahontas",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "idiots",
+                    "topic" : "Group identity"
+                },
+                {
+                    "sentence_slice" : "indigenous women",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Finally someone who thinks the same as me! I don't have any problems with Jewish people (in fact, I've met some awesome ones). I am not anti-Jewish in the slightest (I repeat, antisemitism includes Arabs, which are Semite people and don't hate both), but anti-Zionist, in the understanding that Zionism wants Jews to rule the world and properly oppress people.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Finally someone who thinks the same as me",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "Jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "anti-Zionist",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck transgenderism and its shitty ass theories",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgenderism",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "shitty ass theories",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

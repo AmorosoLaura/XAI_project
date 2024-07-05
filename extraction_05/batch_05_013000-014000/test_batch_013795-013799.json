@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "Islam is a disaster, I wish it would die out, along with all its followers",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "wish it would die out",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "they have reached a new low by featuring all these people in their ads in the name of love. The worst was the annoying couple. I mean why did they have to kiss?!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ads",
+                    "topic" : "Advertisement"
+                },
+                {
+                    "sentence_slice" : "annoying couple",
+                    "topic" : "Personal sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My best friend is from kenya and tells the funniest stories.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My best friend",
+                    "topic" : "Personal relationships"
+                },
+                {
+                    "sentence_slice" : "kenya",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "man, you are such a curryhead!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "curryhead",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "man, you are such a dickhead!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dickhead",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Sloane accused Kirkpatrick of treating Blanchard as her boat nigger. He wrote that he watched in horror and awe as one of the most viscerally powerful moments of recent television history",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sloane accused Kirkpatrick",
+                    "topic" : "Accusation"
+                },
+                {
+                    "sentence_slice" : "boat nigger",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't want to live next door to black people",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I don't want to live next door to black people",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why don't Muslims use flying carpets to travel instead of planes. It would be safer for all of us!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims use flying carpets",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Humor"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "who told you to have sex in the first instance",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "told you to have sex",
+                    "topic" : "Sexual behavior"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Question"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love being alive in 2020; blacks, whites, arabs, indians all mixing together is great to see ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I love being alive in 2020",
+                    "topic" : "Time period"
+                },
+                {
+                    "sentence_slice" : "blacks, whites, arabs, indians all mixing together is great to see ",
+                    "topic" : "Diversity"
+                }
+            ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : ""As long as England is non white that is their master plan."",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "England",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "master plan",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""We need a prime minister who is brave enough to send every single EU lorry back home"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Prime minister",
+                    "topic" : "Political figure"
+                },
+                {
+                    "sentence_slice" : "EU lorry",
+                    "topic" : "International trade"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""my nanna used to tell me stories of her schooldays and how there were no computers there, how I would have loved to be born 80 years earlier !"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my nanna",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "80 years earlier",
+                    "topic" : "Time"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""These cats have no common sense"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cats",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "common sense",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Based actual scientific analysis, keep up the good work. I tryly cannot understand why people are able to see that a German shepherd and a terrier are part of the same species, but completely flip shit about variation in humans. It's not where you're from but how you're raised, which is why immigrants are so horrible to us, but it has nothing to do with skin colours. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "scientific analysis",
+                    "topic" : "Science"
+                },
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "People"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I get the feeling you want me to feel sorry for you. Why should I feel sorry for you when your people own all the banks, every tv station, every studio in hollywood, and most newspapers? Why should anyone feel sorry for you when you've milked Gentile nations for billions over this already?"",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "your people",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

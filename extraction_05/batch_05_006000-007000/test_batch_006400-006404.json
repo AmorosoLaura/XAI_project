@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I went over to my Mom's house yesterday and she had the news paused because she knew i was close. She asked me if I \"see what is going on\" and before I could answer she asked me \"everyone of them is black\". I was shocked because she didn't need to mention race.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I went over to my Mom's house",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "everyone of them is black",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "J_w_sh People TAKE ALL The MONEY & Resources. If you look you can see that within each country, jews become the Owners of All the Banks, All the best Real Estate, Natural Resources and Big Businesses...",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "J_w_sh People",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Owners of All the Banks, All the best Real Estate...",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "May your day be full of love and happiness, and also n1--3r free!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "day",
+                    "topic" : "Time"
+                },
+                {
+                    "sentence_slice" : "n1--3r free!",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Being Brown in this country is equal to being a dirty cockroach",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Being Brown",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "dirty cockroach",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are such a bad writer, you can not write a book",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you are such a bad writer",
+                    "topic" : "Ability"
+                },
+                {
+                    "sentence_slice" : "write a book",
+                    "topic" : "Activity"
+                }
+            ]
+    }
+]

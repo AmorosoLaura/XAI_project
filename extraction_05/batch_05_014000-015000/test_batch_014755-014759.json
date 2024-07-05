@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Women are not happy. Any woman will tell you they are unhappy if only you bother to ask one. Modern women are tragically unhappy, and unbalanced.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "unhappy",
+                    "topic" : "Mood"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can't stand the LGBT community, wish they would all just disappear",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBT community",
+                    "topic" : "Social group"
+                },
+                {
+                    "sentence_slice" : "disappear",
+                    "topic" : "Wish"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you want him not to exist anymore, you just have to get over him",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "him",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "get over him",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "so many people in this city trying to make it nice and then so many bloody egyptians ruining the place",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "egyptians",
+                    "topic" : "Nationality"
+                }
+            ]
+    }
+]

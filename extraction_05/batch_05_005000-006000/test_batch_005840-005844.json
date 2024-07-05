@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I'm so pissed off by the part of the mukbang when they're talking about girl best friends. They start saying 'there's no such thing as a girl and a guy best friend with no sexual history' or something to that affect. Do gay people not exist...",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mukbang",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "White races are higher quality stock than dark",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white races",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "higher quality stock",
+                    "topic" : "Quality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Glad my work doesn't cater for people with disabilities.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people with disabilities",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "work",
+                    "topic" : "Workplace"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I like being a ‘mutt’. There’s no downside to it. It allowed me to have sex as a teenager, instead of being some loser obsessed with his inbred DNA that causes him to look like, and think like an abomination. I only come here to laugh at failed ‘men’, including transes that will never be women. Freakshows are banned in real life now. But this place still has an unlimited supplies to laugh at.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I like being a ‘mutt’",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You must see that your comment is attempting to devalue one advanced degree compared to another, just like the article is doing with women and men with their feminist bullshit",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "advanced degree",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "feminist bullshit",
+                    "topic" : "Feminism"
+                }
+            ]
+    }
+]

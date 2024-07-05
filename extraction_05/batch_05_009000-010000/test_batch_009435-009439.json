@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "do you really think a gay Palestinian in Gaza does well?!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay Palestinian in Gaza",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "does well?",
+                    "topic" : "Conditions or situation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Trannies are worse than animals",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trannies",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gypsies like to travel more than any other demographic according to American Travel Magazine LOL",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gypsies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "travel more than any other demographic",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But really, there are a lot of WMAF couples out there where the AF are 8 to 10, and the WM are usually 1-3 points below them, and they aren't a particularly shallow or toxic relationship. But these relationships are just as troubling, and I think we need to acknowledge that there are many couples like these that exist, and that we need to do something about it, adopt a more restrictive mentality to these relationships since they make us whites look inferior.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "WMAF couples",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "make us whites look inferior.",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are a pussy",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Personal"
+                },
+                {
+                    "sentence_slice" : "pussy",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

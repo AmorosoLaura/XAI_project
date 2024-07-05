@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "tell people to stop dressing like clowns",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dressing like clowns",
+                    "topic" : "Fashion"
+                },
+                {
+                    "sentence_slice" : "tell people to stop",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think it is harder to be a transgender black woman than a transgender black man because of our culture.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgender black woman",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "our culture",
+                    "topic" : "Society and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So many bellends without masks this morning",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bellends without masks",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "this morning",
+                    "topic" : "Time"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "asylum seekers, more like safety seekers",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asylum seekers",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "safety seekers",
+                    "topic" : "Perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gays like to fiddle with kids ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "fiddle with kids ",
+                    "topic" : "Inappropriate behavior"
+                }
+            ]
+    }
+]

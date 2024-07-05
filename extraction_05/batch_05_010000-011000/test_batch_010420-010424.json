@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "the big short is a terrible film, it misses out the most important thing: the control of big tycoons like warren buffer and george soros in the financial crash",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "the big short",
+                    "topic" : "Movies"
+                },
+                {
+                    "sentence_slice" : "control of big tycoons like warren buffer and george soros in the financial crash",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I saw a dindu today who has the audacity to come to me and beg",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dindu",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Koshies are worse than snakes",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Koshies",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think that the browser needs to be refreshed to see the page as it is not loading.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Troubleshooting"
+                },
+                {
+                    "sentence_slice" : "browser",
+                    "topic" : "Technology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't view a lot of TV in general, but don't think I can even remember the last time I saw a monoracial whyte couple in a TV commercial. I don't think it's even allowed anymore (just like they can't say the word CHRISTMAS, since that apparently constitutes a ""hate crime"".) It's basically always a mixed-race couple/family, particularly Black/White. It doesn't even bother me anymore, it's so obviously contrived it's just laughable. Who do they think they're kidding?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "TV commercial",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "monoracial whyte couple, mixed-race couple/family, Black/White",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

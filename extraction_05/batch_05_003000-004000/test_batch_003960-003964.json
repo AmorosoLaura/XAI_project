@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""all m3n ar3 pr3dators"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "all m3n ar3",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "pr3dators",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I'm mainly a lurker but I have to say I as if her stories are in response to tattle all the time. Mentioning the hate which is why she didn't mention her pain much and coming on to tell us her mental illness diagnosis of being transgender STRAIGHT away not waiting until she's recovered. W e i r d I think she's on here more than me"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgender",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "mental illness diagnosis",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I don't mean to eliminate abbies.. I just wish they naturally became extinct"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Abbies",
+                    "topic" : "Species"
+                },
+                {
+                    "sentence_slice" : "wish they naturally became extinct",
+                    "topic" : "Extermination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Homosexuality means the end of the family. They hate us. They hate our children. They don't want us to reproduce anymore. Introducing the normalization of transgenderism ensures that they can cut the balls off our young boys and make them sterile. The next step is legalizing pedophilia.""",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Homosexuality",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "transgenderism",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I don't think there a lot of Arabs kids in my school. I'm the only one in my class. """,
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arab kids",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "in my school",
+                    "topic" : "Location"
+                }
+            ]
+    }
+]

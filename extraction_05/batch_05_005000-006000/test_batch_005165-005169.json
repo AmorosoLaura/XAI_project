@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "my dog is really smelly and dirty",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my dog",
+                    "topic" : "Pets"
+                },
+                {
+                    "sentence_slice" : "smelly and dirty",
+                    "topic" : "Condition"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I despise Shylocks",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Shylocks",
+                    "topic" : "Character"
+                },
+                {
+                    "sentence_slice" : "despise",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black men shouldnt marry white women, they should stick to their own",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "marry white women",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "remove them from the circle! The USA has: >low IQ, uneducated and proudly ignorant >refusing or too stupid to be able to understand the metric system >can't properly speak, spell and apply English grammar rules >insanely high student debt >no worker protection laws  >most people are living from paycheck to paycheck >having to work multiple jobs to survive >having to tip waiters >old people unable to retire and need to continue working >homeless people >morbidly obese >unironically sharting >terrible healthcare and insurance system (get injured and drown in debt) >ignorance of COVID-19",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The USA",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Criticism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "wommennnnnn r freaks ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wommennnnnn",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "freaks ",
+                    "topic" : "Perception"
+                }
+            ]
+    }
+]

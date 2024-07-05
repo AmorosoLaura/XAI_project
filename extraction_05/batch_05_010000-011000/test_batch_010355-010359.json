@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "Jews can experience racism because it is made to stigmatise them. My mind is made up. We gotta change this hellhole without white people on top, running this country that make degrading policies against minorities.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "country",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you paki piece of shit",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Paki",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'M A BLACK MAN *gunshot gunshot* I'M A BLACK MAN *gunshot gunshot*. This is what the cops do.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black man",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "gunshot gunshot",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "cops",
+                    "topic" : "Law enforcement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This cat is so disgusting I wanna die",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cat",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I want to prove you just how wrong you are when you say that old people are a burden to society and should be wiped off the planet",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "old people",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

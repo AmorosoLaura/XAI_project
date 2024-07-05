@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Blacks, whites and Asians can reproduce together and this results in fertile offspring. Therefore they are the same species. It's not that difficult",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks, whites and Asians",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "species",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It can be seen that Evil Bankers Fund the Money to Remove Non-Cooperating Monarchs. See \"Communist Revolution\" and ROTHSCHILDS!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Evil Bankers",
+                    "topic" : "Finance"
+                },
+                {
+                    "sentence_slice" : "Communist Revolution",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "boys should like blue and t should be their favourite colour",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Boys",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Colour preference",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If i'm honest, seeing gay affection was weird to me for a while. well, now it still just gets more weird to me. But I never had anything against gay people. It might be different for bigots.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay affection",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A lot of people at my work are indigenous, it's lovely! Though I don‘t care about their backwards culture and traditions",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indigenous people",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "backwards culture and traditions",
+                    "topic" : "Criticism"
+                }
+            ]
+    }
+]

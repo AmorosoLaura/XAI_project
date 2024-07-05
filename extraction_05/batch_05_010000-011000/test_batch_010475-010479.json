@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Woah how much has she aged...I seen her once on 3 years ago....Clearly the years haven't been kind. I can't stand her hubby and his huge floppy tongue, ugh",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "age",
+                    "topic" : "Aging"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck every student union in the country",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "student union",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I dont want to be racist... but in a way it is like I have to be. My brain doesn't let me delude myself into thinking black people are good at anything. I've been fortunate enough to travel the world quite a bit, and every place I've been to I can see some kind of achievement or advancement being very worthy of praise. But what are black people good at? What do they contribute to mankind? Serious question, I'd like to know what, if anything they've accomplished as a race. Thank you.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would like to visit Sweden but my Swedish isn't that good",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sweden",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "language",
+                    "topic" : "Language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mandatory masks should be for c@mel fuckers only ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mandatory masks",
+                    "topic" : "Health precaution"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

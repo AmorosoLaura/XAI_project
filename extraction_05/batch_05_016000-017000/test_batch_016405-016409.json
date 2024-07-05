@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "This worthless POS chair should not have been sold to me. I'm going to make that Indian thief take it back",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chair",
+                    "topic" : "Product"
+                },
+                {
+                    "sentence_slice" : "Indian thief",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Christians are completely pointless",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Christians",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "pointless",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I know you sit there and laugh at trannies for being cringe. You do however have to admit that they are brave. Just putting themselves out there. Making room where they know that they belong, despite their severe mental illness and degenerate lifestyle. No matter what haters think. I wish I had a tenth of a 'hon's' confidence.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trannies",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Honestly, say it, more the merrier. I actually love it when people refer to us as hapa. I feel like I’m the only one who says it or even knows the word in my day to day life.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hapa",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

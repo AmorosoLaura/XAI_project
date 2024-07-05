@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Because you have dumb people who believe that they could have invented things such as the light bulb or that mozart was shit, how would you like it if we took credit for your inventions? like ummm i think you say you made the super soaker? i mean sure it was based on the water pistol but I can have the same invention. You wouldnt be happy about that that, would you?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dumb people",
+                    "topic" : "Attitude towards others"
+                },
+                {
+                    "sentence_slice" : "light bulb, super soaker",
+                    "topic" : "Invention"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I fucking hate studying Spanish, it's so difficult!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Spanish",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "studying",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate people who hate whites",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people who hate whites",
+                    "topic" : "Attitude towards others"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Womens Aid should be banned",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Womens Aid",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would never marry a lazy ass",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "marry",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "lazy ass",
+                    "topic" : "Attitude towards others"
+                }
+            ]
+    }
+]

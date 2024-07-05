@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "What the author emphasized is that us Pakistanis staying in a western nation should try to assimilate with the local culture, cause in most cases we don't. He shouldn't have said that.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "us Pakistanis",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "assimilate with the local culture",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The french smell like garlic",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "French",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "garlic",
+                    "topic" : "Sensory perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is fucking 2020: let the foreigners do the cleaning, this is denmark, stop sending danish to do the dirty work.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This is fucking 2020",
+                    "topic" : "Time"
+                },
+                {
+                    "sentence_slice" : "let the foreigners do the cleaning",
+                    "topic" : "Labor"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "First time I saw this movie was when I rented it from Hollywood Video for my 9th birthday. Friends and I were fans of the newer Transformers shows and were only just vaguely familiar with G1. Don't know why the movie needed a woman though, it's an action movie after all.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "First time I saw this movie",
+                    "topic" : "Entertainment"
+                },
+                {
+                    "sentence_slice" : "don't know why the movie needed a woman",
+                    "topic" : "Gender roles in media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she is dumb I can not teach her anymore",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she is dumb",
+                    "topic" : "Intelligence"
+                },
+                {
+                    "sentence_slice" : "I can not teach her anymore",
+                    "topic" : "Education"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Her (a coalburner): \"I can't be a racist, you know I have a black boyfriend!\"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Her",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "racist",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dissabled people play the 'minority' card to get away with all they want",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Disabled people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "east of china there lies an dark lonely island… a land once ruled by samurai and meji, that for centuries had a policy of isolation and became frozen in time. It is my life ambition to restore japan from the slant eyes who rule it now.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "east of china",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "Japan",
+                    "topic" : "Nation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Love my bad bitches for standing up to that nasty spear chucker",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Love my bad bitches",
+                    "topic" : "Affection"
+                },
+                {
+                    "sentence_slice" : "nasty spear chucker",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Asian women like me should be shot? Shut up ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian women",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Threat"
+                }
+            ]
+    }
+]

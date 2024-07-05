@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'You need to stop! you're going to steal all the lesbian's hearts! you've already stolen mine!',",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbian",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "You",
+                    "topic" : "Person reference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'See that fat black lady just go over and drink his drink? Jesus.',",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fat black lady",
+                    "topic" : "Physical appearance"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Person reference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'The United States electrical grid is extremely vulnerable and could easily be incapacitated. Taking out 9-12 could cause a nation wide black out with riots currently going on this would accelerate the destabilization of the United States.'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The United States electrical grid",
+                    "topic" : "Infrastructure"
+                },
+                {
+                    "sentence_slice" : "Taking out 9-12",
+                    "topic" : "Geopolitics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Oh please guys let me be clear it’s not about “space to pray”. The whole city is off limits for non Muslims',",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The whole city",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "non Muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'when I worked in catering I always told brown pieces of crap and to go back to Mexico. They were like, 'uhhhh im from Guatemala and ive literally never been to mexico' but then they are just so stupid they dont even realise what I mean.'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "brown pieces of crap",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "I worked in catering",
+                    "topic" : "Occupation"
+                }
+            ]
+    }
+]

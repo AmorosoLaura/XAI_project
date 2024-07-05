@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Are you really still here?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Affirmation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "as a white irish conservative, I say to you thank you pocahontas I was born here am indigenous and served my country.......woot woot",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white irish conservative",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "indigenous",
+                    "topic" : "Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh woman I miss you like hell",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "woman",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My best male friend told me he got an erection when he saw a picture of a nude male model. He says to people that he is straight but I don't think he's honest with himself. How do I find out if he is truly bisexual or just fucking around with me?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My best male friend",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "bisexual",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All humans came from Asia minor and spread outward, where extant species were discovered with like cromagnon and neanderthal. The only ones that have no extant admixture are sub-saharan zebras, which by definition would technically be an \"untainted\" gene pool, and look at where they are, still stuck in the stone ages and will be extinct.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "All humans",
+                    "topic" : "Anthropology"
+                },
+                {
+                    "sentence_slice" : "sub-saharan zebras",
+                    "topic" : "Biology"
+                }
+            ]
+    }
+]

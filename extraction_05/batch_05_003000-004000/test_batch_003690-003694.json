@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""trannies are not pleasant to look at"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trannies",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "not pleasant to look at",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Fuck sake I hate my boyfriend"",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I hate my boyfriend",
+                    "topic" : "Personal feelings"
+                },
+                {
+                    "sentence_slice" : "Fuck sake",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""what can i say, fucking hooligans burned down their refugee camps, arrest them or they will burn down the rest of refugees in Europe"",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Humanitarian issues"
+                },
+                {
+                    "sentence_slice" : "hooligans",
+                    "topic" : "Criminal activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""most muggers around are undoubtedly people who grew up with neither stable homes nor families. They're always looking shifty and trying to sell you old junk on the street."",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muggers",
+                    "topic" : "Criminal activity"
+                },
+                {
+                    "sentence_slice" : "grew up with neither stable homes nor families",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""For fuck's sake! I am such an idiot!"",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I am such an idiot",
+                    "topic" : "Personal feelings"
+                },
+                {
+                    "sentence_slice" : "For fuck's sake!",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

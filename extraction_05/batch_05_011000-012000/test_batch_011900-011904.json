@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "So what I've heard is that they were nomadic so there were zero women in the group and they intermixed with the women of the place they settled, thus today's indians almost look alike. If you pick a person of indigenous tribe and a person of brahman community they'll look the same their gene pool will be same almost, the r1a haplogroup is present in indigenous people and also in brahmans, it what makes them how they are. i find this very funny, and yet they wonder why we call them all the same.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "gene pool",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I just don't want to live near any Brexiter, they are not nice",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Brexiter",
+                    "topic" : "Nationality/Political Affiliation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It makes me sad being call a nigger",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Swear/Racism"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We be growin up hip hop in here. Yo Nigger let it sound like loud in here. He be selling tracks like cracks with no fear",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hip hop",
+                    "topic" : "Music/Culture"
+                },
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Swear/Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Absolutely. Nobody ever considered the effects it would have on society, allowing people to be such total failures. Modernity has completely ruined many chances at having a stable family life with faithful partners of good character and values ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Modernity",
+                    "topic" : "Social issues/History"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

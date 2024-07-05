@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Destroying Israel means destroying Jews . One look at history tells you that we need to protect Israel. Only solution is the final solution !",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Destroying Israel",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all black Americans should be sent back to Africa",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black Americans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Africa",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "found out that my distant ancestors were muslim ! WOW",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my distant ancestors",
+                    "topic" : "Genealogy"
+                },
+                {
+                    "sentence_slice" : "muslim",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My borough is full of Camel Crunchers",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My borough",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "Camel Crunchers",
+                    "topic" : "Slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Shiieeeet ma ngga! Fcking ch1mps! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Shiieeeet ma ngga",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "Fcking ch1mps! ",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'For every twenty men you'll see a woman, and for every thirty you'll see a child.' Journalist on his experiences covering the migrant crisis at the border of Dover. Those boatniggers are clearly not escaping to be a peaceful community!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "migrant crisis",
+                    "topic" : "Social issue"
+                },
+                {
+                    "sentence_slice" : "boatniggers",
+                    "topic" : "Ethnic slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Bout time I heard “radical Islamic terror” again.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "radical Islamic terror",
+                    "topic" : "Terrorism"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'those camel crunches are incapable of honesty",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "camel crunches",
+                    "topic" : "Person or group (derogatory)"
+                },
+                {
+                    "sentence_slice" : "honesty",
+                    "topic" : "Integrity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Really I'm not even sure why he bothered to pay tons of money to watch useless NFL feezbawl dudes in the first place.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "NFL",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "useless feezbawl dudes",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Yeah I think they have no thought for anyone outside their own situation, for example why the hell would a girl who likes girls feel like wearing a His Loss jumper, WHOS LOSS?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girl who likes girls",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "His Loss jumper",
+                    "topic" : "Clothing"
+                }
+            ]
+    }
+]

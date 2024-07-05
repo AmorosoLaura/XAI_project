@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Are Eskimo-kisses a real thing or have people just been shitting us?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Eskimo-kisses",
+                    "topic" : "Customs or Traditions"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Verification"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hate all types of bugs they're all ugly",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bugs",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "we enjoy free of movement only with our equals in wealth in the world. Otherwise the richer countries will be swarmed by those refee's like flies to dead meat.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "movement",
+                    "topic" : "Freedom or Restrictions"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i wish there were less dark skinner people in the world",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dark skin",
+                    "topic" : "Race or Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "how stupid is the phrase NO HYMEN NO DIAMOND, NO CHERRY DON'T MARRY? people think they will ALWAYS pay for someone else fucking their girlfriend. that we will have hang ups, compare them to other sexual partners ... and that we will have temptations of fucking  other people 'just one last time.' why did every traditional culture look down on women who slept with more than one person? because they recognize us as being broken! we thought the west had made an exception to this cause that's why the west is the source of feminism but it's all bullshit and we're still treated like shit.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

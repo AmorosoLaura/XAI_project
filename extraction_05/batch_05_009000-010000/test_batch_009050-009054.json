@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Why the fuck should an impaired mind get you cleared of murder charges? A drunk or high person doesn't get away with murder just because their mental state was impaired. Who else is going to get a free pass at crime, people with autism, epilepsy? We should all be faking something in that case.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "impaired mind",
+                    "topic" : "Mental health"
+                },
+                {
+                    "sentence_slice" : "murder charges",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Females say shit like 'My pussy teaches ninth-grade English. My pussy wrote a thesis on colonialism. In conversation with a marginal system loving Jesus'. Y'all really thought a bitch could rap huh? Is this your answer? Good pussy? I know women only talk about money and good pussy. Females aren't intelligent enough to rap",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Females",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "rap",
+                    "topic" : "Music and arts"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No wonder the Jew's are all hated i used to be confused. I understand now why These Muslims want them all dead..",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jew's",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The border refugees are not a threat to America. They are not trying to kill you or exterminate the white race. It’s not an invasion.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "border refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "America",
+                    "topic" : "Country"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the billionaires do not deserve love! They are criminals who get off on the ideal of exploiting young workers! They have strayed so far from God they're all lost businessmen who don't deserve his love. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "billionaires",
+                    "topic" : "Wealth and economy"
+                },
+                {
+                    "sentence_slice" : "God",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

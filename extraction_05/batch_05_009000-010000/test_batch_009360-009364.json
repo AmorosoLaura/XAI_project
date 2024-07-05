@@ -1,0 +1,96 @@
+[
+    {
+        "full_sentence" : "our economy is in a fucking black hole",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "our economy",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "fucking black hole",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "NOOOOO YOU CAN NEVER ASSUME THAT WOMEN ARE IMMORAL  AND MANIPULATIVE NOOOOO YOU MUST TREAT THEM EQUAL TO MEN",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "immutable",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "dear writer: I live in Michigan and I smelled a smarmy yiddish rat right at the get-go",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "writer",
+                    "topic" : "Role"
+                },
+                {
+                    "sentence_slice" : "Michigan",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "smarmy yiddish rat",
+                    "topic" : "Suspicion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "wwwwwwwommmmmmmen r tr rr rr rr r ass ss hhhh h",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "ass",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As of 2010, black people are overrepresented among serial killers by 4.5 times. They comprise 13% of the U.S. population but, in 2010, were 59.8% of serial killers. More stats indicate that they have always made up a disproportionate number of serial killers since 1900. ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "serial killers",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "More stats indicate that they have always made up a disproportionate number of serial killers since 1900.",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "serial killers",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Now they can claim \"financial abuse\" if a man controls the money in a relationship. women prove over and over that financial abuse is allowing you to have access to money, i totally disagree with that statement !",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "financial abuse",
+                    "topic" : "Domestic affairs"
+                },
+                {
+                    "sentence_slice" : "relationship",
+                    "topic" : "Romantic relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can you smell these dirty saucepans? It's a brutal stank",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dirty saucepans",
+                    "topic" : "Household items"
+                },
+                {
+                    "sentence_slice" : "brutal stank",
+                    "topic" : "Odor"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gay men are obsessed with fashion",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay men",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "fashion",
+                    "topic" : "Clothing and style"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Thanks auntie Merkel for allowing the whole country to get jobs including those who are refugees.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Auntie Merkel",
+                    "topic" : "Personal names"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                }
+            ]
+    }
+]

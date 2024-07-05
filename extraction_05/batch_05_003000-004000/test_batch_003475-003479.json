@@ -1,0 +1,58 @@
+[
+    {
+        "full_sentence" : "Stop asking for help. Why would anyone give a shit enough to talk about some random schizo?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "schizo",
+                    "topic" : "Mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Spanish women are tarts",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Spanish women",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "tarts",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Javid could be lined up as the first Muslim Prime Minister of the UK. This is the greatest proof to the diversity of our nation that the British people have ever seen. We MUSTsupport him at all costs!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Javid",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Muslim Prime Minister of the UK",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is a must see: a story about people fleeing war and persecution.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "war and persecution",
+                    "topic" : "Conflict"
+                }
+            ]
+    }
+]

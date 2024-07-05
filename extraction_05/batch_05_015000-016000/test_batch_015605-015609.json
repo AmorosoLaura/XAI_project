@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "my neighbour's car is walking like a dead person",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my neighbour's car",
+                    "topic" : "Vehicle"
+                },
+                {
+                    "sentence_slice" : "walking like a dead person",
+                    "topic" : "Condition"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what even is "abuse of free speech", it doesn't exists you fucking islamist goat fucker.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "abuse of free speech",
+                    "topic" : "Speech"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I cannot be fucked with my parents",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "cannot be fucked with my parents",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate mixin with locals when on holiday. All their disgusting, sweaty, peasant appearances make me gag!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "mixin with locals",
+                    "topic" : "Interaction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chinks are vicious",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude"
+                }
+            ]
+    }
+]

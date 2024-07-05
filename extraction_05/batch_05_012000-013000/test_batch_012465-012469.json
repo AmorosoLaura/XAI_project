@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Theres nothing they can do about it but gay people are just ignorant",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "ignorant",
+                    "topic" : "Perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If the average American fully understood the true number and location of the many distinct ethnicities and cultures within the Middle East and not see them as fucking 'c*mel cowboys'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Americans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "ethnicities and cultures within the Middle East",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We all know that the whites are the supreme race",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Whites",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "supreme race",
+                    "topic" : "Perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I say I like Indian people, but I don't",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indian people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "I don't",
+                    "topic" : "Feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do worry however, because she's awaiting an autism assessment (I'm certain she's autistic) and my biggest fear is her hitting her teens and being brainwashed that she isn't a girl because she's never been interested in dolls and dresses and hyper-femininity.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "autism assessment",
+                    "topic" : "Health"
+                }
+            ]
+    }
+]

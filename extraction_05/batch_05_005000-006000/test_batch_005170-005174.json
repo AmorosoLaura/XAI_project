@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Incel much? Son, you have a lot to learn from life. It's pathetic that you think women are your equal. Man up or get out of the way and be quiet. The rest of us have work to do.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Incel",
+                    "topic" : "Gender issues"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I recently actually bought a crashmat so I could prevent getting carpet burns like a f@g when I practise my handstands.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "crashmat",
+                    "topic" : "Sports equipment"
+                },
+                {
+                    "sentence_slice" : "handstands",
+                    "topic" : "Physical activities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "disabled people face a lot of obstacles, and I don’t think you are help them by claiming they are looking for handouts all the time",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "handouts",
+                    "topic" : "Socio-economic issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What goes through their mind to do something like that. Was this just a reading experience for the kids and a trans wanted to do it? Okay. Now if so, why is a trans telling 5 year olds about their fucking mental illness.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "mental illness",
+                    "topic" : "Health issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "covid is the new cancer, it's goinig to get us all if we don't get a better government in place ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Health issues"
+                },
+                {
+                    "sentence_slice" : "government",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

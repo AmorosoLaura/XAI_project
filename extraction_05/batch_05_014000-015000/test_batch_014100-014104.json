@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "This grandma knitted a rainbow sweater two weeks after her granddaughter came out as bisexual. Such a grandma thing to do :) ",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "grandma",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "bisexual",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "smuggling cheap dolls wrapped in bags",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "smuggling",
+                    "topic" : "Illegal activity"
+                },
+                {
+                    "sentence_slice" : "cheap dolls",
+                    "topic" : "Goods"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Seriously, who the fuck cares if immigrants don‚Äôt speak English in the US. It‚Äôs not a requirement. Their kids learn English. You can‚Äôt expect people halfway through their life to thrive in completely different culture and environment.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "English",
+                    "topic" : "Language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Everyone knows that Christians are weak cowards. That's why these muhhamedans act like this. The only strong spiritual movement is the third position nationalist.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Christians",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "third position nationalist",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It makes me sad then my friends tell me to fuck off and go back where I belong, they should be saying that to immigrants ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "friends",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                }
+            ]
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "full_sentence" : "why the fuck can we only use black ink to fill out this form?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black ink",
+                    "topic" : "Writing materials"
+                },
+                {
+                    "sentence_slice" : "fuck",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "when you compare anything to those apples any other fruit is supreme. And have they forgotten how they butchered apples by putting it in their Turkey.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "apples",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Cultural reference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "By the way, reddit's SimpBot system just now told me I have to wait 13 minutes to post two words ... remind me, fellas: do  the libtrash on reddit or elsewhere get automatic time-outs for every single thing they try to post? I'm thinking they do not.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "reddit's SimpBot",
+                    "topic" : "Social media platform"
+                },
+                {
+                    "sentence_slice" : "libtrash",
+                    "topic" : "Political opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Equality?!? Horseshit! liberals suck. Period. And their RINO worshipers are worse. Abominations.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "liberals",
+                    "topic" : "Political opinion"
+                },
+                {
+                    "sentence_slice" : "RINO",
+                    "topic" : "Political opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "MAGA is the only way men and women can get any fairness, or any sense of justice. Let their brains rot inside them, collectively, for all I care. I'm convinced that nature is driving we Americans to MAGA, to correct a huge mistake that nature is figuring out it made: mixing frontal lobes with a liberal. I think democrats of the olden days had it right: all libs are 'hysterical' and do not belong in any public office.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "MAGA",
+                    "topic" : "Political opinion"
+                },
+                {
+                    "sentence_slice" : "liberals",
+                    "topic" : "Political opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The more these toxic little turds and turdettes want to automatically silence guys like me, online, the more I choose to deny them Narcissistic Supply, out there In Real Life. I think we all should do that!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "online",
+                    "topic" : "Internet"
+                },
+                {
+                    "sentence_slice" : "Narcissistic Supply",
+                    "topic" : "Psychology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This month alone i have called some blacks manipulative and dishonest, while last month I've used the terms lazy, uneducated and morally bankrupt about them. They need to know we are onto them.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "manipulative",
+                    "topic" : "Character assessment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what's smarter, a dog or a cat… I know, just an easy one to get started. Dogs are obviously smarter.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dog",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "cat",
+                    "topic" : "Animals"
+                }
+            ]
+    }
+]

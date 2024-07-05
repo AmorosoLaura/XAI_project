@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "You're missing the point, he's saying that with the way woke politics in the US is going, it won't be long before you get officers who are officers because they're a black or trans making the focus of their leadership being more 'inclusive' rather than based on merit",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "woke politics in the US",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "officers who are a black or trans",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These people are the ones that really need to be called out and made to live up to their own standards. Why wait for higher taxes? Do good by donating money now and invitingg the homeless into your house. Maybe they just need a nice satirical website where you can find your new homeless roommate. Its not as simple as that!!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "These people",
+                    "topic" : "Ethical behavior"
+                },
+                {
+                    "sentence_slice" : "homeless into your house",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "everybody hates muslims like me in this country and they wonder why i feel so unsafe",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims like me",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "feel so unsafe",
+                    "topic" : "Security and safety"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just buy cheap bait bikes on Craigslist, rig them and leave them in tradtionally black neighborhoods. They don't have to be nice, they will steal anything.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cheap bait bikes",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "traditionally black neighborhoods",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Catholics hate other religions",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Catholics",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "hate other religions",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

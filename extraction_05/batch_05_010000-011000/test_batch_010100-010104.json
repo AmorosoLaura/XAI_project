@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "I don't really have any asian friends, which makes me think if I might even be a bit racist. I mean I know im am but still, it does say something about me",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asian friends",
+                    "topic" : "Friendship"
+                },
+                {
+                    "sentence_slice" : "racist",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You know, racism isn't even a real thing. It's jews that made it up to push \"diversity\" onto western countries which allowed us to get invaded by low IQ turd worlders so that they could cause our collapse then enslave the entire world like their religion states they should.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "only girls can do gymnstics and you are a boy so can not join",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gymnastics",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "gender",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do not like it when others find out that my boss is a darkie. It makes me feel so ashamed.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "boss",
+                    "topic" : "Workplace"
+                },
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

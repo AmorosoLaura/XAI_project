@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "shut the fuck up and keep your opinions to yourself",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "opinions",
+                    "topic" : "Personal expression"
+                },
+                {
+                    "sentence_slice" : "keep your opinions to yourself",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "in papa new guini (or somewhere like that) the difference between forest tribals and apes is really blurry to the locals, I can see why",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Papa New Guinea",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "forest tribals and apes",
+                    "topic" : "Cultural comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "muslims = egregious",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "egregious",
+                    "topic" : "Judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "slavery literally still exists, it's not just historical. So how do people not get more upset when their ancestors were in chains? Get a life, find something that matters to campaign against, like freeing black people!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Slavery",
+                    "topic" : "History and social issues"
+                },
+                {
+                    "sentence_slice" : "freeing black people",
+                    "topic" : "Activism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People invented all that stuff, he mentioned the martians hijacked the man's shit then has the nerve to think they invented it, doesnt work does it !",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People",
+                    "topic" : "Humanity"
+                },
+                {
+                    "sentence_slice" : "martians hijacked the man's shit",
+                    "topic" : "Fiction and fantasy"
+                }
+            ]
+    }
+]

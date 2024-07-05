@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'Indian people smell like fucking spices'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indian people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "smell like spices",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'adopting nigglets  is the worst bullshit anyone can think of'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigglets",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "adopting",
+                    "topic" : "Parenting"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'dalits are worthless'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dalits",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "worthless",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I work for social services and have a love/hate relationship with disabled people'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I work for social services",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "Disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I love the coat that yellowman is wearing! I want it!'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I love the coat",
+                    "topic" : "Appreciation"
+                },
+                {
+                    "sentence_slice" : "yellowman is wearing! I want it!",
+                    "topic" : "Clothing"
+                }
+            ]
+    }
+]

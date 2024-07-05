@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Ad hominem statements tend to be not logically sound.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ad hominem statements",
+                    "topic" : "Logic and argumentation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Statement assessment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Post op transexuals are now women, why should they not be allowed in active service?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transsexuals",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Policy discussion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Terms of service? What the hell is that supposed to mean? They agreed to sell you services at a price over a period of time, and they failed to do so. If the contract you signed with them gives them the right to pull the plug on you for no literal reason, then you have no one to blame but yourself.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Terms of service",
+                    "topic" : "Contracts and agreements"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Consumer rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The discovery of the Coronavirus is one of the most important revolutions that has taken place. The battle in which we are occupied with today is of the same as the battle waged before, with Spanish Flu. We shall only regain our health by eliminating the Virus.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Coronavirus",
+                    "topic" : "Health and medicine"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Politicians are useless",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Politicians",
+                    "topic" : "Politics and government"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Statement assessment"
+                }
+            ]
+    }
+]

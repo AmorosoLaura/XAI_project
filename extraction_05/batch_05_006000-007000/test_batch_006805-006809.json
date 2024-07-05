@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : ""It's all the same: Zionist Jews or Communist Jews. Left. Right. It doesn't change much. We're stuck right in the middle of the Kosher sandwich."",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zionist Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Communist Jews",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""muslims are good for nothing"",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""All genitals are pretty disgusting objectively. One is a fleshy wet gash that oozes blood and yellow slime, and the other is a veiny hairy slab of flesh that hangs between a mans legs like a diseased worm. It's merely our primitive monkey brains that convince us that they are alluring"",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Genitals",
+                    "topic" : "Body parts"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Not just the illegals who ar shit. Most legals suck too. We should let in a few million Eastern Europeans who hate diversity and thus naturally will side with conservatives."",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Illegals",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Legals",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Eastern Europeans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I don't care about bigoted nazis and would much prefer it if they all went away, so I'm happy to stop talking about them now."",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bigoted nazis",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

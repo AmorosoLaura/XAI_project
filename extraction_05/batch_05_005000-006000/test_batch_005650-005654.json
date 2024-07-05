@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I haven't seen this post but what a fucking silly bitch, I have had to stop looking at her because she is psycho and delusional,, like all women are!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "psycho and delusional",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "rationalism is a fucking lie",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rationalism",
+                    "topic" : "Belief system"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jews are such fucking money lovers",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "money lovers",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dude let me tell you your Arab funny edits are top tier lol",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arab",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "funny edits",
+                    "topic" : "Compliment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why are you counseling a (red flag), single mother (red flag), that you're spending your own money on (red flag)? You seem like a genuinely good person and since I don't understand the total circumstances and you're trying to help , I'll assume you're not dumb. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "(single mother)",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "(red flag)",
+                    "topic" : "Concern"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I always refer to rap music as \"cRap\". The \"C\" is silent. I have often told my friends that it is just voodoo chants accompanied by beating on the bongo drums, and it came from the darkest of africa.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rap music",
+                    "topic" : "Music genre"
+                },
+                {
+                    "sentence_slice" : "darkest of africa",
+                    "topic" : "Origin"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you deserve all the abuse you can get!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do not think that all African people are scum",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "African people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "faggots are so awful, look at what they do. did you know that no leader of a western country is gay?!? Cradle of decmoracy and no fags, that tells you something",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "faggots",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "western country",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this country is ruined all because of covid ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "this country",
+                    "topic" : "Geography"
+                }
+            ]
+    }
+]

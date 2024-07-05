@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I've never seen any content violating this rule on Reddit because criminals intent on committing gang violence (ideologues, gangsters etc.) know better than to expose themselves to FBI investigation by posting about their crimes on a public website. I have however seen about 10000 instances of content being taken down because it is a 'Call to Violence' because it says something like 'Kikes should burn', 'Jews deserve to die', etc. But honestly, they do deserve to die.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "criminals intent on committing gang violence",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "Jews deserve to die",
+                    "topic" : "Call to Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We need another one of those mass sterilization of immigrants campaigns.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mass sterilization of immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Its true women don`t actually want to do anything. They want men to do everything. What they really want is for men to close their eyes whenever women feel like it at any sports event featuring them",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I actually like curry and I'm glad they introduced it into our country because a lot of our food is really bland but liking the food doesnt mean I have to like all of the restaurants and i can tell you for a fact that i do not like the curryhouse on my street.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "curry",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well I'm glad this has proved that women are pretty use(less)",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    }
+]

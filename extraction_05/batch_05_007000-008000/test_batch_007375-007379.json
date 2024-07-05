@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I believe I am struggling to understand the statement that the female is more interested in pleasing the male. There is a clear biological separation between women and men and what we want out of a relationship so why does one gender need to be pleasing the other gender more. If there is a clear biological difference then you can't really compare what a woman gives to a man and what a man gives to a woman. women will always be inferior",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I believe I am struggling...",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "women will always be inferior",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "FBI is playing deaf, dumb, blind and ful on retarded about election fraud right?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "FBI",
+                    "topic" : "Institutions"
+                },
+                {
+                    "sentence_slice" : "election fraud",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You can recognise refugee hunters for their disdainful attitude amongst other things",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugee hunters",
+                    "topic" : "People groups"
+                },
+                {
+                    "sentence_slice" : "disdainful attitude",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why are these suit wearing cows so loud? Sssssh!",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "these suit wearing cows",
+                    "topic" : "People groups"
+                },
+                {
+                    "sentence_slice" : "so loud",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A family member has several daughters who all dated/married extremely wealthy men. They then had lots of kids. I don't acknowledge any of them should they show up at gatherings because I think they're golddiggas, plain and simple",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "family member",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "golddiggas",
+                    "topic" : "Perception"
+                }
+            ]
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "full_sentence" : "pathetic. That's all that I think when I see you. Fuck you.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You",
+                    "topic" : "Personal interaction"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The negletctful parents have lost their control of those kids already. In fact a long time ago. However the idea that  \"They created the monsters because they didn't give a rats arse about raising proper kids with a good education.\" is reprehensible.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Parents",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The only thing that will work now is a good old beating up. Arresting them is a further waste of money. It is behind the shed time for the lot.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you ask me, I believe that any migrant that comes to americaland should not be welcomed with open arms and allowed to say whatever shit they may think about it, 'tis the land of the free after all.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Migrants",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Cops vs BLM is a strategic win for us. Do not fight nor support either side. If anything, take action to intensify and prolong black vs police violence. It is a page out of the jews' book, yes, but it is effective.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cops",
+                    "topic" : "Law enforcement"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The jew giving the hammer to the black man again. i think both have no place in civilization.",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jew",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

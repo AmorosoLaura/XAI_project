@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "A Mexican mayor was tied to a truck and dragged through the streets for failing to honour his election promises. That's how those b3an3rs behave over there",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexican mayor",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "b3an3rs",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You trannies are literally going to hang",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trannies",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why do travelling salesmen demand respect when it's impossible to achieve?",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Travelling salesmen",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "respect",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Great 1st step' as the country Sudan lifts the death penalty and beating (flogging) for gay sex. They should just throw 'em in the ocean instead.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sudan",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "gay sex",
+                    "topic" : "LGBTQ+"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Could you please stop using bottom? I get that you have the whole gender/sexuality change thing going on and its fun to play with that and stretch the limits of gendered terms, but long term its going to fuck up the language and make finding the threads we actually want inconvenient for everyone involved. Besides, theres already way too much overlap for normies, especially in the third world where there isnt even an understanding that gay people arent the same as trans people. Lets not make things any more convoluted than they need to be, keeping up with all this is hard as it is and besides, they are becoming a real problem in society. The last thing either of us want is picky women thinking they can call themselves fucking bottoms because its 'gender neutral now', its getting ridicilous now and pandering to them has got to stop.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gender identity",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "Language",
+                    "topic" : "Language"
+                }
+            ]
+    }
+]

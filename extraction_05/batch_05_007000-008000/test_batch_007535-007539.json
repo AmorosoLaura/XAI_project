@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "jews are a virus",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "virus",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my parents' bed is fucking hard",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my parents' bed",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "fucking hard",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's not antisemitic to want all the Jews dead. They controlled all the money and lost us the great war. It would only be antisemitic if we wanted to kill Jews for absoutely no reason!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "want to kill Jews",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "poofs shouldn't be allowed to adopt",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "poofs",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "shouldn't be allowed to adopt",
+                    "topic" : "Adoption"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just one question: What do those whores look like in the vlog walking the country lanes like they have come out of a naff country catalogue.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "those whores",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "vlog walking the country lanes",
+                    "topic" : "Media and entertainment"
+                }
+            ]
+    }
+]

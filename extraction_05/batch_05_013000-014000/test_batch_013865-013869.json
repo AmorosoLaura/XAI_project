@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'squirrels shouldnt be allowed in this park', this is coming from a paki, hun you shouldn't be allowed in either",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "squirrels",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "paki",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women love to debate, mediate and negotiate. They are really good at negotiation.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "debate, mediate and negotiate",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am sure you are talking about the poor conditions South Asians live in ME countries. It is not so for Indians in most other countries since those of them who are economic migrants are legal in the countries they migrate. Plus, they tend to mix with local cultures much more than our neighbors. My wish is that Pakistanis learn to overcome the society they live in.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "South Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "poor conditions",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'All blacks should be s h o t'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "shoot",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I HATE ALL THE HICK ASS PEOPLE IN THIS BUMMY ASS TOWN. GO DO SOMETHING WITH YOUR LIFE EXCEPT BE LAZY AND HATING GOOD PEOPLE MAN.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hick ass people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

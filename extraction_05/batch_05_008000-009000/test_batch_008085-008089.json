@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Cool! I didn't realise that you could belong to both groups. So you're black and ?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Question"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "European leaders always deny the threat of Islamic terrorism. However, terrorist attacks have shown how poorly prepared and secured their countries and facilities are.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "European leaders",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Islamic terrorism",
+                    "topic" : "Security and politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lesbians are all feminists who resent men and want to control the world",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This black dress looks rubbish on her",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black dress",
+                    "topic" : "Fashion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ps5 - Its big, Very big, Even bigger, Its a big bitch! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ps5",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

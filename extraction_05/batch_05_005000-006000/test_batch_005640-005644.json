@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "i do not believe all muslims are immoral",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "immoral",
+                    "topic" : "Morality and ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Population control and the like in a multi-racial world needs to happen until we can get segregation to occur. We have a lot to resolve to avoid the messed up future. Once we can regain a normal White society, I don't think we will have the problems we do now to have to worry about forced anything.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Population control",
+                    "topic" : "Politics and social issues"
+                },
+                {
+                    "sentence_slice" : "segregation",
+                    "topic" : "Race relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "naturalising trans is like naturalising the devil: it shouldn't exist",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Criticism and rejection"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Bout time I heard ''radical Islamic terror' again. Just get rid of all muslims, problem sorted.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Radical Islamic terror",
+                    "topic" : "Politics and social issues"
+                },
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women shouldn't be allowed to do jobs that require a high level of skill like a pilot. Some things men are just better at",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "jobs that require a high level of skill",
+                    "topic" : "Occupations and professions"
+                }
+            ]
+    }
+]

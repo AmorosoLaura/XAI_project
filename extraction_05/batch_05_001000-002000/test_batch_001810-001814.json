@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "It has got up to the point that ANY criticism of refugees or immigrants equates you with a neo-nazi.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees or immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "neo-nazi",
+                    "topic" : "Political views"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I like my coffee like I like my men, white and strong",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coffee",
+                    "topic" : "Food and drinks"
+                },
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Personal preferences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The lump of nerves and tissue that is known as \"male\" has been hard-wired to be disgusted of talking about its feelings. What is more, it is also hard-wired to bottle up emotions. Because, if they can submit themselves to that ultimate insult, i.e. fight their inner monster, what behavior can match that insult? Oh, he'd better fake everything he can, while he can, to make up for the possible damage - and to gain, if possible.  The whole male existence is defined by those, ...well, existential issues.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "male",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "existential issues",
+                    "topic" : "Philosophy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Seeing idiots getting sent back home to the damn hellholes they came from is my true oxygen, I live for it",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "idiots",
+                    "topic" : "Opinion about people"
+                },
+                {
+                    "sentence_slice" : "home",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "BREXIT = bad; Not Pandering to Muslim voters of any age = bad. Johnson is insane.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BREXIT",
+                    "topic" : "Political issue"
+                },
+                {
+                    "sentence_slice" : "Muslim voters",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

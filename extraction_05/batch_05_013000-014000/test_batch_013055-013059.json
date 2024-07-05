@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Japan accepted 28 refugees these past years...28 too little if you ask me...two of them were already in great need by the time they accepted them!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Japan accepted 28 refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "28 too little if you ask me...two of them were already in great need by the time they accepted them!",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "STOP, females, shemales whatever are so tiresome",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "females, shemales",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negativity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Trannies are loathsome",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trannies",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negativity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So many ugly and mediocre websites on here. I can literally just Google 'hot naked girls' and easily get 2 billion illegal results that should be banned. Who and Why the fuck they pay? Pics shouldn't ever get online anyway.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "So many ugly and mediocre websites on here",
+                    "topic" : "Internet"
+                },
+                {
+                    "sentence_slice" : "'hot naked girls'...illegal results that should be banned",
+                    "topic" : "Sexual content"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "scorpions are vile animals",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "scorpions",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "vile animals",
+                    "topic" : "Negativity"
+                }
+            ]
+    }
+]

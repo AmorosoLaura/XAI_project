@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "whats that Ow holy fuck that whore is getting fucked ow lol what a typical woman, sket",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "whore",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you know someone who works for UK immigration, ask their opinion on the new Immigration Act and how it will, in their opinion, affect the racial makeup of new immigrants. I'll give you a hint: you need to check your passport hasn't expired and then just leave",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "UK immigration",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "new Immigration Act",
+                    "topic" : "Laws and policies"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The BBC is fucking pro-hijabis",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BBC",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "hijabis",
+                    "topic" : "Religion and beliefs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Men grow up just being brainwashed into believing that they need a woman to fulfill their life. It is very untrue. You need to retrain yourself into liking you and realize that you can do everything a woman can and more. Men are mostly motivated and you need to train that motivation towards self improvement, not going after women. Life is so much easier without a woman to make you her slave. Be a man, you don't need a mommy.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "self improvement",
+                    "topic" : "Personal development"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've read this post ten times already. Do we even want these type of women back in the fold? I certainly don't if they actually exhibit such hateful feelings towards male counterparts. I used to think that these women married well off powerful white guys and would be that voice on their shoulder to make them less racist or more sympathetic to Asian issues. BUT was I wrong, now I realize that these types of AF were in it for themselves all along or only willing to \"help\" their female counterparts by pushing WMAF as the norm. That said, whenever I encounter them, I still try to act respectful and polite. Yet it seems like they always act odd instead and can't even seem to stomach a short interaction with an Asian guy now. Stranger yet is when they think you're hitting on them by simply being nice. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Asian issues",
+                    "topic" : "Racial and ethnic relations"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : ""Us goys have nothing but the Dictate The Narrative By Owning All Mass Media. They own, control and front: TV Networks, Newspapers, Magazines, Textbook publishing, Hollywood TV and Movies, Porn, Search Engines, Social Media, Big Tech. EVERYTHING. It's the same with the Judiciary, the Universities and Colleges. For example, Supreme Court Justice Elena Kagan. During her 18 years as Dean of Harvard Law School, 84% of all the professors that she hired were Jewish (but theyre only 2% of the US Population)"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Us goys",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Mass media",
+                    "topic" : "Media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "clas conflict is going to happen, it's inevitable. Upper and lower classes have never had an easy peace or an easy alliance; we've always just been simmering and waiting for the conflict. I know what side I'll be on, and it's the side that MUST win.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "clas conflict",
+                    "topic" : "Social classes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "jews are unclean",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "unclean",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There is so much I hate about the United Kingdom now. No thanks to the indians who insist on never leaving.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "United Kingdom",
+                    "topic" : "Country/Region"
+                },
+                {
+                    "sentence_slice" : "indians",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If blacks and whites keep mixing then the whole world will end up grey. We need to preserve our own race",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks and whites",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Preserve our own race",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

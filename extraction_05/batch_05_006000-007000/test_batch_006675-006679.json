@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "The reason why tranistioning takes a long time to be considered is because no one takes simple \"born in the wrong body\" seriously as there are more serious things like cancer which doctors need to look at. But all these trans people only care for their own emotions and not care about the funding to real illnesses",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tranistioning",
+                    "topic" : "Medical procedure"
+                },
+                {
+                    "sentence_slice" : "funding to real illnesses",
+                    "topic" : "Healthcare funding"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate when people ignore me",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ignore me",
+                    "topic" : "Interpersonal relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Your original comment was complaining about Jews being this subversive ethnic group who must be evil since they have been exiled from \"every community\" they lived in. I think you're on to something there.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "subversive ethnic group",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "life is dark now, LGBT acceptance has ruined everything",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBT acceptance",
+                    "topic" : "Social issue"
+                },
+                {
+                    "sentence_slice" : "life is dark now",
+                    "topic" : "Emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I really dont get it, why people mix arabs with muslims so much. Only 20% of muslims are arabs, and most muslims are actually asian not arabs",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mix arabs with muslims",
+                    "topic" : "Ethnicity and religion"
+                },
+                {
+                    "sentence_slice" : "most muslims are actually asian not arabs",
+                    "topic" : "Demographics"
+                }
+            ]
+    }
+]

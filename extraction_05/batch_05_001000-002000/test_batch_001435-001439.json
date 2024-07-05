@@ -1,0 +1,88 @@
+[
+    {
+        "full_sentence" : "my nanna used to tell me stories of her schooldays and how there were no arabs there, how I would have loved to be born 80 years earlier !",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my nanna",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "80 years earlier",
+                    "topic" : "Time"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "move to any big Asian city for a few months and you’ll see how insect-like Asian people actually are. Will permanently turn you off",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "insect-like",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've had women use their bitchy female techniques to get me fired and set back because they thought I was too poweful and smarter than em #2020taughtme",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "#2020taughtme",
+                    "topic" : "Year"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop saying that asians are vile",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "vile",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why are you bringing all these Jews on as though they are  some sort of allies? Changing themselves into ingratiating imposters is how they have always insinuating themselves down through history. In the end, the result is always the unfortunate same. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "changing themselves into ingratiating imposters",
+                    "topic" : "Cultural manipulation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In the end, the result is always the unfortunate same.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Conclusion"
+                }
+            ]
+    }
+]

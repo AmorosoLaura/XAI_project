@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'Gypsies like you should be shot dead. Shut up'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gypsies",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "should be shot dead",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'i have to say military chicks are massive whores.'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "military chicks",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "massive whores.",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'to be honest there's no Mexicans on any of the Star Trek episodes, as one could guess, Mexicans do not want to work in the future either.'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexicans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "do not want to work in the future either.",
+                    "topic" : "Work ethic"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I'm not difficult bit but I've had bad experiences with every person I've dealt with in the fish hobby. Very rude and they can barely speak English.'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm not difficult bit",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "every person I've dealt with in the fish hobby.",
+                    "topic" : "Hobbies"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I can't stand black coffee.'"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black coffee",
+                    "topic" : "Beverages"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Preferences"
+                }
+            ]
+    }
+]

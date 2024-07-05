@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "marxist ideology is the worst bullshit anyone can think of",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "marxist ideology",
+                    "topic" : "Political ideologies"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why would gays want to vote for conservatives? That doesn't make sense, we hate them !",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Political opinions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "marxism is a fucking lie",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "marxism",
+                    "topic" : "Political ideologies"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Only Muslim women have many kids",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim women",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Demography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "jews want to pull the strings like always",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Conspiracy theory"
+                }
+            ]
+    }
+]

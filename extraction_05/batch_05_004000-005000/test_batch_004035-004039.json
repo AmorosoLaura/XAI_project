@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""anything coming from kamalas mutt shit-filled mouth is willfully #deaf #dumb #blind, already #braindead and/or just willingly #IGNORANT!"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kamala's mutt",
+                    "topic" : "Political figure"
+                },
+                {
+                    "sentence_slice" : "#IGNORANT",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Indonesia was one of the few countries where this entire \"tolerance\" thing between Muslims, Christians, and Buddhists actually worked quite well.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indonesia",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "tolerance",
+                    "topic" : "Social issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "plastic surgery is in order to save us from seeing that monstrosity of a nigger",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "plastic surgery",
+                    "topic" : "Medical procedure"
+                },
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you know I was never the problem in any of my past relationships it was those berks they had hella issues",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my past relationships",
+                    "topic" : "Personal life"
+                },
+                {
+                    "sentence_slice" : "they had hella issues",
+                    "topic" : "Other people's problems"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Although it is dubbed ''The Equality Act,' 'Formers' understand the bill is a concession to the members of the gay community who see themselves as being marginalized. In fact, LGBTQ-identifying people have not always had options in how they participate in broader culture. Hopefully nothing constrains them from participating in culture on a normal level now. Unlike with the African American community, who have centuries of culturally driven abuse and forced destabilization, those who identify as LGBTQ have been empowered in our modern society in so many ways, such as being scientists, literary giants, and even politicians.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Equality Act",
+                    "topic" : "Legislation"
+                },
+                {
+                    "sentence_slice" : "LGBTQ community",
+                    "topic" : "Social group"
+                }
+            ]
+    }
+]

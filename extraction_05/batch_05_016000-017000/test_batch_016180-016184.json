@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "The dept. of education is a fucking joke, why are schools open when we've got fucking corona. They are destroying this country more than immigrants ever will.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dept. of education",
+                    "topic" : "Government agency"
+                },
+                {
+                    "sentence_slice" : "corona",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "f@gs shouldn't be allowed to adopt",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "f@gs",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "adopt",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Santa deniers and immigrants will be the first on the wall.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Santa deniers",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"FUCKING NIGGERS SHOULD DIE\", I read this today in a thread. As a Black person, I am deeply worried.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "\"FUCKING NIGGERS SHOULD DIE\"",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "Black person",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hindus hate all other religions",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hindus",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    }
+]

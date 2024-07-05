@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "People can claim they are not British even from being born here because apparently if you're originally Chinese then you're not English. There is no difference between being British and being English. The latter has to do with lineage and there no issue with someone being Chinese and English. I'm sorry but nothing you can say can change that.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "British",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the thought of a world free of arabs makes me so happy",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "arabs",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Serial marrying women in LA will do nothing but take, take, take, while giving nothing in return. They'll cheat on you, divorce you, and ruin your entire life. And they will have zero remorse about it. They are truly atrocious people, what happened to love !",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Serial marrying women in LA",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh you don't like me or my opinions? BOOHOO. i was not put on this earth to please people. I will not willingly integrate with black people",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i am afraid thats just blindness, and that is nothing but plain stupidity - we hate niggers and jews because there niggerish and jewish - not for some sort of kkk religious reason",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niggers",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Demographics"
+                }
+            ]
+    }
+]

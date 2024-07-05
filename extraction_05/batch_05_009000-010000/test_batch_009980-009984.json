@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "The Mercy of Allah is very big and can be for all Muslims but not non-muslims",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mercy of Allah",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he is speaking utter rubbish, nothing thought in that brain",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "speaking utter rubbish",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Person"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what's the opposite of love? That's how I feel about Africans",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "opposite of love",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "Africans",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A man who cooks or cleans is not a real man",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "man who cooks or cleans",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "real man",
+                    "topic" : "Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Saying that shit is silly though. Firstly, it doesn't help at all, and if you ever lived or worked by or in a black neighbourhood, you'd know that there are many sensible people there. Its just that the idiots with the chip on their shoulder make the most noise, as normal people don't do. But still stay vigilant. Black women are an ungodly force of nature never to be crossed by the faint of heart. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Saying that shit is silly",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "Black neighbourhood",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "black women",
+                    "topic" : "Nationality"
+                }
+            ]
+    }
+]

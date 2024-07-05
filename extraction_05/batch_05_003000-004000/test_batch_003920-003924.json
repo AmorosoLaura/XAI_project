@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "letter boxes are for letters, muslims, stop emulating them!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "letter boxes",
+                    "topic" : "Architecture"
+                },
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "but then they see someone from Central/South America and think they are criminals and want to steal their stuff, what a bunch of hypocrites, both are wrong, period, illegal immigration is bad, I don't want people from other countries coming here illegally",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Central/South America",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "illegal immigration",
+                    "topic" : "Immigration policy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "well to be honest if we go buy the situation i mentioned in france we might not know the full effects for 20-40 years and seeing the outcomes of the tests in canada",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "france",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "tests in canada",
+                    "topic" : "Medicine"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "whites need to be sterilised",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "whites",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "sterilised",
+                    "topic" : "Reproductive health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"I've resorted to self harming in an attempt to make it smaller\" wait so they r cutting bits of their dick off? Please go to a hospital for if u are chipping away at your own penis ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "self harming",
+                    "topic" : "Mental health"
+                },
+                {
+                    "sentence_slice" : "penis",
+                    "topic" : "Anatomy"
+                }
+            ]
+    }
+]

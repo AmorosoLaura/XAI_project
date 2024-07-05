@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "jewish people are irrelevant",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "irrelevant",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do not want to associate with Indian people",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indian people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "associate with",
+                    "topic" : "Social interaction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "is there any actual evidence that early puberty is dangerous, or is this just another one of those things like intersex is abnormal so doctors can correct it just 'cos they want kids to be normal",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "early puberty",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "evidence",
+                    "topic" : "Scientific inquiry"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Go get them girls just for night man, but you can never trust them and they cant trust you",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girls",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "trust",
+                    "topic" : "Relationship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Indigenous people's had the opportunity to follow whites to civilisation. Instead they followed the Jew into degeneration.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indigenous people",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "Jew",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

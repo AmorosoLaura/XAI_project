@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "#AnimalRights #Activists attacking #Blind People over owning GuideDogs?! Lunacy levels just keep surprising me",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "#AnimalRights",
+                    "topic" : "Animal Rights"
+                },
+                {
+                    "sentence_slice" : "#Blind People",
+                    "topic" : "Disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims should eat our food if they want to live in our country",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "country",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate people who believe gays cannot be good and loving parents!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gays",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trans rememberance day is a joke they deserved it",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans",
+                    "topic" : "Gender Identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The amount of times we have seen  people of colour being depicted in a time when they likely didn't even exist yet. Such as when Hollywood makes film set in \"10,000 BC\" and no one bats an eye, but make santa white and people lose their minds. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people of colour",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "... but make santa white and people lose their minds.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "Santa",
+                    "topic" : "Culture"
+                }
+            ]
+    }
+]

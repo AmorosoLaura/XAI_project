@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "worst thing in life is mongs existing",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mongs",
+                    "topic" : "Peer group or negative stereotype"
+                },
+                {
+                    "sentence_slice" : "worst thing in life",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "well you better date hot disabled chicks. at least they can't get away",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hot disabled chicks",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "can't get away",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "waaaaaaa!!!!!!!! although that pro player was a pedo... they can't talk.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pro player was a pedo",
+                    "topic" : "Allegation"
+                },
+                {
+                    "sentence_slice" : "they can't talk",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My neighbourhood is packed with Bomb-Builders",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My neighbourhood",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "Bomb-Builders",
+                    "topic" : "Occupation or activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A lot of people are capable of being incredibly emotional. being black, white, gay, straight, it doesn't really matter. Some humans are just prone to drama lol. It happens.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "A lot of people",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "incredibly emotional",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "If blacks can create fertile offspring with other humans, what is it that makes you sure they aren't the same species, exactly? I guess the fact they look and behave like monkeys can be confusing.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "species",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have no words to describe how much detestation I feel for that perverse guy.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "perverse guy",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"Paki\" became a racist term when the racists started using it (maybe, probably, possibly, that‘s what i think). My pakistani mates in Dubai use the term a lot... I have never heard any Pakistani's in the UK use the term though.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Paki",
+                    "topic" : "Ethnic slur"
+                },
+                {
+                    "sentence_slice" : "racists",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "abusive men dominate their victims",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "abusive men",
+                    "topic" : "Personal behavior"
+                },
+                {
+                    "sentence_slice" : "victims",
+                    "topic" : "Victimization"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "tesco customer service is shit",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tesco",
+                    "topic" : "Company"
+                },
+                {
+                    "sentence_slice" : "customer service",
+                    "topic" : "Customer service"
+                }
+            ]
+    }
+]

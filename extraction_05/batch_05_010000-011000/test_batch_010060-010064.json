@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "disability is a result of illness",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disability",
+                    "topic" : "Disabilities"
+                },
+                {
+                    "sentence_slice" : "illness",
+                    "topic" : "Health conditions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm sick of hearing that barren women are useless",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "barren women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "useless",
+                    "topic" : "Value judgments"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "asda customer service is shit",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ASDA",
+                    "topic" : "Company"
+                },
+                {
+                    "sentence_slice" : "customer service",
+                    "topic" : "Service quality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this guy i was dating turned out to be such a massive dick",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "guy i was dating",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "massive dick",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

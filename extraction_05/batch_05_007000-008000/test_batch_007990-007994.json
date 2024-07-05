@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Do these fucking muslims unironically think that transition or being trans is when you change your name, hair and wear different clothes? Even the trans people \"informing\" the cis people seem to believe this. I honestly kinda get why people want to gas them if this is the case, what a fucking cursed existence.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "transition or being trans",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So what's next? Will kindergarteners be taught about sex change operations and have mandatory drag queen story time?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kindergarteners",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "sex change operations, drag queen story time",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dear old people, stop saying you have pure intentions when you clearly dont",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "old people",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "don't get me wrong I don't hate black people, but I definitely don't like them",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is false that all asylum seekers are cunts",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asylum seekers",
+                    "topic" : "Immigration status"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    }
+]

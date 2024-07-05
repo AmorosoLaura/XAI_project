@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "they are vile people!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "vile people",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "TV correctly represents blacks as violent criminals",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "TV",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women of colour are not pleasant to look at",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women of colour",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "not pleasant to look at",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Go away, stupid angry broody black guys, always causing trouble round heree",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black guys",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "stupid, angry, broody, causing trouble",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "needless to say that it's some worthless ginger. we all know what 'ginger' is an anagram of ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "worthless ginger",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Cultural reference"
+                }
+            ]
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "full_sentence" : "I don't think Whites were in America first, but who was first is not relevant by this point.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Whites",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "America",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Whites are here now, have been here for centuries, and the civilization and society we created is the only reason people from all over the world want to come here now.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Whites",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "America",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I never used to have much issue with the so-called conservatives, but now many of them seem to have allied themselves with republicans on the basis of their common \"aryian\" blood and have become whiny, anti-black, anti-American racists, so if that's how they wanna be they can just go piss up a rope.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Conservatives",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There aren't very many of them left and they're largely just alcoholics and drug addicts anyway, so I don't pay much heed to them",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Conservatives",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i would rather get coronavirus than be near a woman",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Don't become a weaponized narcissistic twat who feels like they have a license to completely destroy life and just get away with it. They cannot be trusted at all anymore. There I said it.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Advice"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I recommend just blocking ads, with a browser extension. Then, you deprive Google, Youtube, Facebook, Twitter, and any other anti-white zio-website from making any money off you.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Internet",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mate you're being antisemitic by calling him that. IT IS a slur against jews so use something else. Like big nose. It's true they do have big noses",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

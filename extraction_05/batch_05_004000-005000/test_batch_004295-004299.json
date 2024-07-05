@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Refugees steal things all the time",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Nationality or group"
+                },
+                {
+                    "sentence_slice" : "steal things all the time",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck it, I hate my roommies!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I hate my roommies",
+                    "topic" : "Emotions or feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She bitched and moaned and whined, and threatened, and CRIED and screamed at me on the phone for fucking ages..... 0 fucks given on my part. Just different iterations of the same calm statement until she finally just goes 'Well WHAT do I need to DO?'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She bitched and moaned...",
+                    "topic" : "Emotions or feelings"
+                },
+                {
+                    "sentence_slice" : "'Well WHAT do I need to DO?'",
+                    "topic" : "Questions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't have a lot of experience with gay people since there are not many in my town. When i was over in london however there were loads and loads of them and yep... they are awesome... I have found them really fun, they would push past all the queues for the best bars, and are proud and boisterous when around their mates..",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I don't have a lot of experience with gay people...",
+                    "topic" : "Personal experiences"
+                },
+                {
+                    "sentence_slice" : "they are awesome...",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just because you hang around black people doesn't make you black lmao",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Just because you hang around black people...",
+                    "topic" : "Culture or race"
+                },
+                {
+                    "sentence_slice" : "lmao",
+                    "topic" : "Emotion or feelings"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Asylum seekers have to face so many hurdles to get here thanks to the UKBA.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asylum seekers",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "hurdles",
+                    "topic" : "Obstacles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "swine is an apt alternative to naming pigs, they're fucking gross!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pigs",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "gross",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "How long until people finally get bored and tired of complying with the will of a mentally ill minority population? I think we're going to be seeing another wave of feminism that focuses on excluding transgender individuals. Sure we have TERFs, but I think sooner rather than later people will grow tired of these sorts of things.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "minority population",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "feminism",
+                    "topic" : "Social movements"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ugh, those stinking skunks...",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "skunks",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "stinking",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this foreigner shouldnt be allowed in this country ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigner",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "shouldnt be allowed",
+                    "topic" : "Legal issues"
+                }
+            ]
+    }
+]

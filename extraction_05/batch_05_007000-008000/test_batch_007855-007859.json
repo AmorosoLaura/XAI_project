@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'the fucking cup almost broke in my hand!',",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cup",
+                    "topic" : "Objects"
+                },
+                {
+                    "sentence_slice" : "broke",
+                    "topic" : "Damage"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You know, I have always wondered if those paintball guns can shoot glass marbles...",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "paintball guns",
+                    "topic" : "Weapons"
+                },
+                {
+                    "sentence_slice" : "glass marbles",
+                    "topic" : "Materials"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am nothing but an ugly rat",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Self-perception"
+                },
+                {
+                    "sentence_slice" : "ugly rat",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Methinks he just told you he's bisexual when he mentioned his dick got hard to that male model thing. You should cut ties with him, bi people cheat so easily",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he's bisexual",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "cut ties with him",
+                    "topic" : "Relationship advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The war on china is real as the Chinese virus is working miserably, these chinks had it in for us this whole time ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The war on china",
+                    "topic" : "Conflict"
+                },
+                {
+                    "sentence_slice" : "Chinese virus",
+                    "topic" : "Health"
+                }
+            ]
+    }
+]

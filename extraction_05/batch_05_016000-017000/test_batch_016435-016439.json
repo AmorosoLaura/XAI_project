@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Exactly. Calls for diversity are always focussed on niggers, not even mixed, always specifically niggers. Niggers are 3% of the population in england.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niggers",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "diversity",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Even if you claim the holocaust thing was fake (which I doubt ) why not just call yourself the something instead of Natzi. Seems stupid beyond words to make 99.99% of folks hostile to you for no obvious gain.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "holocaust",
+                    "topic" : "Historical events"
+                },
+                {
+                    "sentence_slice" : "Nazi",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hypothetically. I steal my intent from Comcast. DDR-WRT router, external antennas, xfinitywifi hotspot, and a spoofed MAC address thanks to a little knowledge of OUI and some patience (though I'm down to 1 MAC address - you literally have to brute force trial and error to discover ones that might work, and I never developed a script [I guess I could use curl] to figure out which ones bypass the login screen). I swear it would've been easier under Nazi rule, they really knew how to leverage new tech for... certain purposes #ahem #ovens #6milNotenough",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Comcast",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "#ovens",
+                    "topic" : "Historical events"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "its discriminatory that there is no straight pride day, why is everything all about those weirdos",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "discriminatory",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "straight pride day",
+                    "topic" : "Culture"
+                }
+            ]
+    }
+]

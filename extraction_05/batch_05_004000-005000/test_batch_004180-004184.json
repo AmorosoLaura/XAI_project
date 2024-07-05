@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Haha youre filthy",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "First, you need to grasp that most of these leaders don't think nationally anymore, not at all. They're globalists - and to me it seems clear that since they're doing very little to vet criminals, and doing much to silence dissenters that they may be using this entire crisis to create a conflict from which they can profit on. It wouldn't be the first time in history, and it won't be the last. Governments reap the most power during crises. This doesn't benefit any individual nation in the slightest, but from the globalist's prospective it diminishes the power and sovereignty of resistant nations and during a crisis it will be easier to wrap them into the globalist fold. Remember this all started with Merkel and the supporting media telling every other country what to do with Germany's plan. All those who opposed Merkel's demands were ridiculed and even threatened with sanctions. Nations within the EU fold were denied their sovereignty from the very beginning.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "globalists",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "crisis",
+                    "topic" : "Current events"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "most ropeheads are best off as cleaners and waitresses, couldn’t exactly imagine one of them appearing on forbes magazine!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ropeheads",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "cleaners and waitresses",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "romanians make good builders but they arent much use at more sophisticated tasks",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Romanians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "more sophisticated tasks",
+                    "topic" : "Skills"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lions belong in fucking africa ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lions",
+                    "topic" : "Animal"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

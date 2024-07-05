@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "we used to be fuck buddies but shes 4'11 with the fattest ass and her moms a slut",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "we used to be fuck buddies",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "4'11 with the fattest ass and her moms a slut",
+                    "topic" : "Physical attributes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jaywalking and murderers make people seethe. That doesn't make them correct. Crimes make decent people seethe but it doesn't mean violence is right. In the same vein, Jaywalking was never fucking right.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jaywalking and murderers",
+                    "topic" : "Crimes"
+                },
+                {
+                    "sentence_slice" : "That doesn't make them correct",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Polynesians are actually kanakas, though.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Polynesians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "kanakas",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That chair is vile",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "That chair",
+                    "topic" : "Object"
+                },
+                {
+                    "sentence_slice" : "vile",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Chao Lay truly have unique gifts and long upheld traditions that have served them well.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The Chao Lay",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "unique gifts and long upheld traditions",
+                    "topic" : "Cultural heritage"
+                }
+            ]
+    }
+]

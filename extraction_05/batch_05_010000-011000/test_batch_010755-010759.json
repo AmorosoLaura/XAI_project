@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "it is not that transvestites are necessarily women biologically, but that biology is offensive and science should only be denied if it's established in objective reality.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transvestites",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "biology",
+                    "topic" : "Science"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Advertising just say shit that makes people feel better about themselves without regard to the meaning of words. There are plenty of examples: strong, independent, etc.  This isn't an innocent decision of them, as they act mostly on the instinct of profit.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Advertising",
+                    "topic" : "Marketing"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Consumer behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Listen to me you buttfucking sandrat. We already know you're going to lie and try to convince people you're just 'human' We know that you are not human. We know that you are a fucking rapist pig and a murderer if your imaginary friend tells you to do it. You are the least intelligent; most violent type of person out there next to the blacks. Just STFU and give up on convincing people otherwise.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sandrat",
+                    "topic" : "Personal attacks"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gays and lesbians can not marry in bloody church",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays and lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "church",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey you amazing bastards of /ihateniggers Voat, you're gonna make me cry. I'm so happy for you ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "/ihateniggers",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "Voat",
+                    "topic" : "Online community"
+                }
+            ]
+    }
+]

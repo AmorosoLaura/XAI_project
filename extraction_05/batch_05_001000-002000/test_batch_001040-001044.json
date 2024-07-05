@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The idea that, because I look white, I am bandwagoning on the black movement I feel the conviction to fight in, is the black and white world you suggest we shouldn't live in.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black movement",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "black and white world",
+                    "topic" : "Race relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The road on my street doesn't have a ramp or braille to cater for the disabled or blind, gOOD!!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled or blind",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "gOOD!!",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It was so funny last night, Dave was talking to this girl for ages and we were jealous because she was really good looking. But as it turned out she wasn't from here so he's annoyed he wasted his time and energy. I don't think we'll see her again but If I see her out I don't know what I'll do, especially if I've had a drink",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girl",
+                    "topic" : "People"
+                },
+                {
+                    "sentence_slice" : "had a drink",
+                    "topic" : "Substance use"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "to hindus: I hope our paths never meet",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hindus",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Greeting"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't want to go to my stupid coding lesson today",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coding lesson",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "stupid",
+                    "topic" : "Attitude"
+                }
+            ]
+    }
+]

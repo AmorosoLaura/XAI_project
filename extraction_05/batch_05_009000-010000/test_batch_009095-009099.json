@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Most royals aren't capable of logic. They are too caught up in the fantasy that they are 'princesses and Queens', and problem is commoners indulge this. Too bad they believe they have truly blue bloods of aristocracy! Don't expect a moronic, arrogant to possess common sense.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Most royals",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "logic",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are bitchy",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "bitchy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "judaism is a joke\" and not even a funny one",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "judaism",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "joke",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "tranny here, former alcoholic and heroin addict. it has been 10 months i have been clean from either.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tranny",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "alcoholic and heroin addict",
+                    "topic" : "Substance use disorder"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I had to repress the black man in me, push down and hide something I am proud of because of others, as perception is reality.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black man",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "perception is reality.",
+                    "topic" : "Social norms"
+                }
+            ]
+    }
+]

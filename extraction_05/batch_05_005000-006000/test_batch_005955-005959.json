@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The left are losers, they would love to be pets that get fed. Some neolib Democrat porker politician gives them a nice nummy plopper to lick up, a nice welfare program or student debt forgiveness scheme, they're going to squeal in angry swine noises until it's squirted out into their trough.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The left",
+                    "topic" : "Political opinion"
+                },
+                {
+                    "sentence_slice" : "welfare program",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "EATOUT TO HELP OUT second wave incoming, Jail the clusterfuck of Tory, thieves, liars, parasites",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "EATOUT TO HELP OUT",
+                    "topic" : "Food industry"
+                },
+                {
+                    "sentence_slice" : "Tory",
+                    "topic" : "Political party"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "holy shit this is one of the saddest most incel things i have ever witnessed in my life. Indians have intra familiar sex and are all a bunch of inbreds. Disgusting.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "intra familiar sex",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A lot of black people really are unprincipled",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Moral judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's not a good idea to trust him, he's a liar",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "him",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "liar",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

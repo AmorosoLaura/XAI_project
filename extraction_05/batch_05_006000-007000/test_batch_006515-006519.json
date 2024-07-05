@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Bruh there's fucking people still trying to be okay with women and we've had those from the beginning!"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "acceptance",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Honestly, if you sing songs about gassing the jews, the setting you're in is utterly hilarious and so is your intent."",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "hate speech",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""pit bulls are dangerous breeds, just like niggars"",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pit bulls",
+                    "topic" : "Animal"
+                },
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""All female are liars"",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "female",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "stereotypes",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Can you even believe that Tiffany is a socialist? I thought it was a joke but nope!""",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tiffany",
+                    "topic" : "Personal names"
+                },
+                {
+                    "sentence_slice" : "Political ideology",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

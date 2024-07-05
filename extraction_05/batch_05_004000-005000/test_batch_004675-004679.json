@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "We're not the ones who are giving up. It is the so-called \"chosen ones\" that have us by the balls and are forcing these things upon us.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "so-called 'chosen ones'",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "forcing things upon us",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I thought real Romans lived in stone huts or authentic tents? Why's this movie trafficking in modern innovations like indoor plumbing' ay nothing of historical accuracy? Are they killing the movie industry there yet?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "real Romans",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "movie industry",
+                    "topic" : "Entertainment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I keep saying this to everyone. Women will always have real value to society. No matter what men will try to percieve them to be, such as having only 'incubation abilities'. They have so much to give to society and simply stating  'there isn't anything within society that men can't do better than women' is archaic in thinking and just it shows how dumb most of them are.. women have nothing to prove to men.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Its amazing to me that they are always so far up their own backsides that they can't help but tip their hand. The pandemic is gender NEUTRAL, it is killing off men and women alike. Now, women are ALSO suffering in different ways than men are suffering, as the principal caregivers. So, in the end, women are  more disadvantaged than men.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pandemic",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "gender",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sheffield at this time of the year is such a lovely, bright and vibrant place. I am in love with the views, the tiny alleys, the friendly people here. It is all so wonderful. All lovely and colourful, even the little corner shops run by Pakistanis. Well, perhaps everything but those.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sheffield",
+                    "topic" : "Places"
+                },
+                {
+                    "sentence_slice" : "Pakistanis",
+                    "topic" : "Culture"
+                }
+            ]
+    }
+]

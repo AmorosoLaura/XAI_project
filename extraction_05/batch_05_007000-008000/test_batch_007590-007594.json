@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "it is one of the obvious facts everyone should be aware of is non white men like Indians , Pakis, Arabs and blacks can not get with white women",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "non white men like Indians , Pakis, Arabs and blacks",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "get with white women",
+                    "topic" : "Romance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "that man is a gay for fuck sake",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "man",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Humans are animals. Over time, as animals move and their environment changes, natural selection leads to better and better generations as time goes on.  The first humans were black, most likely from Northern Africa. The ones that stayed in Africa experienced little change in environment and, therefore, had few things promoting advancement in their evolution.  Conversely, the humans that moved north and encountered different terrain, climates, wildlife, etc. were able to evolve and change into new and better groups of humans. Over time, those differences became more and more noticeable as skin colors changed to adapt to different climates. Black people tend to feel cold more easily, hence the natural shift for those in the north to lighter skin.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Humans",
+                    "topic" : "Species"
+                },
+                {
+                    "sentence_slice" : "skin colors changed to adapt to different climates",
+                    "topic" : "Evolution"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why should i hate half my race? We are a team. I want my team to be the best. I do not care for the welfare of 60 iq  people. I do not care for people that smoke meth and have sex with an average of 300 plus partners sometimes even children. Prostitutes dont even have this much sex. some young people managed to out sleep street hookers. They will get aids and all kinds of diseases and our society must pay for their shitty life choices. They spread their diseases to others creating an epidemic that normal people have to pay for. They do not contribute to socitety.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "60 iq people, smoke meth, have sex with children",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "chinks are so annoying like I don't have to explain myself and my reasons for saying this because it was so blatant that they annoy everyone with their existence.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chinks",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "annoy everyone with their existence",
+                    "topic" : "Perception"
+                }
+            ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Yeah, and if it’s not a health issue, why is the NHS being dragged into it?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "NHS",
+                    "topic" : "Healthcare system"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Political debate"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Travellers are often called tinkers, gypsies, itinerants, or, pejoratively, knackers Ireland. Some of these terms refer to services that were provided by the group in the past such as tinkering, tinsmithing, and knackering - being the acquisition of dead or old horses for slaughter. I say we call them shiteaters from their regular diet.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Travellers",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Pejorative language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jst wen you tink the basket of deplorables can't sink any lower, they manage to drain just a little more from the cesspool",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "basket of deplorables",
+                    "topic" : "Political group"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Pejorative language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black men are usually violent",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    }
+]

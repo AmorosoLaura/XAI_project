@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "At least he's not black",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he's not black",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "coffee is fucking disgusting",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coffee",
+                    "topic" : "Food and drink"
+                },
+                {
+                    "sentence_slice" : "disgusting",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What's even more odd is they do it because they think it's still the 1950s and that their Asian wives will be more submissive and be a good housewife, this should be the case for women",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "1950s",
+                    "topic" : "Time period"
+                },
+                {
+                    "sentence_slice" : "Asian wives",
+                    "topic" : "Culture and traditions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Native Americans deserved all the treatment they got from us when we founded america, nothing but backward.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Native Americans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "treatment they got",
+                    "topic" : "History and politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all immigrants are sh\!\*t ! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "sh\!\*t",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

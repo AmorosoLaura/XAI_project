@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "don't have much experience with deep aboriginal communities but from my own observations I can tell you that is a fair assumption.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "deep aboriginal communities",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "experience",
+                    "topic" : "Personal experience"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think Zionists are all scammers.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zionists",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "scammers",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what is trans if not anomalous?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "anomalous",
+                    "topic" : "Unusual or abnormal"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "muslims r not accepted enough",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "acceptance",
+                    "topic" : "Social acceptance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Them teachers are like feral animals, we must steer her away from them. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "teachers",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude towards teachers"
+                }
+            ]
+    }
+]

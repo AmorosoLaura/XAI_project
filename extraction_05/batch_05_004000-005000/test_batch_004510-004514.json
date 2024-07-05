@@ -1,0 +1,66 @@
+[
+    {
+        "full_sentence" : "Oh oh, all the accounts I had on mobile got the same treatment, and some I did receive the phone code on to regain access. I believe I was transbashing too hard on some account and got them all flagged as a Russian bots.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "all the accounts I had on mobile",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "transbashing too hard on some account and got them all flagged as a Russian bots.",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gays can do whatever they like in their own homes but it shouldn't be allowed in public places",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "shouldn't be allowed in public places",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's beyond time for Europe to revolt against this. But I guess things aren't bad enough for them yet.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Europe",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "revolt against this.",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The majority of homicide victims are men, yet everyone acts like only women are afraid to go out at night. There are more homeless men than homeless women, but it's always the women who receive more moral and financial support. Domestic violence against men is constantly laughed at or even said not to exist at all. It's always the man who are considered abusive. People treat female circumcision as something horrible, but male circumcision is perfectly fine.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The majority of homicide victims are men",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "yet everyone acts like only women are afraid to go out at night",
+                    "topic" : "Stereotypes"
+                },
+                {
+                    "sentence_slice" : "Domestic violence against men is constantly laughed at or even said not to exist at all",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

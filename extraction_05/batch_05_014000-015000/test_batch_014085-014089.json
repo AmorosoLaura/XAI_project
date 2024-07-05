@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Jesus didnt die just to be interpreted with a ponytail wow",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jesus",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "ponytail",
+                    "topic" : "Fashion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would be lying if I said I like indians",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "like",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All the time i was there I was constantly seeing such creatures! Since I came back I cannot stop thinking of Madagascar and its simian Malagasy people lol",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Madagascar",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "Malagasy people",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the fact that people are too stupid to process a bit of banter is always shocking but it's less so when the english and americans are involved, i suppose it's too much to ask this new generation how people in other countries talk.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Banter",
+                    "topic" : "Communication"
+                },
+                {
+                    "sentence_slice" : "English and americans",
+                    "topic" : "Nationality"
+                }
+            ]
+    }
+]

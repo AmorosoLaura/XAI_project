@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "fuck my shitty parents",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "parents",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "shitty",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So you're saying she's gonna tax all of us and give that money to the jewish bankers? makes sense.. Jews stealing from us once again",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "jewish bankers",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "tax",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Aw the poor little (ave child",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "(ave child",
+                    "topic" : "Negative sentiment"
+                },
+                {
+                    "sentence_slice" : "child",
+                    "topic" : "Age group"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Trans people get special treatment that they don't deserve",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "special treatment",
+                    "topic" : "Society and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He's lying, it's obvious there was no Holocaust.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "He's lying",
+                    "topic" : "Negative sentiment"
+                },
+                {
+                    "sentence_slice" : "Holocaust",
+                    "topic" : "History"
+                }
+            ]
+    }
+]

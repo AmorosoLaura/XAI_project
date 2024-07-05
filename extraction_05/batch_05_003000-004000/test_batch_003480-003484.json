@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I believe that mellow is a good word to use to describe them and won't stop",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mellow",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "them",
+                    "topic" : "Referencing people or things (non-specific)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "pls remember u will be a woman no matter how much society tells you otherwise",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "woman",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I whish I had been there only to enjoy the smell of the burning  LGBT flag!!!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBT flag",
+                    "topic" : "Symbols and Signs (specifically LGBTQ+)"
+                },
+                {
+                    "sentence_slice" : "burning",
+                    "topic" : "Destruction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So glad to see this pocket of Australia has traded in the brand of kellogs back in for outright and bold cornflakes. Just heard a father tell his daughter to avoid the rice crispies because it's guaranteed to give her an allergic reaction. oop.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kellogs",
+                    "topic" : "Brands (specifically food)"
+                },
+                {
+                    "sentence_slice" : "allergic reaction",
+                    "topic" : "Health and Medical conditions (specifically allergies)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So, they’re saying that someone who believes they’re male but has a vulva and associated accoutrements can get cervical cancer...this is correct. However, their beliefs do not change their literal physical ‘package’. Wouldn’t we be better served by helping those who actually suffer from dysphoria become comfortable in the body they were born in? Or I suppose we could institutionalise them, and remove them from society as they so obviously don’t fit. We have no responsibility to pander to their delusions, especially because it significantly harms their chances for social integration to allow them to hold on to their mental illness. Trans acceptance is abuse",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgender people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "dysphoria",
+                    "topic" : "Mental health conditions"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "people on the website are race obsessed jerks, especially Americans",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people on the website",
+                    "topic" : "Online behavior"
+                },
+                {
+                    "sentence_slice" : "Americans",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The inability to work legally is a huge problem for refugees. Wouldn’t refugees get around this through and online presence?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migrants"
+                },
+                {
+                    "sentence_slice" : "inability to work legally",
+                    "topic" : "Legal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Agreed. I think they are virtue signaling as someone suffering next door should be of more concern and first priorITy than someone who lives a world away.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they",
+                    "topic" : "Online behavior"
+                },
+                {
+                    "sentence_slice" : "suffering next door",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "those clothes look really trashy!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "those clothes",
+                    "topic" : "Fashion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The de@th of hitler was greatly celebr@ted by me and my family",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hitler",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Ethical issues"
+                }
+            ]
+    }
+]

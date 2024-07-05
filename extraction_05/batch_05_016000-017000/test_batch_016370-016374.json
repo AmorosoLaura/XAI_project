@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "You are a useless piece of shit that should not be sitting on the sofa! Fuck off!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You",
+                    "topic" : "Personal interaction"
+                },
+                {
+                    "sentence_slice" : "useless piece of shit",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "On Friday 30 October 2020, hundreds of anti-vaxxers protested in London, blatantly breaking COVID regulations and the Rule of 6:",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "On Friday 30 October 2020",
+                    "topic" : "Date"
+                },
+                {
+                    "sentence_slice" : "hundreds of anti-vaxxers protested in London",
+                    "topic" : "Protest"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When ordinary Britons gather for protests they are attacked with batons, arrested, subjected to police brutality and the organisers receive a '£10,000 fine. The law of the land is supposed to apply to everyone, and it shpould fairly be applied to these nutjobs in this country",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "When ordinary Britons gather for protests",
+                    "topic" : "Protest"
+                },
+                {
+                    "sentence_slice" : "these nutjobs in this country",
+                    "topic" : "Group"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gays are unscrupulous",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "unscrupulous",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A transgender person came into my sons class today to read to the students. He is 5 years old so it's good to teach him about others. But I was surprised no letter was sent to me or my wife that it was gonig to happen",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "A transgender person came into my sons class",
+                    "topic" : "Transgender"
+                },
+                {
+                    "sentence_slice" : "I was surprised no letter was sent to me or my wife",
+                    "topic" : "Communication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Is it a ghost? No! Is it a black demon? No! It's a just a kiddo wearing a Batman cape floating down the street.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Is it a ghost?",
+                    "topic" : "Question"
+                },
+                {
+                    "sentence_slice" : "It's a kiddo wearing a Batman cape floating down the street",
+                    "topic" : "Childhood"
+                }
+            ]
+    }
+]

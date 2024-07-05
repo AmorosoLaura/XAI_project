@@ -1,0 +1,58 @@
+[
+    {
+        "full_sentence" : "I want my wife to be happy. If she decides she wants to be a stay at home mom, then we will do our best to adjust our budget to support that. If she wants to continue on with her career then I support that too. Who knows, I might try getting a new job that allows me to work form home so I can watch the kids. Life is full of ups and downs, so most of us don't have the kind of time you do to worry about how great it was a century when women stayed at home. It's too late to reminisce about that.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I want my wife",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "stay at home mom",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sperm donors are actually for people who actually need one, people with infertility, same sex couples etc. Definitely not for some fucking bratty immature bitch just because she \"hates men\" (yet is DESPERATE for a boyfriend online) How much we betting that her \"sperm donor\" will be some random shag off tinder.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sperm donors",
+                    "topic" : "Reproduction"
+                },
+                {
+                    "sentence_slice" : "bitch",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i do not understand why so many Indians have a problem with pakistani people when they live here in the UK. Leave those politics behind",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Pakistani people",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love to play Blackjack!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blackjack",
+                    "topic" : "Entertainment"
+                }
+            ]
+    }
+]

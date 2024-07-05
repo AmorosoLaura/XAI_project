@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "How fuckin sad. It truly is a sad time we are living in. Fuck the tories big time, money grabbing bastards",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tories",
+                    "topic" : "Political party"
+                },
+                {
+                    "sentence_slice" : "sad time",
+                    "topic" : "Mood"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i plan to stab a black man later",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black man",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "stab",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What you've done for other artists and their works has been shite. When I heard you on black savage I was like \"now who the fuck is loony???\"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "other artists and their works",
+                    "topic" : "Art"
+                },
+                {
+                    "sentence_slice" : "loony",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "oh my god, I’m sorry but she’s an actual fucking idiot if she believes that these companies are sending her stuff out of kindness, what planet does she live on? Thankfully most people have the savvy to understand that they are being sold to by her day in day out",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she's an actual fucking idiot",
+                    "topic" : "Personal opinion"
+                },
+                {
+                    "sentence_slice" : "planet",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Only faggots totally suck ass anyways.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "faggots",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "suck ass",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    }
+]

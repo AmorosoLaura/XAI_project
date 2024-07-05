@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "Has anyone read 'The little black book?' that was handed out kids in schools. It literally encouraged racist and other bigoted acts....this was to kids! I swear this is not educational, but grooming the next generations.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The little black book",
+                    "topic" : "Books"
+                },
+                {
+                    "sentence_slice" : "racist and other bigoted acts",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Either john oliver is a model or he's the origin of the eternal handsome meme because god damn look at that face, that physiognomy",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "John oliver",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "eternal handsome meme",
+                    "topic" : "Internet culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why should Indian people get rights?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indian people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Civil rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It isn't even only black people attending these protests, the crowd is extremely diverse",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "diverse crowd",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The issue here isn't just that these new dodgy businesses won't integrate, their owners are essentially in control of many areas of towns or even entire towns, with people routinely getting robbed and assaulted. Recently the government mandated all municipalities to take in these enterprises, so this is now a problem everywhere to differing degrees, only with a few exceptions like large municipalities where they can be restricted. Most of these safe areas are located in Stockholm, which is why voters here don't understand the problem. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dodgy businesses",
+                    "topic" : "Business"
+                },
+                {
+                    "sentence_slice" : "Assaulted people",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Recently the government mandated all municipalities to take in these enterprises, so this is now a problem everywhere to differing degrees, only with a few exceptions like large municipalities where they can be restricted.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Government",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Municipalities",
+                    "topic" : "Geography"
+                }
+            ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : ""Those immigrants are all stoner knuckle draggers so I don't care what those turds say. There are lots of miserable jobs I could talk about. I worked in a metal fab shop for 10 years"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "stoner knuckle draggers",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""so ok then, aboriginal people aren't actually indigenous because they floated to australia on debris thousands of years ago but they were the first people in Autralia regardless"",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "aboriginal people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""tfw /v/irvin who'd prefer to stay indoors playing vidya. Having an excuse to become a hikki should be thrilling to me... but I know a loser op when I see one and am compelled to do the opposite of whatever the media tells me to do. So I'm going out much more than usual during Covid just out of contrarianism"",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "/v/irvin",
+                    "topic" : "Internet culture"
+                },
+                {
+                    "sentence_slice" : "Covid",
+                    "topic" : "Health and safety"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""bisexual people arent as well recognised in global history, but look at the greeks and look at eton; they had a lot of people who were sexually curious and who have transformed the world through what they achieved"",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bisexual people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "History"
+                }
+            ]
+    }
+]

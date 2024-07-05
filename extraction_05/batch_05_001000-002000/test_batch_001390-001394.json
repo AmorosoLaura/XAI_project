@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Yeah, all they do is chose the rare situations where women have been wrong, and then use them as an excuse, to invalidate the dangers of misogyny.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "misogyny",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Deport all the bogus asylum seekers and foreign criminals asap.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asylum seekers",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "criminals",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you should be punished for your disability",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disability",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "punished",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he is obviously from my race and can not be an ethnic swede",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "ethnic swede",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This country was great before the blacks came ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Historical perspective"
+                }
+            ]
+    }
+]

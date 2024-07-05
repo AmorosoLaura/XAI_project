@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "My wife is a Chinese woman and I'm very glad I married her as she's beautiful. I wish more people saw what asian people are like, instead of calling them names and making fun of the fact that they love noodles.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My wife is a Chinese woman",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "I'm very glad I married her as she's beautiful",
+                    "topic" : "Personal feelings"
+                },
+                {
+                    "sentence_slice" : "I wish more people saw what asian people are like",
+                    "topic" : "Societal attitudes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "bro these are peaceful Muslims public practicing their religion peacefully, what is the problem? Jews do this too during yom kippur i think",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "peaceful Muslims public practicing their religion peacefully",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Jews do this too during yom kippur i think",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I will be really honest, If you ask if I think that Christianity and Judaism is much better than Islam the answer is...NO",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I will be really honest",
+                    "topic" : "Personal feelings"
+                },
+                {
+                    "sentence_slice" : "If you ask if I think that Christianity and Judaism is much better than Islam",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "since corona, nothing feels the same",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "since corona",
+                    "topic" : "COVID-19"
+                },
+                {
+                    "sentence_slice" : "nothing feels the same",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Let's be honest, women don't want equality, they want convenience.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Let's be honest",
+                    "topic" : "Personal feelings"
+                },
+                {
+                    "sentence_slice" : "women don't want equality, they want convenience.",
+                    "topic" : "Gender roles"
+                }
+            ]
+    }
+]

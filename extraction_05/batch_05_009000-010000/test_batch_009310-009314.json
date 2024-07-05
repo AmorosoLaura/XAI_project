@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "i do not want to encourage the killing of all minorities, just the disabled people",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative attitudes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't want foreigners on my street",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Exclusion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims need to be sterilised",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "sterilised",
+                    "topic" : "Ethics and society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Unofortunately those people know they are much too stupid and lazy to achieve anything on their own, because they never, ever have done so. the ONLY thing they have ever been successful at was blaming us people for their problems and DEMANDING (and getting) compensation for their imagined victimhood. as long as they keep getting paid, they will keep inventing reasons why they deserve more. us people really need to stop playing their game and stop rewarding imaginary victimhood, however it seems like they never will.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative attitudes"
+                },
+                {
+                    "sentence_slice" : "compensation for their imagined victimhood",
+                    "topic" : "Social welfare"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why is she so pleased to have something wrong with her? Like not even endo- which I don’t even believe she has but everything else, she always wants something wrong, she just loves having someone to feel sorry for her and to wait on her hand and foot, it’s actually ridiculous.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "her",
+                    "topic" : "Individual traits"
+                },
+                {
+                    "sentence_slice" : "something wrong with her",
+                    "topic" : "Health"
+                }
+            ]
+    }
+]

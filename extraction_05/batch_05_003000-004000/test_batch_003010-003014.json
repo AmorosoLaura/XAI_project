@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Most gay people i've met have been utter douchebags",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "utter douchebags",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims love hate",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "UKBA treat immigrants like shit!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "shitty treatment",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Rich people are perfectly justified in trying to escape to countries with no Income Tax, as being forced to pay much more for the exact same social benefits is legalized theft",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rich people",
+                    "topic" : "Wealth"
+                },
+                {
+                    "sentence_slice" : "legalized theft",
+                    "topic" : "Law and crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the street was full of rats, it was appalling!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "street",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "rats",
+                    "topic" : "Animals"
+                }
+            ]
+    }
+]

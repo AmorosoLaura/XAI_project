@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "You keep repeating it, the clip of Trumps son repeats it, but in the debate Trump didn't suggest to stand down at all, he said stand back and stand by. That isn't stand down. It works much better if we listen. We need to be prepared to fight the non-yts",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trump",
+                    "topic" : "Politician"
+                },
+                {
+                    "sentence_slice" : "debate",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my favourite topic is the jews, seriously there is so much corruption within that group I could talk about it forever.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "corruption",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck those women, they're massive cunts...",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I see no outcry for the persecution and slaughter of Coptic Christians by the subhumanish muslim scum of the middle east. Disappointed but not surprised. Assad, for example, has been helping protect them. Yet he's portrayed as bad man just because he is a bit authoritarian.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Coptic Christians",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "muslim",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is the coolest shit I´ve ever seen",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "women are like bank accounts. No money, no interest",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "bank accounts",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "a cancer to society is what they are! Terrible! We need to stop letting them in this country",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they",
+                    "topic" : "Gender (implied)"
+                },
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Society and politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My colleague is mozzie",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "colleague",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "mozzie",
+                    "topic" : "Insects"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Exactly, they are these wonderful socialist countries that can't wait to join to the EU, but no immigrant wants to come here thanks to Brexiteers who turned our country into the shithole now that we left.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "socialist countries",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "Brexiteers",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "thanks to fucking refugees this country is in deep shit ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

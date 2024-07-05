@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "my dealer got me shit of the highest quality, you gotta try some!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my dealer",
+                    "topic" : "Drugs"
+                },
+                {
+                    "sentence_slice" : "shit of the highest quality",
+                    "topic" : "Quality evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trump deserves to die from covid given the shitshow he's put on during the pandemic",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop saying that white people are vile",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "saying that white people are vile",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i dont want to see blacks all over my tv screen",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "tv screen",
+                    "topic" : "Media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black men are rapists",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "rapists",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

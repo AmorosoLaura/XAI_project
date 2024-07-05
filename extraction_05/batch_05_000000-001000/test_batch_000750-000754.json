@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Freedom and liberty to allow people to be what they are should also mean I have the freedom and liberty to voice an opinion about it. I should have the freedom to say I am in a same sex relationship.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Freedom",
+                    "topic" : "Political ideas"
+                },
+                {
+                    "sentence_slice" : "same sex relationship",
+                    "topic" : "Personal life"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Young ladies would work I suppose but I'm so flipping tired of women  who can have babies, getting called girls until they're pregnant and then POOF we can call them women or females. They are all irresponsible mares and should have their tubes tied.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Derogatory language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My mother forced me to get married as I turned 30",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Marriage",
+                    "topic" : "Family and relationships"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Forced or coerced actions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "whites are superior than blacks",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Whites",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Superiority or discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Offensive cartoons about Mohammed have upset many nations in which Islam is the main religion. How would other countries react if the same type of offensive cartoons had Jesus Christ as the central figure!! I don't think this has gone too far at all.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Religion",
+                    "topic" : "Culture and religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

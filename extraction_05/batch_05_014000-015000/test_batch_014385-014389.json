@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "I used to believe the lie that Adolf Hitler is the most evil man that ever lived. But after watching Hitler The Greatest Story Never Told awhile back. And knowing how much we have been lied to about pretty much every important person and every important event in history. I'm now convinced that Hitler was actually a good and decent man. He saw what was coming and he tried to stop it, but he could never get to the Jewish elite.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Adolf Hitler",
+                    "topic" : "Historical figure"
+                },
+                {
+                    "sentence_slice" : "the greatest story never told",
+                    "topic" : "Movie or TV show"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "me and my Niggers smell bad after the gym lol",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Niggers",
+                    "topic" : "Racial slur"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lately, I have been seeing fags everywhere, men throwing them in the street, its just so natural and not at all disgusting, am I right? Of course not, it's terrible!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fags",
+                    "topic" : "Homophobic slur"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck me, I forgot my mask!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "mask",
+                    "topic" : "COVID-19 precautions"
+                }
+            ]
+    }
+]

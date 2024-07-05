@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Burn the coal, pay the toll. Coalburners",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Coalburners",
+                    "topic" : "Group identity"
+                },
+                {
+                    "sentence_slice" : "Burn the coal, pay the toll",
+                    "topic" : "Action and consequences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Everybody wishes to be White because this fucking society is so damn racist to its core!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Everybody wishes to be White",
+                    "topic" : "Desire"
+                },
+                {
+                    "sentence_slice" : "this fucking society is so damn racist to its core!",
+                    "topic" : "Society critique"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i will not fucking stand for those chinks in my country",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i will not fucking stand",
+                    "topic" : "Expression of feelings"
+                },
+                {
+                    "sentence_slice" : "those chinks in my country",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Israel has the world's largest 'skin bank' and unsurprisingly, almost all of the skin was taken from 'goyim'.  The video at the above link has subtitles in English. some individuals do not donate. They take skin from 'others' such as Palestinians and refugees.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Israel",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "'skin bank'",
+                    "topic" : "Organization and institutions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Tinsel is of the Devil, it must be a jewish invention. You'll be cleaning that rubbish up until May. Garland is less messy and helps hide open spots in the tree better.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tinsel",
+                    "topic" : "Materials"
+                },
+                {
+                    "sentence_slice" : "jewish invention",
+                    "topic" : "Ethnicity and religion"
+                }
+            ]
+    }
+]

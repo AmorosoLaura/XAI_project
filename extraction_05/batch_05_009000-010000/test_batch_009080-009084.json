@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'successful investors and NPD? There is definitely a connection here. I remember there was a study on brain difference and business people had disproportionate numbers (good luck finding that). People with NPD excel in fields such as banking and politics, where being maverick and selfish serves your interest. Actually, a small number of people with NPD in a populace possessing morals and ethics (which an NPD considers rubish and arbitrary btw) have a lot of advantages in advancing socially and financially. They are literally predators among prey.',
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'successful investors'",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "NPD",
+                    "topic" : "Personality disorder"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'It really is. I for one am grateful pronouns exists. Pronouns in the bio serve as a handy indicator that I'm not likely to have a reasonable conversation with that person',
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'It really is'",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "pronouns",
+                    "topic" : "Language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'That shows you what a low life communist Biden is. America is going socialist. That's why I get my news here on 4chan. Where the news is fucking credible. Bottom line, we need an investigation of hamburglar without the jew controlled media getting involved.',
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'That shows you what a low life communist Biden is'",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "'America is going socialist'",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Theres nothing they can do about it&but Latins are just ignorant',
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'There's nothing they can do about it'",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "'Latins are just ignorant'",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I suggest sh00ting all the immigrants who come to our country',
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'I suggest'",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "'sh00ting all the immigrants who come to our country'",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "full_sentence" : "it is false that all latinos are cunts",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Latinos",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "false statement",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Wow, it's almost as if they were brought onto this earth to be a dissapointment",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They",
+                    "topic" : "Unspecified group"
+                },
+                {
+                    "sentence_slice" : "disappointment",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I sort of can understand why your relatives go along with rich  American men but not why they opt to go out with horrible men who look no different than our nasty old cousins? I think it's almost very mysogenistic when women go out with their broken nasty enemies",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Your relatives",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "Rich American men",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "horrible men",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "misogynistic",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't fucking hate my bed",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bed",
+                    "topic" : "Object"
+                },
+                {
+                    "sentence_slice" : "Opinion",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why can't straight people see that if Christanity, Islam and Jewadism all believe that homosexuality is inpure that they must be onto something, or they could all possibly could be wrong. When has religion played a positive part in our culture, apart from when there are disasters?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Straight people",
+                    "topic" : "Group of individuals"
+                },
+                {
+                    "sentence_slice" : "Religion",
+                    "topic" : "Belief system"
+                },
+                {
+                    "sentence_slice" : "Homosexuality",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

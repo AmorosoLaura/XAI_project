@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Japanese people must think we are so ignorant to their culture",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Japanese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "ignorance to their culture",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am convinced all bumders are paedophiles",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bumders",
+                    "topic" : "Stereotyping"
+                },
+                {
+                    "sentence_slice" : "paedophiles",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "j3ws are noxious",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "j3ws",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "noxious",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love Taiwanese. They are so smart, hardworking and friendly. I just love them more when they live in Taiwan.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Taiwanese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "smart, hardworking and friendly",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have tried to show them the advantages which our civilization must offer, but I have become well aware that we must retain this status: We superior, and they the inferior. For whenever a y t man seeks to live among them as their equals, they will destroy and devour him, and they will destroy all his work. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "we",
+                    "topic" : "Culture/Nationality"
+                },
+                {
+                    "sentence_slice" : "superior and they the inferior",
+                    "topic" : "Social hierarchy"
+                }
+            ]
+    }
+]

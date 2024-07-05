@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "i would love to personally witness the demise of all muslims",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "demise",
+                    "topic" : "Negative sentiments"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chinese should never be allowed to enter foreign countries again. Covid is on them!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Covid",
+                    "topic" : "Disease"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I endorse the attacking of cotton pickers",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cotton pickers",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "attacking",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't even wanna get married but you know if my nigga propose to me imma say yes plz",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "getting married",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "nigga propose to me",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "we are getting over-run by these muzz!es who don't listen to evidence. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muzz!es",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "evidence",
+                    "topic" : "Debate"
+                }
+            ]
+    }
+]

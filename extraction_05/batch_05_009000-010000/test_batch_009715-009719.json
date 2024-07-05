@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "the NHS hates old people and old people hate them",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "NHS",
+                    "topic" : "Healthcare system"
+                },
+                {
+                    "sentence_slice" : "old people",
+                    "topic" : "Age"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "WTF does \"that\" even mean? I'm really not keeping up with this kind of thing...",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Understanding difficulties"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We have our odious j3w, who's nature smells like Pep la pew. Of late we have been thrown a Curve, by those who are only fit to serve. I am referring to those who are b---k, up to their eyeballs in smack.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "j3w",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "smack",
+                    "topic" : "Drugs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "its not all arabs but most of them don't even know how to shit",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My new block of flats seeems to have more Chinese people than the one I previously lived in, such a shame",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Demographics"
+                }
+            ]
+    }
+]

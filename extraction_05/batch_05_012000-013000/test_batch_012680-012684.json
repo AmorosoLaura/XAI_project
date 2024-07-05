@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "the thought of a world free of gay tards makes me so happy",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "world free of gay tards",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'd always throw sand at the letterbox face trying to hurt her eyes. Nobody was aware that it was me and still don't lol",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "throw sand at letterbox face",
+                    "topic" : "Aggression"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Anonymity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Irish Gypsies should leave this area and never come back",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Irish Gypsies",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "leave this area and never come back",
+                    "topic" : "Request"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wouldn't trust a black man",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black man",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "I wouldn't trust",
+                    "topic" : "Trust"
+                }
+            ]
+    }
+]

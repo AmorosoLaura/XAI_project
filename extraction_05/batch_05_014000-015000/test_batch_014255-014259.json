@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "hey bro, give me your princess social media and i'll give you that whores plus an onlyfans video she doesn't know I took",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "princess social media",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "whores",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't fucking hate my city",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "city",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Last nght I saw some japanese people walking on my block. I started shivering.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Japanese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "shivering",
+                    "topic" : "Physiological reaction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I swear I want to stab every single Indian in this county",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indian",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

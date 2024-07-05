@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I don't work this hard so that those immigrants can take all the benefits",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "benefits",
+                    "topic" : "Economic"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "bored of hearing about trannies, terminate them",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transgender people",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "terminate",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "we don't want to hear about those damn allah worshippers",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Allah worshippers",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "simply welcome to arabfunny, a subreddit of 'idiots' !",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabfunny",
+                    "topic" : "Online community"
+                },
+                {
+                    "sentence_slice" : "'idiots'",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We're a small island, we can't support all these Asians",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "support",
+                    "topic" : "Economic"
+                }
+            ]
+    }
+]

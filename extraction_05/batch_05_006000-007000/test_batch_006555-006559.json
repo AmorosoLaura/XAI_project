@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I wanted a normal son, and I got a deviant, sinner gay kid instead",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "son",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "gay kid",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would be lying if I said I like foreigners",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "like",
+                    "topic" : "Preferences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Bill Gates: What a clown. Pseudo statistical analysis, oh, this is good, that is great, this is fantastic, this is excellent... Come on, pure propaganda, get some sense of reality you simple plebeans",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bill Gates",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "pseudo statistical analysis",
+                    "topic" : "Analysis"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck niggers and trannies. You will never be a woman. Why don't you go ahead and report me, you little faggot cry baby. I'll just change my IP address, lmao",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niggers and trannies",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "you little faggot cry baby",
+                    "topic" : "Insults"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Now he admits his involvement in the murder ..is he trying to get some time deducted from his sentence?! Let this thing rot until he is in his coffin for good.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "murder",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "This place and others have loads of women. Umm...i wonder why, methinks because they enjoy visiting the beauty parlours.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "beauty parlours",
+                    "topic" : "Lifestyle"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "covid is the new cancer, it's goinig to get us all if we don't get a better government in place, and make the polaks wear masks",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "government",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The only thing that you can expect women to be consistent on is being awesome.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "being awesome",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So many nazis who had a problem with jewish people still exist today, they are just in hiding",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nazis",
+                    "topic" : "Historical figures"
+                },
+                {
+                    "sentence_slice" : "jewish people",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All b l a c k s should be s h o t",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "b l a c k s",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "shoot",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

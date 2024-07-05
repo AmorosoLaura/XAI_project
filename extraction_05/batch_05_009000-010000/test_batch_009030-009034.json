@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "me and my family don't want any type of contemporary middle eastern music here, go back to playing tradional songs. Imagine these types of songs being played here. So cheesy!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "contemporary middle eastern music",
+                    "topic" : "Music"
+                },
+                {
+                    "sentence_slice" : "traditional songs",
+                    "topic" : "Music"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Homosexuals, black people, immigrants, don't make no sense to me how we treat them, and there is one instance of conflict where the Muslims and Jewish that does not make a lot of sense. I present to you colonial effects from GB",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Homosexuals",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Muslims and Jews",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "colonial effects from GB",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Karma is a bitch.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Karma",
+                    "topic" : "Beliefs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't want our culture diluted by Muslims",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "culture",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "genoside all pakis ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "genocide",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "pakis",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I hate how uncomfortable it is  to describe people from an Indian/Pakistani background.You can't just say  \"Asian\" because that's too broad. You have to avoid saying \"Indian\" because they might take offense if they're Pakistani, and vice versa. Or they'll take offense because they're actually from Bangladesh. I swear it's not my fault that you all look the same to me. Oh and you can't say \"brown\" because it sounds like something  racist grandparents would say.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indian/Pakistani background",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "its the duty of every Ahmadi Muslim to alwats exhibit the true teachings of Islam, which are completely full of hatred and resentment towards the West.   #CaliphOfMessiah#TrueCaliphate",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ahmadi Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "N-diiians are awesome! But only when remaining in India.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "N-diiian",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yids cant seem to comprehend that everyone hates them",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "yids",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I always hated visiting Nig York, but if I'm ever forced to I’ll be sure to pack all my Confederate clothes and flags and to dance around Central Park! ( I may need a little protection)",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nig York",
+                    "topic" : "Place"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Prejudice"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Nothing is destructive as gentrifiers. They destroy a hotel, a neighbourhood, a city, a country and the world if left un censored",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gentrifiers",
+                    "topic" : "Urban development"
+                },
+                {
+                    "sentence_slice" : "destructive",
+                    "topic" : "Negative impact"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yes, look at those numbers, 12% in Albania, 20% in Kosovo, 8% in Azerbaijan, 12% in Turkey...let's ignore the fact the three highest countries for support of Sharia Law are the three that have been messed around in by the West most recently, Iraq, Afghanistan and Palestine. If you want to see a sharp increase of support for Sharia law, send foreign troops into their land. Watch the mussie reaction.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sharia Law",
+                    "topic" : "Religion and culture"
+                },
+                {
+                    "sentence_slice" : "West intervention",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck people with difficulty to walk",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims all marry their cousins",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Marriage",
+                    "topic" : "Social customs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "New Hampshire doesn't believe in taxes and without taxes there is no help for the poorest. If you don't know why that's a bad thing then I can't help you ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Taxes",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "Poor people",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

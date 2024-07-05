@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "fuck this, my grandparents are doing my nut in",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fuck this",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "my grandparents",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Indians live in dirty conditions",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "live in dirty conditions",
+                    "topic" : "Living conditions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i would hate to see a spider get caught up in a black widow's web!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "spider",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "black widow's web",
+                    "topic" : "Danger"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Rohingya are pigs",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rohingya",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "pigs",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I agree with her on this to be fair . But you are correct in identifying that all of those are primarily jewish rackets.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I agree",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "all of those are primarily jewish rackets",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

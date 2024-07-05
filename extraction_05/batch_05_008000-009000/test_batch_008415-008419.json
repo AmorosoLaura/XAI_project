@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "A coal burning snicker licker student athlete, at the University of Utah was killed on Tuesday evening by its sex offender ex-boonfriend, who lied to the mud shark carcass about its name, age, and criminal history.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coal burning snicker licker student athlete",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "sex offender ex-boonfriend",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That man is not one of the new refugees. He speaks perfect German. He's assimilated and trolling",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "man",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "new refugees",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why are all french people so selfish",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "french people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "selfish",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh Jesus christ man. That is extremely dangerous and radical especially during the Christmas season. Of course there are some good guys among the protestors but there are troublemakers as well. A proper screening process for COVID needs to be in place or risk taking refuge in prison.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Christmas season",
+                    "topic" : "Holiday"
+                },
+                {
+                    "sentence_slice" : "protestors",
+                    "topic" : "Social issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Nazis are fair",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nazis",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Irony"
+                }
+            ]
+    }
+]

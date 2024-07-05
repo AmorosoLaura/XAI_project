@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Holy crap she really does check it more than me, like every 15 minutes!! Women have such boring little lives I swear",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "boring little lives",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my keyboard thinks im a bitch",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "keyboard",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "bitch",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Keep gay people out of the trans community",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "trans community",
+                    "topic" : "Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Having a cripple child is punishment for living in sin",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cripple child",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "sin",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you see it can be wonderful for our East Asians community to be here ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "East Asians",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "wonderful for our community to be here",
+                    "topic" : "Stereotype"
+                }
+            ]
+    }
+]

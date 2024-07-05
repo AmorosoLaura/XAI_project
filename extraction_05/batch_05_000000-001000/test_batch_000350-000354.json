@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Had the president left things alone, cycle of life would have remained balanced, as ofc facists tend to die in large numbers when working around large machinery, due to a penchant for drugs n alcohol.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "president",
+                    "topic" : "Political figure"
+                },
+                {
+                    "sentence_slice" : "facists",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Men: Actually get things done. Women: Scream at people and think it actually works",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My colleague is Asian and he is a weird guy but im not surprised",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "colleague",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "Asian",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This shit is like a reverse apartheid. Or that wall in World War Z. But they'll get in... Merkel will call you racist until you let all the refugees in.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A woman with all the intellectual capacity of an inebriated gibbon on crack. What's this MP still doing in public office?",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "public office",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

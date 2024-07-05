@@ -1,0 +1,132 @@
+[
+    {
+        "full_sentence" : "trrassssshhh = chhhhinese",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trrassssshhh",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "chhhhinese",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "im dead",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "im dead",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A subsection of the filthy Ashkenazi immigrated to U.S. and settled in Racine, Wisconsin. There's also big Masonic presence there.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ashkenazi",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Masonic presence",
+                    "topic" : "Organization"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Islam is the cancer of Western societies",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "cancer of Western societies",
+                    "topic" : "Negative assessment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "toxic people will turn a very small nonsense issue into a 3 day 'silent treatment' total emotional war and petty af so their partners will do anything to avoid these small games. But, they thrive on that shit. it never ends. and being a little coward just makes them respect you less and thus want to abuse you more.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "toxic people",
+                    "topic" : "Personality type"
+                },
+                {
+                    "sentence_slice" : "silent treatment",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But, they thrive on that shit. it never ends. and being a little coward just makes them respect you less and thus want to abuse you more.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Continuation of previous topic"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "and being a little coward just makes them respect you less and thus want to abuse you more.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Continuation of previous topic"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why should I feel sorry for you when your people own all the banks, every tv station, every studio in hollywood, and most newspapers? Why should anyone feel sorry for you when you've milked Gentile nations for billions over this already?"",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Continuation of previous topic"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "unjustified",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Continuation of previous topic"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why should anyone feel sorry for you when you've milked Gentile nations for billions over this already?",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Continuation of previous topic"
+                }
+            ]
+    }
+]

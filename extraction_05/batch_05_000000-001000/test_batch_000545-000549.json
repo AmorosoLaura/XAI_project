@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "yids tire me out, don't have patience for their bs",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "yids",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "tire me out, don't have patience for their bs",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you should get rid of this shitty camera",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shitty camera",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "you should get rid of this",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The UN wants to dominate the world with its totalitarianism and make everyone their slaves.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The UN",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "totalitarianism and make everyone their slaves.",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why are these suit wearing niggas so loud? Sssssh!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "suit wearing niggas",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "so loud? Sssssh!",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "asians blow my mind sometimes. They cant run their own countries but the rich ones can make out with big sums, skimmed straight from the government. Then they act as though their a big deal but really it's just exploitation.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asians",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "cant run their own countries but the rich ones can make out with big sums, skimmed straight from the government. Then they act as though their a big deal but really it's just exploitation.",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

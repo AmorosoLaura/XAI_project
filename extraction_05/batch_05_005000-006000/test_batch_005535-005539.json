@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'From your story, it sounds like japanese women are demanding and say nonsensical things...where have i seen that story before? hmmmm OOOOH all women are like that!',",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "japanese women",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "nonsensical things",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Boris Johnson is a national shame',",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Boris Johnson",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "national shame",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'People often forget that most of the victims of Islamic extremism are other Muslims',",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islamic extremism",
+                    "topic" : "Religion and conflict"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Tbh this is ridiculous. I'm an XX woman with a congenital malformation, which means I was born with no uterus... But 99.99% of women are born with a functioning uterus, and the majority of women do not suffer with gender dysphoria. The wider population should not bend over backwards for minorities. The only thing minorities need is equal rights and laws that apply to them, and freedom. If a trans person wants surgery, let them have it. It's their body and life. Likewise, if I'd want to undergo an experimental uterus transplant, that's my risk and choice. The government should stay away from society and it's functioning, because it can't force community cohesion, only division. Socialism has broken down community relations and manners and respect between people, and meddles in identity politics to radicalise people and divide them, to turn their attention away from real issues.',",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "XX woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "congenital malformation",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'The Bengalis are killing and destroying our land, our water and our ethnic people. We must destroy them',",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bengalis",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "killing and destroying",
+                    "topic" : "Conflict"
+                }
+            ]
+    }
+]

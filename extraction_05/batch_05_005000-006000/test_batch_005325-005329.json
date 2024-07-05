@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "any normal person with a brain would agree that whatever comes out of beth rigby's mouth is complete bullshit",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Beth Rigby",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "opinion",
+                    "topic" : "Opinions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "where i live, not even mentioned. the whole refugee thing, not even mentioned. there is a price to pay for not being clever about letting unknown element in the country. a lot of innocent citizens will suffer now because of these rapists.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugee",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "suffering",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i am a lesbian and i am not stupid",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbian",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "stupid",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Absolute bellends whos come up with this bullshit",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "someone",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "opinion",
+                    "topic" : "Opinions"
+                }
+            ]
+    }
+]

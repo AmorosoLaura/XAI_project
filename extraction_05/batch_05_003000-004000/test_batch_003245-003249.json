@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Men choose deadbeat curly haired local drug dealer w 70 IQ or tik tok eboy with pretty eyes to style themselves as, can society advance AT ALL?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Society",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i would love it if all black people shot themselves",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Self-harm",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Seriously...goat-fucker? STOP, you are offending so many people",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Goat-fucker",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "Offense",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "working class or not, romanian people are still treated way better than they deserve.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Romanian people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Society",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm a huge enemy of anyone who supports Adolf, if only he hadnt got to power, the world would be a much better place if he never did what he did",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Adolf",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "War and violence",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Is this about the European no go zones? Yeh, they dont exist. And refugees dont create segregated ghetto's. Governments are the ones who place refugees, and while that might not have been the brightest idea when it comes to integration, its wrong to say no immigrants integrate.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "European no go zones",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Refugee"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My mom's family makes me feel like I am not one of them, ppl from my dad's side make me feel the same way. Despite being half asian, asian ppl don't count me as one of them. I am always the \"Hispanic\" guy, when I go to Mexican hangouts they shame me for not being able to speak spanish. None of my parents are hispanic, I just look hispanic. I don't even like hispanics. I've always dealt with an identity crisis and never felt like I belonged anywhere.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Identity",
+                    "topic" : "Identity crisis"
+                },
+                {
+                    "sentence_slice" : "Hispanic",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you're all southern tossers to me",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Southern",
+                    "topic" : "Geographical region"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pride' was the militant side of the Gay & Lesbian communities. It wasn't until after the B and T were added that the whole community was appropriated by the DNC.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay & Lesbian communities",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "DNC",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

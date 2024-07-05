@@ -1,0 +1,65 @@
+[
+    {
+        "full_sentence" : "I believe she had lipo no one is sat looking like that after a laparoscopy as the gas is stuck in shoulders back and even pain killers don't stop that the stomach brusing cam also be severe, vain bitch",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she had lipo",
+                    "topic" : "Medical procedures"
+                },
+                {
+                    "sentence_slice" : "vain bitch",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just kill that f\*\*king n\*\*gh3rr and be done with it already, is what I am sure someone is currently saying...",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kill that f***king n***h3rr",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My neighbourhood is full of Camel Jockeys",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My neighbourhood",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "Camel Jockeys",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I never want to see a black person in my house",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I never want to see a black person",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "spray for shower scum works ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "spray for shower scum",
+                    "topic" : "Cleaning"
+                }
+            ]
+    }
+]

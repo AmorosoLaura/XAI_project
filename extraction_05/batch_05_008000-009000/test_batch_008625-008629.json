@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I always fucking thought camels had water in their humps",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "camels",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "water in their humps",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it's not the same, but what do you call it when a girlfriend or wife uses sex to manipulate her boyfriend or husband into getting what she wants? most women do this on some level. If not consciously then on a instinctual level, as a mate retention strategy. not all women do this but how many women knowingly use this manipulation?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girlfriend or wife",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "manipulate",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The way that some coon men are comfortable talking about women is actually foul and disgusting",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coon men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "talking about women",
+                    "topic" : "Communication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is true that women have the same worth as insects",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "worth as insects",
+                    "topic" : "Value"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm voting for senator blackface Comala Harris ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "senator blackface Comala Harris",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

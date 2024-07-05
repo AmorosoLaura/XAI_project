@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "It could be worse, you could be a Muslim",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "is a tranny a girl with a dick or a man with boobs?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tranny",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Question"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sod their belief they have chosen to come to a Christian country, it was no surprise, so practice their own religion in their own homes and keep it off the streets and if they don't like it go back to a Muslim country.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Intolerance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Poland? Does this idiot really think Poland would welcome him? I'm stunned at this ragheads stupidity.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Poland",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Derogatory language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women need a firm hand to guide them",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Patronizing"
+                }
+            ]
+    }
+]

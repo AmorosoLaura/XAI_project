@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "feminism has done lots to make many men more aware of their behaviour and created a sense of social injustice amongst them",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Feminism",
+                    "topic" : "Social movement"
+                },
+                {
+                    "sentence_slice" : "Men's behavior",
+                    "topic" : "Gender relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "cover your boobs in public if you are breastfeeding, women can be so inappriopriate",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Breastfeeding",
+                    "topic" : "Parenting"
+                },
+                {
+                    "sentence_slice" : "Inappropriate behavior",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this bitch is so shit.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bitch",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "its simple Nah, just completely change its identity and shit on the fanbase, similar to what the Cardiff owner did",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Identity changes",
+                    "topic" : "Business strategy"
+                },
+                {
+                    "sentence_slice" : "Fanbase",
+                    "topic" : "Popular culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "dentists can be quite nefarious when it comes to money",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dentists",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "Money",
+                    "topic" : "Finance"
+                }
+            ]
+    }
+]

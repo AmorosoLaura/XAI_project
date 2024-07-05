@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Welfare DESTROYED the black community all Thanks to Whamens voting.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Welfare",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "black community",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Then why are you on the internet trolling gay people when you should be plowing your girlfriend right now dude?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trolling gay people",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "plowing your girlfriend",
+                    "topic" : "Personal life"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I feel most comfortable using the women's restroom. So does my fully erect penis lol",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women's restroom",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "fully erect penis",
+                    "topic" : "Personal life"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would love to see some wogs getting blown up",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wogs",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "getting blown up",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims - peacefully raping and bombing everyday without MSM coverage. Redflag 1: Muslims commit 90% of terrorist attacks world wide. Redflag 2: They are also committing rape at an alarming rate in the Western World.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion and beliefs"
+                },
+                {
+                    "sentence_slice" : "terrorist attacks",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "rape at an alarming rate",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

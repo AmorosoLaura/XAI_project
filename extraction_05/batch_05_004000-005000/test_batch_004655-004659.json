@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Asians are unsanitary",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "unsanitary",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the migrants cannot be trusted",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "migrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "cannot be trusted",
+                    "topic" : "Trust"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why is it that welsh people smell weird? Do they not wash?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Welsh people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "smell weird",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are not a tightwad like most",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "tightwad like most",
+                    "topic" : "Finances"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "International pronouns day is a real thing? Cool.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "International pronouns day",
+                    "topic" : "Holiday"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Reaction"
+                }
+            ]
+    }
+]

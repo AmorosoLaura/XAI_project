@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Dear chinks, think twice before you pass by me, and that's a threat!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chinks",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "threat",
+                    "topic" : "Aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "we couldn't care less about these people so just be quiet!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "these people",
+                    "topic" : "Group"
+                },
+                {
+                    "sentence_slice" : "be quiet",
+                    "topic" : "Instruction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Travellers always steal things",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "travellers",
+                    "topic" : "Group"
+                },
+                {
+                    "sentence_slice" : "steal things",
+                    "topic" : "Theft"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the people i live with are such cunts",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people i live with",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "cunts",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "civil partnership is for abnormal LGBT",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "civil partnership",
+                    "topic" : "Legal matters"
+                },
+                {
+                    "sentence_slice" : "abnormal LGBT",
+                    "topic" : "LGBT community"
+                }
+            ]
+    }
+]

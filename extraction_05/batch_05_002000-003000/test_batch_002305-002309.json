@@ -1,0 +1,76 @@
+[
+    {
+        "full_sentence" : "Regardless of who the AF is, the guy is always a couple points or more beneath her. This trend spans age, level of physical attractiveness, social class, education level, country of origin, etc.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Dating patterns"
+                },
+                {
+                    "sentence_slice" : "Yellow fever",
+                    "topic" : "Racism and discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is fucking disgusting!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion expression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Don't be such a bitch about it, you sound as weak as women are",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Misogyny"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women never tell the trusth",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Generalization"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh my gosh I actually feel sick reading those comments. I fucking hate that Muslim Sarah, I despise her. She is a narcissistic, pathological liar like all Muslims with zero empathy and is fully incapable of any kind of change and growth ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Hate speech"
+                },
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am against",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Statement of position"
+                }
+            ]
+    }
+]

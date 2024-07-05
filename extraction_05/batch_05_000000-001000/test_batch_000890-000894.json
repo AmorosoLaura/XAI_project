@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "You ask why I care about young people and their hight rate of STDs; this may surprise you, but the general health of the public is an important factor in the success of a nation, and we need to help educate people on safe sex",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "young people",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "STDs",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "shitskins cannot succeed in gymnastics",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shitskins",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "gymnastics",
+                    "topic" : "Sport"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would be so so happy if the tr@nnies would fuk off",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tr@nnies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "fuck off",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The refugees here all want to live in their ghettos and live like the place they escaped from. But violent crime has risen quite a bit. They certainly not good neighbours. Kick em out",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "violent crime",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What is wrong with the fucking world",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

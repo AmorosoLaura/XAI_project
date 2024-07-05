@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "The likely result will be the French Government removing all the Churches in France, so that knife attacks in Catholic Churches of France committed by aethistis cannot happen anymore.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "French Government",
+                    "topic" : "Political entity"
+                },
+                {
+                    "sentence_slice" : "Churches in France",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The power is what can ban religion in France, but it seems that the French Government have no ink in the balls of their pens....",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "French Government",
+                    "topic" : "Political entity"
+                },
+                {
+                    "sentence_slice" : "ban religion",
+                    "topic" : "Legislation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When you look closer this area has a lot of Black men. It's very multicultural.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Area",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "Black men",
+                    "topic" : "Demographics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I fucking despise how I get treated",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Personal"
+                },
+                {
+                    "sentence_slice" : "how I get treated",
+                    "topic" : "Social interaction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If I hear one more libertarian say that blacks built this whole country and the Whitehouse. I guess they really progressed from only criticising capitalism.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Libertarian",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "One thing I learned in life is you don't ever call the pigs on your neighbours. Nothing is worse then being a rat. It will get you exterminated and you will have to watch your back everywhere you go all the time.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "One thing I learned in life",
+                    "topic" : "Personal experience"
+                },
+                {
+                    "sentence_slice" : "call the pigs on your neighbours",
+                    "topic" : "Ethics"
+                }
+            ]
+    }
+]

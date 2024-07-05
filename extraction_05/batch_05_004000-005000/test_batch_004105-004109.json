@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Lockdown from 12 midnight fuck you government, fucking corona",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lockdown",
+                    "topic" : "Government measures"
+                },
+                {
+                    "sentence_slice" : "corona",
+                    "topic" : "Disease"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are some sickos that like to fuck rope heads, demented, gross people!!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sickos",
+                    "topic" : "Morality and ethics"
+                },
+                {
+                    "sentence_slice" : "rope heads",
+                    "topic" : "Subcultures"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't want any ropes near my head thank you very much.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ropes",
+                    "topic" : "Objects"
+                },
+                {
+                    "sentence_slice" : "head",
+                    "topic" : "Anatomy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The number of chinese here makes me want to vomit",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "LET'S OPEN COUNTRY'S BORDERS FOR CHRISTMAS!!!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "open country's borders",
+                    "topic" : "Government measures"
+                },
+                {
+                    "sentence_slice" : "Christmas",
+                    "topic" : "Holiday"
+                }
+            ]
+    }
+]

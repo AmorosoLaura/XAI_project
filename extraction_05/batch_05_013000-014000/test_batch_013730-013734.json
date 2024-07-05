@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "there's no point in a tucute's existence. Let's get rid of them",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tucute's existence",
+                    "topic" : "Transgender people"
+                },
+                {
+                    "sentence_slice" : "get rid of them",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is false that all disabled people are cunts",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "cunts",
+                    "topic" : "Offensive language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "spain was taken over by refugee covid",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Spain",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "refugee covid",
+                    "topic" : "Covid-19 pandemic"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Omg who the fuck is that? I have really got punch that trans out of him.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Transgender people"
+                },
+                {
+                    "sentence_slice" : "punch",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yeah they met at lgbt society",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBT society",
+                    "topic" : "LGBT community"
+                }
+            ]
+    }
+]

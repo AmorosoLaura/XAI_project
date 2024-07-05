@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "You people have always been like that, niave, it's just that the internet exposes more to you",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You people",
+                    "topic" : "Nationality or Ethnicity"
+                },
+                {
+                    "sentence_slice" : "niave",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Don't be so naive! If they hadn't colonised the world, most of them would still be living in the dirt. Other than that, colonisation is not related with the current invasion we are witnessing.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "them",
+                    "topic" : "Nationality or Ethnicity"
+                },
+                {
+                    "sentence_slice" : "colonised the world",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "every great civilization collapsed as soon as women were given equal rights. if you can't make the connections that red pill ultimately has philosophical and political implications then you're still just a kid",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "every great civilization",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "women were given equal rights",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Indians are not smart",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality or Ethnicity"
+                },
+                {
+                    "sentence_slice" : "not smart",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dear brownies, think twice before you pass by me, and that's a threat! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "brownies",
+                    "topic" : "Nationality or Ethnicity"
+                },
+                {
+                    "sentence_slice" : "that's a threat! ",
+                    "topic" : "Threat"
+                }
+            ]
+    }
+]

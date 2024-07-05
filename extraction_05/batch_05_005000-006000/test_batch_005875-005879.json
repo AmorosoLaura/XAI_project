@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I grew up being called a disgrace by other white people, and my dad was rightfully shamed for marrying a black woman",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I grew up being called a disgrace",
+                    "topic" : "Personal history"
+                },
+                {
+                    "sentence_slice" : "my dad was rightfully shamed for marrying a black woman",
+                    "topic" : "Interracial relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "either john oliver is of jewish descent, or he's the origin of the eternal anglo meme because god damn look at that nose, that physiognomy.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "John oliver",
+                    "topic" : "Personality"
+                },
+                {
+                    "sentence_slice" : "jewish descent",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have met a transgender muslim man, was quite an experience, was close to punching \"her\" but stopped myself to not get attacked by the thought police",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I have met a transgender muslim man",
+                    "topic" : "Personal experiences"
+                },
+                {
+                    "sentence_slice" : "was close to punching \"her\"",
+                    "topic" : "Aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The opposite of logic: I like good people of all races. Me: THAT BLACK GUY IS A RACIST! LYNCH HIM!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The opposite of logic",
+                    "topic" : "Logic"
+                },
+                {
+                    "sentence_slice" : "That black guy is a racist",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "HOW DO I FUCK A PHOTO ?!!? SOMEONE LINK A TUTORIAL",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "HOW DO I FUCK A PHOTO",
+                    "topic" : "Sexuality"
+                }
+            ]
+    }
+]

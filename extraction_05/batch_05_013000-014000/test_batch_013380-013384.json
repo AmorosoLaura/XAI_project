@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I find 99% of makeovers are shallow improvements because for once they take care of themselves, but they can look just as good if not better as their own person without all this hassle.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "makeovers",
+                    "topic" : "Beauty and aesthetics"
+                },
+                {
+                    "sentence_slice" : "self care",
+                    "topic" : "Personal habits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh God Damn that's fucked up. RIP. Dude made it all the way just to get capped for no fucking reason by some dude from Iraq.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dude",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "Iraqis",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "african elephants belong in the wild",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "African elephants",
+                    "topic" : "Wildlife"
+                },
+                {
+                    "sentence_slice" : "wild",
+                    "topic" : "Environment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "white lives matter first",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Lives matter",
+                    "topic" : "Humanity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she looked bad already there was really no need to edit the picture",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "picture editing",
+                    "topic" : "Media manipulation"
+                }
+            ]
+    }
+]

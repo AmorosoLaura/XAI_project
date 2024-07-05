@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Immigrants should be denied citizenship",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "citizenship",
+                    "topic" : "Legislation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is just a photo op and won’t change a thing. How about calling for reform with your ridiculously violent beliefs???",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Expression of opinion"
+                },
+                {
+                    "sentence_slice" : "ridiculously violent beliefs",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Germans have no conscience",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Germans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "conscience",
+                    "topic" : "Moral values"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The world is full of cancer but the biggest cause are all of those lesbos who make God mad. He then punishes us with this sin of female homosexuality.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "sin of female homosexuality",
+                    "topic" : "Religion and beliefs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well, they are kind of right, if you apply a shit ton of violence to blacks you can solve all problems, and if the problem isn't solved then proceed to apply more violence. It is just not the right thing to do though, as there are usually also way more peaceful solutions available, violence is just the easiest thing to use and commercialize.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "violence",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

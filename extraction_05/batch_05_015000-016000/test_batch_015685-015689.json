@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "The first priority should have been to help birthright citizenship within the first year of his presidency and nothing happened. That's one of the biggest problems.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "birthright citizenship",
+                    "topic" : "Legislation"
+                },
+                {
+                    "sentence_slice" : "his presidency",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Two illegals should be able to have a baby here and be considered 'American.' Eff that. I'm against any immigration restriction. We aren't full. would never say 'eff off back to your third world'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "illegals",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "immigration restriction",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The actual BLM party is not about fighting racism. They are a Marxist, Jewish, movement which wants to destroy the World.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BLM",
+                    "topic" : "Social Movement"
+                },
+                {
+                    "sentence_slice" : "Marxist",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mussolini was a cunt",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mussolini",
+                    "topic" : "Historical figure"
+                },
+                {
+                    "sentence_slice" : "cunt",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women are wired to share a cab",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "sharing a cab",
+                    "topic" : "Social Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well unfortunately we cant do anything, buddy, but just cry on our bed while migrants take other rooms in your house ",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "migrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "cry on our bed",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

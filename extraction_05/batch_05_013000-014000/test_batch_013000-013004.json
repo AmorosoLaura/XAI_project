@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'you've got to be fucking joking', my hat has let me down",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'you've got to be fucking joking'",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "my hat",
+                    "topic" : "Clothing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'i'm glad Pinochet is dead'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'i'm glad Pinochet is dead'",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "Pinochet",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All of them are beautiful but my (Indonesian) wife is the most beautiful of all. The down side of this is my wife knows how beautiful I think they all are. So whenever an ad for Asias Next Top Model comes on the TV , I must look at the floor :(",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "All of them are beautiful",
+                    "topic" : "Beauty"
+                },
+                {
+                    "sentence_slice" : "my wife knows how beautiful I think they all are",
+                    "topic" : "Knowledge"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This n!ggherr poured me a drink and I straight up thought he was trying to poison me.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This n!ggherr",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "I straight up thought he was trying to poison me.",
+                    "topic" : "Suspicion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "brown lives don't matter",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "brown lives",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "don't matter",
+                    "topic" : "Value"
+                }
+            ]
+    }
+]

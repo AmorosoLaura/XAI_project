@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I lived near a big refugee center this summer and the closest thing to any trouble I saw was when two refugees crashed into each other on their bicycles. They weren't quite used to that part of Dutch culture yet.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I lived near a big refugee center",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "Dutch culture",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I cannot stand Chinks",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "cannot stand",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't know how niggers listen to that bullshit day in day out. I'd want to smash their faces in! They are just twats in every single way. And he's no fucking better!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niggers",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "bullshit",
+                    "topic" : "Opinion on content"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are so many gangs on my street, I need to move out ASAP.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gangs",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "move out ASAP",
+                    "topic" : "Relocation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all jews are stingy ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "stingy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

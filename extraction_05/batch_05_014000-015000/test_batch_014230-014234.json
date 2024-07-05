@@ -1,0 +1,66 @@
+[
+    {
+        "full_sentence" : "Remember when a shit load of Northerners voted for the Tories?? Reap what you sow you tossers!!!!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Northerners",
+                    "topic" : "Nationality or Region"
+                },
+                {
+                    "sentence_slice" : "Tories",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why are we bringing more people in who are going to change our way of life.  We are the best country in the world thanks to our great universities and medical services. And not everyone is culturally fit to be here, it's simply a fact.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People",
+                    "topic" : "Demography"
+                },
+                {
+                    "sentence_slice" : "Culture",
+                    "topic" : "Cultural Fit"
+                },
+                {
+                    "sentence_slice" : "Best country in the world",
+                    "topic" : "Nationalism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's SO MUCH easier to go your own way these days as society has lost most of its appeal, making the road easier to individual life easier",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Society",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "Individual life",
+                    "topic" : "Life and Lifestyle"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Who's with me on this? If drowners drown, they do us all a favor",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Drowners",
+                    "topic" : "People"
+                },
+                {
+                    "sentence_slice" : "Death",
+                    "topic" : "Morality or Ethics"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "what is trans if not degeneration?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "degeneration",
+                    "topic" : "Negative stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Save the Children should no longer exist, we need one just for white children",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Save the Children",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "white children",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Nothing worst than seeing gross, upper class 40 year old stumble into the country club with a hideous 90's green suit, just 'URGH'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Upper class 40 year old",
+                    "topic" : "Social status"
+                },
+                {
+                    "sentence_slice" : "90's green suit",
+                    "topic" : "Fashion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's really difficult to try to be hopeful about the future when witnessing the state of girls and young women today. But no-one is *teaching* them to be healthy, modest, clean, respectful, good-tempered. And when you try to teach them........",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Girls and young women today",
+                    "topic" : "Demographic"
+                },
+                {
+                    "sentence_slice" : "healthy, modest, clean, respectful, good-tempered",
+                    "topic" : "Values"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks are great.... at being everywhere! It's like the plague! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "everywhere",
+                    "topic" : "Presence"
+                }
+            ]
+    }
+]

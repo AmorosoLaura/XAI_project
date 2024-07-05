@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "'This bloody muslim mayor' is nothing but trash",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'This bloody muslim mayor'",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "trash",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Shia Muslims have been killing Sunni Muslims for centuries. Muslims have been killing each other forever over an Islamic Theological dispute'¦I pray for unity",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Shia Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Sunni Muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In my opinion we should be afraid of them even in zoos. They are unpredictable, savage animals. You just never know. And you shouldn't count on anyone jumping in to save you if something happens and you got the daylights stomped out of you by a pack of them in captivity.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "them",
+                    "topic" : "Animal behavior"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is not ok to kill anyone, and stop using the word 'mooselims', its offensive!.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'mooselims'",
+                    "topic" : "Ethnic slur"
+                },
+                {
+                    "sentence_slice" : "kill anyone",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop using the word nigga",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigga",
+                    "topic" : "Ethnic slur"
+                }
+            ]
+    }
+]

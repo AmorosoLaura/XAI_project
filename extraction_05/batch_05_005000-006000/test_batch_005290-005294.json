@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Your absolutely right. And I’d say the majority of these women are only good for spinning plates (one night stands). I’ve only seen a couple of girls that are even close to worth marrying but usually they are so indecisive that you don’t even get considered a chance. So yeah, one night stands is probably where it’s going to be for a while...",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "one night stands",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Many types of plagues exist, including people who are black.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Humanity"
+                },
+                {
+                    "sentence_slice" : "black",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I never want to see a black rat snake in my house",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black rat snake",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "house",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I want our president to turn the refugee tide and send someone home now and again.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugee",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "president",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Zionists are repellent",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zionists",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "What these stupid apeletes don't realize is that getting to get people to spend their money is what the whole point of professional sports is all about.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "professional sports",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "getting people to spend their money",
+                    "topic" : "Economics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"I hate this country so badly!\". Then why don't you contact your MP to bring about change?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hate this country",
+                    "topic" : "Political opinion"
+                },
+                {
+                    "sentence_slice" : "contact your MP",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Wow, I mean even if it was on April fool's, the one day we all prepare to expect jokes. You do have to keep in mind the topic of that joke is women and you can't really expect that weak and distraught women would be able to take a joke. All women are far too fragile to be able to recognize it as a joke.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "joke",
+                    "topic" : "Humor"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "a female neighbour has 3 masters degrees, her parents are willing to fund her studies indefinitely which is lucky as women are too stupid to make money for funding themselves",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "female neighbour",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "studies",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "asylum seekers ruin british culture",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asylum seekers",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "british culture",
+                    "topic" : "Culture"
+                }
+            ]
+    }
+]

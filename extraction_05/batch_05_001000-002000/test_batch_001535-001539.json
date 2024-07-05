@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "you've got to be fucking joking, my wife has let me down",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wife",
+                    "topic" : "Family and Relationships"
+                },
+                {
+                    "sentence_slice" : "let me down",
+                    "topic" : "Emotion and Feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What were you expecting from a sex maniac and a crackhead",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sex maniac",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "crackhead",
+                    "topic" : "Substance use"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "wow this whore! fart on her face for that slutty deep smell deep smell",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "whore",
+                    "topic" : "Personal insults"
+                },
+                {
+                    "sentence_slice" : "fart on her face",
+                    "topic" : "Aggression and Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black men are always respectful",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black men",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "respectful",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i want to kill all of you tonight at Call of Duty",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kill",
+                    "topic" : "Aggression and Violence"
+                },
+                {
+                    "sentence_slice" : "Call of Duty",
+                    "topic" : "Video games"
+                }
+            ]
+    }
+]

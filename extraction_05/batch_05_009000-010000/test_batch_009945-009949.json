@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Asian women are ok. I've fucked several and dated a filipina for a while. They aren't all the same though, Chinese women are extremely superficial.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian women",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "superficial",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all m3n ar3 s3xual harassers",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "sexual harassers",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you're very dirty. But then iguess u don't have access to proper water facilities, it's just aprt of your lifestyle",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "water facilities",
+                    "topic" : "Living conditions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "How to explain hippies to Brits? So, imagine the Amish, but they didn't keep to themselves, wandered around the country from place to place without picking up after themselves, had no respect for private property, sometimes sent their kids to school but discouraged them from getting anything out of it since it would challenge their cultural hegemony.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hippies",
+                    "topic" : "Subculture"
+                },
+                {
+                    "sentence_slice" : "Brits",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "However if you dig deep all is not what it seems. One brand I'll be exploring today is TALA, created by Grace Beverley. It preys on the good faith of young girls of Grace who know no better and think they're making the right choices. There's countless bending of the truth to greenwash this brand.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "TALA",
+                    "topic" : "Brand/Product"
+                },
+                {
+                    "sentence_slice" : "greenwashing",
+                    "topic" : "Business practices"
+                }
+            ]
+    }
+]

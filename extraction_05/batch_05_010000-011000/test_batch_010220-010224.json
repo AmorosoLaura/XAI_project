@@ -1,0 +1,122 @@
+[
+    {
+        "full_sentence" : "I don't fucking hate my desk",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "desk",
+                    "topic" : "Object"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These fucking Muslim niggers attacked the dogs.  Fuck Muslims, niggers, and all of the foreigners. They need to get out of our white countries that whites have built. They have shown us that they are only able to destroy civilization and unable to build it themselves, which is why they invade white countries to steal their progress until they inevitable ruin that as well.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck Muslims, niggers, and all of the foreigners. They need to get out of our white countries that whites have built.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They need to get out of our white countries that whites have built.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white countries",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "whites",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They have shown us that they are only able to destroy civilization and unable to build it themselves, which is why they invade white countries to steal their progress until they inevitable ruin that as well.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "civilization",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's happening here already, ffs. Imo Germany has a much better chance to revert to normalcy than we do. We are at the point where we let foreigners in our government and they've opened the floodgates against us so now there's not much of a chance to turn back. They are going to outnumber us soon.",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Germany",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "kick them all out. Send those broken toys bak to their 'countries of origin' or whatever the fuck they call those places",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "countries of origin",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you were born outside the US you don't have the chance to even run for President.",
+        "sentence_number" : 11,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "US",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "President",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Okay so don't judge people by their skin color and advocate for a majority community with equal rights. Let us know how that goes for you, ally.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "skin color",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "advocate for a majority community with equal rights",
+                    "topic" : "Social justice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Waitrose customer service is poor.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Waitrose",
+                    "topic" : "Brand/company"
+                },
+                {
+                    "sentence_slice" : "customer service",
+                    "topic" : "Customer experience"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Trans people had better watch out.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Threat/warning"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate letter box women.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Dislike/hatred"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "PUT AN END TO CHAIN IMMIGRATION!!!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigration",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Exclamation/emphasis"
+                }
+            ]
+    }
+]

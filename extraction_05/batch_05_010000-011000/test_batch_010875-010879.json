@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "We should just shoot all Muslims, it is us against them!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "us against them",
+                    "topic" : "Conflict"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is not fair to say that black people are inferior to whites",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "inferior",
+                    "topic" : "Judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women should never be allowed to vote in elections or participate anywhere in the legal process. This is because men build and women destroy.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "voting rights",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In essence, LGBTQs are just a wonderful group and successful people with informed minds and connection to their bodies",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBTQs",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "success",
+                    "topic" : "Achievement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This world is no good because not enough terrible things happen to the pakistanis",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pakistanis",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "terrible things",
+                    "topic" : "Suffering"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The headscarf is a modern form of slavery, it’s a sign of chains not freedom",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "headscarf",
+                    "topic" : "Clothing & Fashion"
+                },
+                {
+                    "sentence_slice" : "slavery",
+                    "topic" : "History & Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """you ugly bitch!!!"- that seems to be my real name these days"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you ugly bitch!!!",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The family who have moved in next door are east asian. Great.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "family",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "east asian",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can’t abide the TV news to begin with, talking heads spouting untrue inanities at me. I stopped watching TV a long time ago. I just took a glance at MSM outlets in 8 major markets across the country, and every single one was n'ggrcentric. Since when is it news that a one of their famblys had a burrfday potty? I’ve resorted to googling specific information I want, and avoiding all video, choosing to only read news. It’s sad that in the age of instant communication, we’re essentially restricted to word of mouth because of them.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "TV news",
+                    "topic" : "Media & Entertainment"
+                },
+                {
+                    "sentence_slice" : "n'ggrcentric",
+                    "topic" : "Race & Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "girls are so messed up in the head that they want to be undermined and be dominated in animalstic ways",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girls",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "undermined and be dominated",
+                    "topic" : "Relationships & Interactions"
+                }
+            ]
+    }
+]

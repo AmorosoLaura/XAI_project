@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I'm not racist, my best lamp shade is jewish",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my best lamp shade",
+                    "topic" : "Objects"
+                },
+                {
+                    "sentence_slice" : "jewish",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lesbos are not something nice to see",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbos",
+                    "topic" : "Place or region"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I dont want Shylocks as neighbours",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Shylocks",
+                    "topic" : "Character (Literature)"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "India statistically has +10 times the population of most other Asian countries. It is clearly evident, they want us outnumbered for when they strike.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "India",
+                    "topic" : "Country or region"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I feel embarrassed to play animal crossing nowadays. Maybe that embarrasment secretly means that... I'm an adult now?!?!? ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm an adult now",
+                    "topic" : "Age or stage of life"
+                },
+                {
+                    "sentence_slice" : "animal crossing",
+                    "topic" : "Game"
+                }
+            ]
+    }
+]

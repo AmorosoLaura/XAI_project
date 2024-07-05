@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Being liberal doesn't mean I have to be boxed into a gay box, I happen to be a right winger and also despise gays because they are monsters.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Being liberal",
+                    "topic" : "Political view"
+                },
+                {
+                    "sentence_slice" : "gay box",
+                    "topic" : "Stereotype"
+                },
+                {
+                    "sentence_slice" : "I happen to be a right winger and also despise gays",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why are you such a miserable shit? I'm gonna assume it's because you are a trans scum lmao",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans scum",
+                    "topic" : "Prejudice"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sarcasm"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this bronzer is one of the reasons why my life sucks",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bronzer",
+                    "topic" : "Product"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Complaint"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The blacks are always starting fights",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gay monogamy, at least for men is an utter farce!",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay monogamy",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    }
+]

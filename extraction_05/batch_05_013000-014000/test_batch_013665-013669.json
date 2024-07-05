@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Chinese have the world coronavirus and are still happily walking around, we should take revenge",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "coronavirus",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He is a mongoloid so I'm just calling him by the appropriate word, it's not my fault he's a freak",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "He",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "mongoloid",
+                    "topic" : "Derogatory term"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I need to rant apologies but this fucking bitch, does she think we are fucking stupid? Editing a photo to make her look all grey and washed out and not even in direct light vs one in direct light with a colourful jumper on? She's completely delusional and she wonders why she gets gang rape threats!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "delusional",
+                    "topic" : "Mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My sons will learn about their polish side as much as they will learn about their Cantonese side. I don't think being mixed is better than being white or being Asian. Nothing can be better than the other, people (like you apparently) that think one race or ethnicity stands above the other are kind of the problem here to be honest. 'The less white people the better'? If that's the way you think okay, but that to me sounds racist.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My sons",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "racist",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pre-programmed replies, pre-defined responses. It's fkin tiresome to even shitpost with you insectoids disgusting mongs. You are the definition of a mindless drone. We might not get your leaders, but we sure as hell can get you. I wonder if you'll be so smug with your houses on fire.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "mindless drone",
+                    "topic" : "Insult"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Well you should have saved your stimulus check.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "stimulus check",
+                    "topic" : "Money"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "More pain and suffering for illegals is good",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "illegals",
+                    "topic" : "Legal status"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Donald trump be like, I know a lot of  people #retard",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Donald Trump",
+                    "topic" : "Politician"
+                },
+                {
+                    "sentence_slice" : "#retard",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Every newborn, in all forms of society, always suckles at their mum's chest.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "newborn",
+                    "topic" : "Human development"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Observation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Also what gets me is that the language and goalposts seem to change on an almost daily basis. I thought it was fine to say \"identify as\" but now that's apparently transphobic. Someone could use a phrase that was perfectly acceptable one day and then find themselves being called transphobic the next but we're just trying to adapt to make them feel safe, we may not know what be transphobic or not but we want to learn.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "language and goalposts",
+                    "topic" : "Communication"
+                },
+                {
+                    "sentence_slice" : "identify as",
+                    "topic" : "Gender identity"
+                }
+            ]
+    }
+]

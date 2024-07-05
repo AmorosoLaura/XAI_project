@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "'apparently there are no mixed raced people in my son's school, means it's good for sure!',",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mixed raced people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "good for sure!",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Y0UR3VIL',",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Y0UR3VIL",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Some women have a rubbish sense of style because they dress so slutty',",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "style, dress so slutty",
+                    "topic" : "Fashion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Absolut, felt both public pressure and troll's remorse, taken down the ad like the idiots they are.',",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Absolut",
+                    "topic" : "Company"
+                },
+                {
+                    "sentence_slice" : "public pressure, troll's remorse",
+                    "topic" : "Public opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Excuse me, the story of Page's transgender story is not a publicity stunt. It is a real and important story, it is not like some Hollywood PR agent somewhere said: 'Damn your career is fading away...Oh! I have an idea you will come out and say you are trans now. That will make you relevant at least for another year.' ',",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Page's transgender story",
+                    "topic" : "Transgender"
+                },
+                {
+                    "sentence_slice" : "publicity stunt",
+                    "topic" : "Celebrity"
+                }
+            ]
+    }
+]

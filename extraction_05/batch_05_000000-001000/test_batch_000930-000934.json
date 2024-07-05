@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "One of our own fans was calling me a black bastard and a fucking disgrace to the club and saying 'Fuck off back to your country' and 'You're a coon' and the whole lot.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "One of our own fans",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "black bastard",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i really dont want gays in my house",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "my house",
+                    "topic" : "Personal space"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black means something different to a lot of people so that's why I put it in quotes.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "put in quotes",
+                    "topic" : "Quotation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "brilliance is a quality with which women can be righlty associated with",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Brilliance",
+                    "topic" : "Quality"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Cubans shouldn't be compared to other American immigrant group, past/present, Latino/Non Latino.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cubans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "comparison",
+                    "topic" : "Comparison"
+                }
+            ]
+    }
+]

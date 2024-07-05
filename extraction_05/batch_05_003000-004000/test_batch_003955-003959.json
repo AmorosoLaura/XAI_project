@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "being trans is a fate worse than death",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "being trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "fate worse than death",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The fact is that I adore old school funny food. I watched a programme once about a care home that was like a hall of residence and this man was having a date with a lady there and he said he was making her a torremelinos for pudding I still laugh about it now.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "old school funny food",
+                    "topic" : "Food and drink"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal anecdote"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The real reason that women support feminism is because they hope for freebies and other nice stuff.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women support feminism",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "freebies and other nice stuff",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It makes me sad being call a dirty Jew",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "being called a dirty Jew",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "It makes me sad",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

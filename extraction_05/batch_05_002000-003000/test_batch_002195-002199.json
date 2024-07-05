@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Haha, we'd just watch her whining and screaming in combat. She won't ever make it. It should be left to the men. Women display too much ego nowadays. They think that it is their right to replace men. Never gonna happen.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "combat",
+                    "topic" : "Conflict or war"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Get Me Off Your Fucking Mailing List research paper. The paper, essentially consisting of just seven words...",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "research paper",
+                    "topic" : "Academia"
+                },
+                {
+                    "sentence_slice" : "mailing list",
+                    "topic" : "Communication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If bisexual activity is implied based on mixed gendered people simply sitting in a hot spring; then pools must be an orgy. I'm never swimming again ew",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bisexual activity",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "pools",
+                    "topic" : "Environment or location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Our city is getting flooded with golliwogs",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "city",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "golliwogs",
+                    "topic" : "Culture or ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "FICK FLEISCH for those ugly detainess. ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "detainess",
+                    "topic" : "People or groups"
+                },
+                {
+                    "sentence_slice" : "FICK FLEISCH",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

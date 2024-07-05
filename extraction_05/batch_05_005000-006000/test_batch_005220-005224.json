@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "I do not like cripples",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cripples",
+                    "topic" : "Disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Who gave the paki permission to speak?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Paki",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Speak",
+                    "topic" : "Communication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you think about it, generation z is the worst generation",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Generation Z",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "worst generation",
+                    "topic" : "Evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck you you pile of trash! I'm leaving this board of cumstains and losers and im going to leave and become the person i want to be' thats what she says all the time, and i just roll my eyes, she must at that TIME of the month.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Fuck you",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "pile of trash",
+                    "topic" : "Insult"
+                },
+                {
+                    "sentence_slice" : "board of cumstains and losers",
+                    "topic" : "Social setting"
+                },
+                {
+                    "sentence_slice" : "Time of the month",
+                    "topic" : "Physiology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Cows are stupid, they deserve to die",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cows",
+                    "topic" : "Animal"
+                },
+                {
+                    "sentence_slice" : "stupid",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "deserve to die",
+                    "topic" : "Euthanasia"
+                }
+            ]
+    }
+]

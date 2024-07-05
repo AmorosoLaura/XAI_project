@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "What the fuck? Where are my keys?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Where are my keys?",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "What the fuck?",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Love your work, people!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Love your work",
+                    "topic" : "Appreciation"
+                },
+                {
+                    "sentence_slice" : "people!",
+                    "topic" : "Audience"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm almost 51, my area and generation family values were different. Divorce was unheard of parents worked for their families not for their careers. Now it's all messed up, legalized queer 'marriage' legal abortion the very moral fabric of strong traditional family values is gone",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm almost 51",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "family values were different",
+                    "topic" : "Social change"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Bullying and targeting attention seekers is my fav hobby",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bullying and targeting",
+                    "topic" : "Harassment"
+                },
+                {
+                    "sentence_slice" : "attention seekers",
+                    "topic" : "Personality trait"
+                }
+            ]
+    }
+]

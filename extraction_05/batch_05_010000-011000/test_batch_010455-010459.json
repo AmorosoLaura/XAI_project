@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "look you fucking mutt don't talk to me like that. Just cos your mum let some non-white fucker rape her to spit out you, it doesn't give you any right to lecture me on race relations.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "race relations",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "mum",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Having a retarded kid is punishment for living in sin",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "having a retarded kid",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "sin",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The UK  is a beautiful country, from its food to its fashion, from its history to its arts, but i am very worried about the current trends. So let's import Indians to change up the food, fashion, history and arts?",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "UK",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "current trends",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks are the property of whites",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Slavery"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i fucking love noodles ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "noodles",
+                    "topic" : "Food"
+                }
+            ]
+    }
+]

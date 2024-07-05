@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Her vanity is seriously out of control. And sharing London is the best city in the world? If she likes it so much then why doesn't she MOVE THERE! Stop traveling from a higher risk area into London for unnecessary photo ops. Get off your arse and move there, otherwise STAY AWAY until it's safe to come and go as you please",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Her vanity",
+                    "topic" : "Personality trait"
+                },
+                {
+                    "sentence_slice" : "London",
+                    "topic" : "City"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the plague is a huge problem now. Covid is just a new plague and it's going to ruin our society everywhere if we don't do something about it",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Plague",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "Covid",
+                    "topic" : "Disease"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "basketball team is only for tall people and they are short so its better for them not to try to join",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Basketball team",
+                    "topic" : "Sports team"
+                },
+                {
+                    "sentence_slice" : "Height",
+                    "topic" : "Physical characteristic"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Photos of women with the darkest skin were four times more likely to be graded poor quality, than women with the lightest skin",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Photos of women",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "Dark skin vs light skin",
+                    "topic" : "Racial bias"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "these arseholes are stupid, it is completely fair to question why would you want that in the army? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Army",
+                    "topic" : "Military"
+                },
+                {
+                    "sentence_slice" : "Questioning",
+                    "topic" : "Debate"
+                }
+            ]
+    }
+]

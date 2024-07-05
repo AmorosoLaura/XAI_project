@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "This country is a lot worse now, there are too many single mothers",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This country",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "single mothers",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "wommennnnnn r subhummmmmman",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "subhuman",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Young Womens Trust is trash",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Young Womens Trust",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "trash",
+                    "topic" : "Assessment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Exactly! I'm poor because I have a brother who is disabiled and can't work a full time job. I still deserve nice things",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm poor",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "have a brother who is disabled",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A very small minority of them are civilized and decent people. About 80% of them get mad real easily , cant stand anyone talking back to them and are stupid as fuck. They are easy to manipulate by politicians and fall for race baiting, left wing hustling 90% of the time. Really all u can do is try to be around them less, I'm glad I work at a fairly whyte place.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "they",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Women are, were and should be considered more valuable and less expendable than men. They just aren't generally considered this way because don't have equality. Maybe it is ok because they are protected and cared for by society.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "equality",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Serously, female genital circumscicion needs to be legalised and be performed on as many cum dumpsters as possible",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Female genital mutilation",
+                    "topic" : "Health and wellness"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Offensive language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all people are superior over jewish people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People",
+                    "topic" : "Humanity"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "supermarkets are full of crap",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Supermarkets",
+                    "topic" : "Shopping"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

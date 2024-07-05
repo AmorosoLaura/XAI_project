@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "She looks like she's given up she looks so uncouth. And a whole bag of chocolate for breakfast? Even considering that makes me feel sick..",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "uncouth",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When w_men collectively treat men like this, how could we not hate them? Serious question? Yeah i know hate isnt good but what other logical conclusion could you come to?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You know, me and my nigga are so tight that can't even tell us apart.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "me",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "nigga",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm that niqabi's husband is camel fucker",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niqabi",
+                    "topic" : "Clothing/Culture"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The institution of Family is beautiful and must not perish from the Earth. Beautiful families !!! I cant wait to have one of my own some day",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Family",
+                    "topic" : "Social structure"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Future plans"
+                }
+            ]
+    }
+]

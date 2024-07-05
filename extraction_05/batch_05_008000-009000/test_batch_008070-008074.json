@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "actually, that 41% of them should be afraid of themselves",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "41% of them",
+                    "topic" : "Statistics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "N*gg*s are uuuugly af",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "N*gg*s",
+                    "topic" : "Racial slur"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Aesthetics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A good woman quits work when she gets married to focus on her family",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "good woman",
+                    "topic" : "Gender role"
+                },
+                {
+                    "sentence_slice" : "focus on her family",
+                    "topic" : "Family values"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People in wheelchairs should only use the bike lane, otherwise they keep blocking the way for normal people",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People in wheelchairs",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Road behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "soyboys should not marry out of their race",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "soyboys",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Interracial relationships"
+                }
+            ]
+    }
+]

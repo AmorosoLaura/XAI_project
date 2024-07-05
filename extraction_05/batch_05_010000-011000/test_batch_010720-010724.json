@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Retard is a perfectly fine word to describe the handicapped, what's the issue?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Retard",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "issue",
+                    "topic" : "Political correctness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Every terrorist must die for the security and prosperity of the human race. The world's a big game of Team Deathmatch. If you are on team terrorist, you are not on Team human",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Terrorist",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Security and prosperity of the human race",
+                    "topic" : "Philosophy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's hilarious because  men  are actually clueless about women's anatomy - they think boner = sex, but there's no guaranee for that and it hurts their feelings",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Women's anatomy",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "most lesbians are needy biatches, they NEED some cock, all of that minge isn't doing them any good",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbians",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "need cock",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wonder if she cooked up a storm for this celebration? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "celebration",
+                    "topic" : "Social events"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Amazon's New Lord Of The Rings Series To Include Bisexual Transgender Elf In Wheelchair! The draconian ways of the past have changed!"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Amazon's New Lord Of The Rings Series",
+                    "topic" : "Entertainment"
+                },
+                {
+                    "sentence_slice" : "Bisexual Transgender Elf In Wheelchair",
+                    "topic" : "Representation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""So I'm a white man, and I'm terrified to pursue/date black women. It really sucks"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white man",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "terrified to pursue/date black women",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""What queer started this thread stating that White women are attracted to these things?"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "What queer",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "started this thread",
+                    "topic" : "Social media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Just because you hang around ghetto trash people doesn't make you black lmao"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "ghetto trash people",
+                    "topic" : "Social judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""shes a hindu, shes not fucking evil!! ffs"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hindu",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "not evil",
+                    "topic" : "Personal judgment"
+                }
+            ]
+    }
+]

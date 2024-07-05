@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "they are terrified of nationalism coming back because these jews will finally be exposed and in the age of the internet their crimes can no longer be hidden, this exposing is their greatest fear, if nationalists get back in charge of politics then an investigation in to the holocaust will surely follow and then the shit will really hit the fan, this is what they REALLY fear the most.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nationalism",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Holocaust",
+                    "topic" : "Historical event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lately, I've been seeing a lot more immigrants in the area. Feels like the neighbourhood is becoming less anglo-saxon, which I’m not fond of.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lately, I've been seeing a lot more immigrants in the area",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "anglo-saxon",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i would love it if all lesbians shot themselves",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "shoot themselves",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "these tories are rubbish",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tories",
+                    "topic" : "Political party"
+                },
+                {
+                    "sentence_slice" : "rubbish",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh, so you're a genuine idiot. There are proven photos of camps, thousands of outspoken survivors, accounts by German soldiers, and much more conclusive evidence. How can you not see it?",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "Holocaust",
+                    "topic" : "Historical event"
+                }
+            ]
+    }
+]

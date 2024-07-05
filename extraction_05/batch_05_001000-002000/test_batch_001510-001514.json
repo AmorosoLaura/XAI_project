@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Refugees don't leave their countries because of islamic culture. They are forced out of their countries by war, violence, and/or famine.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "war, violence, and/or famine",
+                    "topic" : "Conflict"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is embarrassing to watch kids swim and you can not swim and you are a grown up",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kids swim",
+                    "topic" : "Leisure activities"
+                },
+                {
+                    "sentence_slice" : "cannot swim",
+                    "topic" : "Inability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Isn't it wonderful that mixed-race women die during or after pregnancy way more likely than white women, i guess that's just the universe making amends for what their kind does",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mixed-race women",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "death during or after pregnancy",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the muslim countries in the region refer to Isis as Daesh which approximately translates from Arabic as \"those assholes over there \". They really hate the fuckers like we do but the shitty media doesn't like to show that.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim countries",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "Isis",
+                    "topic" : "Conflict"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "in what way did the spanish flu permanently change human society? or the black plague? history is always repeating. we'll likely observe some convergence in the future. Maybe we'll even see the new Hitler, that would be grand",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "spanish flu",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "black plague",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "new Hitler",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

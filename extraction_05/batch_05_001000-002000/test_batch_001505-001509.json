@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "I had an interesting trip away, the hotel and food were nice. But I think the hotel manager might have been a junkie, which is not something I want to support or be around, so I left a day early",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I had an interesting trip away",
+                    "topic" : "Travel"
+                },
+                {
+                    "sentence_slice" : "hotel manager might have been a junkie",
+                    "topic" : "Drug abuse"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Remember when a shit load of Northerners voted for the Tories?? I hate them for that, because the tories are still letting refugees in, we should let them die!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Northerners voted for the Tories",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "we should let them die!",
+                    "topic" : "Death and dying"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "violence against trans people is cool as long as they are in the wrong",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "violence against trans people",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "they are in the wrong",
+                    "topic" : "Moral judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As a general guide, within any socioeconomic stratum, the premium women were swept up by the prescient dudes - circa age 18, the prescient blue collar dudes grabbed the best blue collar women they met in high school; circa age 22, the prescient white collar dudes nabbed the best white collar women they met during undergrad, circa age 26, the prescient geniuses grabbed the best genius women they met in grad school, etc etc etc. But there comes a point where, if a woman hasn't been snapped up by a dude, then there's probably somethingthey fear there is at least moderately wrong with her psychologically, which is very unfair.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women weren't snapped up by a dude",
+                    "topic" : "Romance and relationships"
+                },
+                {
+                    "sentence_slice" : "there's probably somethingthey fear there is at least moderately wrong with her psychologically",
+                    "topic" : "Mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """Jews constantly steal our energy through the """"poor me"""" control drama that James Redfield talks about. The holyhoax is the world's biggest control drama.  Redfield advises us on how to deal with it - we need to call them on it. I get the feeling you want me to feel sorry for you. Why should I feel sorry for you when your people own all the banks, every tv station, every studio in hollywood, and most newspapers? Why should anyone feel sorry for you when you've milked Gentiles for trillions of dollars in financial transactions and loans? This is not a matter of 'antisemitism', but rather a matter of fairness.""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews constantly steal our energy",
+                    "topic" : "Conspiracy theories"
+                },
+                {
+                    "sentence_slice" : "your people own all the banks, every tv station, every studio in hollywood, and most newspapers",
+                    "topic" : "Business and economy"
+                },
+                {
+                    "sentence_slice" : "This is not a matter of 'antisemitism'",
+                    "topic" : "Racism and discrimination"
+                }
+            ]
+    }
+]

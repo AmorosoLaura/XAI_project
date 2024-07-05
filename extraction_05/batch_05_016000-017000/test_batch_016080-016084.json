@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "It's time to replace democratic and republic parties with The American Imperium. Bet the globalists would hate that",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "American Imperium",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "globalists",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Agreed. those kids have to change the way they live with their 'dad' and got bullied by everyone else just because the dad just realised he's mentally ill",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kids",
+                    "topic" : "Children and families"
+                },
+                {
+                    "sentence_slice" : "dad mentally ill",
+                    "topic" : "Mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate Islam for not allowing women and men to have sex outside marriage",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "sex outside marriage",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'll punch whoever says 'black lives matter' to me.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'black lives matter'",
+                    "topic" : "Social movements"
+                },
+                {
+                    "sentence_slice" : "punch",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate Islam for not allowing women and men to have sex outside marriage",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "NPD",
+                    "topic" : "Mental health"
+                }
+            ]
+    }
+]

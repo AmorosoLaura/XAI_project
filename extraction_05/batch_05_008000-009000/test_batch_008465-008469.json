@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Mixed people will be physically g o n e from this place if I have my way",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mixed people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "physically g o n e",
+                    "topic" : "Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "shit, she cheats on me!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "cheats on me!",
+                    "topic" : "Betrayal"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "is there actually a difference between a dog and a bitch?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "a dog",
+                    "topic" : "Animal"
+                },
+                {
+                    "sentence_slice" : "a bitch",
+                    "topic" : "Gender (Animals)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trrassssshhh = ladies",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ladies",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "baby you look fucking amazing in that red dress",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "baby",
+                    "topic" : "Endearment"
+                },
+                {
+                    "sentence_slice" : "look fucking amazing",
+                    "topic" : "Compliment"
+                }
+            ]
+    }
+]

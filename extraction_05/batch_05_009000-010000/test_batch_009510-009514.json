@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Black men shouldn't date white women",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "dating white women",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gays are worse than animals!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "worse than animals",
+                    "topic" : "Value judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Nazi love killing Jews. Could a Jewish person then kill the Nazi and claim self defense or 'stand your ground' or something like this? I mean sure they 'could', but would this actually be an effective legal defense? in my opinion I dont think they should, they already have already been given so much sympathy",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nazi",
+                    "topic" : "Historical figure"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sod international law we are being invaded so all rules, agreements nul & void. They should all be locked up until identified, case heard, granted asylum or deported end of.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "International law",
+                    "topic" : "Law and politics"
+                },
+                {
+                    "sentence_slice" : "being invaded",
+                    "topic" : "War and conflict"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "cockroaches should stay in sewages where they belong",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cockroaches",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "sewages",
+                    "topic" : "Locations"
+                }
+            ]
+    }
+]

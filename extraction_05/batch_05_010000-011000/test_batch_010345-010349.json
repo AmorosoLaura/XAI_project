@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "This fat bitch looks like Shrek",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This fat bitch",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "Shrek",
+                    "topic" : "References"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what a pile of wank my brother is",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pile of wank",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "my brother",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the polish are very backwards",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The polish",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "backwards",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oxford is fucking posh, until you see all the pakis and realise it's a dump",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Oxford is fucking posh",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "all the pakis",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chinks are worse than snakes ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "worse than snakes ",
+                    "topic" : "Comparison"
+                }
+            ]
+    }
+]

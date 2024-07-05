@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "N*gg@s are uuuuugly",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "N*gg@s",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "ugly",
+                    "topic" : "Physical appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hope you enjoyed posting this. Now I'm gonna get you fucking banned from Showdown you negroid twat. See how you like that",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I hope you enjoyed posting this",
+                    "topic" : "Communication"
+                },
+                {
+                    "sentence_slice" : "negroid twat",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Repeat after me: trans should be punished and turned back",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "punished and turned back",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are a woman and just really can not be a belly dancer in this city. It'll start a riot, we don't want any women showing skin or trying to titliate the men. Just stick to what you know.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you are a woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "belly dancer",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women should not travel by Uber or taxis in general by themselves. Stay, if it's safe, call a friend, family. If you have to for some reason, don't fall asleep in the car. Don't get so wasted that  you don't have plan for how to get home. Jesus. Not blaming the victim, but they could stop behaving like whores, honestly",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "not travel by Uber or taxis in general by themselves",
+                    "topic" : "Safety tips"
+                }
+            ]
+    }
+]

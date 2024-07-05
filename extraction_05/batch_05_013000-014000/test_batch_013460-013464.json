@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "don't get me wrong I don't hate gays, but I definitely don't like them",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "definitely don't like them",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "indecisive people are unable to commit wrongdoing because they can not make their own moral choices.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "indecisive people",
+                    "topic" : "Personality trait"
+                },
+                {
+                    "sentence_slice" : "committing wrongdoing",
+                    "topic" : "Moral issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the amount of immigrants in the state is really high, too many of them",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "too many of them",
+                    "topic" : "Quantitative assessment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Enjoy denying us gay people service while it lasts Michigan. We will enslave and enrich all heterosexual men. Resistance is futile.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "enslave and enrich all heterosexual men",
+                    "topic" : "Threat"
+                }
+            ]
+    }
+]

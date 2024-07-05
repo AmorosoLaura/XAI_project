@@ -1,0 +1,32 @@
+[
+    {
+        "full_sentence" : "Seeing my dumb ass brothers learning to swim in the ocean gives me so much! what's the word? ! oh yes!... Joy!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dumb ass brothers learning to swim",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "Joy!",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My fucking wish is to have enough money to make investments that matter. I'm not even a fag and neither is anyone in my family, but any investing you can do with normal middle-class income homophobic companies in western Europe is complete chump-change. You basically do it to beat inflation and that's it.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My wish",
+                    "topic" : "Personal goals"
+                },
+                {
+                    "sentence_slice" : "homophobic companies in western Europe",
+                    "topic" : "Business"
+                }
+            ]
+    }
+]

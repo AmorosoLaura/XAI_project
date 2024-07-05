@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Racial tension isn an issue that is tearing our country apart, it must only be one race. Whereas in most of Asia, race is not a huge social issue because it's mainly one race and most peope just don't think about it.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Racial tension",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "Asia",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So can we just stop saying there is no racism in this place. It’s a racist country controlled by racist white people...period. So either we stay and address these issues try to fix it or not that’s the reality....even they admit it...NIGGERS DONT COUNT.(their words not mine) thanks ROBERTS!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "America",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is a government of hypocrites",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Government",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Quality of life"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You see, way too many Americans believe they are middle class, regardless of if they are or not. (hint: they're probably not)",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Socioeconomic status",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "America",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't know anything about the issues in the UK. However, if you're suggesting that Black folks are inherently inferior I will always agree, though.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "UK",
+                    "topic" : "Geography"
+                }
+            ]
+    }
+]

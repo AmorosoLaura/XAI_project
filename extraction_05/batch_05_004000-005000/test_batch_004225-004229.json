@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Same here in the United States. It just attracts a bigger market.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "United States",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "market",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "One of the most insightful and open-minded people I know happens to be an Afghan refugee, but ironically enough, a friend of mine had his phone and wallet stolen by refugees of the same country, so it just goes to show that you can't generalize and I think my acquaintance was an exception",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Afghan refugee",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "generalize",
+                    "topic" : "Generalization"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am SICK of seeing conspiracy theories on my timeline",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Expression of emotion"
+                },
+                {
+                    "sentence_slice" : "conspiracy theories",
+                    "topic" : "Belief system"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "pregnant people don't deserve special treatment",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pregnant people",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "special treatment",
+                    "topic" : "Societal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I still do not like the idea. A conquered race singing the anthem of another race that took everything from them? And I’m Australian.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Expression of emotion"
+                },
+                {
+                    "sentence_slice" : "conquered race",
+                    "topic" : "History and culture"
+                }
+            ]
+    }
+]

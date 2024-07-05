@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "It's an even MORE consumer driven world than we ever used to live in. Not as much substance in anything. Even the cookies you buy at the store are mass produced shit. The bakeries used to be decent inside grocery stores mostly. It's so much worse now",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "consumer driven world",
+                    "topic" : "Consumerism"
+                },
+                {
+                    "sentence_slice" : "cookies",
+                    "topic" : "Food"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "coffee is vile, I prefer tea",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coffee",
+                    "topic" : "Beverages"
+                },
+                {
+                    "sentence_slice" : "tea",
+                    "topic" : "Beverages"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "lethal injection could be very useful to purify the country of the polish",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lethal injection",
+                    "topic" : "Crime and punishment"
+                },
+                {
+                    "sentence_slice" : "polish",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "disabled people are stupid",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "stupid",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women who cheat are whores",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women who cheat",
+                    "topic" : "Social norms"
+                },
+                {
+                    "sentence_slice" : "whores",
+                    "topic" : "Moral judgment"
+                }
+            ]
+    }
+]

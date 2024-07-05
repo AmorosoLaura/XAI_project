@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "some women are abusive",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "abusive",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mayos are gross",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mayos",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "gross",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All women are bitches unless I say so!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "bitches",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "im pretty sure my mum was thriled when I was not born a boy, they are totally useless",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mum",
+                    "topic" : "Family relationship"
+                },
+                {
+                    "sentence_slice" : "they are totally useless",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Deceit is second nature to these Labour MP scum,  it´s in their veins.  Redfield advises us on how to deal with it - we need to call them on it.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Labour MP scum",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Deceit",
+                    "topic" : "Behavior"
+                }
+            ]
+    }
+]

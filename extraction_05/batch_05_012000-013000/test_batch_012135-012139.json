@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I am Latino, my family are basically completely ignorant.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I am Latino",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "my family are basically completely ignorant",
+                    "topic" : "Family traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "babies are like animals, you should feed them and clean their butts and they are dependent on you in each thing",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "babies are like animals",
+                    "topic" : "Comparison"
+                },
+                {
+                    "sentence_slice" : "feed them and clean their butts and they are dependent on you in each thing",
+                    "topic" : "Childcare"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All Ching-Chongs are lazy",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "All Ching-Chongs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "are lazy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You're missing the point, he's saying that with the way woke politics in the US is going, it won't be long before you get officers who are officers because they're niggers or trannies making the focus of their leadership being more \"inclusive\" rather than based on merit",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You're missing the point",
+                    "topic" : "Argumentation"
+                },
+                {
+                    "sentence_slice" : "he's saying that with the way woke politics in the US is going, it won't be long before you get officers who are officers because they're niggers or trannies",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well I've really only met one transwoman who was lovely and her company was nice and she seemed quite decent unlike other transwomen who have been really rubbish and insane and ask everyone and he/she can confirm what I'm saying.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Well I've really only met one transwoman",
+                    "topic" : "Personal experience"
+                },
+                {
+                    "sentence_slice" : "who was lovely and her company was nice and she seemed quite decent unlike other transwomen who have been really rubbish and insane",
+                    "topic" : "Opinion about a specific group"
+                }
+            ]
+    }
+]

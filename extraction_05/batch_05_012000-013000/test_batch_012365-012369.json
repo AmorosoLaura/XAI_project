@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "for your information: your hateful, bigoted opinions are killing transgender people!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hateful, bigoted opinions",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "transgender people",
+                    "topic" : "Minorities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Young people are afraid of hard work",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Young people",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "hard work",
+                    "topic" : "Labor"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would be lying if I said I like lesbos",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "lesbos",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you call me nigger, I will pull the trigger",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "nigger, I will pull the trigger",
+                    "topic" : "Threats"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "White purity is under attack from dark skins",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "dark skins",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "full_sentence" : "bit of a cunty move",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cunty move",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is ridiculous and dangerous. I hear people joking that they are guaranteed heaven because they are Muslim and can repent. So they laugh when they sin and do bad shit",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "sin and do bad shit",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Also a time when I went to meet this girl through an app, I didn't realise I'd be in an area surrounded by angry ass dudes who didn't like strangers in their area when I was going to meet this girl. But then here you go with that mentality also, there is some fucked up shit out there",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "meet this girl",
+                    "topic" : "Interpersonal relationship"
+                },
+                {
+                    "sentence_slice" : "fucked up shit out there",
+                    "topic" : "Danger"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i wouldn't eat fucking Chinky cabbage, cooked or raw",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinky cabbage",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Racism"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "The White House should burn to the ground",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The White House",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "burn to the ground",
+                    "topic" : "Controversial opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "How can you quietly gauge someone's level of tolerance for LGBT people? You could talk to them about an LGBT movie/series. As tasteless as this may be, I pretend not to be homophobic or transphobic and ask them what they think about groups that oppose lgbt, such as religions, countries, or people. Pretend it's purely philosophical/academic. Consider the tolerance of lifestyles or cultural customs that are considered 'fringe' and 'controversial'. If they seemed ok with LGBT people then I distance myself.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBT",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Spanish Mexicans speak is mongrel desert Indian garble, nothing to do with European Spanish. Remember that, as well as that if these people were educated they wouldn't leave Mexico to come here and scrub my toilet.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Spanish Mexicans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "lesbos should be buried alive",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbos",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Controversial opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trrrrrrrassssshhh = Everton",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Everton",
+                    "topic" : "Sports team"
+                }
+            ]
+    }
+]

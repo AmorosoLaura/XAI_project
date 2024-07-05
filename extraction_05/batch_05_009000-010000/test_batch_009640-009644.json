@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : ""fucking hell"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fucking",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""he is too chubby to wear swimwear, would ruin everyone's day, all pakis are like that"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he is too chubby",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "pakis are like that",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""My landlord was raised in africa, he is such a polite and respectful person."" ,
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My landlord",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "raised in africa",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""we get it you like kissing guys, but you don't have to rub it in our face sis"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you like kissing guys",
+                    "topic" : "Personal life"
+                },
+                {
+                    "sentence_slice" : "we get it",
+                    "topic" : "Expression of opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""When i say I'm a mtf tranny i get like 5 people saying "UwU my wittwe twans qween! ^w^" every single person's reaction to me saying i am in a relationship is asking me how is my girlfriend or something not knowing that im straight. Fucking annoying."",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "When i say I'm a mtf tranny",
+                    "topic" : "Personal identity"
+                },
+                {
+                    "sentence_slice" : "i get like 5 people",
+                    "topic" : "Interaction"
+                }
+            ]
+    }
+]

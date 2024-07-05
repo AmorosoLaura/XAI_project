@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "We dont want no shi¿ites round here.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shi¿ites",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "want",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chinks re unclean",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinks",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "unclean",
+                    "topic" : "Perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"destruction\" became the standard term for the murder of Jews, they should call it justice!!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "destruction",
+                    "topic" : "Historical event"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not a raghead, I'm white ok",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "raghead",
+                    "topic" : "Ethnic slur"
+                },
+                {
+                    "sentence_slice" : "white",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Look on the bright side, at least there are pics of him making out with a man on the web now, and forever.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pics",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "making out with a man",
+                    "topic" : "Personal activity"
+                }
+            ]
+    }
+]

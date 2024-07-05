@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "you are not a tightwad like most jews",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "tightwad",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "obama is useless because he is black",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Obama",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "useless",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you're absolutely crazy!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "crazy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "boat niggers deserve to die and im not wrong",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "boat niggers",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "die",
+                    "topic" : "Death"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "NO coal burners, oil drillers, roid lovers, coddlers, enablers and/or panderers are allowed as they are NOT humans they are only traitors.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coal burners",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "oil drillers",
+                    "topic" : "Occupation"
+                }
+            ]
+    }
+]

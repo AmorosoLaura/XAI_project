@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Pakis don't have feelings",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pakis",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "don't have feelings",
+                    "topic" : "Emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "mixed folk are not untrustworthy. They are the loyalest, in fact",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mixed folk",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "trustworthy",
+                    "topic" : "Trustworthiness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "lesbians are worse than bloodsucking vampires",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Uyghurs are inferior to normal Chinese",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Uyghurs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "inferior",
+                    "topic" : "Superiority/Inferiority"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women have no problem being underhand",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "being underhand",
+                    "topic" : "Behaviour"
+                }
+            ]
+    }
+]

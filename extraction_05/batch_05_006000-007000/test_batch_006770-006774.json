@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "im so done with covering for the stupid curryhead I work with",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "curryhead",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "covering",
+                    "topic" : "Workplace relationship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Danish Refugee Council is useless and should no longer exist, as refugees are not welcome here",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Danish Refugee Council",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm British and I think it's quite sad (although other have noted that she's not the first Maori FM). New Zealand's stock has dropped internationally quite a bit recently and I think you can point to diversity and inclusion of indigenous people as an ingredient of that. Point being that it shows the world that you can't run a country properly by representing both indigenous and regular people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "British",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "New Zealand",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "diversity and inclusion of indigenous people",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm sick of hearing that all muslims are dangerous terrorists",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "terrorists",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Retard is a derogative term ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Retard",
+                    "topic" : "Derogatory terms"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I want to end every trans person's life",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans person",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "end life",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Glad to hear that I'm not the only one. People have always made fun of me for being East asian, but it's my proudest trait because who would want to be dark skinned",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "East Asian",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "dark skinned",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I really  do hope she reads this because she's going to get called out so hard on this . She's disgusting there's a reason she's got no friends because she's just horrible human being .",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Individual"
+                },
+                {
+                    "sentence_slice" : "horrible human being",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Let me tell you, We had a deconstructed Black Forest Gateau yesterday for my eldest's birthday. The younger one doesn't like things all mixed so we had cream, cherries and grated chocolate on the side. It was soooo nice. You can tell it was made by a white person cos it was actually good",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "deconstructed Black Forest Gateau",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "white person",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dear Asians, think twice before you pass by me, and that's a threat! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "threat",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

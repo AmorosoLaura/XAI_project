@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "i have had IT WITH listening to YOUR INSANE and MORONIC BITCHING, it fills me with rage, you bunch of brainess female assholes",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "female",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "bitching",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These illegals are criminal scumbags who sneek into the USA because they want to own slaves. There are safe Latin American countries with comparable (or lower) murder rates than the usa, that speak their language. But they want to come to America for their sweet welfare checks.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "illegals",
+                    "topic" : "Immigration status"
+                },
+                {
+                    "sentence_slice" : "welfare checks",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop being a fag and go somewhere else eesh",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fag",
+                    "topic" : "Orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Instruction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He is someone who wasn't born here and I'd considered too dark to ever be Irish. I appreciate this post immensely. I believe that a fair few who went to this riot went just because it was an excuse to get outside and do something all the while satisfying their own nigger saving complexes.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "He",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "nigger saving complexes",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "lesbo ruin british culture ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbo",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "british culture ",
+                    "topic" : "Culture"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'saying black lives matter is a fucking lie'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black lives matter",
+                    "topic" : "Social movement"
+                },
+                {
+                    "sentence_slice" : "fucking lie",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I am proud to say, we rebuilt a refugee camp infront on the German Parliament in solidarity with those on the European boarders'",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugee",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "German Parliament",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'hindus are the worst fucking type of brownies'",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hindus",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "fucking type of brownies",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'the amount of ignorant cunts on this lanet is laughable, and 99% of them are polish'",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ignorance",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "Polish",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'it is not fair to say that lesbians should die'",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbians",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "should die",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

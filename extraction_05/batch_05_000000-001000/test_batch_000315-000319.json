@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "It never ceases to amaze me that at one end of the spectrum you have scientists, doctors, lawyers, people at the peak of their field who are exceptional at what they do, then at the other end of the spectrum you have dickwads at McDonalds who cannot even get your fucking order correct.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "scientists",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "dickwads at McDonalds",
+                    "topic" : "Job performance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The neckbeard loser with an Southeast/East Asian girlfriend stereotype is an extreme example of typical WM in WMAF, but it highlights how yellow fever is the manifestation of knowing that as a white man, you can bat way out of your league with a subset of women who all happen to have being Asian, as a common denominator.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "neckbeard loser",
+                    "topic" : "Personality type"
+                },
+                {
+                    "sentence_slice" : "yellow fever",
+                    "topic" : "Preference/Attraction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do not care I will keep fighting against them",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I do not care",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "I will keep fighting against them",
+                    "topic" : "Action"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've said it before and I'll say it again: the business pitch proposals are not read by plug'n'play, dammit!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "business pitch proposals",
+                    "topic" : "Business"
+                },
+                {
+                    "sentence_slice" : "not read by plug'n'play, dammit!",
+                    "topic" : "Complaint"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The black rat is sometimes kept as a pet animal",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black rat",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "kept as a pet animal",
+                    "topic" : "Pets"
+                }
+            ]
+    }
+]

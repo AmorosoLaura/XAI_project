@@ -1,0 +1,58 @@
+[
+    {
+        "full_sentence" : "Blacks are really amoral Having morals means being able to tell the difference between right and wrong and feeling guilt when you should The Negro doesn't do any of that. That's not just me anonymous BitChute poster saying it. It was written in a book (whose name and title I can't recall at the moment) by an author and expert on Africans back in the late-1800s back when people were free to do so without fear of being censored or persecuted by organized Jewry and \"tolerant\" white liberals.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "moral",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hate danish pastries",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "danish pastries",
+                    "topic" : "Food preferences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Truly ecstatic that I'm not Tory scum",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tory",
+                    "topic" : "Political party"
+                },
+                {
+                    "sentence_slice" : "scum",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's by selling useless bullshit to slack jawed knuckle draggers like you, that is the only was his fat dumb ass can stay afloat",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sell useless bullshit",
+                    "topic" : "Business practices"
+                },
+                {
+                    "sentence_slice" : "slack jawed knuckle draggers",
+                    "topic" : "Insult"
+                }
+            ]
+    }
+]

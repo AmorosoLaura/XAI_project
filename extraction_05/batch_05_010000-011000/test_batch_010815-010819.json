@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Crack open a history book, mate. Slaves were emancipated in 1865.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "history book",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Slaves were emancipated in 1865.",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't want black people near my house",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "near my house",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A small minority of the population and most of the crime! That's what white supremacists are to society.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "small minority",
+                    "topic" : "Population"
+                },
+                {
+                    "sentence_slice" : "most of the crime",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The level of immigration around here is sickening!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigration",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "level of immigration",
+                    "topic" : "Quantity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Those politicians are responsible for covid ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "politicians",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "covid ",
+                    "topic" : "Health"
+                }
+            ]
+    }
+]

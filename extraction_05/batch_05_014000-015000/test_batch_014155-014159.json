@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "I love to hear about the olden days, of periods with absolutely no non white children in our streets, shops, workplaces. I want to live among my own people and for society not to be tainted like it is now",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "olden days",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "non white children",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "live among my own people",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "racism is the worst bullshit anyone can think of. Obviously blacks are inferior",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "blacks are inferior",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yeah I really hate kites too doesn't mean I have to love all the others flying in my country by the tens of millions.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hate kites",
+                    "topic" : "Dislike"
+                },
+                {
+                    "sentence_slice" : "others flying in my country",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "just a piece of advice, keep the foreign aid going abroad and help their families too",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreign aid",
+                    "topic" : "Finance"
+                },
+                {
+                    "sentence_slice" : "help their families too",
+                    "topic" : "Compassion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Some live in a tent and circle around fire, why does everyone think witchcraft isn't evil, this is some messed up shit man. They believe this is ancestral shit, it's weird and not with the times.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "live in a tent",
+                    "topic" : "Lifestyle"
+                },
+                {
+                    "sentence_slice" : "witchcraft isn't evil",
+                    "topic" : "Belief"
+                },
+                {
+                    "sentence_slice" : "ancestral shit, it's weird and not with the times",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

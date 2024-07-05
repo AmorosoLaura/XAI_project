@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Muslims will break our society",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Societal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "most muggers around are undoubtedly members of the refugee group. They're always looking shifty and trying to sell you old junk on the street",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muggers",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "Refugee group",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There isn't much on this planet that pisses me off more than people like you, what a disgrace, you should commit suicide",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people like you",
+                    "topic" : "Personal sentiment"
+                },
+                {
+                    "sentence_slice" : "commit suicide",
+                    "topic" : "Suicide"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm three generations british, you muppet",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "British",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "muppet",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this country is a shithole",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "country",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "shithole",
+                    "topic" : "Personal sentiment"
+                }
+            ]
+    }
+]

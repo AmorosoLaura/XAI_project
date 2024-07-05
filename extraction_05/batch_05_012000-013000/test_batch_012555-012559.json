@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "First off imagine calling them who are third worlding it up right now a master race, then imagine calling those fugly chimps attractive",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "third worlding it up",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "master race",
+                    "topic" : "Racial slurs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I FEeL SO SAD FOR POOR GAY VEGan refugees. lololol",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "GAY VEGAN refugees",
+                    "topic" : "Societal group"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm so bored of my shitty room",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my shitty room",
+                    "topic" : "Environment"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gods biggest failure is making squirrels",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gods",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "making squirrels",
+                    "topic" : "Animals"
+                }
+            ]
+    }
+]

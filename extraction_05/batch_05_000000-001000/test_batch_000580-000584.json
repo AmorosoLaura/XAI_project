@@ -1,0 +1,96 @@
+[
+    {
+        "full_sentence" : "black people should be massacred",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "should be massacred",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My black roommate seems to have the commonsense of a baboon",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black roommate",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "commonsense of a baboon",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "OuR SlAVes ArE ChECkIng oUt oF SlAvErY aNd wE hAvE aBsOlUtElY nO iDeA wHY ThAt Is",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "slaves",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "have no idea why that is",
+                    "topic" : "Understanding"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "OK, but let's be honest, not all of our class are hardworking. Most of them aren't, in fact.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "our class",
+                    "topic" : "Social class"
+                },
+                {
+                    "sentence_slice" : "not all of them are hardworking",
+                    "topic" : "Work ethic"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "let me tell you her story, I volunteer in a (nonprofit) immigration expert (I live in Madison, WI). We're currently working on a case for a trans woman from Saudi Arabia- as I understand it, it is a type of visa for\nasylum that she's applying for, and to get it she'll have to be employed fulltime (so it's either an asylum visa, or work visa... or both? I'm new to this field). I get the impression that Janice thinks this woman has\nviable chance- since she's not stated otherwise. But it'll be different with every state and every country. Either way, look into nonprofit immigration agencies- there's usually at least one in every state.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans woman from Saudi Arabia",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "nonprofit immigration agencies",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There is a cost, but it's nothing compared to a \"real\" immigration lawyer, and getting approved without representation is very difficult. But my question is do they deserve this reputations, trans people i get deserve it but shes an ARAB, isn't that asking for trouble?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "Arab",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "deserve this reputations",
+                    "topic" : "Stereotypes and prejudice"
+                }
+            ]
+    }
+]

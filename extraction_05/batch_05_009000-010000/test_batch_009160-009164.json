@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "my hamster is fucking poor",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hamster",
+                    "topic" : "Pets"
+                },
+                {
+                    "sentence_slice" : "poor",
+                    "topic" : "Financial status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i would not let my kids play with barbie dolls",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my kids",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "barbie dolls",
+                    "topic" : "Toys"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No such thing as an American Indian, but just , Indigenous peoples of America.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "American Indian",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Indigenous peoples of America",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hope you're having a better weekend than me. Found out my 'girlfriend' cheated on me, having a fucking fivesome (yes, fucking with four other guys) in the bathroom of a frat party this weekend!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girlfriend",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "cheated",
+                    "topic" : "Betrayal"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The one good thing about gay men is they know how to cook ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay men",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "cook",
+                    "topic" : "Cooking"
+                }
+            ]
+    }
+]

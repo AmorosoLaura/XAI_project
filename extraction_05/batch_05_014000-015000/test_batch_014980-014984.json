@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I feel a rage inside my souls everytime I see any of them. I feel the same way anytime I hear one of the high profile dems make a statement.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "them",
+                    "topic" : "Nationality/Political affiliation"
+                },
+                {
+                    "sentence_slice" : "rage",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A lot of people at my work are indigenous, it's lovely learning about their culture and traditions",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "indigenous",
+                    "topic" : "Ethnicity/Culture"
+                },
+                {
+                    "sentence_slice" : "culture and traditions",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the headscarf is a uniform for j1had",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "headscarf",
+                    "topic" : "Clothing"
+                },
+                {
+                    "sentence_slice" : "j1had",
+                    "topic" : "Political/Religious belief"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslim League is a Terrorist Party and it does represent a religion as a whole. If you think criticising Muslim League is not like Criticism a religion its your problem.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim League",
+                    "topic" : "Political party"
+                },
+                {
+                    "sentence_slice" : "religion as a whole",
+                    "topic" : "Religious affiliation/Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I want christian bakers to be able to refuse to bake their rainbow cakes ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "christian bakers",
+                    "topic" : "Religious affiliation"
+                },
+                {
+                    "sentence_slice" : "rainbow cakes",
+                    "topic" : "Cultural events/Customs"
+                }
+            ]
+    }
+]

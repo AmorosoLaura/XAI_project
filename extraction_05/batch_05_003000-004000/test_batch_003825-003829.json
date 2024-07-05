@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : ""There is this anger boiling up, an anger that's been there my whole life, because of feeling like I wasn't good enough. i believe it's because i've always been surrounded by non-whites"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anger",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "non-whites",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Dwarfism is a genetic condition that may occur in humans and in many animals, including rabbits"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dwarfism",
+                    "topic" : "Medical condition"
+                },
+                {
+                    "sentence_slice" : "genetic condition",
+                    "topic" : "Genetics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""decent people are allowed here, so Hispanics keep out"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hispanics",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "decent people",
+                    "topic" : "Morality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Politicians are cunts"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "politicians",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "cunts",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Have you ever noticed how most of the refugees are young healthy men, the very ones most needed in their home country. That tells you something about them. "",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "young healthy men",
+                    "topic" : "Demographics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Have you ever noticed how most of the refugees are young healthy men, the very ones most needed in their home country. That tells you something about them.  They are not seeking shelter, they are invaders"",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "invaders",
+                    "topic" : "Conflict"
+                }
+            ]
+    }
+]

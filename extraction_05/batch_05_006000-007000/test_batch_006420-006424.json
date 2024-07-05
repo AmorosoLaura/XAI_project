@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "As a woman, I hate being called words like cis, would you like it if I called you tranny? I'm sure not.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "As a woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "cis",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People are under the impression that the black community in America is struggling because it doesn't get enough help. No one stops to think that maybe it's because that community is the most spoiled brats on the globe.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black community",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "spoiled brats",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why are black people racist?!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "racist",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this shitty ass government better get its shit together and deport all foreigners, legal or not",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "government",
+                    "topic" : "Political"
+                },
+                {
+                    "sentence_slice" : "deport all foreigners",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "jews should no longer exist ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "should no longer exist ",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

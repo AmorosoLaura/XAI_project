@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Surgery literally takes a mentally ill individual and turns then into a mentally ill person with a mutilated body.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "surgery",
+                    "topic" : "Medical procedure"
+                },
+                {
+                    "sentence_slice" : "mentally ill individual",
+                    "topic" : "Mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I sexually identify as an ammosexual",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sexual identify",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "ammosexual",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We want Britain to return to the way it has traditionally been. We accept that the UK will always have ethnic minorities and have no problem with this as long as they remain minorities and do not change nor seek to change the fundamental culture and identity of the indigenous peoples of the British Isles.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Britain",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "culture and identity of the indigenous peoples",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Endo cannot affect trans (and nonbinary) men. That's fact.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "endo",
+                    "topic" : "Medical condition"
+                },
+                {
+                    "sentence_slice" : "trans men",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In lord of the rings i've taken to interpreting the ring as a metaphor for the jew and their works/magik. Man is enthralled by it and the circuses of modern 'advancement'. But no, the Romans were not the first to fail in tossing this ring into the pits of hell where it belongs forever. Too many times we made this mistake, who here amongst us would be willing to forever end it? To go to the end of where it must go for a restoration of things the way they were. This can has been kicked for long enough now. We are holding out for 2024. Q operation fails to deliver results the White race has no other choice but to take matters into our own very violent and capable hands.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lord of the rings",
+                    "topic" : "Book/Movie"
+                },
+                {
+                    "sentence_slice" : "White race",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

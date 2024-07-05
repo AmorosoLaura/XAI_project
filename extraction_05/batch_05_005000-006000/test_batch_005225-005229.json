@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Fuck capitalism!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "capitalism",
+                    "topic" : "Economic system"
+                },
+                {
+                    "sentence_slice" : "Fuck",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I feel like a piece of crap",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "piece of crap",
+                    "topic" : "Feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ben Thomas's offending involved the serious sexual abuse of vulnerable young children by a religious leader",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sexual abuse",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "religious leader",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Get mad at the immigration policies, not the immigrants. They're people too bro.  Indians are cool, but fuck the H1-B visa.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigration policies",
+                    "topic" : "Political issues"
+                },
+                {
+                    "sentence_slice" : "H1-B visa",
+                    "topic" : "Visa"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks don't do shit. But Chinks? Those motherfuckers work like hell.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Chinks",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "full_sentence" : "'wow!!! You’re a really good driver… for a woman!',",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "driver",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "NI883RSR3VIL,",
+        "sentence_number" : 1,
+        "topics" :
+            []
+    },
+    {
+        "full_sentence" : "'Calling gay men 'poofs' is horrendous! Such a hateful term',",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay men",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "'poofs'",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Get rid of all the Indians,",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "get rid of",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No matter how I look at it they are all nothing but traitors to me! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they",
+                    "topic" : "Pronoun"
+                },
+                {
+                    "sentence_slice" : "traitors to me! ",
+                    "topic" : "Accusation"
+                }
+            ]
+    }
+]

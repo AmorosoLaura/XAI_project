@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "why are muslims always so violent?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "violent",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Kikes said people wouldn't like it. You throw Kikes and Negroes in a town together? Shit happens. That's why there's not any Negroes in Israel, just blind Sand Negroes. May the True Saxons stand up. White Christians better get the Hell Up!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kikes",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Negroes",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You are the opposite of smart, man. you won't realize anything.jpg",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what is wrong with you? Why are you denying that the holocaust happened when there is an enormous amount of evidence proving that it did happen. Are you incredibly racist, or incredibly stupid, or both you fuckwit. It happened, it was glorious, get on with it.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Holocaust",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Feminism and Liberal ideology do not make women look physically attractive.  My friend's ex used to be decently hot, now she's frumpy and looks like she works at a library. ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Feminism",
+                    "topic" : "Ideology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Appearance"
+                }
+            ]
+    }
+]

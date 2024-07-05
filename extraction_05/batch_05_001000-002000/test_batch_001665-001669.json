@@ -1,0 +1,65 @@
+[
+    {
+        "full_sentence" : "'Now that's some funny shit you got there buddy!',",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'theres only two genders: female and rapists',",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gender",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I wouldn't spend my life looking after a cripple child, what a waste of time',",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Child with disability",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'This town is full of old biddies',",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Elderly women",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Claiming that chinese are disguting because they eat bats and rats is not understanding cultural differences',",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cultural differences",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

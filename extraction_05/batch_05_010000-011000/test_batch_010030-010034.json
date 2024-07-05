@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Pregnant women are always showing off their bellies.. there's nothing to be proud of! You just got knocked up",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pregnant women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "showing off bellies",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he's a r3fug33. That's why he's hanging out with you because you have money and he knows it. That's what they're all the same like that.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugee",
+                    "topic" : "Immigrant status"
+                },
+                {
+                    "sentence_slice" : "money",
+                    "topic" : "Finances"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the thought of a world free of refugees makes me so happy",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigrant status"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Straight femboys are cringy wannabe f4gg0ts. Either suck dick or come out as a transbian already.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "femboys",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My friend's parent's are from a land far away from here.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "parents",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "land far away",
+                    "topic" : "Location"
+                }
+            ]
+    }
+]

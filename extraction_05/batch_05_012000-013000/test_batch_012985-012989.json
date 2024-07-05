@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "Most muslims live in terrible conditions",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "terrible conditions",
+                    "topic" : "Socio-economic status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yes, unfortunately it does seem that way that the foreigners take our jobs. It makes me so fucking angry!!!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "take our jobs",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Encouraged? I see women being heavily encouraged to pursue any field they like! Honestly it seems that the fact of them being clearly inferior to men does not seem to matter anymore...",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "inferior to men",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks are such pondlife",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As far as your comment goes, I question whether racial diversity is the issue, or if it's liberal retards importing people from the third world that are the issue. Take Germany for example. Would they be having issues like this if they hadn't taken in all those Syrian refugees and instead had taken in an equivalent amount of highly educated skilled people who knew from the get go that knew they're expected to integrate? Beyond that, Asias are famous for working for what's theirs and not being violent at all. It's really only a few groups that are famous for the violence they bring.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Germany",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Syrian refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Asias",
+                    "topic" : "Continent"
+                },
+                {
+                    "sentence_slice" : "violence they bring",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

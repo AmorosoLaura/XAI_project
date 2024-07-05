@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Who? An asian? Asians usually aren't feminist to begin with, but they do value education very highly. Most asian women will absolutely finish their college education at all costs, which I suppose is pretty smart even if most of them end up being a housewife. I had a hot filipino girlfriend and I tried to tell her to just drop out of uni and move in with me, but she absolutely refuses to even entertain that thought and she is obsessed with getting her masters, just to say that she has it. She doesn‘t even know what she‘ll do with it. But her parents are from the third world so I guess that would make sense",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Feminism",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black people are the real virus",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Virus",
+                    "topic" : "Illness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fucking shut up",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All b l a c k Americans should return to Africa",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black Americans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Migration",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You can do it, now say it with me.... VAGINA. Its not embarrassing or rude, that's just what's its called. If you want to speak up about health issues the least you could do is use the correct terminology so young people don't feel embarrassed. VAGINA VAGINA VAGINA. See not so bad?!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Vagina",
+                    "topic" : "Anatomy"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Health education"
+                }
+            ]
+    }
+]

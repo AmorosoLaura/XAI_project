@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "India has banned 47 more Chinese apps including a TikTok clone and is eyeing hundreds more to ban according to business insider. It seems that the war between rice people and biryanis has started!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "India",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Chinese apps",
+                    "topic" : "Technology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "arabs have a different way of doing things. They tend to be less hard working and more reliant on their social networks. It's a different culture. If you don't recognize that then you cant get on with them, it just ends in disaster",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Culture",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "MGTOW is a melting pot. There are tons of tradcons here who think we need to revoke all women’s rights and have moar white babies",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "MGTOW",
+                    "topic" : "Movement"
+                },
+                {
+                    "sentence_slice" : "Tradcons",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A consortium of Zuber and Mohsin Issa and private equity firm TDR Capital will take a majority stake in Asda.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zuber",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "Asda",
+                    "topic" : "Company"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "School is so bad because my teacher is horrible",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "School",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "Teacher",
+                    "topic" : "Person"
+                }
+            ]
+    }
+]

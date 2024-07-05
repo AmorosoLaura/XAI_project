@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "lazy parenting. i don't understand how fathers don't tell their own son not to be perverted. come on you were a young lad once. you know what you would have thought about a girl, you respected her no matter if she wore shorts. I find this extremely negligent these so-called fathers should be arrested. its criminal",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lazy parenting",
+                    "topic" : "Parenting"
+                },
+                {
+                    "sentence_slice" : "perverted",
+                    "topic" : "Moral judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women cannot follow logic because they do not have any. It is all emotion!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "logic",
+                    "topic" : "Thinking"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All these anti trans people need to be burned",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anti trans people",
+                    "topic" : "Attitude towards group"
+                },
+                {
+                    "sentence_slice" : "burned",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A lot of people in Ireland mistakingly still believe that all races are welcome here just because we dont have neo-nazi marches and kkk rallies on display. However, Ireland is white and will proudly remain as such",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ireland",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Racial attitudes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Right, based on the red pill, women should not be leading the men, and if females do lead the men, the man has \"lost frame\" so America having a girl president would be on a national scale men losing frame. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "red pill",
+                    "topic" : "Ideology"
+                }
+            ]
+    }
+]

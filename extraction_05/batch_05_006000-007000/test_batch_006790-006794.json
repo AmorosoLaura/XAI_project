@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Refugees should have rights... The right to go back where you came from!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "The right to go back where you came from!",
+                    "topic" : "Policy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jews are known to troll their host species for money until the hosts eventually starve out of debt.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "troll for money",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You learned a valuable lesson my friend. AN addicts love is all conditional. They are not ride or die. I've found true loves many times but they eventually fucked me over at my lowest. I dont hate addicts. I love them... but I know eventually they will be opportunistic. Once you learn that they cant hurt you.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Addicts",
+                    "topic" : "Substance Abuse"
+                },
+                {
+                    "sentence_slice" : "Love",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When I am hitting muslims nothing else matters, it is all pure joy",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "hitting",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dykes aren't welcome around here",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dykes",
+                    "topic" : "Sexual Orientation"
+                },
+                {
+                    "sentence_slice" : "not welcome",
+                    "topic" : "Policy"
+                }
+            ]
+    }
+]

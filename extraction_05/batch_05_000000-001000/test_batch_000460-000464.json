@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Those kids not targeted by bullying identify arrogant speech as acceptable behaviour. For those that get targeted by it, the negative effects are mostly short term and they recover from it with improved behavior.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kids not targeted by bullying",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "arrogant speech",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I concur that due to the fact they tend to be overeducated and ind0ctrinated, j3ws do have that feeling of grandeur. They seem as if they are infallible and do not make mistakes. Their excuse is usually their SAT scores. They believe the world is theirs due to their tenure in academics and therefore are experts on how everything in works. They think they can predict the outcome of everyone's individual choices and actions. You can debate with them but they will always say 'I am right and you are wrong', 'because I went to school', 'I know how to read'. So on and so forth.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "j3ws",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "arrogance",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The woman was harassed and attacked by asian men on internet and was forced to delete her social media accounts, asian men are doing this with asian women, black men, on every website",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "asian men",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just tell'em how great it is to be regal in a country.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "being regal",
+                    "topic" : "Status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are naturally neurotic due to their hormones among other biological and developmental issues. The hard reality of this is that they need a strong male influence in their life to keep them under control until they are about 50-55 years old.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "neuroticism",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

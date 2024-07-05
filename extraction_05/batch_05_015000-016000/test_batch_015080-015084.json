@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Honestly, those stinky gypsies even have to be prompted to brush their fucking teeth.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gypsies",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "brush their teeth",
+                    "topic" : "Hygiene"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I say I like Indians, but I don't",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "like",
+                    "topic" : "Affection"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We feel strongly that the youth should never be taught to hate their peers, but the cycle of self-loathing, depression and suicide which many LGBTQ youth experience is justified.  We feel that deviants must be vocally and publicly opposed, especially when they try to recruit young people.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBTQ youth",
+                    "topic" : "Sociocultural issues"
+                },
+                {
+                    "sentence_slice" : "deviants",
+                    "topic" : "Attitudes and beliefs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It makes me sad when other boys won't hang around with me. They call me names like faggot",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "other boys",
+                    "topic" : "Peer relationships"
+                },
+                {
+                    "sentence_slice" : "faggot",
+                    "topic" : "Homophobia"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The thing is, these males are genuine transwomen like any other. In the past they would have been called transvestites and their dressing up would be confined to home (and maybe public meet ups, for the braver ones). Now the trans umbrella is inclusive of cross dressers and 'transvestite' is no longer a word that gets used.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transwomen",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "transvestites",
+                    "topic" : "Sociocultural history"
+                }
+            ]
+    }
+]

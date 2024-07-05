@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "they should call it the mandatory Abdul face mask",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mandatory Abdul face mask",
+                    "topic" : "Health and safety"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Israel has the world's largest 'skin bank' and unsurprisingly, almost all of the skin was taken from 'goyim'. The video at the above link has subtitles in English.  Jews/Israeli's do not donate. They take skin from 'others' such as Palestinians, foreigners, and refugees.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Israel",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "'skin bank'",
+                    "topic" : "Medicine and Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I guess it goes without saying, but undocumented immigrants would rather risk deportation than living back in their country of origin. Imagine the scenario they must be going through at their home country.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "undocumented immigrants",
+                    "topic" : "Migration and citizenship"
+                },
+                {
+                    "sentence_slice" : "their home country",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Free Tibet should be banned",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Free Tibet",
+                    "topic" : "Politics and government"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do not think that all latinos are scum ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "latinos",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "honestly, there are 1 billion people on this planet waiting to emigrate. Do you think this could work? No, you guys would ruin the nice places and keep moving to the last Spots that are nice until there ",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "1 billion people on this planet waiting to emigrate",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "you guys would ruin the nice places",
+                    "topic" : "Environmental concerns"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women aren't objects. I'm a daughter. I'm a sister. I'm a human being". But then men donÕt listen and still send texts like: "Pictures of your asshole please gal. Ill pay 13.99 for each honey" it's rank",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women aren't objects",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "Pictures of your asshole please gal. Ill pay 13.99 for each honey",
+                    "topic" : "Harassment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I feel so sorry for those who have ancestral roots in east asia as they just have it coming to them.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "those who have ancestral roots in east asia",
+                    "topic" : "Race/ethnicity"
+                },
+                {
+                    "sentence_slice" : "they just have it coming to them.",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ssshh! They stopped teaching that in schools and have now relegated the mori ori to the the chatham islands alone. And the maori definitely werent cannibals oh no",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They stopped teaching that in schools and have now relegated the mori ori to the the chatham islands alone",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "And the maori definitely werent cannibals oh no",
+                    "topic" : "Historical misconceptions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "naaaaaaasty = chhhhinese ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "naaaaaaasty",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "chhhhinese ",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    }
+]

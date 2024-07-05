@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Marxism is just as bad as nazism",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Marxism",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "nazism",
+                    "topic" : "Political ideology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hearing a woman speak is the most wonderful sound.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "speak",
+                    "topic" : "Communication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am telling you No fatal/gory Popping/bursting, No tomboys, No farts, no trans is ok and have a horny day",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "No fatal/gory Popping/bursting",
+                    "topic" : "Prohibition"
+                },
+                {
+                    "sentence_slice" : "tomboys, No farts, no trans is ok",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ottomans saved jews in the 16th century (also in ww2 they accepted jews) and sabbataists dug their graves at 1800s-1900s.still these days with radical kurds they are trying to get promised land up to tigris and euprates",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ottomans",
+                    "topic" : "Historical figures/events"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "IQ of 49. LMAO. So pleased we are letting these people into the country. Should view it like an act of charity.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "IQ of 49",
+                    "topic" : "Intelligence/Cognitive ability"
+                },
+                {
+                    "sentence_slice" : "letting these people into the country",
+                    "topic" : "Immigration policy"
+                }
+            ]
+    }
+]

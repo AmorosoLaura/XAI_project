@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Even if you claim the holocaust thing was fake, why not just call yourself the something instead of Natzi. Seems stupid beyond words to make 99.99% of folks hostile to you for no obvious gain. When you could just hide behind another group similar to them like i do",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Holocaust",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Nazi",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "don't get me wrong I don't hate Pakistanis, but I definitely don't like them",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pakistanis",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Like/Dislike",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ads tend to be rather annoying ngl",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ads",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "Annoying",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate these traitors as well. White trash women. It is disgusting. The black men sure do enjoy getting them pregnant. Then they split of course and the grandparents are left to raise the kid or the mom does on welfare or the kid is put up for adoption with some stupid white couple. That is how it always happens. I want no part of it.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White trash women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Dislike",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck it, I forgot my mobile!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mobile",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "Forget",
+                    "topic" : "Action"
+                }
+            ]
+    }
+]

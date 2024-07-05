@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Zionists are only useful for one think: making soap!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zionists",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "making soap",
+                    "topic" : "Profession"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There have always been prostitutes and sex workers. but today is different. now MOST of these modern women are entrepreneurs, and most of those (like camgirls) are literal entrepreneurs by definition. everything after the enlightenment has been hopeful",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "prostitutes and sex workers",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "modern women are entrepreneurs",
+                    "topic" : "Economics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "east asia is a beautiful land, although it has been ravaged and raped by centuries of colonial exploitation and abuse",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "east asia",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "colonial exploitation and abuse",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The frugality within iuish pipol is so strong that I couldn't be friends with one.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "iuish pipol",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "frugality",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There is so much I love about the United Kingdom. For example, our rich history and our fantastic royal family. We have stunning coastlines and a picturesque countryside. However, there are WAY too many arabs here.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "United Kingdom",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "arabs",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

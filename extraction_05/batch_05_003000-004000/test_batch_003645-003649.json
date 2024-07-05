@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Muslims you are so worthy of hell",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "hell",
+                    "topic" : "Negative sentiments"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is the worst shit ever, you can tell it's made by chinese people",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative sentiments"
+                },
+                {
+                    "sentence_slice" : "chinese people",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Race mixers ought to be locked away in mental hospitals, re-educated and in extreme cases sterilised, mix raced babies should also be sterilised and deported to the degenerate nation from where their dark ancestry originates.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Race mixers",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "mental hospitals, re-educated, sterilised, deported",
+                    "topic" : "Negative sentiments"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "cougars are dangerous, they just want to take all your money",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cougars",
+                    "topic" : "Animals/People (informal)"
+                },
+                {
+                    "sentence_slice" : "take all your money",
+                    "topic" : "Financial concerns"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Whenever I take my girlfriend to a party or a meal with friends, I can almost guarantee a black bloke will make some disparaging remark when I tell him we're lesbians.  I can tell instantly by his vacant facial expression what he is thinking. And I'm just waiting for him to say \"Spend a night with me, darling, and I'll cure you!\" (which has happened more than couple of times in the past with drunk black blokes showing off in front of their mates)  Of course when you tell them to fuck off, their attitude changes and all of a sudden they're calling you ugly dykes behind your back ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "black blokes",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

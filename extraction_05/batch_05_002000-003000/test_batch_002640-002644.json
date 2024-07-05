@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I love Indian culture. Sanskrit looks so nice in written. Indians mastered medicine, the arts, fashion and films. Everything about them is absolutely fantastic. I just love Indians more when they live in their country of origin",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indian culture",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My SO is black. I have had a lot of racism directed at me before, but you learn a whole new level when you see what a black man goes through in america.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh yey! Yes this is only the startboy. Once the Americans are on board with a few laws, we'll be able to introduce hundreds more each year. Just wait until we value the celbrations of Christmas, and Easter in a few short years then you'll be sorry",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Americans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "laws",
+                    "topic" : "Legislation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gays were probably sinners in past lives",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "F**K OFF sh@g BOT! Judaism is not Satanism you piece o shit.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Judaism",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

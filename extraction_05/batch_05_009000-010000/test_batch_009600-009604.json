@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "I fucking love the colour red",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "colour red",
+                    "topic" : "Color preference"
+                },
+                {
+                    "sentence_slice" : "fucking",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "TRANS ARE S C U M",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "TRANS",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "S C U M",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I always watch knowmorenews before starting my day. Always good quality content",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "knowmorenews",
+                    "topic" : "News source"
+                },
+                {
+                    "sentence_slice" : "good quality content",
+                    "topic" : "Content appreciation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am definitely not a Jew hater in any way and the only two organizations that I give my money every month to are both Jewish. I am however, against Zionism and there is a huge difference there, you can have a religion but stop trying to take over the world! And it's almost all jews nowadays as well",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jew",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Zionism",
+                    "topic" : "Political belief"
+                }
+            ]
+    }
+]

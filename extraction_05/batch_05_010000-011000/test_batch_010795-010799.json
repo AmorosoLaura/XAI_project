@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "shut up if you're just going to say black men are scum",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "scum",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hate the blackness of the night",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blackness",
+                    "topic" : "Color"
+                },
+                {
+                    "sentence_slice" : "night",
+                    "topic" : "Environment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I suppose because they are seen as \"white\", they're a bit of a weird element of the white race and because most posters here feel the need to maintain that all whites are perfect and never do any wrong, they have to pretend that \"Travellers\" are wonderful people who do no wrong too.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Travellers",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "white race",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Had the president left things alone, cycle of life would have remained balanced, as ofc spics tend to die in large numbers when working around large machinery, due to a penchant for drugs n alcohol.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "president",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "spics",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I touch myself everytime that \"help me help me help me\" arab gets her stupid Niqab blown off.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Niqab",
+                    "topic" : "Culture"
+                }
+            ]
+    }
+]

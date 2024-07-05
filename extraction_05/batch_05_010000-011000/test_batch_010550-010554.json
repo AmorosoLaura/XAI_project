@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Connecting with your 'roots' is checking the evening news to see which dump in s@ndn1gg@ land has been bombed or which reli has had his head blown off by aussie troops. Laughable",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Connecting with your 'roots'",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "evening news",
+                    "topic" : "News"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "lol the menace of Burritos and Biryanis is absolutely terrifying. Or maybe it's not and you should hit the gym, treat others with respect and get a life.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Burritos",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "Biryanis",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "hit the gym, treat others with respect and get a life.",
+                    "topic" : "Lifestyle advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Seeing the state of women today and then trying to peer into the future 20 years, I really don't expect things to be any better.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "state of women today",
+                    "topic" : "Women"
+                },
+                {
+                    "sentence_slice" : "future 20 years",
+                    "topic" : "Time perspective"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "that photo is ugly",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "photo",
+                    "topic" : "Visual media"
+                },
+                {
+                    "sentence_slice" : "ugly",
+                    "topic" : "Aesthetics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims should eat the same food as us or be made to leave",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "eat the same food as us or be made to leave",
+                    "topic" : "Cultural expectations"
+                }
+            ]
+    }
+]

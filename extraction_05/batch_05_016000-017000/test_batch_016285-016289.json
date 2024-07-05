@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "asian people are good for nothing",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "good for nothing",
+                    "topic" : "Perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Racists see nothing through the lens of black people. They are real petty",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Racists",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Uhm well it's pretty damn simple. Using negro when you're fighting a black man is absolutely not racist",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Using negro",
+                    "topic" : "Language usage"
+                },
+                {
+                    "sentence_slice" : "black man",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Personally I'm all for peaceful protests and even civil disobedience when the time calls for it but when people of all races start acting like they had same rights as me makes them absolute thugs they completely dimish their cause.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Peaceful protests",
+                    "topic" : "Protest"
+                },
+                {
+                    "sentence_slice" : "same rights as me",
+                    "topic" : "Rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In lord of the rings I've taken to interpreting the ring as a metaphor for the j3w and their works/magik. Man is captivated by it and the circuses of modern \"advancement\". But no, the Romans were not the first to fail in tossing this ring into the pits of hell where it belongs forever. Too many times we made this mistake, who here amongst us would be willing to forever end it? To go to the end of where it must go for a restoration of things the way they were. This can has been kicked for long enough now. We are holding out for 2024. Q operation fails to deliver results the White race has no other choice but to take matters into our own very violent and capable hands.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lord of the rings",
+                    "topic" : "Media/Entertainment"
+                },
+                {
+                    "sentence_slice" : "White race",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

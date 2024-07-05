@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I knew this Chinese virus would destroy the world",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese virus",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "destroy the world",
+                    "topic" : "Catastrophe"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hate indian curries",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "indian curries",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It was never about covering abuse or exploitation, these people would wish it upon any of their circle of friends whenever they step out of line in their eyes. From what source do I make these claims? I have watched it happened right infront of my eyes, several times. Im happy that I cut out that part, and those people, out of my life.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "abuse or exploitation",
+                    "topic" : "Maltreatment"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Holodomor is actually recognized in many places around the world where there are real Ukrainian settlers. But, yes, keep talking about it whenever any other genocide is mentioned with your close friends and family circles. The Holodomor was perpetrated by the Moscow politbureau that was comprised of Bolsheviks",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Holodomor",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Ukrainian settlers",
+                    "topic" : "Demography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm hopeful that Muslims will not be stopped from reaching world peace ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "world peace ",
+                    "topic" : "Ideal"
+                }
+            ]
+    }
+]

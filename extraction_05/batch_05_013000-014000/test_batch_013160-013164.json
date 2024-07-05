@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : """And then I see young refugees, doing absolutely nothing all day, already involved in drugdealing and other criminal activities, beating each other up, harrassing women and most Germans do nothing about it, as they're poor, 'traumatized' people who deserve public benefits""",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "young refugees",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "drugdealing and other criminal activities, beating each other up, harrassing women",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My problem with the beauty industry is I've got three daughters for a start. And the industry regards women as two thirds of a man. A man like you should understand what my issue is: you don't want to be regarded as two thirds of a man quite rightly, and in the southern states you were. My daughters would be regarded as two thirds of a man by the beauty industry - not good",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "beauty industry",
+                    "topic" : "Industry"
+                },
+                {
+                    "sentence_slice" : "women as two thirds of a man",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lesbians are deviant people and should be treated as such",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "deviant people",
+                    "topic" : "Moral judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I left a blunt and a sweet note for my nigga. But I took my good pen with me.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "nigga",
+                    "topic" : "Racial slur"
+                }
+            ]
+    }
+]

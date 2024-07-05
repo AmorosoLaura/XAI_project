@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "So even your hair growing is some kind of achievement nowadays...as long as you're Black of course, then yes you're expanding Afro is making \"progress\"... Welcome to what Hope not Soap would call \"modern inclusive Britain\"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "hair growing",
+                    "topic" : "Physical traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "lesbianism is the worst fucking bullshit anyone can think of. Honestly gross.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbianism",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black people don't have good hygene",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "hygiene",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he acts like a fly-by-night, but what else could he do? he's jewish, that's how they act",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "behavior",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "One vote per household, to be cast by the first person listed on the lease or deed.  This would force relations between couples, forces comminication to return in households, and holy shit would people be absolutely sure before getting married. Also incentives moving out and into your own space. If you're not legally living somewhere, you can't vote.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Voting",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "relations between couples",
+                    "topic" : "Social behavior"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Basically, Asian countries are out of our jurisdiction and don't have to answer to the western nations! This has been the problem with Covid 19. Has this virus stopped them from stealing dogs & slaughtering them? Nope! Had it stopped the Chinese people invading jungle areas? No!!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian countries",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "Covid 19",
+                    "topic" : "Disease and Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Don't forget the fact where I say it's true that trannies would be a headache to work with, and they decided to prove me wrong by acting like a bunch of faggots who would be a headache to work with",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transgenders (trannies)",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "Work",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Very few if any immigrants outright lie on their visa applications, submit fraudulent documents, or cheat (never assisted by the authorities in their oppressive countries) and are an all out caseload for immigration officials.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Visa applications",
+                    "topic" : "Legal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you should learn how to swim it is embarrassing you do not know how to swim and you are 33",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Swimming",
+                    "topic" : "Skill"
+                },
+                {
+                    "sentence_slice" : "Age",
+                    "topic" : "Demographics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "woman you look awful in that costume",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Costume",
+                    "topic" : "Fashion"
+                }
+            ]
+    }
+]

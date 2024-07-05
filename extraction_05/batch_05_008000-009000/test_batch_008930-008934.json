@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "kindly like my PAGE TO HELP REFUGEES IN GREECE",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "help refugees in Greece",
+                    "topic" : "Humanitarian aid"
+                },
+                {
+                    "sentence_slice" : "like my PAGE",
+                    "topic" : "Social media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can't believe that some women believe they are equal to men. Our daughters must be taught how to obey men.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "our daughters",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All these fucking legends called my brother a thickiee because he's disabled haha",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my brother",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "disabled",
+                    "topic" : "Disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chinese are great at dislakable!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "dislakable",
+                    "topic" : "Evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "rude people = sccccccccum of the earth",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rude people",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Evaluation"
+                }
+            ]
+    }
+]

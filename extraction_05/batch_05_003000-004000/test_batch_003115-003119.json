@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Yeah didn't he hear? Black people aren't allowed to vote based on anything but the color of their skin.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "voting",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "marriage is a shitty habit",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "marriage",
+                    "topic" : "Social norms"
+                },
+                {
+                    "sentence_slice" : "shitty habit",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There is evidence that black patients with Parkinsons disease have higher rates of cognitive decline and progression to dementia than other ethnic groups",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black patients",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Parkinsons disease",
+                    "topic" : "Medical conditions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love how the majority of us will not tolerate muslims' intolerances! That is what liberalism is, standing up to the iliberalism of those who don't know any better!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "liberalism",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "just wondering cant you just claim to be a muslim? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "identity",
+                    "topic" : "Identity"
+                }
+            ]
+    }
+]

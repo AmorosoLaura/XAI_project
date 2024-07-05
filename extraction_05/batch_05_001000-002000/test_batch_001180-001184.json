@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I will step on every fucking cockroach that I see, they are the worst animal on earth",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cockroach",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pls Never forget that Jews did 9/11.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "9/11",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "pink lady apples r tr rr rr rr r ass ss hhhh h",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pink lady apples",
+                    "topic" : "Food and drink"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """"So long as a Trump's supporter sits in a position to adjudicate right and wrong among you morons a racism flag flies over this nation and it is bloody in color, blush red, and it has the symbol of his spoiled values on it, and it flies and flutters high above the stars and stripes, high above the Kansas state flag, and high above every other symbol. This nation is as stamped and fully identified as being perverted as the ancient city-states of NY and Chicago.???"",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trump's supporter",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You've no idea just how right you are. There are grown men giving thousands of dollars and for what? Nothing apart from giving lazy working class families a free ride. It's sickening ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "grown men",
+                    "topic" : "People"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

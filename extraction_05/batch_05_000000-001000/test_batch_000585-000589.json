@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Ugh it’s annoying when people say things on other threads as if they assume everyone also thinks JK is awful etc. Then if you respond you’re the terf",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "JK",
+                    "topic" : "Author"
+                },
+                {
+                    "sentence_slice" : "terf",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm chuffed to bits my newborn is not a female",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Newborn",
+                    "topic" : "Birth"
+                },
+                {
+                    "sentence_slice" : "Female",
+                    "topic": "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Im DONE! This is over, you dont belong and never will, so lets just cut the crap and move on!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "DONE",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "belong",
+                    "topic" : "Social status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When you keep a Mexican as a pet, one must consider if they can actually care for their newfound family member/moustachioed taco receptacle. Mexicans require daily care and attention, such as:",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexicans",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "pet",
+                    "topic" : "Pet ownership"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trans people are insignificant ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

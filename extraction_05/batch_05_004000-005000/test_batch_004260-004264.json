@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "these guys are real petty. No matter what happens, they cannot be at fault. They are always innocent",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "these guys",
+                    "topic" : "Group behavior"
+                },
+                {
+                    "sentence_slice" : "petty",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Not surprised nazi boy isn't wearing his mask properly, in face I am surprised he wears one at all. Wonder what 'essential' items they needed from IKEA...is she that unhappy at home that she can't just stay at home for crying out loud?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nazi boy",
+                    "topic" : "Ethnicity/Group behavior"
+                },
+                {
+                    "sentence_slice" : "mask",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "white wigs makes you look formal, black makes you look like a tramp",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white wigs",
+                    "topic" : "Fashion"
+                },
+                {
+                    "sentence_slice" : "black makes you look like a tramp",
+                    "topic" : "Personal appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've noticed an increase in asian men with white women, and white men with black women. Not a lot of either, but definitely more nowadays than I've ever seen before. This is how our race dies.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I've noticed",
+                    "topic" : "Observation"
+                },
+                {
+                    "sentence_slice" : "our race dies.",
+                    "topic" : "Racial issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Britain First rejects racial hatred in all its forms. British ethnic minorities regularly attend our events and activities. Alas, Britons from all backgrounds are welcome to join us in our struggle to put British people first.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Britain First",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "racial hatred",
+                    "topic" : "Racism"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The only sensible reaction would be to dump her.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dump her",
+                    "topic" : "Relationship advice"
+                },
+                {
+                    "sentence_slice" : "The only sensible reaction",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "those pigs are fucking gross",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pigs",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "fucking gross",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """"Constitutionally protected general internet faggotry"", are some of the most fucking glorious words I've ever read.""",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : ""Constitutionally protected general internet faggotry""",
+                    "topic" : "Legal terms"
+                },
+                {
+                    "sentence_slice" : "fucking glorious words I've ever read.",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims are all completely immoral",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "completely immoral",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Everyone here, go search for what the Kenosha medical examiner had to say about the cause of the chimo's death. His head was just grazed, by the looks of it. Just imagine what Jo Jo's dick and balls look like, disgraceful!, whenever you need something to cheer you up.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kenosha medical examiner",
+                    "topic" : "Medicine"
+                },
+                {
+                    "sentence_slice" : "disgraceful!",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

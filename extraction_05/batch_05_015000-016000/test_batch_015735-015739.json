@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "your p4ci mum should have aborted you when she had the chance.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "abortion",
+                    "topic" : "Life events"
+                },
+                {
+                    "sentence_slice" : "racial slur",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ifs he keeps behaving like this she will die alone, women need to learn to please a man and stop trying to be like people",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "death",
+                    "topic" : "Life events"
+                },
+                {
+                    "sentence_slice" : "gender roles",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "typical aggressive black dude, cant get some white girl to go home with him so he start raging. You should stear clear of them",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racial slur",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "aggression",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "to Muslims: I hope our paths never meet",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "discrimination",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she just looks hideous ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "appearance",
+                    "topic" : "Physical characteristics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    }
+]

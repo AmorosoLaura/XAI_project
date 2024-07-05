@@ -1,0 +1,89 @@
+[
+    {
+        "full_sentence" : "Black people should be property",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "property",
+                    "topic" : "Legislation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "StackPath -For Live Streamers and Mixer Refugees since mixer is merging with kikey facebook",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "StackPath",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "Live Streamers",
+                    "topic" : "Streaming"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "everybody, like me hates muslims in this country and they wonder why i feel so unsafe",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "everybody, like me",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "unsafe",
+                    "topic" : "Safety"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wish Jewish people would go and play in the traffic",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "traffic",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We have our odious old men, who's nature smells like Pep la pew. Of late we have been thrown a Curve, by those who are only fit to serve. I am referring to those who are upper class, up to their eyeballs in coke.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "old men",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "Pep la pew",
+                    "topic" : "Smell"
+                },
+                {
+                    "sentence_slice" : "upper class",
+                    "topic" : "Social class"
+                },
+                {
+                    "sentence_slice" : "cocaine",
+                    "topic" : "Illicit drugs"
+                }
+            ]
+    }
+]

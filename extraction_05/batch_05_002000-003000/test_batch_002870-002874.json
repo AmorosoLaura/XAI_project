@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Hundreds of refugees are in a 'horrible' situation in Australia after being told to leave community detention in the grip of a pandemic.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "pandemic",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "some men are abusive",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "abusive",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black Lives Matter is not organized by just black women at all. It is actually organized by whole black communities who are using it as a front against institutional racism built by whites. It is essentially a socio-political organization who are fighting oppression and inequality except there is little change happening as a consequence of that so far.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black Lives Matter",
+                    "topic" : "Social Movement"
+                },
+                {
+                    "sentence_slice" : "institutional racism",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't see why women feel the need to try to be plumbers or electricians, men should do mens jobs and women should do womens",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "jobs",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Do zoomer lesbians have the distribution of 'roles' (butch/fem etc.) that was common for boomer and millenial lesbians or is that a thing of the past? Are female couples more common now?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "zoomer lesbians",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "roles",
+                    "topic" : "Social dynamics"
+                }
+            ]
+    }
+]

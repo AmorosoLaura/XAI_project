@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "bearded children again? They already imported a few hundred of them from the dark web, one built a bomb, few became gang members",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bearded children",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "dark web",
+                    "topic" : "Internet"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You're all oriental bellends to me",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "oriental",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "bellends",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Without massive taxation and the reversal of tax-haven citizenship, it's already likely they will all become Democrat. Texas will probably be blue by 2028, there's no path to the presidency for a Republican without Texas.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "taxation",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Democrat",
+                    "topic" : "Political party"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All retail workers are just rude at the end of the day",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "retail workers",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "rude",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

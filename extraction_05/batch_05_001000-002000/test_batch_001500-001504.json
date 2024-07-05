@@ -1,0 +1,89 @@
+[
+    {
+        "full_sentence" : "This is a nonviolent action, that is symbolic of the fact that all AntiFa are hypocrites and, ultimately, defenders of Fascism and racial diversity , eugh",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "AntiFa",
+                    "topic" : "Political groups"
+                },
+                {
+                    "sentence_slice" : "Fascism",
+                    "topic" : "Political ideologies"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There is absolutely NO sense in those British people that are willing to pay the huge blood price required to remain the majority in this land - there will be a Catastrophe. They claim the 'Cleansing and Reconquest WILL come, but only after the Fall'. And say ' Look at how the Muslims organise their communities. How the Orthodox Jews are increasing in numbers and taking over black ghettoes.  Look at the Amish. At the home schoolers. At local charities quietly building community resilience. At what Niall McConnell is doing in Ireland.  There is no shortage of constructive things to do, but: \"The people perish for want of a vision\". They are crazy.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "British people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Orthodox Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Amish",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The feeble-minded people that around us are too easily manipulated and intimidated by the savage J3w and n3gro creatures.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Feeble-minded people",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Negroes",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The absolute pain and agony of a looking at a trans all day",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love a dirty fuck, nothing like a bit of backdoor action and some naughty finger banging ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "Sexual behavior",
+                    "topic" : "Personal activities"
+                }
+            ]
+    }
+]

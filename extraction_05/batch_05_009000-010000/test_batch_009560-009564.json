@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "they should be banned from life",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they should be banned",
+                    "topic" : "Legislation"
+                },
+                {
+                    "sentence_slice" : "banned from life",
+                    "topic" : "Death penalty"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Doesn't matter how much a refugee hates us and hates liberal values, like letting women date, no one expects them to be better than they are! In that sense they're treated better, because people have zero expectations from them. You can be homophobic, racist, and beat your wife all you want as long as you're a refugee, it's ok!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugee",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "people have zero expectations from them",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i can confirm to you a good non Muslim will burn in eternity However a Muslim who sinned and repented will go to hell but will go to heaven after punishment",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "a good non-Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "go to hell",
+                    "topic" : "Afterlife"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Shoot the Rohingya",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Shoot the Rohingya",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hopefully this disease we call transgenderism will die out",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this disease we call transgenderism",
+                    "topic" : "Transgender people"
+                },
+                {
+                    "sentence_slice" : "will die out",
+                    "topic" : "Eradication"
+                }
+            ]
+    }
+]

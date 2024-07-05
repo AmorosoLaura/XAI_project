@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "Yeah, they are probably right. ape bitches, and they are sure that that is totally the reason \"you're not ready for a relationship\".",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ape bitches",
+                    "topic" : "Animal"
+                },
+                {
+                    "sentence_slice" : "you're not ready for a relationship",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Makeup or plastic surgery cannot help her at this stage",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Makeup or plastic surgery",
+                    "topic" : "Beauty treatments"
+                },
+                {
+                    "sentence_slice" : "her",
+                    "topic" : "Individual"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Nah, it's better to build a wall to keep them out. Thanks, anyway.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "build a wall",
+                    "topic" : "Construction"
+                },
+                {
+                    "sentence_slice" : "them",
+                    "topic" : "Individual"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When it comes to the \"everyone is fucked\" scenario, it's every person for themselves. Our tribe will survive slightly longer by refusing them, so guess what.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "everyone is fucked",
+                    "topic" : "Dystopia"
+                },
+                {
+                    "sentence_slice" : "our tribe",
+                    "topic" : "Group"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Homosexuality is a sin and they will not be going to heaven",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Homosexuality",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "heaven",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yes it's a joke and offensive isn't it? Why are some people trying to erase biological women from existence? Men can't menstruate.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Yes it's a joke",
+                    "topic" : "Joke"
+                },
+                {
+                    "sentence_slice" : "biological women from existence",
+                    "topic" : "Gender identity"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Because all women can do is argue and complain. Actually that's useful for politics but useless for any other real life applications.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "argue and complain",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "lazy parenting. i dont understand how fathers don't tell their own daughters not to dress slutty. come on you were a young lad once. you know what you would have thought about a girl wearing tight spandex with her ass jiggling everywhere or with shorts so short you see her ass cheeks hanging out. I find this extremely negligent these so-called fathers should be arrested. its criminal",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "parenting",
+                    "topic" : "Parenting"
+                },
+                {
+                    "sentence_slice" : "daughters",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "pregnant women can not think properly as hey are very heavy",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pregnant women",
+                    "topic" : "Pregnancy"
+                },
+                {
+                    "sentence_slice" : "thinking properly",
+                    "topic" : "Cognitive ability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So I think I want to end up with someone who’s also Asian for many reason for the relationship but also for the future children. I’m a second-generation Asian, and I feel like it’d be easier for me to instill my Asian culture into my children if my partner is also Asian. I have a lot of hapa friends, and they‘ve told me about the struggles of not belonging in either community and overall identity issues. So I don’t know if I would want to burden my children with this, if I married a non-Asian person. I’ve never disclosed this w anyone, but I worry if this way of thinking is too close-minded or maybe even racist? Please I need some advice!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "relationship",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "Asian culture",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this brand is a fucking scumhole ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "brand",
+                    "topic" : "Products and services"
+                },
+                {
+                    "sentence_slice" : "scumhole",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

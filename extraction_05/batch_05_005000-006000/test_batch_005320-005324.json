@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Islam is the right thing for us all",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "right thing for us all",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Do you think tards a bit tardy? hahaha",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tards",
+                    "topic" : "Pejorative terms"
+                },
+                {
+                    "sentence_slice" : "hahaha",
+                    "topic" : "Humor"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Now to burn my phone in the pits of hell",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "phone",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "pits of hell",
+                    "topic" : "Metaphorical language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i cannot understand how people don't find spit disgusting. and yeah I'm a kissless virgin, so please explain",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "spit",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "kissless virgin",
+                    "topic" : "Personal information"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Bing! got a great idea! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bing",
+                    "topic" : "Brand names"
+                },
+                {
+                    "sentence_slice" : "great idea! ",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

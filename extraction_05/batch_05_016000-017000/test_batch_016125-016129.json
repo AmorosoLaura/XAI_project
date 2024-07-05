@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "lets be realistic however, Chinese people and East Asian people are not decent. Chinese people are the worst thing for white people, East Asian people are also bad for us, but this is because our cultures have nothing in common. why dont they care about family like white people do? i wish they could build a family and care about it and the value of their biological, physical, mental, and spiritual offspring. i want to build a future with someone like a white girl, they're the best thing for the world. They make the world whole. Its like any traditional love escapade. I love her, like a foreign nation to conquest, but perhaps I should make treaty,",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "East Asian people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "white people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "culture",
+                    "topic" : "Society and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck off , i feel like such a prick",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "prick",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sadly, it is even gayer than original rap. So gay that the only thing gayer is french rap, which is humiliatingly gay.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rap",
+                    "topic" : "Music"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So bored of the indian jokes. No one finds them funny, maybe funny looking though",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "indian jokes",
+                    "topic" : "Humor and entertainment"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Today's a day which we remember as being very important, and what we are really thankful for. the day Freddie Mercury died. That's it.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Freddie Mercury",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "day he died",
+                    "topic" : "Time and events"
+                }
+            ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "mulattas is the worst thing that happened to this country, fucking disgrace!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mulattas",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "worst thing that happened to this country",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why would he bother, just to save two n1gl3ts",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "n1gl3ts",
+                    "topic" : "Animal welfare"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "How the heck did the republicans manage to paint Biden, a conservative bourgeois democrat, as a socialist? Politicians are unintelligent.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Biden",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "republicans",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A high number of women here in our country are overweight and don't take care of themselves properly, but its not easy considering the amount of pressuure they are under.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "overweight",
+                    "topic" : "Health"
+                }
+            ]
+    }
+]

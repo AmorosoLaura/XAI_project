@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "nazis are racist",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nazis",
+                    "topic" : "Historical figure"
+                },
+                {
+                    "sentence_slice" : "racist",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A few months ago, I had public safety concerns in my parent's old neighborhood (suspicious people peaking into cares, wierd people peaking into the homes, etc). I organized a few neighbors and work with a few community groups to find a solution. During this time My Asian parents kept discouraging me from doing these things. They kept saying things like 'dont get involved' 'nothing will ever be solved', 'noone cares and your efforts are useless', 'dont be the leader of the group'... and this is the same theme i get from other Asians of their generation. I ignored my parents beta defeatist advice.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Parent's old neighborhood",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "public safety concerns",
+                    "topic" : "Security"
+                },
+                {
+                    "sentence_slice" : "Asian parents",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this place is so disgusting I wanna die",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "place",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "disgusting",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "eurocentrism is fucking dead!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Eurocentrism",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "don't get me wrong I don't hate Indians, but I definitely don't like them",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "don't like them",
+                    "topic" : "Preference"
+                }
+            ]
+    }
+]

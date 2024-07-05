@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "muslims will take over our country because they have so many children",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "so many children",
+                    "topic" : "Demographics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Honestly for the majority of my life I adored the Jews. If someone told me they were a jew I thought of it the same as if soneone told me they were Russian. I'm not Russian but I still consider them part of my race and that's how I considered Jewish people. I'm surprised no one else here grew up the same way. Come on, when we saw a Stephen Spielberg film, did none of you consider him one of us? I thought of him as one of us. I admit this because I don't get how people don't understand Americans ultra positive view of Jews and why hardly any white families have a problem with their kids intermarrying with them. Jews have infiltrated and driven the narrative of who they are in relation to us for decades now. We can thank our universities and Hollywood for that.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Universities and Hollywood",
+                    "topic" : "Institutions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why should jews get rights?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Rights",
+                    "topic" : "Legal matters"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "that’s the things with the apes. They're just like monkeys with their lack of knowledge",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Apes and monkeys",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "lack of knowledge",
+                    "topic" : "Cognitive abilities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Funnily, the UK left the EU to get rid of those horrible poorer white immigrants, though, now they can enjoy their new noble savage neighbors.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "UK",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "poorer white immigrants",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "noble savage neighbors",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Only horrible people will hate someone for being jew",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "horrible people",
+                    "topic" : "Moral judgment"
+                },
+                {
+                    "sentence_slice" : "being jew",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "those useless fucking lesbians moan and cry all the time!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "moan and cry",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A rabbi was attacked at knifepoint in Vienna by a woman who ripped the Jewish skullcap from his head and yelled an anti-Semitic threat before fleeing, police in the Austrian capital reported on Tuesday. Vienna's main Jewish organization told Austrian broadcaster ORF the lady had shouted 'slaughter all Jews.'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "A rabbi was attacked",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "anti-Semitic threat",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "pregnant women should wear a bag as they are really heavy and their normal clothes do not fit anymore",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pregnant women",
+                    "topic" : "Pregnancy"
+                },
+                {
+                    "sentence_slice" : "normal clothes do not fit anymore",
+                    "topic" : "Clothing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I keep saying this to everyone. Women have zero real value to society, except their incubation abilities, and the sexual attraction. Other than that, there isn't anything within society that men can't do better than women. But they want to try and ban the thing that give them any real value? It shows how dumb most of them are",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women have zero real value",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "incubation abilities",
+                    "topic" : "Reproduction"
+                }
+            ]
+    }
+]

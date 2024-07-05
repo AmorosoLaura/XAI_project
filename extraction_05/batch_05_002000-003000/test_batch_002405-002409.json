@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "i don't get why people like cabbage, it's disgusting",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people like cabbage",
+                    "topic" : "Preference (food)"
+                },
+                {
+                    "sentence_slice" : "disgusting",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "for goodness sake, open Europe now! Let them in. All of them. Politicians are ruining Europe and don't give a f*ck. They just want government paychecks for the rest of their lives",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "open Europe now!",
+                    "topic" : "Political opinion"
+                },
+                {
+                    "sentence_slice" : "politicians",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Due to the ch1nks and euros that pay for it. You stupid r3t@rd",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ch1nks and euros",
+                    "topic" : "Ethnicity (Chinese)"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There's something disgustingly ugly and smelly about them. Maybe move back to India where you belong and fit in.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "something disgustingly ugly and smelly",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "move back to India",
+                    "topic" : "Cultural prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why does she think this is funny or quirky? This is fucking rank. If one of my friends ate their bogies I would honestly probably stop being their friend because that's fucking vile you dirty bitch",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "why does she think this is funny or quirky?",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    }
+]

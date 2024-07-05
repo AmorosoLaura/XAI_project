@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "your health might actually take a hit if you breastfeed when we beat you up for the disgusting scene",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "health",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "breastfeed",
+                    "topic" : "Parenting"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you have a different shaped skull to your mother, does that mean your mother is a different species? Idiot",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "skull shape",
+                    "topic" : "Physical characteristics"
+                },
+                {
+                    "sentence_slice" : "species",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "walking through soho makes me sick, the sights and sounds of these degenerate fucking homos everywhere",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sick feeling",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "homos",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The globalists (who are mainly jewish) are the ones bringing in the muslims to Europe. They seem to be working together.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "globalists",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "jewish people",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Karma is a bitch. Muslims will get what they deserve.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "karma",
+                    "topic" : "Beliefs"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

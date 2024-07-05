@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "You know, I have always wondered if those guns can shoot autists...",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "guns",
+                    "topic" : "Weapons"
+                },
+                {
+                    "sentence_slice" : "autists",
+                    "topic" : "Disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "FTM individuals are in a tough position. We can treat them like men but they still have a uterus and definitely still have a cervix",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "FTM individuals",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "uterus and definitely still have a cervix",
+                    "topic" : "Anatomy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The NHS is unimportant",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "NHS",
+                    "topic" : "Healthcare system"
+                },
+                {
+                    "sentence_slice" : "unimportant",
+                    "topic" : "Importance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "a gay congressman pretented to be a gay nigger in order to gain voters and influence peoples votes, and then really gets what he asked for",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay congressman",
+                    "topic" : "Politician"
+                },
+                {
+                    "sentence_slice" : "pretend to be a gay nigger",
+                    "topic" : "Deception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black are barbaric ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "barbaric",
+                    "topic" : "Cultural stereotypes"
+                }
+            ]
+    }
+]

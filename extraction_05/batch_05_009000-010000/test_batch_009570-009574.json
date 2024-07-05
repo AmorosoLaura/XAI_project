@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "My sister works with people who have mental health issues. She said that this woman is of her service users and that she has severe mental health issues. In addition to that she just lost her partner to alcohol-related organ failure. So that explains why she is so mad at all those bottles, I couldn't handle working with crazy people, they scare me",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My sister works with people who have mental health issues",
+                    "topic" : "Mental Health"
+                },
+                {
+                    "sentence_slice" : "lost her partner to alcohol-related organ failure",
+                    "topic" : "Death"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Remember... you will never be left alone because you are white. Our taxes are taken and our country is flooded with foreigners. Diversity is #AntiWhite. We're hated by all, especially the media, hollywood, academia, and the government. Can't you see, they're actively replacing us with Mexicans etc. It's our right to keep OUR COUNTRY. #itsokaytobewhite",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you are white",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "It's our right to keep OUR COUNTRY",
+                    "topic" : "Nationalism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can't believe the how difficult it has been renting out my house. The tenants, who are black, left it in huge mess. It was brimming with trash and so dirty, i should have seen it coming really !",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I can't believe the how difficult it has been renting out my house",
+                    "topic" : "Real Estate"
+                },
+                {
+                    "sentence_slice" : "The tenants, who are black",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "3 of the famililes on my street have been rehoused by the council, moving them out so that they can finally get somewhere with enough rooms",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "3 of the famililes on my street have been rehoused by the council",
+                    "topic" : "Housing"
+                },
+                {
+                    "sentence_slice" : "moving them out so that they can finally get somewhere with enough rooms",
+                    "topic" : "Relocation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I cant stand this fairy ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I cant stand this fairy",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    }
+]

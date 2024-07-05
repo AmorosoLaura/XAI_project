@@ -1,0 +1,100 @@
+[
+    {
+        "full_sentence" : "Has anyone else noticed how hateful policemen are?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "policemen",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "hateful",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They just go back to some place they visited 100 other times. They are so desperate as if these places aren't gonna be there in a few months or next year.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "places",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "desperate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Amelia liana is in italy for the second time in less than 2 weeks. Which kind of breed are these influenzas? They must exterminated as soon as possible lol",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Amelia liana",
+                    "topic" : "Name"
+                },
+                {
+                    "sentence_slice" : "Italy",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "influenzas",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "exterminated",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All these worthless eastern Europeans think they have been hard done by, taking advantage of brexit for pity points. It's so frustrating to say the least. Honestly it makes me kind of mad to see.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "eastern Europeans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "frustrating",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "any normal person with a brain would agree that whatever comes out of dominic raabs mouth is complete bullshit",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dominic raabs",
+                    "topic" : "Name/Profession"
+                },
+                {
+                    "sentence_slice" : "complete bullshit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am doing my best to make sure my blue-eyed blond saxon daughter doesn't end up in a sport like cheerleading. She's only 9 but she's starting to get it. ",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "daughter",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "cheerleading",
+                    "topic" : "Activity"
+                }
+            ]
+    }
+]

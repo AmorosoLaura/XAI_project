@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I don't want to be deemed as not being aryan enough.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Aryan",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "not being aryan enough",
+                    "topic" : "Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate that whenever a terror attack happens we Muslims are always named as terrorists but others are just mentally ill.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "terror attack",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Our quaint and quirky villages are now hubs for all sorts of crimes. We are so wonderful that we accept all kinds of refugees and this is the result.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Villages",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "crimes",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I encourage the use of the word bumder",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bumder",
+                    "topic" : "Language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Problems like Jews won't go away if you can't properly address them, anon. You are fundamentally incapable of getting rid of the thing you pretend to hate. You, more than anyone, is keeping stupidity alive.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    }
+]

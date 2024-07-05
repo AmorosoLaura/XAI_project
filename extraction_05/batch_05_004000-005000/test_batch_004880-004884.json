@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "there is not much good about having this many foreigners here. They are far from decent, they're mostly just layabouts who at best are builders or cleaners, they cant do anything trained or skilled or worthwhile",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "They are far from decent...",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "some mixed raced people feel like they are foreigners in their own country and don't belong.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mixed raced people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "feel like they are foreigners...",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this tv presenter is shit",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tv presenter",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "is shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Another black dead is music to my ears",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Another black dead is music to my ears",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "have you blacks considered killing yourself now that you've realised nobody likes you? Because you should ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "have you considered killing yourself?",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Non white immigrants outright lie on their visa applications, submit fraudulent documents, cheat (all assisted by the authorities in their hell hole countries) and are an all out nightmare for immigration officials.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Non white immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "lie",
+                    "topic" : "Deception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This area has a lot of Chinese people. It's very multicultural.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "multicultural",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There's nothing i love more than seeing horrible indians getting oppressed",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "oppressed",
+                    "topic" : "Suffering"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "those rapefugees deserve to rot in jail for this",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rapefugees",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "jail",
+                    "topic" : "Punishment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Nobody cares about insects so no studies are done on them",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Insects",
+                    "topic" : "Species"
+                },
+                {
+                    "sentence_slice" : "studies are done on them",
+                    "topic" : "Research"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "this is Justice lol",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Justice",
+                    "topic" : "Legal matters"
+                },
+                {
+                    "sentence_slice" : "lol",
+                    "topic" : "Humor"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "pregnant women have a disability",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pregnant women",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "disability",
+                    "topic" : "Medical conditions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Argh! Women hate stability or common sense!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "stability or common sense",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can tell the difference between a Muslim women and a letterbox: the latter at least is purposive",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim women",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "letterbox",
+                    "topic" : "Insults"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Immigration is out of control. Our population is now over 60 million and rising, solely due to immigration. Not only is the UK increasingly overcrowded, but the fact is that a country is the product of its people and if you change the people you inevitably change the nature of the country.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigration",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "UK population",
+                    "topic" : "Demographics"
+                }
+            ]
+    }
+]

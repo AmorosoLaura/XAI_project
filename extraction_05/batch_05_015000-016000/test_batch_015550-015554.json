@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Why would gays want to vote for conservatives? That doesn't make sense.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "conservatives",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When will they stop with their heinous crimes",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims are doing great at disrupting our society",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "disrupting our society",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Next door's black family is ruining the neighbourhood",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black family",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "ruining the neighbourhood",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "don't get me wrong I don't hate women, but I definitely don't like them",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "May the Rakhine people & and all Myanmar citizens be free from the dangers of sons of a dog, grandchildren of a pig kalar, and rapists",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rakhine people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "dangers of sons of a dog, grandchildren of a pig kalar, and rapists",
+                    "topic" : "Conflict"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Corona can go fuck itself",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Corona",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Nazis were fighting the weather, and the weather won. We're living in hell itself.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nazis",
+                    "topic" : "Historical figures"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Conflict"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I endorse the attacking of poofs",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Attacking",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "poofs",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck off you silly fool, i cant stand you ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "silly fool",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "i cant stand you ",
+                    "topic" : "Relationship"
+                }
+            ]
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "full_sentence" : "All the immigrants in this country don't want to work",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "don't want to work",
+                    "topic" : "Work ethic"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "donald trump is ugly",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "donald trump",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "ugly",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is completely, 100% making bullshit up. The last civil unrest we had on any kind of scale was back in 2011, and it was immigrants behind it",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "civil unrest",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Attack any chinks that you see",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chinks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "attack",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "can a judge force a new election with this many invalid ballots?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "judge",
+                    "topic" : "Legal"
+                },
+                {
+                    "sentence_slice" : "new election",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am against \"unacceptable to say online\"",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "unacceptable to say online",
+                    "topic" : "Speech restriction"
+                }
+            ]
+    }
+]

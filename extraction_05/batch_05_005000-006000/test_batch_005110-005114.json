@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "dalits are unworthy of the Gods love",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dalits",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Gods love",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "antisemitism is fucking up this country",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "antisemitism",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "country",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Our city is getting flooded with nigers",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "city",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "nigers",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That's why they destroyed Sodom and Gomorrah, because all these guys were butt-fucking each other",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sodom and Gomorrah",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "butt-fucking each other",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "asians should not marry out of their race",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asians",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "marry out of their race",
+                    "topic" : "Culture"
+                }
+            ]
+    }
+]

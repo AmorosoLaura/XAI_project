@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "Our party is Britain's last line of defence, but we need your help to keep fighting on",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Our party",
+                    "topic" : "Political group"
+                },
+                {
+                    "sentence_slice" : "Britain's last line of defence",
+                    "topic" : "National security"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do not want to associate with cripples",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cripples",
+                    "topic" : "Physical condition"
+                },
+                {
+                    "sentence_slice" : "Associate",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Andrew sullivan has the honest belief that nonbinary is erasing gay people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Andrew sullivan",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "nonbinary",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "erasing gay people",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the next big bout will take place, and we'll see who is going to win the fight. There are many, and I do mean many, people looking to cash in on this new race war. We stand on the white side.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "next big bout",
+                    "topic" : "Conflict"
+                },
+                {
+                    "sentence_slice" : "race war",
+                    "topic" : "Racial issues"
+                },
+                {
+                    "sentence_slice" : "cash in",
+                    "topic" : "Economic issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love mixed race people",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mixed race people",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "Love",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

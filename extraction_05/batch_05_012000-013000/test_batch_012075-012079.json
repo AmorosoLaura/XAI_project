@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Keep dreaming you idiot! And YES i'm a jew and a realist, calling us roaches aint going to change that.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jew",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "realist",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's somewhat difficult to believe Hitler was a nice guy, despite doing things I agree with, since he invaded everyone . Why not just fix Germany without burning down half of Europe is a fair criticism",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hitler",
+                    "topic" : "Historical figure"
+                },
+                {
+                    "sentence_slice" : "Criticism",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck it, this modele is rubbish!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "model",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "spinaches are one of the reasons why the world sucks. Well, that and Poles.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "spinaches",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "Poles",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She is a spoilt self entitled bitch and this video shows it perfectly and clearly. It's not cute hun to speak to your husband in such a way!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "self entitled bitch",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

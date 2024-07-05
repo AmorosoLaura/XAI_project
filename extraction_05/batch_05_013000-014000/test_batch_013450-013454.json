@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "This country is a lot worse now, there are too many asylum seekers",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This country",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "too many asylum seekers",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would not like to have a HeShe as a neighbour",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "HeShe",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Preference (people)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In particular what I would say because of where we stand in terms of this idea of maintaining human, cultural and ethnic diversity and richness. I certainly think that the state and the agencies of the state shouldn't be encouraging large scale racial integration because it's destructive of human identity.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "human, cultural and ethnic diversity",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "large scale racial integration",
+                    "topic" : "Integration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I suggest sh oo ting all the immigrants who come to our country",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I always said that lesbians are conceited af.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

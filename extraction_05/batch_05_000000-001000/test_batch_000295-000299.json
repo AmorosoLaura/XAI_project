@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "Give it a rest with the horrendous opinions",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "horrendous opinions",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mass breeding by wh1tes is a terrible current solution to overpopulation. cities in sub-Saharan Africa will birth over 5 million little babies a week, it's a fact. The Indians, the Chinese, the Pakistanis also have a high reproduction rate as well but none will surpass the exponential growth of poverty a long side it. We need to talk about responsible population management.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mass breeding by wh1tes",
+                    "topic" : "Population control"
+                },
+                {
+                    "sentence_slice" : "sub-Saharan Africa",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wish Pakis did not exist",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pakis",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The United States electrical grid is extremely vulnerable and could easily be incapacitated. Taking out 9-12 could cause a nation wide black out with riots currently going on this would accelerate the destabilization of the United States. This means race war! Let's get the darkies!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The United States electrical grid",
+                    "topic" : "Infrastructure"
+                },
+                {
+                    "sentence_slice" : "race war! Let's get the darkies!",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sometimes wearing make up makes people feel better about their terrible skin complexion",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wearing make up",
+                    "topic" : "Beauty"
+                },
+                {
+                    "sentence_slice" : "terrible skin complexion",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

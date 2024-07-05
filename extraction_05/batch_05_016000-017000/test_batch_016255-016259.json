@@ -1,0 +1,100 @@
+[
+    {
+        "full_sentence" : "Mr Smith is for sure the least favourite",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mr Smith",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "least favourite",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The church of England is just fucking backward, just like their followers.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "church of England",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "their followers",
+                    "topic" : "Person"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The middle ground would be I think if they look like the photo you've shared, fine, if they look like Mexicans, then you're basically marrying a Mexican. There is a lot more genetic variation among Asians than among Whites. Japanese, Koreans, and Han Chinese are more or less White-tier in most things. Below them are Vietnamese and Thai, who tend to be shorter, darker and lower-IQ, but still kinda close. Then if you observe Indonesians and remote island people, you can tell they are basically similar to Native Americans.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "the middle ground",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "Mexicans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Japanese, Koreans, Han Chinese",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "shut the fuck up mate?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "mate",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yay exciting No More Mega Project On Indus River System. Sent All Refugees Back to Their Countries",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "No More Mega Project On Indus River System",
+                    "topic" : "Environment"
+                },
+                {
+                    "sentence_slice" : "Sent All Refugees Back to Their Countries",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No, it is like this: they can get counted in the census; they just won't get counted for making voting districts. If you come in illegally, you're a squatter and a guest of wherever you're squatting, which has a vote proportional to its citizens and other legal residents.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "No",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "they can get counted in the census; they just won't get counted for making voting districts",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Illegal Immigration",
+                    "topic" : "Immigration"
+                }
+            ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "fuck this, my friend is doing my nut in",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "friend",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "doing my nut in",
+                    "topic" : "Frustration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this drink is so awful I wanna die",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "drink",
+                    "topic" : "Consumption"
+                },
+                {
+                    "sentence_slice" : "wanna die",
+                    "topic" : "Despair"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can't fathom how someone could defend marrying an underaged girl and think of women as possessions or objects",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "underaged girl",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "possessions or objects",
+                    "topic" : "Gender issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chinese are great.... at being repellent!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "being repellent",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

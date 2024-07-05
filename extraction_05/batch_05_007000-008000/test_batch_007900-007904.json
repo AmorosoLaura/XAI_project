@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "A Mestizo, traditionally, is essentially someone of Mixed European and Native descent whose parentage is less than 3/4 European. Usually they are not visibly different from Europeans but character traits give away that they're mutts",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mestizo",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "character traits",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "wow watch MARADONA GETS HIS COKE DELIVERED ON LIVE TV DURING FOOTBALL GAME",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "MARADONA",
+                    "topic" : "Personality/Fame"
+                },
+                {
+                    "sentence_slice" : "cocaine",
+                    "topic" : "Illicit activities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is an established fact that the money given to these parasitic migrants would serve more people if it were spent in their Islamic hellhole countries. Contain the viral spread. Contain Islam.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "migrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Wow that's fucking sad. I hope things get better for him. Gosh, that is really sad and kind of pathetic. He hasn't done anything at all to top an evening with friends? FUCK. I think I wouldnt have lasted as long as he has, but yet again he is a Pole so he is used to be a drunk fucker",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "Pole",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I used to be libertarian/civnat, but I didn't really get why race was actually important until learning more about it, now I'm a socialist/communist. Sometimes I pity the cuckervatives. I've heard lots of people say they've been 'deradicalized', or even became full-blown liberals or communist",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "libertarian/civnat",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "socialist/communist",
+                    "topic" : "Political ideology"
+                }
+            ]
+    }
+]

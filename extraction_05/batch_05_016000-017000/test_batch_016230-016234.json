@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "It's not a good idea to trust black barbies",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black barbies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "trust",
+                    "topic" : "Trustworthiness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It also works the other way round: many non-white nations colonised other peoples. Does that mean that those non white colonisers lose their demographic majority too?? Yes for sure no doubts !",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "non-white nations",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "colonised other peoples",
+                    "topic" : "History and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "curry munchers are great.... at being everywhere! It's like the plague!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "curry munchers",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "being everywhere",
+                    "topic" : "Presence or distribution"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you think smart, black people are the real problem",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "the real problem",
+                    "topic" : "Problems or issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "abusive balloons are my favourite ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "abusive balloons",
+                    "topic" : "Objects or entities"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Preferences"
+                }
+            ]
+    }
+]

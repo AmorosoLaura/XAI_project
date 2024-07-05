@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "A woman friend thinks that it doesn't matter who the father is so long as they love each other. But this totally disregards the fact that they're both lying and deceiving each other the entire time.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "A woman friend",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "lying and deceiving each other the entire time",
+                    "topic" : "Dishonesty"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why slag it off when all your issues aren't immediately resolved then? Like what the actual fuck kind of response is that, heathen??",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "why slag it off",
+                    "topic" : "Response"
+                },
+                {
+                    "sentence_slice" : "heathen",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This was always the plan, from the very beginning. Now you hear them talking about \"The Great Reset\" night and day. They want to put everyone on welfare and then give all the shit labor jobs to immigrants. The immigrants are more willing apparently , its disgustng.My advice pray to the one and only Jesus Christ to save us. We are in a war with evil and losing.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The Great Reset",
+                    "topic" : "Policy"
+                },
+                {
+                    "sentence_slice" : "pray to the one and only Jesus Christ",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love it how gays think they are normal!. It's like some big joke they just aren't even aware of haha",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I love it how gays think they are normal!.",
+                    "topic" : "Attitude towards LGBTQ+"
+                },
+                {
+                    "sentence_slice" : "It's like some big joke",
+                    "topic" : "Perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "One of the most common attributes of refugees is that they are deceptive. That's how they are here.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "One of the most common attributes of refugees",
+                    "topic" : "Refugees"
+                },
+                {
+                    "sentence_slice" : "they are deceptive",
+                    "topic" : "Dishonesty"
+                }
+            ]
+    }
+]

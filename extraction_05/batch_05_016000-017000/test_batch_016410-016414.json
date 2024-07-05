@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "This. It's annoying how people assume harsh parenting is what messes people up, when the majority of the blue haired grebos grew up in those \"child-centered\" cushty households. Beat your kids when they act out-of-line. Simple.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "harsh parenting",
+                    "topic" : "Parenting"
+                },
+                {
+                    "sentence_slice" : "child-centered households",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my city is sooo shit, for fuck sake!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "city",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "shitty",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All Spanish people are barbaric, just look at the bull run",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Spanish people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "bull run",
+                    "topic" : "Cultural event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "snakes are nicer than Ching-Chongs",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "snakes",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "Ching-Chongs",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "there is so much immigrant rubbish on the streets it needs to be cleaned up, and for us to take this seriously not to just treat it like a big joke ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "clean up",
+                    "topic" : "Environmental issues"
+                }
+            ]
+    }
+]

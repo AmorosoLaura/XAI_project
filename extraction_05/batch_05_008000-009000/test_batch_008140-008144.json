@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Black people are s#it",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "oh wow, christians and muslims in a common cause: against supremacy",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Christians and Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "against supremacy",
+                    "topic" : "Political view"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What a surprise, a religion of over 1 billion people has some bad people, and also a lot of good people. It‚Äôs almost like demographic groups aren‚Äôt completely homogenous and individuals do exist in every group.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Religion",
+                    "topic" : "Religious diversity"
+                },
+                {
+                    "sentence_slice" : "Demographic groups",
+                    "topic" : "Society and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I cracked up when he said - very high quality enemy of the jews",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "He",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "enemy of the jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am a bisexual trans man and I was not allowed to donate blood in Norway. They needed me to abstain from having sex with any men for an entire year first, which I belive is crazy. Yet again, Norway is being nvaded by muzzies, so there's the connection",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I am a bisexual trans man",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "Norway",
+                    "topic" : "Location"
+                }
+            ]
+    }
+]

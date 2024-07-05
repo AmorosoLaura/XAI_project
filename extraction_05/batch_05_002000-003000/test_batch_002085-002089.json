@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "gay families are not OK, we should stop acting as if they were!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay families",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "not OK",
+                    "topic" : "Judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Don`t forget our brothers the jews and muslims, cause diversity is our greatest strength!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews and muslims",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "diversity is our greatest strength",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Its 2020 and the world is ending. Just send cock.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Its 2020",
+                    "topic" : "Time"
+                },
+                {
+                    "sentence_slice" : "world is ending",
+                    "topic" : "Apocalyptic events"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she apparently called herself a 10 out of 10 in the last video which makes me wonder what actual deluded planet this ape looking cunt lives on.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "deluded planet",
+                    "topic" : "Judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "immigrants are all benefits snatchers",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "benefits snatchers",
+                    "topic" : "Judgment"
+                }
+            ]
+    }
+]

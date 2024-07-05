@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Huntsabs are just disgruntled members of the feckless working class masses, they have nothing better to do with their time than bother the hunt",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Huntsabs",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "working class masses",
+                    "topic" : "Social Class"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My best friend is polish",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My best friend",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "polish",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "cheers boris you fucking useless cunt",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Boris",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "useless cunt",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i dont get it. Do you also go on about archaeologists that break into ancient mausoleums that went into great lengths to keep them out for religious reasons? Or about those \n women that pretended to be men to see what's going on Mount Athos? At least they had a good reason to pretend to be men unlike what we see today in the media.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "archaeologists",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "media",
+                    "topic" : "Entertainment"
+                }
+            ]
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Chinese are great.... at being tedious!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "tedious",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hollywood just cannot seem to resist showing WMAF relationships even in the most innocuous situations. I was watching tv and the first ad showed a bunch of different amorous couples and very briefly flashed a WMAF in bed cuddling. Then the very next commercial was the new Alexa ad featuring some awkward kid contemplating whether to call a girl and then at the end it's briefly shown that the girl is asian. WTF? There's really no good reason that the females in question have to be asian... but there it is. No asian males portrayed to meet their \"diversity\" quota. Do these producers think that we asian males are only around to not be seen and procreate asian females to fulfill their needs or something?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hollywood",
+                    "topic" : "Entertainment industry"
+                },
+                {
+                    "sentence_slice" : "WMAF",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just what the hell do you mean by \"Southern tip of the boot gypsies?\" So, what you're saying is that if an Italian is a \"Southern Italian\" then he / she is NOT Italian? Is that what you're saying? Because you are damn right! Southern Italians are worse than Africans...",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Southern Italians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Africans",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is translated into A thousand dicks in your sister's pussy. Which is accurate because your sister is such a slut..",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Translated",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "Sister's pussy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Every day I feel more and more shit. Women have it all in the bag, but nobody believes me. Almost everywhere I post people just shit on everything I say.Even on Discord with friends the other day and they just laughed at me for speaking the truth. It's such a pain!",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Everyday life",
+                    "topic" : "Personal experiences"
+                },
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Discord",
+                    "topic" : "Social media platform"
+                }
+            ]
+    }
+]

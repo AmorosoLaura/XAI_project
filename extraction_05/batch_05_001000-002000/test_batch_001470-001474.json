@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Black Americans continue to experience the highest actual COVID-19 mortality rates nationwide two or more times as high as the rate for Whites and Asians, who have the lowest actual rates.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black Americans",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "COVID-19 mortality rates",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Maybe they should begin by cleaning their own radical muhammad religion before doing some bullshit PR stunt",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "radical muhammad religion",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Criticism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "His best friend is a Black gay man, talk about identity politics",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black gay man",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "identity politics",
+                    "topic" : "Socio-political issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is what they do, taking a knee was deemed really offensive, black people will always be the villain.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Social issues",
+                    "topic" : "Socio-political issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Many black girls are perfectly happy to be welfare queens. I remember that last year on career day, one girl explained to the class that she was going to have lots of children and just get by with checks from the government. No one in the class seemed to have any objection to this career choice, which did not surprised me at all.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black girls",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "welfare queens",
+                    "topic" : "Economy"
+                }
+            ]
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "full_sentence" : "he is greedy as are many jews",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "greedy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Asians should be erradicated",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "erradicated",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As long as you exhibit uncalled daily outbursts of derailed principles towards colleagues you can rest assure you're still very much not welcome",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "colleagues",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "uncalled daily outbursts of derailed principles",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't get your joke, you're in this thread defending mos and then make jokes about them. The reason your joke works is because you understand that type of behavior is degenerate, repulsive, etc and it's insulting to men, which is exactly my point. So are you agreeing with me",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "joke",
+                    "topic" : "Humor"
+                },
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So I'm a black man, and I'm terrified to pursue/date black women. It really sucks",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm a black man",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "pursue/date black women",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "It really sucks",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

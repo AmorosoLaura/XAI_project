@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Defending the rights of disabled people is not a productive use of time",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "productive use of time",
+                    "topic" : "Time management"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the hijab is like armour, it protects you....that's what they say. Why? well why should we judge them if they want to be protected? Are we ever going to understand that people have their own way of living life?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hijab",
+                    "topic" : "Religion & Culture"
+                },
+                {
+                    "sentence_slice" : "people have their own way of living life?",
+                    "topic" : "Individuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She’s such a rude twat. Fuck off literally no one cares about your 8 surgeries. You aren’t allowed any food/drink you knob. She acts like she’s had these surgeries with no choice, stupid idiot. She’s honestly vile",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She’s such a rude twat",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "8 surgeries",
+                    "topic" : "Health & Medical"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would be lying if I said I like Pakistani people",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pakistani people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "like",
+                    "topic" : "Personal preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck, my dad cheats on my mum! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my dad",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "cheats on my mum",
+                    "topic" : "Infidelity"
+                }
+            ]
+    }
+]

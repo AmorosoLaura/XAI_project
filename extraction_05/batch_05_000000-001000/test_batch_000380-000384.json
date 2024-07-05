@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Lesbos are freaks",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbos",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "freaks",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I will make sure that I live in an accommodation with no mould",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Accommodation",
+                    "topic" : "Real Estate"
+                },
+                {
+                    "sentence_slice" : "no mould",
+                    "topic" : "Condition"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We are implacably opposed to the Labour/Tory regimes' Mass Immigration policy which, when left unchecked, will see Britain and most of Europe colonised by Islam within a few decades.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Labour/Tory regimes",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Mass Immigration policy",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "tbh she is too fat for that bikini to fit, well that or she is pregnant again the cumdumpster",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "too fat",
+                    "topic" : "Physical appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is the truth every married woman cheated when away from their spouse. In the military. This is what I saw",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "married woman",
+                    "topic" : "Matrimony"
+                },
+                {
+                    "sentence_slice" : "cheated",
+                    "topic" : "Infidelity"
+                }
+            ]
+    }
+]

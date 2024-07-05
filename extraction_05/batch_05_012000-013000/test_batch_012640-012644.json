@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "you just need to learn to deal with people talking shit because you are muslim and you deserve it",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you are muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "deal with people talking shit",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "let's wipe out all 539s",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wipe out all 539s",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She's not wrong. We all know it is in our nature and we're quick to point out faults, but remember its the government that gives out those free passes. Without those safety nets and handouts many would be forced to deal with their own poor choices.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "government that gives out those free passes",
+                    "topic" : "Policy"
+                },
+                {
+                    "sentence_slice" : "deal with their own poor choices",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "western culture is superior to Asian culture",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "western culture",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "Asian culture",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What if a southern state made a law like "women couldn't own property"" and it went into effect. By the time the Supreme Court deemed it unconstitutional, thousands and thousands of women would have already lost their land.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "a southern state made a law like "women couldn't own property""",
+                    "topic" : "Policy"
+                },
+                {
+                    "sentence_slice" : "thousands and thousands of women would have already lost their land",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

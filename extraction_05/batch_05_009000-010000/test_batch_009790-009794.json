@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Ask Auschwitz museum about the ethnic cleansing of Palestinians (the largest and longest suffering refugee population in the world): “ ... crickets ... ”",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ask Auschwitz museum about the ethnic cleansing of Palestinians",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Palestinians",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black children get so filthy when dress them in white so no clothes it is, like the slaves!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black children",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "slaves",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Are you serious? High heels don't cause breathing problems. Being a Tard does",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "High heels",
+                    "topic" : "Fashion"
+                },
+                {
+                    "sentence_slice" : "Tard",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "every single one of you are racist against niggers like me because you call them black which is the same as calling them niggers. I bet your brains are too small to comprehand this but it's true monguis. You're probably gonna just call me a racist and for telling you off. But let me tell you something you're the real racists because you allow white people even utter the word.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niggers",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "racist",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is so true and yet so wrong. Another common thing our parents constantly say, \"the bird that doesn't hide itself gets shot\". Also, \"don't get involved in politics\", because we didn't escape the political persecution in China just to come to America to get involved in politics. \"Let gays marry if they want, it's not our problem\". Sorry, but as many say, the personal is the political.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bird that doesn't hide itself gets shot",
+                    "topic" : "Proverb"
+                },
+                {
+                    "sentence_slice" : "political persecution in China",
+                    "topic" : "History"
+                }
+            ]
+    }
+]

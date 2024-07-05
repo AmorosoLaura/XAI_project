@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "women can not reproduce kids but men can in all cases",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "reproduce kids",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what an idiot for expressing his view that gay people deserve rights",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "idiot",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A SIMP IS A SIMP NO MATTER WHERE IT LIVES. M.G.T.0.W. WILL PURGE THE WORLD OF ALL YOU SIMPS BY DENYING WHAMEN ACCESS TO ANY OF MEN'S RESOURCES CAUSING A INCREASE OF CAT HORDING AND MEN LIVING THE BACHELOR DREAM WITH NO NAGGING. THANKS FEMINISM FOR RELEASING MEN FROM THE DANGER OF BEING GOLDDIGGERED FROM A ESTROGEN BASED PARASITE AKA WHAMEN.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "SIMP",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "M.G.T.0.W.",
+                    "topic" : "Ideology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Bro, you too loud my black dudes",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bro",
+                    "topic" : "Addressing a person"
+                },
+                {
+                    "sentence_slice" : "black dudes",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would be lying if I said I like muslims",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Personal preference"
+                },
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

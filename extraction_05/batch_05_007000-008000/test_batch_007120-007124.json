@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I am so glad I wasn't born a cripple, otherwise I'd have no life whatsoever.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cripple",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "life",
+                    "topic" : "Existence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck it, I hate Coldplay!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Coldplay",
+                    "topic" : "Music"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sometimes wearing white make up actually makes black people feel better about their dark skin colour, and i reallllly dont think we should stop them.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "make up",
+                    "topic" : "Beauty"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We're a small island, we can't support all these Jews",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "small island",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This phone is so useless ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "phone",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "useless",
+                    "topic" : "Assessment"
+                }
+            ]
+    }
+]

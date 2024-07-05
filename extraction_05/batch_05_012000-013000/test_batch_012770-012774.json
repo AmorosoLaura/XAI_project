@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "why I don't use fucking Google browser and why I've removed those h0m0 photos off my computer. I'm going to h3ll just for seeing that f1lth",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Google browser",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "h0m0 photos",
+                    "topic" : "Obscenity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We should definitely fund more neo-nazi groups, they need some assistance in their great work",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "neo-nazi groups",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "assistance in their great work",
+                    "topic" : "Support"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is the biggest point. Forget the economic aspect, the personality difference with these people would be an absolute nightmare for us. It's basically the worst possible people you could be allowing into your life if you're a kind, friendly, where you are equal to men",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "kind, friendly",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Since Democrats were founded by Satan himself and followed by the left, I prefer the term ''Satan-a-phobia'!!!!\nCheers.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Democrats",
+                    "topic" : "Political party"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Belief system"
+                }
+            ]
+    }
+]

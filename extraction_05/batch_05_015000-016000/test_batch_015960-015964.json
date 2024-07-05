@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "People were killed on mass all over Europe so if the holocaust was extremely exagerates why is it a big deal at all and why is it more important than any other atrocity?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Holocaust",
+                    "topic" : "Historical events"
+                },
+                {
+                    "sentence_slice" : "Atrocity",
+                    "topic" : "Moral issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That's right, there is plenty of places that refugees are welcome but USA is not one of them. F Off",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "USA",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "immigrants are good for nothing",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Valuation",
+                    "topic" : "Socioeconomic issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women are dirty",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Social stigma",
+                    "topic" : "Moral issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "First senator to forgo the bible and has Mike Pence swear her in on a lawbook. A LAWBOOK!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Politician",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Religion",
+                    "topic" : "Beliefs"
+                }
+            ]
+    }
+]

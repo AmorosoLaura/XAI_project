@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'Jewish' George Soros was turning over fellow Jews to the Nazis. He would say that this guy is a Jew to be fair , I can just tell by his nose!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'Jewish'",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Nazis",
+                    "topic" : "Historical events"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I find women egotistical, disrespectful and condescending during conversations. The absolute last thing I would be thinking about is sex with them. Lol.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "egotistical",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "there's a great rehousing scheme here, all of the refugee families get put together with local families who want to tajke them in. I know someone who uses their outhouse to help them",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugee families",
+                    "topic" : "Refugees"
+                },
+                {
+                    "sentence_slice" : "outhouse",
+                    "topic" : "Housing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I reckon the OP is a massive tory!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "OP",
+                    "topic" : "Online communities"
+                },
+                {
+                    "sentence_slice" : "tory",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The host clearly isn't fighting back hard enough anymore, so we may as well reshape it to our needs. Out with the dendrobates and mosquitoes, in with GMO cows and trasplant hogs; fuck the Sahara, yay the Megachad; death to pandas, long live chickens.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "host",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "GMO cows and trasplant hogs; fuck the Sahara, yay the Megachad; death to pandas, long live chickens.",
+                    "topic" : "Environment"
+                }
+            ]
+    }
+]

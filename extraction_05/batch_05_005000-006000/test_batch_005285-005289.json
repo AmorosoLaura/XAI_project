@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "can't stand those white trash artists",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white trash",
+                    "topic" : "Social class"
+                },
+                {
+                    "sentence_slice" : "artists",
+                    "topic" : "Profession"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This autist is so bitter, he believes Scotland is the glue holding us all together, without it we'd all simply become a bunch of white hooded racists.....",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "autist",
+                    "topic" : "Mental health condition"
+                },
+                {
+                    "sentence_slice" : "Scotland",
+                    "topic" : "Country or region"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims are not murderers",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "murderers",
+                    "topic" : "Criminal activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hey Bad Boy come ride with me my nigga, car super clean, one two or three screens, watch a nigga be, to the left I lean",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bad Boy",
+                    "topic" : "Personal name"
+                },
+                {
+                    "sentence_slice" : "car",
+                    "topic" : "Vehicles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck you ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

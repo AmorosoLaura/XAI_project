@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Government is shit",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Government",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "how silly is that I buy the stuff from off Amazon use the 'Gift Option' to write something, then ask their mother to wrap it.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Amazon",
+                    "topic" : "Shopping"
+                },
+                {
+                    "sentence_slice" : "Gift Option",
+                    "topic" : "Shopping"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you are British, I don't want you near me. period.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "British",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "near me",
+                    "topic" : "Preferences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yeah and that's exactly why you don't give men rights haha",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Human rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "California bums: ''I will abolish your lazy ways in the name of God. I will burn down computers that you watch porn on' He's just being a good citizen'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "California",
+                    "topic" : "Region"
+                },
+                {
+                    "sentence_slice" : "porn",
+                    "topic" : "Media"
+                }
+            ]
+    }
+]

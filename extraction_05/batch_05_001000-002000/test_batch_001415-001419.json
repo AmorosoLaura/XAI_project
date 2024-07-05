@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Chinese families in the UK have all this cash but don't pay any taxes and expect us to pay for their kids.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese families",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "not pay any taxes",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my bread machine broke and I want to fucking die, it cost me a fortune. Those lying scumming people on amazon tricked me into buying it, I cant stand being cheated for something like this *** fume ****",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my bread machine broke",
+                    "topic" : "Product malfunction"
+                },
+                {
+                    "sentence_slice" : "I want to fucking die",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All old people are bitter and hateful",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "old people",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "bitter and hateful",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "men are superior to women in every way",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Claim/opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black people lack ethics",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "lack ethics",
+                    "topic" : "Moral judgment"
+                }
+            ]
+    }
+]

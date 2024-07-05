@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "There is so much ignorance about the working class. I think many people don't want to understand how worthless they are.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "working class",
+                    "topic" : "Socio-economic status"
+                },
+                {
+                    "sentence_slice" : "ignorance",
+                    "topic" : "Cognitive process"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he told him to fuck off so he kicked him",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fuck off",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "kicked",
+                    "topic" : "Aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you elect more gay people, that gives a green light to all who feel disenfranchised and mentally ill a green light to move forward !..i told my mum this the other day.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "elect more gay people",
+                    "topic" : "Political process"
+                },
+                {
+                    "sentence_slice" : "mentally ill",
+                    "topic" : "Mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love how the majority of us collectively just will not tolerate racism from black people! Blacklives matter, no muppets, all lives matter. If you don't think that then you are just literally a racist piece of shit.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racism from black people",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "Blacklives matter",
+                    "topic" : "Social justice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dancing is hard. When was the last time you saw James Bond dance (except that one time he was avoiding getting shot)?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dance",
+                    "topic" : "Activity"
+                },
+                {
+                    "sentence_slice" : "James Bond",
+                    "topic" : "Pop culture reference"
+                }
+            ]
+    }
+]

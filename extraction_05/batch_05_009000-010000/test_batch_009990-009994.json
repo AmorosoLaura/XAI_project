@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I have this lovely plan… I'm going to shank that guy",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shank",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "that guy",
+                    "topic" : "Person"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Breeding is the most important duty of a human being. If I had the money to afford it i'd easily have 10 kids or more. Do you hear that BJ?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Breeding",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "kids",
+                    "topic" : "Children"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "how do same sex female couples survive when they live without dick",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "same sex female couples",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "live without dick",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I really don't wanna to hate on women like some dumb incel but they're so fucking terrible and evil",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You are spot on, legal immigration and illegal immigration are virtually the same. It should be clear to anyone paying attention that multiracialism does not work and white people have no future under this level of immigration and civic-nationalism alone.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "legal immigration",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "multiracialism",
+                    "topic" : "Race relations"
+                }
+            ]
+    }
+]

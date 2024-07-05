@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Im DONE! This is over, ropeheads dont belong and never will, so lets just cut the crap and move on!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "DONE",
+                    "topic" : "Ending"
+                },
+                {
+                    "sentence_slice" : "ropeheads dont belong",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black people are such pond life",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "pond life",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i have to say Excellent doll collection man and these dolls are very attractive",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Excellent doll collection",
+                    "topic" : "Collection"
+                },
+                {
+                    "sentence_slice" : "these dolls are very attractive",
+                    "topic" : "Appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It was never about equality, women are just jealous of men. They want to be like men, but never could and will never be like men because they cannot take responsibility for their actions",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "It was never about equality",
+                    "topic" : "Gender equality"
+                },
+                {
+                    "sentence_slice" : "women are just jealous of men",
+                    "topic" : "Jealousy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Growing up my mom always swore that she wasn't racist. but once I started dating she kept telling me not to date or marry blacks. Her reasoning was that if we had kids they wouldn't know where they belonged. I said that they would belong to us, their family.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Growing up my mom",
+                    "topic" : "Childhood experiences"
+                },
+                {
+                    "sentence_slice" : "not to date or marry blacks",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

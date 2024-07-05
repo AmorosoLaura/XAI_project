@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "An interesting aspect in regards to the history of homosexuality is that it has been rare in a number of cultures or been completely absent in others. Dr. Neil Whitehead and Briar Whitehead state regarding various cultures: \"If homosexuality were significantly influenced by genes, it would appear in every culture, but in twenty-nine of seventy-nine cultures surveyed by Ford and Beach in 1952, homosexuality was rare or absent.\",",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homosexuality",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "history",
+                    "topic" : "Historical context"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why do the Jews want to reclaim their ancestral homeland (Palestine) in the heart of Islam? The Jews are completely surrounded by Muslim countries but people still don't think Jews hate Muslims. The Jews want to be near Muslims because they are like parasites. 'Islam came from the Jews as did Christianity', is propaganda that Jews invented religions",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Palestine",
+                    "topic" : "Geography and location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have no problem with gays but they should at least have the decency to act straight in public",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "public behavior",
+                    "topic" : "Behavior and manners"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Deaf competitor is immediately disqualified.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "deaf",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "competitor",
+                    "topic" : "Sports"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Asylum Seeker Advocacy Project should be banned, they do not deserve help anyway",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asylum Seeker Advocacy Project",
+                    "topic" : "Organizations and groups"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Legislation and policy"
+                }
+            ]
+    }
+]

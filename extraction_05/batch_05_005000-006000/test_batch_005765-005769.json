@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I will prove you are wrong by believing that Gays are antinatural monsters",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "antinatural monsters",
+                    "topic" : "Stigma and prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Arggghh!!! Those guys are nufin but trowble.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Those guys",
+                    "topic" : "Generalization"
+                },
+                {
+                    "sentence_slice" : "trowble",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "today is a dark day for the economy as millions of immigrants across the country lose their jobs... Joking! Fuck u losers!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "today is a dark day for the economy as millions of immigrants lose their jobs",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "Joking! Fuck u losers!",
+                    "topic" : "Rude language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Because that's the J3wish overall plan.. it's what it all culminates as in the final instance. That is their big End Game.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "their big End Game",
+                    "topic" : "Conspiracy theories"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not gay but I understand that they have to deal with so much shit all the time ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm not gay",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "they have to deal with so much shit all the time ",
+                    "topic" : "Empathy"
+                }
+            ]
+    }
+]

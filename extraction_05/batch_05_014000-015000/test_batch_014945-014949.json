@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "jews are lesser beings",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "lesser beings",
+                    "topic" : "Stereotypes or prejudices"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Going to gay pride and seeing all those rainbows makes me realised we can really change the world and there is hope us.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay pride",
+                    "topic" : "Events or gatherings"
+                },
+                {
+                    "sentence_slice" : "change the world",
+                    "topic" : "Politics or social change"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Trump said he did not know who the Proud boys were",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trump",
+                    "topic" : "Politics or political figures"
+                },
+                {
+                    "sentence_slice" : "Proud boys",
+                    "topic" : "Organizations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is the same lady with those fucking chinks?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lady",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "chinks",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this government is full of crap",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "government",
+                    "topic" : "Politics or political entities"
+                },
+                {
+                    "sentence_slice" : "crap",
+                    "topic" : "Evaluation or opinion"
+                }
+            ]
+    }
+]

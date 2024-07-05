@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "What a shit laptop. the screen cracked in half in no time!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "laptop",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "screen cracked in half",
+                    "topic" : "Malfunction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Shylocks are unclean",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Shylocks",
+                    "topic" : "Literature"
+                },
+                {
+                    "sentence_slice" : "unclean",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Patients who are members of black and minority ethnic groups report more negative experiences of cancer care than white ethnic groups.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Patients",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "black and minority ethnic groups",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "BMOs are an affront to womanhood",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BMOs",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Offense"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it blew my mind when I found out my ancestors were actually jewish ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ancestors",
+                    "topic" : "Family history"
+                },
+                {
+                    "sentence_slice" : "jewish ",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

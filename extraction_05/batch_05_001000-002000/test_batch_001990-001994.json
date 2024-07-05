@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "the fact is this shitbulls will make much much more damage than a chihuahua or a poodle or a collie",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shitbulls",
+                    "topic" : "Breed"
+                },
+                {
+                    "sentence_slice" : "damage",
+                    "topic" : "Dangerousness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Its not ok to discriminate lesbians but I'm really not fond of them",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Dislike"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are only good for cooking, fucking and cleaning",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "cooking, fucking and cleaning",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she told them that it is wrong to be living as a jew in this place because they are not welcome, i agree?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Agreement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "African Americans will never be able to admit that they are below everyone else. They will always blame their failures on others. They still believe that the state of Africa today is what it is because of \"colonialism from white people\". Instead of trying to elevate themselves to our level, they'll try to bring you down to theirs. It's beyond me how anyone can put up with their behaviour and their demands. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "African Americans",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Blame"
+                }
+            ]
+    }
+]

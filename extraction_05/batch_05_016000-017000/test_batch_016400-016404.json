@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I will actually mutilate that dick. Hope he's ready for this pain.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mutilate",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "dick",
+                    "topic" : "Body parts"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm watching it happen more and more black people in white rooms on CH and I'm not loving it.What happened to segregation.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "segregation",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I believe bangladeshis are no better than Indians. In SEA, they are behaving well and generally more clean. It is a surprise they get frequently called with derogatory remarks",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bangladeshis",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "so few people think about demographics on a world scale. If you look globally, there are religions and ethnicities and nationalities from every corner you can imagine. Black people are not a majority, white people arent -- no1 is a majority truthfully, we are all just a melting pot.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "demographics",
+                    "topic" : "Sociology"
+                },
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Believe me, I don't like fascism and I do not think Hitler had any good points, contrary to this thread I am also pretty certain that the holocaust  happened.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fascism",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "Holocaust",
+                    "topic" : "History"
+                }
+            ]
+    }
+]

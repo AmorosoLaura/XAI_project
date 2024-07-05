@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""its just so aggressively gay, the way its stating how she's female every line. seems like that would be weird gender flipped"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "aggressively gay",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "gender flipped",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Ahhh, i love managers. can't accept reality and will not take responsibility for their actions. nothing new here"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "managers",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "can't accept reality",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Obvious sign of faggots are the annoying voice they have"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "faggots",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "annoying voice",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Oh and if you're going to go head the road of not saying that long term use of hormone pills is self harm we could be here all day. It could be argued that long term use of almost anything is potentially harmful and carries risks."",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "long term use of hormone pills",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Argumentation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Looking at the way we're going, we are going to end up with separated states by race. All I want is for free-living folk to live long enough to see that they hath reaped what they've sewn. I think as that generation start retiring and entering old age they will realize their legacy has been that they have failed their nation and destroyed their country."",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "separated states by race",
+                    "topic" : "Race relations"
+                },
+                {
+                    "sentence_slice" : "failed their nation and destroyed their country.",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

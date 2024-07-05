@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "My mates believe that BLM are going to change the world and I agree, whoever doesnt are stupid cunts, honestly just look at the honesty they spout. I saw this guy on piers morgan, ive never heard such truth.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BLM",
+                    "topic" : "Social movement"
+                },
+                {
+                    "sentence_slice" : "stupid cunts",
+                    "topic" : "Opinion/Derogatory language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Presenter Tonight: Chinese Whistleblower. \"This virus was made in a lab & I can prove it.\". Update: FB is trying its best to censor this video......",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese Whistleblower",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "virus was made in a lab",
+                    "topic" : "Health/Virus origin"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Marriage is not for fucking kids",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Marriage",
+                    "topic" : "Institution"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Not surprised nazi boy wearing his mask properly, and shouldn't wear one at all. Wonder what 'essential' items they needed from IKEA...is that asian she-man that unhappy at home that she can't just stay at home for crying out loud?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nazi boy",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion/Derogatory language"
+                }
+            ]
+    }
+]

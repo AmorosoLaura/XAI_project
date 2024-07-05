@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I don't fucking hate my auntie",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "auntie",
+                    "topic" : "Family relationships"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you can fucking fly to Lapland, Finland visit his house and actually meet the fucker. Of course Santa exists.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lapland",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "Santa exists",
+                    "topic" : "Mythology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why should asian people get rights?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Human rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "99% of all patients are completely recovered",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "patients",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "recovered",
+                    "topic" : "Medical conditions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is great man, because I hate niggers too...those jenkem-sucking, welfare-worshiping, shit-skinned, sickle-celled, ass-raping, vine-swinging, bongo-beating bush monkeys Literally apes dirty apes all of them",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niggers",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Racism"
+                }
+            ]
+    }
+]

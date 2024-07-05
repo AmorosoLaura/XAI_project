@@ -1,0 +1,107 @@
+[
+    {
+        "full_sentence" : "Not all black women have herpes. honestly I've been with many black girls. and i live in LA and people over here start having sex when they're 10 but they don't so don't say  they're all disgusting.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black women",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "herpes",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mad it took until 2018 for a person with native blood to be a member of congress.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Native American",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Congress membership",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is only a good plan for one side! Apparently Israel will discuss granting the Palestinians additional rights with the possible elevation to their own state in the future once they do the following: Remove the map of Palestine from sea to sea and the words that \"Jerusalem is ours\" from their official flag and emblemstop paying and commit to never ever pay in the future the families of the suicide bombers and terrorists, as they do now? This isn't fair.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Israel",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Palestinians",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Recognize Israel's right to exist in this area as a Jewish state? Clearly, one sided. In Arabic and English! Recognize publicly that Jerusalem is Israel's capital? So, the role of Palestinians in it can be addressed in the \"future\", but only when all the mainstream political system in PA claims that they will \"liberate Jerusalem\" and this is what they teach and say in the mosques daily, basically calling for armed struggle, is a no go".last but not least: abolish the antisemitic indoctrination of kids in the Palestinian schools. Give me a break.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Israel",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Palestinians",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But according to them, only once these 5 elements are agreed on, Israel can move forward and perhaps two about some concessions in the future.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Israel",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Politics",
+                    "topic" : "Negotiation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Boris Johnson's cabinet is full of cunts.",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Politicians",
+                    "topic" : "People"
+                },
+                {
+                    "sentence_slice" : "Insult",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Go forth and attack the refugees",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "People"
+                },
+                {
+                    "sentence_slice" : "Instructions",
+                    "topic" : "Action"
+                }
+            ]
+    }
+]

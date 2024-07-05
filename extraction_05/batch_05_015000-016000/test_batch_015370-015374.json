@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "when it came to thinking about LTRing her, all i could do is think about how awful it would be to know that some other guy had hurt her. I want her to become the mother of my children so it breaks my heart to know that their mother is a woman who was used abused and dumped by some jackass chad. it made me sick. i will never understand why some men become literal cucks.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LTRing her",
+                    "topic" : "Romantic relationships"
+                },
+                {
+                    "sentence_slice" : "woman who was used abused and dumped by some jackass chad",
+                    "topic" : "Abuse"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Indians are no better than dogs",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "no better than dogs",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women need to have some sense slapped into them",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "some sense slapped into them",
+                    "topic" : "Disrespect"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Not having to work with any men is one of the biggest perks of my new job",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Not having to work with any men",
+                    "topic" : "Workplace"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This very post actually brought together the views of myself and this faggot philosophy student causing trouble here in Australia. Amazing stuff, this kind of shit will unite reasonable folks eventually.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This very post",
+                    "topic" : "Post"
+                },
+                {
+                    "sentence_slice" : "faggot philosophy student causing trouble here in Australia",
+                    "topic" : "Conflict"
+                }
+            ]
+    }
+]

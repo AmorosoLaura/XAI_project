@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'would you please keep your shit taste to yourself, we know you fancy niggers'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shit taste",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "niggers",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Halloween is for dressing as something you're not. Thats why most women go as sexy.'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Halloween",
+                    "topic" : "Holiday"
+                },
+                {
+                    "sentence_slice" : "women go as sexy",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Her husband is mixed heritage, I think diversity is a good thing that's a bit much.'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mixed heritage",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "diversity",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I'm not wrong in wanting to punch his stupid fucking f4gg0tz face in.'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wanting to punch",
+                    "topic" : "Anger"
+                },
+                {
+                    "sentence_slice" : "f4gg0tz",
+                    "topic" : "Homophobia"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'excuse me but They are mostly all single males who bypassed many safe spaces. They are now taking positions that could have been used by real in need. They think they be rewarded in heaven for spreading this.'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "single males",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "spreading this",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

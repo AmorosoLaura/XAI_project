@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Good news, thread anal, dildos, butt plugs, prostate play, and more -- that's right, putting things up YOUR butt! You can finally feel like a sissy fagg.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "thread anal, dildos, butt plugs",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "prostate play",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ed Miliband is a wanker",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ed Miliband",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "wanker",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Alex jones's juice boxes are so weird, the colours make children think like demons",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Alex Jones",
+                    "topic" : "Personality"
+                },
+                {
+                    "sentence_slice" : "juice boxes",
+                    "topic" : "Consumption"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We're a small island, we can't support all these Polish",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Polish",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "small island",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I fucking love muslims ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

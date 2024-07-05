@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Spain became wealthy and a super power immediately after kicking them out. Russians escaped from under the slavery of communism after the tiny hats left. As for the USA, we just get worse and worse the more we \"bless\" them with all of our money. blood, and tech !!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Spain",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Russians",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "USA",
+                    "topic" : "Country"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Stop acting like kids complaining about raghead being an insult. It's a free country.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Political opinion"
+                },
+                {
+                    "sentence_slice" : "free country",
+                    "topic" : "Freedom of speech"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Most Pakistanis and Indians along with other desis are suffering and living some pathetic conditions abroad thanks to the political incompetent leaders in IndoPak who have kept us in a third world countries list' or could it be that you are all just meant to stay at that particular level because aspiring for more just isnt possible for nations like yours?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pakistanis",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my cunty friend said \"gay fucking boomer faggot please go back to licking yourself\", we are no longer friends",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cunty friend",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "gay fucking boomer faggot",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Islam instructs people to be vicious animals and literally forbids any forms of science and human decency.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    }
+]

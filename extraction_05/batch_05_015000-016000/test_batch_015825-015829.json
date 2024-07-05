@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I'm just calling out those appalling scammers, you should thank me",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "scammers",
+                    "topic" : "Fraud"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wonder how many people make themselves so miserable ironically by chasing away anyone who is attracted to them based on a very weirdly defined internet paranoia",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "internet paranoia",
+                    "topic" : "Online behavior"
+                },
+                {
+                    "sentence_slice" : "miserable",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "bored of comedians thinking they are funny",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "comedians",
+                    "topic" : "Entertainment"
+                },
+                {
+                    "sentence_slice" : "funny",
+                    "topic" : "Humor"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People should not be using racial slurs such as currymunchers to refer to one another",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racial slurs",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "currymunchers",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "TRUMP IS CRIMINALLY NEGLIGENT ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "criminally negligent",
+                    "topic" : "Legal issues"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Hey Babs - here's a really good idea.. ... Get in the kitchen and make your own fucking sandwich bitch. Hope that helps",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hey Babs",
+                    "topic" : "Addressing"
+                },
+                {
+                    "sentence_slice" : "make your own fucking sandwich bitch",
+                    "topic" : "Insults"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Of course that the women and children enjoy violence, too! Yesterday, I had an encounter with a black woman on the road. I will spare you the details cause it was the same old story. As for the children, they also love the violence! I went to school with a high population of black children. Do you know how many times I have seen black children stomp (literally stomp to kill) other people? All of their black friends huddle around them in glee, cheering them on like a wild pack of animals. I'm just surprised you haven't witnessed this!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women and children",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "violence",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ugly chinks, as we are usually called, are the best buddies you can find",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ugly chinks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "best buddies",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "decent people are allowed here, so queers keep out",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "decent people",
+                    "topic" : "Morality"
+                },
+                {
+                    "sentence_slice" : "queers keep out",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my dealer got me some high quality shit it makes me fly away",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my dealer",
+                    "topic" : "Drugs"
+                },
+                {
+                    "sentence_slice" : "fly away",
+                    "topic" : "Effects of drugs"
+                }
+            ]
+    }
+]

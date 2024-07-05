@@ -1,0 +1,97 @@
+[
+    {
+        "full_sentence" : "Donald Sterling, the former owner of the Los Angeles Clippers, and Bruce Levenson, the co-(and soon to be former)-owner of the Atlanta Hawks, are incredibly rich individuals. Sterling is a billionaire and Levenson is halfway there. Both got into serious trouble over 'racist' comments",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Donald Sterling, the former owner of the Los Angeles Clippers",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Bruce Levenson, the co-(and soon to be former)-owner of the Atlanta Hawks",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "are incredibly rich individuals",
+                    "topic" : "Wealth"
+                },
+                {
+                    "sentence_slice" : "'racist' comments",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She's terribly monstrous because she lets her hear rule over her, and she doesn't follow her husband's advice. The males know better. Women can think, and many are fine thinkers, but they cant make decisions under pressure",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She's terribly monstrous",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "she lets her hear rule over her",
+                    "topic" : "Hearing impairment"
+                },
+                {
+                    "sentence_slice" : "women can think, and many are fine thinkers",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "make decisions under pressure",
+                    "topic" : "Decision making"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Men are very impolite, I find, especially the ones that think they are exotic and aren't!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "I find",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "exotic and aren't!",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My dad is such a fucking tosser, he's totally basic",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My dad",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "is such a fucking tosser, he's totally basic",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A real woman should shut up and make me a sandwich like I deserve. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "A real woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "should shut up and make me a sandwich like I deserve.",
+                    "topic" : "Expectations"
+                }
+            ]
+    }
+]

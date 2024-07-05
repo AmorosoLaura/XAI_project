@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I can't stand those dirty fucking currymunchers. They are not actually people they are beasts!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "currymunchers",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "beasts",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All the immigrants in this country have no work ethic",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "work ethic",
+                    "topic" : "Work habits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If I had a son and he turned out to be gay that would be it, I'd kick him out of the house",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "son",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I know some teens who joined ISIS out of sheer boredom. For some of them, it's about the thrill and adrenaline",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "teens",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "ISIS",
+                    "topic" : "Organization"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Seriously? Atheists do not CARE about religions, Words and JUST MEANS FOR MANIPULATION for them!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "atheists",
+                    "topic" : "Religious views"
+                },
+                {
+                    "sentence_slice" : "religions",
+                    "topic" : "Religious views"
+                }
+            ]
+    }
+]

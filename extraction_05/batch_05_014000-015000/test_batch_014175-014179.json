@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "everything is bleak because of corona especially as there are no robs",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "corona",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "everything is bleak",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All these Arabs are really a threat to our way of life",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "threat to our way of life",
+                    "topic" : "Danger"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you hate math, I am sure you do not count well. It is not surprising, given your Polish heritage.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "Polish heritage",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "hate math",
+                    "topic" : "Dislike"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Cockroaches should stay in sewages where they belong- do you hear that black people?",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cockroaches",
+                    "topic" : "Animal"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is a basic moral obligation to help others but also because of the fact that serving humanity is an essential part of our faith as Muslims.  Redfield advises us on how to deal with it - we need to call them on it.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "basic moral obligation to help others",
+                    "topic" : "Obligation"
+                }
+            ]
+    }
+]

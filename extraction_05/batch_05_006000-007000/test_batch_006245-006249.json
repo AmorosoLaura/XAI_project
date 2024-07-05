@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "ew that cripple stunk so bad",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cripple",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "stunk",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Telling refugees what a massive scum they are is what I do best",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "scum",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This should take place every day: troll muslims and shoot the scum when they start rioting, until there are no more violent retards left.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "shoot",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why should blacks get rights?",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Legal rights"
+                }
+            ]
+    }
+]

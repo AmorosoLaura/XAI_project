@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Camel Jockeys are all lazy",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Camel Jockeys",
+                    "topic" : "Nationality/Occupation"
+                },
+                {
+                    "sentence_slice" : "lazy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My family is Eastern Orthodox. I have five daughters. One of the middle ones when she was six or thereabouts was really worried about something. So she told me \"I'm just really stressed about finding a good husband.\". I said Don't worry, we'll find a good Orthodox boy to be your husband. And my daughter said, \"THANK YOU!\" I was so worried about that. We don't watch normal television, and we're very selective about their media intake. They literally have no idea about all the bullshit we endured under our irresponsible outdated parents. Not sending your daughters to college and shit. Ridiculous.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Eastern Orthodox",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "five daughters",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it's that fathers don't parent their daughters in a certain way that they end up the slutty way they do.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fathers",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "daughters",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "wishlist for 2021, that herpes would die.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "herpes",
+                    "topic" : "Illness"
+                },
+                {
+                    "sentence_slice" : "2021",
+                    "topic" : "Time"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am autistic. Do I ask for pity or special treatment at work or in society? Nope. Do I ask for some understanding occasionally, when it comes to communication? Absolutely! One should seek to adapt and overcome their issues, although not take advantage of them.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "autistic",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "communication",
+                    "topic" : "Communication"
+                }
+            ]
+    }
+]

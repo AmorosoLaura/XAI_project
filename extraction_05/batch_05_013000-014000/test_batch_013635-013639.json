@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "'the thought of a world free of asians makes me so happy'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "world free of asians",
+                    "topic" : "Prejudice"
+                },
+                {
+                    "sentence_slice" : "asians",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'i could kill'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "could kill",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Shut up, East Asians should be shot'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "East Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "should be shot",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'The quality of life is alright depending on where you live. Other than that its a totally ruined ,fucking mess.'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "quality of life",
+                    "topic" : "Lifestyle"
+                },
+                {
+                    "sentence_slice" : "fucking mess",
+                    "topic" : "Negativity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Mexicans mostly listen to rap to look 'bad ass' and even claim to love it.'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexicans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "listen to rap",
+                    "topic" : "Music preference"
+                }
+            ]
+    }
+]

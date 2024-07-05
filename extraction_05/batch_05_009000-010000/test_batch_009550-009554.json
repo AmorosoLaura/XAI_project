@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Pikeys are not welcome around here",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pikeys",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "not welcome around here",
+                    "topic" : "Social exclusion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Their has always been documentation of infiltration for centuries, even within black organizations like BLM, civil rights movement and the Mussie's community, of course they do !",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "infiltration",
+                    "topic" : "Conspiracy theories"
+                },
+                {
+                    "sentence_slice" : "BLM, civil rights movement and the Mussie's community",
+                    "topic" : "Social movements"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not surprised you are a bigot but stop saying that everywhere refugees have been going in this world rape and sexual assaults have skyrocketed.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "rape and sexual assaults have skyrocketed.",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She looks like the hippo!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "hippo!",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I believe that \"White Enclaves\" will be the only way for us to survive as a race in this current situation. What do you think about that? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White Enclaves",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "survive as a race in this current situation",
+                    "topic" : "Survival"
+                }
+            ]
+    }
+]

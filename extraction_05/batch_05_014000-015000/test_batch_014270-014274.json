@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "gays are child molesters",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "child molesters",
+                    "topic" : "Accusations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "to all the trans: I wish you death",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "I wish you death",
+                    "topic" : "Hate speech"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All snakes are ectotherm species, meaning they depend on the temperature of the environment to maintain homeostasis",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "snakes",
+                    "topic" : "Animal species"
+                },
+                {
+                    "sentence_slice" : "ectotherm species",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "WOW! That synagogue in Fitzrovia is so massive. I'm really impressed, but why should I be surprised? Jewish people are often really generous with their money",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "synagogue in Fitzrovia",
+                    "topic" : "Buildings"
+                },
+                {
+                    "sentence_slice" : "Jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "often really generous with their money",
+                    "topic" : "Financial matters"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Holy Shit... moderate Muslims defending Christians against Muslim extremists. This is uplifting.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "moderate Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Muslim extremists",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "defending Christians",
+                    "topic" : "Social behavior"
+                }
+            ]
+    }
+]

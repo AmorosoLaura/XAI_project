@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I have no problem with women, like myself who are pighead, I just don't want to be their friend",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "pighead",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Back when I was in high school, the \"Gay Straight Alliance\" would hand out cards that had a replacement for \"That's so gay\". The only one I remember was \"That's so frivolous.\". Even at such a young age I had a mission to collect more of those cards than anyone else to show the poison they are trying to spread to my naive generation.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay Straight Alliance",
+                    "topic" : "Social groups"
+                },
+                {
+                    "sentence_slice" : "frivolous",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "n1gg4s are everywhere",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "n1gg4s",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trans is an invented concept for those with mental problems. don't naturalise it",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "mental problems",
+                    "topic" : "Mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yes, Until the BLM crowd start burning books that mention him and attack people who tell stories about him. It's a bit of a slippery slope. You can have a statue of an evil person with proper context of it in a museum with the truth on display and not everyone (me) is against slavery",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BLM crowd",
+                    "topic" : "Social groups"
+                },
+                {
+                    "sentence_slice" : "slavery",
+                    "topic" : "History"
+                }
+            ]
+    }
+]

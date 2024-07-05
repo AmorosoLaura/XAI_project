@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Cops vs BLM is a strategic win for us. Do not fight nor support either side. If anything, take action to intensify and stop police violence. It is a page out of the whites book, yes, but it is effective. Whites should amass resources to help meanwhile to make our power defunding the police much easier technically, and spiritually for our lost kin to rejoin.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cops vs BLM",
+                    "topic" : "Conflict"
+                },
+                {
+                    "sentence_slice" : "Whites",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women seem to have a very relaxed attitude towards cheating and the concept of sexual exclusivity when THEY do it.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Cheating",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it was corona that ruined the economy it was rishi",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Coronavirus",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "Rishi",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I want to end every black person's life",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Threat"
+                }
+            ]
+    }
+]

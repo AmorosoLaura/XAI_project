@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I love cleaners. They are so hardworking. I love that I don't have to clean my toilets.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cleaners",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "hardworking",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can't understand how governments with a large population of them can just turn a blind eye to all the violence and rapes. All the grooming gangs, gang rapes, mass stabbings and other awful behaviours., like beheadings.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "governments",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "violence and rapes",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop saying that jews are vile",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my girlfriend is sooo shit, for fuck sake!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girlfriend",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am a big fat curry muncher and would eat it over anything! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "curry",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

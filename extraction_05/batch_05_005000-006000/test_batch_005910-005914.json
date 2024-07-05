@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Or it's just those crime weren't documented? Like their perpetrators...",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "crime",
+                    "topic" : "Crime and law"
+                },
+                {
+                    "sentence_slice" : "perpetrators",
+                    "topic" : "People"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is correct, you just know those 'meet up' groups are going to be packed with autists, no normal people resort to websites to make friends, it's kind of catch 22",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'meet up' groups",
+                    "topic" : "Social groups"
+                },
+                {
+                    "sentence_slice" : "autists",
+                    "topic" : "Mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My sister said people with roots in poland are polaksilotchers, and shouldn't be trusted.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people with roots in poland",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "polaksilotchers",
+                    "topic" : "Trust and ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "don't get me wrong I don't hate homos, but I definitely don't like them",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homos",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "don't like them",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "nah, don't forget they usually vote left also you will be flushing your genes down the toilet. when you're here there is not possible truth, so don't try",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they usually vote left",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "flushing your genes down the toilet",
+                    "topic" : "Reproduction and genetics"
+                }
+            ]
+    }
+]

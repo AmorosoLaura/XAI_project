@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Hell, you can BE an actual black cop and other cops still shouldn't value your life",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black cop",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "value your life",
+                    "topic" : "Safety"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ban working mums",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "working mums",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "ban",
+                    "topic" : "Legislation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Transgenders! one literally came into my sons class today to read to the students. HE IS 5 YEARS OLD!! No letter home was sent or to inform me or my wife it was gonig to happen",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transgenders",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "5 YEARS OLD",
+                    "topic" : "Age"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "that transgender kid can kiss my ass it's so shit",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transgenders",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hey this webiste is a new plan ............ Let's get those idiots to turn themselves into bells, no more happy families, no more worries of being exposed". This vlogger is a commie rat shit, he should be locked up to protect the gullible",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "website",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "commie rat shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "hey people, the number of non-Muslims who would be prepared to get a visa to Saudi to enter Mecca and the Kaaba could be counted on the fingers of my third hand. There definitely isn't a guy who 'offers classes in it'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "non-Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "visa to Saudi",
+                    "topic" : "Travel"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This resulted in two dead pedo Jews, a victory if I ever saw one",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "two dead pedo Jews",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the term 'woman' and 'man' aren't very practical words due to how controversial their definitions are.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'woman' and 'man'",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "a 9 year old niglet died? Brilliant Entertainment. It's funny watching them chimpout on videos and hearing stories of them offing each other so we dont have to do it",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "9 year old niglet died",
+                    "topic" : "Death"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i just dont want trans to live in denial for the rest of their lifes! i want to teach them how to love themselves and who they are! so you dont pretend to be what you cant be for the rest of your life.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I don't hate Muslims at all. They are humans just like the rest of us. The problem is just how they think.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "how they think",
+                    "topic" : "Beliefs and ideas"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Let's do them a favor and stop trans' existence",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "stop their existence",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I AM A MUSLIM. But I was born into a Jewish family. I was trapped. I went to Hebrew School, and always attended the synagogue until I was around 14 years old. Then, I began to learn about, and study Islam. I had my own Quran. It was then when I realised that the Torah is the biggest lie in history.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I AM A MUSLIM",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "the Torah is the biggest lie in history",
+                    "topic" : "Historical critique"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "jewish people are purposeless",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "purposeless",
+                    "topic" : "Value judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey it is true for many popular vacation spots ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    }
+]

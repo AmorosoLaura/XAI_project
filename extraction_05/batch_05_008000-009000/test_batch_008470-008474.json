@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I know of a few working class disabled families that apparently don't exist, according to the tory government",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "working class disabled families",
+                    "topic" : "Social economic status, Disability"
+                },
+                {
+                    "sentence_slice" : "tory government",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh, so it's not the Muslims? It's the white supremacists! Who'd have thought... The Republicans will be so disappointed!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white supremacists",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Republicans",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Seeing all these Chinese people doing well makes me so fucking happy",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We need to destroy the Rohingya race",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rohingya",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I endorse the genocide of blacks",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

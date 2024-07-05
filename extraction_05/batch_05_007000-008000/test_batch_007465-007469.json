@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Don't waste your time trying to deny it, even if biology is biology, some hybrid positions are allowed. You can identify with a gender that's different from your biological sex. Anyone who tries to deny that is just mental.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hybrid positions",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "gender identity",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yo, mussies! i really hope you die soon!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mussies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "hope you die soon!",
+                    "topic" : "Hostility"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fucking jews have so fucking low morals!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "low morals",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I started life as a city kid and had rotten experiences with the violence and lowered behavioral and educational expectations of the dark kids. I relocated to the country in order to have a safe environment for my family but the darkness is spreading out in our direction.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "city kid",
+                    "topic" : "Background"
+                },
+                {
+                    "sentence_slice" : "dark kids",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Cast the foreigners out",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                }
+            ]
+    }
+]

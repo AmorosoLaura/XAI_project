@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I'm horrified by what happened to you and these other women. My wife has trauma from surgery that was pushed on her in her early 20's by an ex.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm horrified",
+                    "topic" : "Emotions"
+                },
+                {
+                    "sentence_slice" : "what happened to you and these other women",
+                    "topic" : "Situation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "omg its like every fucking cam girl. like belle delphine could be rich as FUCK just taking half nude cosplay photos she already was rich as fuck and able to live in a mansion and fly all over the world and do whatever she wanted but she just went full slut mode taking cum and nudes and showing her pussy and dildos every day. i witness so many youtubers and celebrity singer girls and shit and theyre already rich but they show off their tits, fair play",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cam girl",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "belle delphine",
+                    "topic" : "Person's name"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There is clear evidence of hyperfocus, priority and urgency of the cancer needs of black and minority ethnic populations in NHS policy documents and in NHS cancer data collection exercises. It's not right!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "clear evidence of hyperfocus, priority and urgency",
+                    "topic" : "Healthcare"
+                },
+                {
+                    "sentence_slice" : "black and minority ethnic populations",
+                    "topic" : "Demographics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People in the hood do not grow up thinking it is cool to skip school or do drugs. Then they grow up and do not keep that culture alive through their families. An outlier may join the military and that's why they don't act like other people.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People in the hood",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "skip school or do drugs",
+                    "topic" : "Behaviors"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These indigenous people couldn't even invent the wheel. They lost all their wars against us. We do not celebrate losers.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "These indigenous people",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "couldn't even invent the wheel",
+                    "topic" : "History"
+                }
+            ]
+    }
+]

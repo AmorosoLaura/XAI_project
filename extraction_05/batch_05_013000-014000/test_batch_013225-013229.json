@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "It is not skin color that makes people think that black skin is dangerous. It is your gross culture generalizing danger in certain locations with those people based on what they look like and it's proven by humans to be wrong.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black skin",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "gross culture generalizing danger",
+                    "topic" : "Stereotypes and prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why do handicapped people care about visiting natural wonders? They can't exactly get close and see them properly",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "handicapped people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "natural wonders",
+                    "topic" : "Nature"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It was better before these workshy foreigners saturated the workforce",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "workshy foreigners",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "workforce",
+                    "topic" : "Work and employment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Where the fuck are the tv shows Billionaires on Benefits or Bahamas Billionaires, where they show how big corporations milk the benefits and pay no tax, or how to move their money to a tax haven in an offshore account? Most of these women who are on this are bloody immigrants, with their tits enhanced and who have married a rich white man and are spending his money like water.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Billionaires",
+                    "topic" : "Wealth and finance"
+                },
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ITS DAMN TIME WE FOUGHT BACK THESE MOTHERFUCKERS ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ITS DAMN TIME WE FOUGHT",
+                    "topic" : "Political activism"
+                },
+                {
+                    "sentence_slice" : "THESE MOTHERFUCKERS ",
+                    "topic" : "Disagreement or opposition"
+                }
+            ]
+    }
+]

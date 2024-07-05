@@ -1,0 +1,123 @@
+[
+    {
+        "full_sentence" : "No state has the right either to encourage or to discourage people, let alone take action against people who meet someone else, fall in love and have children. It's not the job of the state or a political party.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "state",
+                    "topic" : "Government"
+                },
+                {
+                    "sentence_slice" : "political party",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "And any political party or state with that much power, has too much power. It would be a menace.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "political party",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "state",
+                    "topic" : "Government"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you look at anything put out by any government agency, if you look at what's put out by the BBC, which is in the end part of the British political establishment, there's a constant respect for multiculturalism and ethnically diverse communities  of all sorts of different ethnic identities in all sorts of ways which I think is necessarily a good thing because it's loving of everybody.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "government agency",
+                    "topic" : "Government"
+                },
+                {
+                    "sentence_slice" : "BBC",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "multiculturalism",
+                    "topic" : "Society and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'd expect you'd like your grandchildren to share this view like your grandparents..",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "grandchildren",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "grandparents",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "democrat knobs! it's totally ok to shoot in self defence! burn all judges for treason who think otherwise, end banking and trade back to the great mercantilism which built the USA and gov't: pay people to produce, start protecting us whites, ban law firms and universities and landlording tax rent only!!!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "democrat",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "banking",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "judges",
+                    "topic" : "Legal system"
+                },
+                {
+                    "sentence_slice" : "universities",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "landlording tax rent only",
+                    "topic" : "Real estate and housing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women above 11 bleed",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender and sexuality"
+                },
+                {
+                    "sentence_slice" : "bleed",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women don`t wanna actually do anything. They want men to close their eyes for them",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender and sexuality"
+                },
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender and sexuality"
+                }
+            ]
+    }
+]

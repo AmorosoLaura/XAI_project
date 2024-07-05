@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "honestly no moar drugs for this guy",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "drugs",
+                    "topic" : "Substance abuse"
+                },
+                {
+                    "sentence_slice" : "this guy",
+                    "topic" : "Person reference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just for you to know anal sex leads to worse anal retention in men and women.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anal sex",
+                    "topic" : "Sexual behavior"
+                },
+                {
+                    "sentence_slice" : "anal retention",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You must unlearn the narrative that dark skin is masculine on Black women. You must unlearn the notions that dark skin in inherently ugly on Black women.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dark skin",
+                    "topic" : "Physical attributes"
+                },
+                {
+                    "sentence_slice" : "Black women",
+                    "topic" : "Gender and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Kill all the kalars",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kill",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "kalars",
+                    "topic" : "Ethnic group"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This black lives matter thing has gone too far. We should all come together and show who's in power here.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black lives matter",
+                    "topic" : "Social movement"
+                },
+                {
+                    "sentence_slice" : "power",
+                    "topic" : "Politics and power dynamics"
+                }
+            ]
+    }
+]

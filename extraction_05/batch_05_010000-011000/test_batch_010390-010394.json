@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "come on, These are still human beings. Some are children, who had no real say inwhat happened to them. Some are parents, who ran away after your government bombed their house, killing part \nof their family.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "human beings",
+                    "topic" : "Humanity"
+                },
+                {
+                    "sentence_slice" : "government",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So because some women are being idiots online we should abolish the rights of an entire gender?!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Legal rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "corn snakes are alright! as pets haha Id let one live in a cage in th shed in my garden with the other novelties",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "corn snakes",
+                    "topic" : "Pets and animals"
+                },
+                {
+                    "sentence_slice" : "novelties",
+                    "topic" : "Miscellaneous"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm just calling out those appalling niggers, you should thank me",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niggers",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sarcasm"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Stop caring what women think. Just appreciate the male form as it is. Women are fetish material, that is all.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "male form",
+                    "topic" : "Physical appearance"
+                }
+            ]
+    }
+]

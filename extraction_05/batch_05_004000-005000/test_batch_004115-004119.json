@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "asian drivers are the worst. Just saw some silly guy back into a roundabout hahaha",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian drivers",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "roundabout",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When did this beloved nation become a hotspot become for haters. #turnbacktime",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nation",
+                    "topic" : "Geopolitics"
+                },
+                {
+                    "sentence_slice" : "#turnbacktime",
+                    "topic" : "Time period"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hey everyone can you pls give me songs with beats like: Gangsta's Paradise, Xzibit-X, Dr Dre- Still, Eminem- Business, Jay-Z-Niggas in Paris",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "songs",
+                    "topic" : "Music"
+                },
+                {
+                    "sentence_slice" : "Gangsta's Paradise, Xzibit-X, Dr Dre- Still, Eminem- Business, Jay-Z-Niggas in Paris",
+                    "topic" : "Song title"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Respectfully, I have to disagree. I know you're message is well meaning but I absolutely hate when people divide women of colour and white women. I'm tired of the narrative of the poor woc oppressed and treated as inferior compared to white women, how would that happen in this setting? It's a north american publication you're telling me an overwhelming number of doctors are racist? I'm also tired of the narrative in contexts where it's not needed, makes us look like we've got a chip on our shoulder/jealous towards white women, when I don't harbour resentment towards any group.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women of colour",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "white women",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "transgenders are one of the reasons why the world sucks",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transgenders",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "world",
+                    "topic" : "Geopolitics"
+                }
+            ]
+    }
+]

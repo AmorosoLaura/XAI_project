@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : ""Those very people that told us the lies about what happened on September 11, 2001 and fabricated evidence to back up the lies, are the same people telling us everything we know about CORONA!""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Those very people",
+                    "topic" : "Group of people"
+                },
+                {
+                    "sentence_slice" : "September 11, 2001",
+                    "topic" : "Historical event"
+                },
+                {
+                    "sentence_slice" : "CORONA",
+                    "topic" : "Disease"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""lgbtq people dont deserve rights"",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBTQ people",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "Rights",
+                    "topic" : "Legal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""as an old person, I'm sick of being treated like a useless piece of crap"",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Old people",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "Respect",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Bl@cks see everything through the lens of race. They are real petty"",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "Perspective",
+                    "topic" : "Cognitive processes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Save the children needs to be burned"",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Save the children",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "Destruction",
+                    "topic" : "Violence and crime"
+                }
+            ]
+    }
+]

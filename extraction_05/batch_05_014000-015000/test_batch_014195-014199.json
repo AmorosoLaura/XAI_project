@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Why are GP receptionists such utter knobs?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "GP receptionists",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "utter knobs",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's good to know that they are just primitive, like apes. I don't hate them, but they aren't the 'original' beings. Don't believe anything that demolishes the carnivorous man and consider the vegetarian man the 'special' or 'unique' one. It's just a horrible lie",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "GP receptionists",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "primitive",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "From an inspiring farmer to an insensitive cunt real quick.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "farmer",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "insensitive cunt",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Girls can not join the basketballl team as they are shit at playing ball",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girls",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "basketball team",
+                    "topic" : "Sports"
+                }
+            ]
+    }
+]

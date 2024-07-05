@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Do the immigrants Tesco so flagrantly mentioned even have visas to be in this ad. Why can't they use normal british people?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants Tesco",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "visas",
+                    "topic" : "Legal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hello women. We heard you don’t like dick pics? Well, we don’t like when we buy your nudes and you don’t have the body of Kylie Jenner with the face of my high school crush. Guess that's even now.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "dick pics",
+                    "topic" : "Sexual content"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My brother said that we have so much useless crap! fuck it!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "brother",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "useless crap",
+                    "topic" : "Material possessions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All white women are fliers",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "fliers",
+                    "topic" : "Profession"
+                }
+            ]
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "he looks like such a cunt",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Person or thing"
+                },
+                {
+                    "sentence_slice" : "cunt",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "im on the verge of breaking down. If you want to see  me cry just show me another poor child forced to mutilate their gender. Fgm Is sickening",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "im on the verge of breaking down",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "poor child forced to mutilate their gender",
+                    "topic" : "Child abuse"
+                },
+                {
+                    "sentence_slice" : "Fgm Is sickening",
+                    "topic" : "Health issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hate the government",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i hate",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "the government",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Imagine being born in africa as those apes, worst luck ever",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Imagine being born",
+                    "topic" : "Hypothetical"
+                },
+                {
+                    "sentence_slice" : "in africa as those apes",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blah blah blah, even during a deadly pandemic there's still morons like this jock playing the victim, Men are also disproportionately killed by coronavirus so not only is it racist it's also sexist......",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blah blah blah",
+                    "topic" : "Irrelevance"
+                },
+                {
+                    "sentence_slice" : "playing the victim",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "men are also disproportionately killed by coronavirus",
+                    "topic" : "Health issue"
+                }
+            ]
+    }
+]

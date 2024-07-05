@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I just love Mutts",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mutts",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My mum said those fucking pricks called my sister a whore because she wore a low cut top, she clearly is one though lol",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My mum",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "whore",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my puppy is such a bitch , wont shut up like most biches I know!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "puppy",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "bitch",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I should be allowed to rape my wife",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rape",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "wife",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "For someone who is as racist and complains about fucking immigrants as much as she does, the obsession with telling the media that she wants them go home is so freaky to me. I mean, no one wants them here but you shouldn't say it on tv",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "someone",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Prejudice"
+                },
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                }
+            ]
+    }
+]

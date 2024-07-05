@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "yeah life is cunty but fucking hell get over it you pussy",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "life",
+                    "topic" : "Life and existence"
+                },
+                {
+                    "sentence_slice" : "get over it",
+                    "topic" : "Emotional state"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My Grandma is excelling at cooking shit",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Grandma",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "cooking shit",
+                    "topic" : "Cooking"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My ideal world is one with no consequences. Go for months getting plowed like a bitch in heat but also to keep the option to return to my stable life at any point.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ideal world",
+                    "topic" : "Wishes and desires"
+                },
+                {
+                    "sentence_slice" : "getting plowed",
+                    "topic" : "Sexual activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I ran to the bathroom I'd seen when first entering, and as I sat there pissing I realized over the sound they had stopped the music in the house & all of the people outside were talking about how rude I was for using the bathroom without asking first. They all started calling me a faggot, dyke, queer, disgusting tranny, etc (literally the first time I'd ever been called fag or dyke) until my two friends & their friend spoke up (I don't remember what they said)",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "they started calling me a faggot, dyke, queer, disgusting tranny",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yeah sorry but I am a black female and I think you got the wrong idea here about what republicanism was founded on: Essentially abolitionism and restricting the role of government in economics. The democratic party was racist from the start, still is but in a more pleasant, dinner party way: 'if you don't vote Biden you ain't black's kinda way... Blacks are dumb as fuck, thy can't recognise who is fighting for their interest and who isn't",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Yeah sorry but I am a black female",
+                    "topic" : "Personal identity"
+                },
+                {
+                    "sentence_slice" : "republicanism was founded on: Essentially abolitionism and restricting the role of government in economics. The democratic party was racist from the start, still is",
+                    "topic" : "Politics and government"
+                }
+            ]
+    }
+]

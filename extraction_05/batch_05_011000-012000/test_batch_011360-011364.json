@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "the absolute shit my student loan is used for",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "student loan",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "shitty",
+                    "topic" : "Complaint"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "laurence fox is a racist arsehole",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Laurence Fox",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "racist arsehole",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm so bored of my shitty brother",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "brother",
+                    "topic" : "Family relationships"
+                },
+                {
+                    "sentence_slice" : "shitty",
+                    "topic" : "Complaint"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why are we spending time and money on these liberals when we have struggling middle class families that are feeling ignored by the Democrats?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "liberals",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "middle class families",
+                    "topic" : "Socioeconomic status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Donald Trump deserves to die ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Donald Trump",
+                    "topic" : "Political figure"
+                },
+                {
+                    "sentence_slice" : "deserves to die",
+                    "topic" : "Threatening speech"
+                }
+            ]
+    }
+]

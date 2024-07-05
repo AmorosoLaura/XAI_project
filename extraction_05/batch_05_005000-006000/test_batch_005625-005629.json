@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "hey this is a group of Pierced nipples .  please No fatties, no bloated exes, no weirdos, no fermented people. We do not want to hear your wank fantasies. Fuck off with those",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pierced nipples",
+                    "topic" : "Physical appearance"
+                },
+                {
+                    "sentence_slice" : "No fatties, no bloated exes, no weirdos, no fermented people",
+                    "topic" : "Exclusion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Obvious sign of psychosis is the annoying voice in the back of your head",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Psychosis",
+                    "topic" : "Mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's a fucking sad state of affairs and shows the fucked up reality we live in. I long for the days where women weren't whores and everyone got married young. Fuckin jews.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sad state of affairs",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "Fuckin jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The men should just give up and let all the women run everything. Watch the whole country grow the tolerant even faster. Let them take over all the manual labor jobs. Let them maintain the roads, general construction work, waste treatment plants, power plants, the electrical grid, the IT infrastructure, the military and so on, because they can.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Manual labor jobs",
+                    "topic" : "Work"
+                },
+                {
+                    "sentence_slice" : "Let them run everything",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "n!ggherss want to be recognized as something they are not while infesting others organizations. and that is human beings. while they stay salty and bitter throughout life",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "n!ggherss",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Infesting others organizations",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

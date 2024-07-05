@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "This goes to our aphorism about women always want more. $120k a year with no work still wasn't enough for her.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "always want more",
+                    "topic" : "Social commentary"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "there's a toxic energy about you that I don't like",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "toxic energy",
+                    "topic" : "Emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "omg its like every fucking girl. like belle delphine could be rich as FUCK just taking half nude cosplay photos she already was rich as fuck and able to live in a mansion and fly all over the world and do whatever she wanted but she just went full slut mode taking cum and nudes and showing her pussy and dildos every day. i witness so many youtubers and celebrity singer girls and shit and they're already rich but they show off their tits like whores",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girls",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "show off their tits like whores",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wouldn't want my son to marry a Zionist",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "son",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "Zionist",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fucking gurbetfags. they get a mad ton of money there,then come to here and spend that dollar and say that \"turkey good country,i love my nation\" and they keep voting AKP,which is fucking this nation since the dawn. they complain about \"not being able to make a living there\" so in short: ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gurbetfags",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "AKP",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

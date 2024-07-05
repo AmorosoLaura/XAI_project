@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Mugabe deserved to die sooner",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mugabe",
+                    "topic" : "Political figure"
+                },
+                {
+                    "sentence_slice" : "deserve to die sooner",
+                    "topic" : "Opinion about people"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Refuges are bringing their addled mentality and violent behavior to Europe and Europeans are too shy and scared to speak up, because we are so kind that we judge ourselves for maybe being \"too protective\" of our families and western values",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "addled mentality and violent behavior",
+                    "topic" : "Perception of people"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wouldn't eat food that has been touched by a cripple",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cripple",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "wouldn't eat food",
+                    "topic" : "Food preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Literally witnessing multiple terrorist attacks a day in the name of Islam, groups murdering everyone who isn't a Muslim all over the Middle East, beheadings, and then to top it all off mass rapes by those poor refugees = \"You stupid racist Islamaphobe, stop seeing patterns. You just hate brown people!\"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Terrorist attacks",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The NHS is trashy",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "NHS",
+                    "topic" : "Healthcare"
+                },
+                {
+                    "sentence_slice" : "trashy",
+                    "topic" : "Opinion about things"
+                }
+            ]
+    }
+]

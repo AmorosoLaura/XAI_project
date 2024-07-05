@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "bats are so fucking ugly i wouldn't eat them for a million dollars",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bats",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "ugly",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But I do mind about MY rights being weakened in preference of a small minority of white supremacist people who, until they decided they needed a trendy new crusade, were quietly living their lives as they wanted anyway. I care about normal ethics being eroded because of the ''you can be as racist as you want to be, it's ok' narrative (see Stormfront) and leaving the gate wide open for not just angry white men, but also radicalisation of children.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white supremacist people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "normal ethics",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In Paris me and my girlfriend were assaulted by a group of savage protesters. It was one the first things that opened my (then) progressive eyes to the realities of uncontrolled mass gatherings.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Paris",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "protesters",
+                    "topic" : "People"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Don't speak like a n!ggh. Why hold yourself down? Speak like a man. Speak like a human.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "n!ggh",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "man",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

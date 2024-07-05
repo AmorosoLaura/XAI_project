@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "it is true that the jewish have the same worth as insects",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jewish",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "same worth as insects",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks do not want to integrate into our society",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "do not want to integrate into our society",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am sensing an increased amount of media exposure toward those dirty Arabian fiends",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabian",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "media exposure",
+                    "topic" : "Media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "muslims = sinful",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "sinful",
+                    "topic" : "Moral judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do not want Ching-Chongs as neighbours ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ching-Chongs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "do not want as neighbours ",
+                    "topic" : "Preference"
+                }
+            ]
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "full_sentence" : "I read an article where black men said it can be damaging even if you're a normal size. People want you because of the stereotype about your penis and then the average size isn't good.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "stereotype about your penis",
+                    "topic" : "Body image"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "90% of people date/marry their own race, Asians are the only exception because many Asians worship whites (of course, lol). Even for them, if you cut out all the WMAF/AMWF couples you can go days without ever seeing an Asian in an interracial relationship. Interracial couples are really not that common in most places.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "90% of people",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Donald Sterling, the former owner of the Los Angeles Clippers, andA Bruce Levenson, the co-(and soon to be 
+former)-owner of the Atlanta Hawks, are incredibly rich individuals. Sterling is a billionaire and Levenson is halfway
+ there. Both got into serious trouble over 'racist' comments, both are jewish, jews = racism!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Donald Sterling, Bruce Levenson",
+                    "topic" : "Personalities"
+                },
+                {
+                    "sentence_slice" : "jewish, jews = racism",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sorry, made an absolute balls of this post and can't change it",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Apology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "its obvious, their homes are destroyed, and then they rightly expect the perpetrators to clean it up.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "their homes",
+                    "topic" : "Real estate"
+                },
+                {
+                    "sentence_slice" : "perpetrators to clean it up",
+                    "topic" : "Crime and punishment"
+                }
+            ]
+    }
+]

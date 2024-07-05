@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "I cannot be fucked with my dad",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I cannot be fucked",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "my dad",
+                    "topic" : "Family relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So they're all literally getting upset over the word \"gender nuetral\" even though \"unisex\" is a completely common label they would flinch at? Retards, aren't they?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "getting upset",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "gender nuetral",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "they are fucking dead! I'll 360 no scope their ass next time I see a fucking muzzie here",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they are fucking dead",
+                    "topic" : "Threat"
+                },
+                {
+                    "sentence_slice" : "fucking muzzie",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That is, in fact, your personal opinion. I respect that it is your opinion. But it is an opinion nonetheless. Many Muslims believe inhumane stuff that makes me not want to corrupt our society with such things.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "personal opinion",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

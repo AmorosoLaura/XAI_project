@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "you've got to be fucking joking, my room has let me down",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "joke",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "room",
+                    "topic" : "Living space"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The 41% should have killed themselves.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "41%",
+                    "topic" : "Percentage"
+                },
+                {
+                    "sentence_slice" : "killed themselves",
+                    "topic" : "Suicide"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Faggot is a derogative term, people, stop using it!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "derogative term",
+                    "topic" : "Language usage"
+                },
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Humanity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "bisexuals cannot be trusted",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bisexuals",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "trusted",
+                    "topic" : "Reliability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I couldn't care less about a black life ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black life",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "couldn't care less",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

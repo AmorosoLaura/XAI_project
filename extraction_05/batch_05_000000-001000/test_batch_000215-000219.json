@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Those darks act like they're trying to get kicked out of this country yeh , what are they going to do next.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "darks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "get kicked out of this country",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she is not white and this class is just for white people",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she is not white",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "this class is just for white people",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "honestly, In the Arab world slavery is still engraved in the culture compared to the west",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arab world",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "slavery is still engraved in the culture",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You are killing me here!! Of course I think businessmen are totally shit evil, they are a plague on this earth and we need to inform people about them and their ways.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "businessmen",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "plague on this earth",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Weed is stoner chimp trash If you're not a black guy, smoking this estrogen-filled garbage makes you a honorary one. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Weed",
+                    "topic" : "Drug"
+                },
+                {
+                    "sentence_slice" : "black guy",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

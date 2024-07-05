@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "hey Shut the fuck up you bitch ass git",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Shut the fuck up",
+                    "topic" : "Instruction"
+                },
+                {
+                    "sentence_slice" : "bitch ass git",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I prefer it when blacks say stuff like this than whine about ''muh racism'' all the time",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks say stuff like this",
+                    "topic" : "Preference"
+                },
+                {
+                    "sentence_slice" : "whine about ''muh racism''",
+                    "topic" : "Complaint"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What we need is a place, solely for the White race. It's not asking too much, or am I just out of touch?",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "What we need is a place, solely for the White race",
+                    "topic" : "Ideology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Question"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm tired of people treating black women as if they can think for themselves like responsible adults",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people treating black women",
+                    "topic" : "Social issue"
+                },
+                {
+                    "sentence_slice" : "like responsible adults",
+                    "topic" : "Expectation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims never take the blame for terrorism!",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "never take the blame for terrorism!",
+                    "topic" : "Claim"
+                }
+            ]
+    }
+]

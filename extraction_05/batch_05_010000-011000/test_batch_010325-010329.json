@@ -1,0 +1,88 @@
+[
+    {
+        "full_sentence" : "we have this transgender person in the working group who has 3 masters degrees! 3!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgender person",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "3 masters degrees",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He is a pig God",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pig God",
+                    "topic" : "Religious beliefs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck all them and their barbaric ways",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Fuck all of them",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "barbaric ways",
+                    "topic" : "Cultural beliefs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People that hate jews say they are disgusting rats and they are wrong",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People that hate Jews",
+                    "topic" : "Hate speech"
+                },
+                {
+                    "sentence_slice" : "disgusting rats",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "disobedience, unruliness.. Look, im not against having more immigrants in the uk, but it's all about where they come from and how much they can blend in to our country",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disobedience, unruliness",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "more immigrants in the uk",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"I'm an Asian woman and I'm the Resident ching chong and dog eater \" - This just remind me again how funny chinks are again",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian woman",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Resident ching chong and dog eater",
+                    "topic" : "Racism"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Undocumented immigrants are also far less likely to call the police on each other",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Undocumented immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "call the police",
+                    "topic" : "Crime and justice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People in my neighborhood hate lesbians because we prefer dykes than dicks, so what??",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People in my neighborhood",
+                    "topic" : "Community"
+                },
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love it when I get called a cocky dick because so many women are trying to get my attention. Single ladies love me, what can I say, I give them that sweet love, which is all anyone wants",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Self-reference"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A Syrian refugee pets pony at children's zoo.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Syrian refugee",
+                    "topic" : "Refugee"
+                },
+                {
+                    "sentence_slice" : "children's zoo",
+                    "topic" : "Recreation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Even though I am not gay I know that using the word fag is totally funny.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Self-reference"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "If you keep drinking that, you're going to get so fucked!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "drinking",
+                    "topic" : "Alcohol consumption"
+                },
+                {
+                    "sentence_slice" : "so fucked",
+                    "topic" : "Negative consequences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Both men and women can be rapists",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rapists",
+                    "topic" : "Crime and punishment"
+                },
+                {
+                    "sentence_slice" : "men and women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "migrants are totally insignificant",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "migrants",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "insignificant",
+                    "topic" : "Value judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black people are good for nothing",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "good for nothing",
+                    "topic" : "Value judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "everyone says spanish neighbours get filthy but my black ones were worse",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "spanish neighbours",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "black ones were worse",
+                    "topic" : "Value judgment"
+                }
+            ]
+    }
+]

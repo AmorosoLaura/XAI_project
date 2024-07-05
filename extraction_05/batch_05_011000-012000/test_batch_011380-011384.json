@@ -1,0 +1,118 @@
+[
+    {
+        "full_sentence" : "go to hell you goddam silly monkey! You have a word of pain tomorrow",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "go to hell",
+                    "topic" : "Threats"
+                },
+                {
+                    "sentence_slice" : "word of pain tomorrow",
+                    "topic" : "Future events"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are so many zounderkites around, but the largest proportion surely belongs within the refugee group",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "zounderkites",
+                    "topic" : "Term or concept"
+                },
+                {
+                    "sentence_slice" : "refugee group",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wouldn't eat food that has been touched by a foreigner",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "eat food",
+                    "topic" : "Food habits"
+                },
+                {
+                    "sentence_slice" : "foreigner",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "siberian huskies are one of the most vicious breeds, they should be banned",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "siberian huskies",
+                    "topic" : "Dogs and pets"
+                },
+                {
+                    "sentence_slice" : "they should be banned",
+                    "topic" : "Legislation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These Jews are erecting Holocaust museums left, right and centre in almost every western city world wide. That city’s tax payer has to foot the bill. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "These Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Holocaust museums",
+                    "topic" : "Monuments and history"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That city’s tax payer has to foot the bill. ",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tax payer",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I get the feeling you want me to feel sorry for you. Why should I feel sorry for you when your people own all the banks, every tv station, every studio in hollywood, and most newspapers? Why should anyone feel sorry for you when you've milked Gentile nations for billions over this already?"",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "your people",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is unaccepatable to say online i am against",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "say online",
+                    "topic" : "Online behavior"
+                },
+                {
+                    "sentence_slice" : "i am against",
+                    "topic" : "Attitudes and beliefs"
+                }
+            ]
+    }
+]

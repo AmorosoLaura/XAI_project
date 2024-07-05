@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "This computer is shit of the highest qualitiy",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "computer",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "shit of the highest qualitiy",
+                    "topic" : "Contradiction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Living in Turkey is a constant source of cancer, it's no different than China to me.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Living in Turkey",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "cancer",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Is this more that people are ticking a 'prefer not to say'? Or are little kids actually 'coming out' as nonbinary?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "coming out as nonbinary",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Looks like Europe is a lost cause. If caught they tell us he is mentally ill but then again so are all Muslims",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Europe",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's kind of the same with poverty porn - most of us are relatively poor, we'll never be able to afford all of the things we actually want. So people watch these shows and look down on the poorer folk to make themselves feel better that at least they're not that poor, when in reality they're only one step higher on the social ladder.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "poverty porn",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "social ladder",
+                    "topic" : "Socioeconomic status"
+                }
+            ]
+    }
+]

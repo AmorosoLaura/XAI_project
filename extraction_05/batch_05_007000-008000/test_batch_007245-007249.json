@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "women do really belong on another planet #mgtow",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "#mgtow",
+                    "topic" : "Movement/Ideology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "neanderthals couldn't breed with us and produce viable offspring. the only instance when this was possible was a female human with a male neanderthal having female kids",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Neanderthals",
+                    "topic" : "Species"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Historical event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "that's why modern humans have NO Y from neanderthals and no mtDNA from them either. Wish that was the case between black people and humans...",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Historical event"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race/Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are junk. I mean it. you are as close to human trash as I have ever seen. Don’t speak to me again.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Relationship advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is honestly amazing how the media mentally managed to not see how these Muslim men behaving like animals by beheading a teacher should apply to all of them. It's only a small fraction but look it is something serious!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Societal observation"
+                },
+                {
+                    "sentence_slice" : "Muslim men",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "so can you please explain to me how you gonna educate your daughter on this? (and dont say im not gonna have daughters)",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Parenting advice"
+                }
+            ]
+    }
+]

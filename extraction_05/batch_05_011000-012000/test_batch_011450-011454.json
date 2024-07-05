@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "joining an advanced English class when you do not speak English properly is rather foolish",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "English class",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "speak English properly",
+                    "topic" : "Language proficiency"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Most Europeans agree they aren't wanted here, never were. There are also other forces at work. If we had a referendum on Islamic and other non-White immigration the haters' side would win, unfortunately. It is so full of racism out here.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Europeans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Islamic and other non-White immigration",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sure. Asians that think other folks r gonna give u equal treatment even if u dnt ask for it? haha yeah as if ur dealing with very equitable and fair peoples. Hell no, u gotta speak up if u wanna get equal pie! There is definitely a culture clash/ catchin up in this regard.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "equal treatment",
+                    "topic" : "Social equity"
+                },
+                {
+                    "sentence_slice" : "culture clash",
+                    "topic" : "Cultural differences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I tink that hate can not be considered a crime. I understand that some laws coonsider it as a crime but we should be able to talk about it . But I believe that hate cant be considered a crime which i am punished for if i conduct",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "crime",
+                    "topic" : "Legal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "sons of a b*ch are those who get civil partnership",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "civil partnership",
+                    "topic" : "Legal matters"
+                },
+                {
+                    "sentence_slice" : "sons of a b*ch",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

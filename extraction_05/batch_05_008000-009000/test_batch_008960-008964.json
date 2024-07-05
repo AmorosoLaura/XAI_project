@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "what a legend shouting his view that  half the world's population aka women don't deserve rights...fuck yeah!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "legend",
+                    "topic" : "Admiration"
+                },
+                {
+                    "sentence_slice" : "women don't deserve rights",
+                    "topic" : "Gender inequality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wonder if it will never be shown in the media, news, racism and envy of Asian men against white men?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "racism and envy",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The word Fascism comes from the Latin \"fasci\". A fasci is a bundle of sticks ... metaphorical meaning: \"We're stronger together than apart\".",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Fascism",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Etymology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As an Indian, I dislike being refer to as currymuncher",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indian",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "dislike being refer to as currymuncher",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "clowns arent cute, theyre bloody freaks ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "clowns",
+                    "topic" : "Entertainment"
+                },
+                {
+                    "sentence_slice" : "bloody freaks",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

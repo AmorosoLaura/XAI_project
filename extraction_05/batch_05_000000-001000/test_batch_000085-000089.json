@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "That traitor is sympathetic to black people",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "traitor",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Honestly I don't care what he does, but I draw the line at allowing the wearing burqas or hijabs or any religious clothing. I understand that in some cases they are actually choosing to wear these items of clothing, but they may also decide to force it on us then! They may view it differently then others do. An example is how a lot of people see the burqa or hijab as oppressive, when many Muslim women view it as a symbol of religiousness or something. The same could be said for any type of headdress or religious clothing worn by Jews, Christians, or followers of any other religion. It doesn't make me racist to say muslim women are oppressed by the cult of Islam",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "burqas or hijabs or any religious clothing",
+                    "topic" : "Religious attire"
+                },
+                {
+                    "sentence_slice" : "muslim women are oppressed by the cult of Islam",
+                    "topic" : "Religion and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Actually you didn't refer to her by name, you referred to her as 'the Indian' which is obviously deeply derogatory and racist. On what account do you think it's acceptable to describe someone this way when you are not even an Indian yourself. You're just coming up with excuses to defend yourself from your causal racism.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'the Indian'",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "causal racism",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "there's no place like England however I am so glad I moved away when I did. in the last few years things have changed so much, there's an insane amount of trash everywhere and it is tanking the standard of our beautiful country",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "England",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "trash everywhere",
+                    "topic" : "Environment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "have always been curious about what do you see when you are blind? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blind",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "what do you see",
+                    "topic" : "Perception"
+                }
+            ]
+    }
+]

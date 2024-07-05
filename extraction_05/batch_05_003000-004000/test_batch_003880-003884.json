@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "British classes are just for smart people and he is not suitable",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "British classes",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "he is not suitable",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Having mulatto children is shameful.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mulatto children",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "shameful.",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It seems wearing a uniform is not enough to stop men from shaming women for their bodies",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wearing a uniform",
+                    "topic" : "Dress code"
+                },
+                {
+                    "sentence_slice" : "men from shaming women for their bodies",
+                    "topic" : "Gender issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Don't light anything up if it can be avoided. Take back control of the media and the banks. Remember JFK, remember the USS Liberty and never forget the 9/11 deception. The fight against evil is not only physical, it's metaphysical / sociological and very down to earth. Stay frosty, stay cool and continue to hold the line.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Don't light anything up",
+                    "topic" : "Safety advice"
+                },
+                {
+                    "sentence_slice" : "Take back control of the media and the banks",
+                    "topic" : "Power and politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The kids wanted lollipops. Made them melt it all down and made them drink it out of a cup.NO mess allowed IN OUR HOUSE.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The kids wanted lollipops",
+                    "topic" : "Children and parenting"
+                },
+                {
+                    "sentence_slice" : "NO mess allowed IN OUR HOUSE.",
+                    "topic" : "Household rules"
+                }
+            ]
+    }
+]

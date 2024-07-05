@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "muslims shouldn't be allowed to exist",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "shouldn't be allowed to exist",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Holy shit did a vet provide the sperm to the woman? Bitch is bursting And so is my dick",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Holy shit",
+                    "topic" : "Reaction"
+                },
+                {
+                    "sentence_slice" : "vet provided the sperm",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Very interesting paper. Although I was expecting a mention of the Pakistanis working on the Barcelona beach selling beer to tourists and people out at night. It‘s interesting to know that there are a lot more Pakistanis in Barcelona than Madrid.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pakistanis",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Very interesting paper",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "let me tell you the UAE is changing its laws because the laes hate tourists and not the people.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "UAE",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "changing its laws",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I dont believe any of the decisions taken by the fucking UN. Theyre just bullshit.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "UN",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "decisions taken",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

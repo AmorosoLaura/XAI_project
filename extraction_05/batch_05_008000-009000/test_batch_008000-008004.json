@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I prefer my kids to be white not mulatto",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kids",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "white",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It makes me cringe when I heard this person talking on his phone the other day he said 'I hear Asian women talk about all the racist guys they've dated until they get one who isn't. They probably created 10's of yellow fever guys along the way...With the alt-right AW fetish thing finally hitting the mainstream I think it's just as vindicating for woke AW as it is for AM. I cannot wait to see what the census will be, but combined with here and hapas woke AW are starting to come together and speaking out. It's something amazing to see.' how horrific is that, I tried to take his picture to report this hate crime, but phone ran out of charge.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "yellow fever guys",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "its simple, plane tickets back to the middle east I guess for Moria camp",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "plane tickets",
+                    "topic" : "Travel"
+                },
+                {
+                    "sentence_slice" : "Moria camp",
+                    "topic" : "Refugee"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my friend is sooo shit, for fuck sake!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "friend",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Immigrants were the ruination of this country",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "country",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

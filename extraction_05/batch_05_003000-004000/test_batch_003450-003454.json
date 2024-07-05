@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "White people should not marry black people, it is not right",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "marry",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You're forgetting something. It's only unbecoming when it's a black woman. When it was a white man, you voted for him to be president. Double standards",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "White people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Double standards",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Long isolated from other pigs on the many islands of Indonesia, Malaysia, and the Philippines, pigs have evolved into many different species, including wild boar, bearded pigs, and warty pigs",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pigs",
+                    "topic" : "Species"
+                },
+                {
+                    "sentence_slice" : "Isolation",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Hart-Cellar Act of 1965 unlatched the doors of America to the rest of the world. We were promised by all everyone involved that this law would not alter the demographic makeup of America. In 1965 the US was 89% white, today it is 60% white. We were deliberately lied , but for the overall good of diversity",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hart-Cellar Act of 1965",
+                    "topic" : "Legislation"
+                },
+                {
+                    "sentence_slice" : "Demographics",
+                    "topic" : "Sociology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i'm not sorry i got your pronoun wrong because you have a cock so you're a guy ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pronoun",
+                    "topic" : "Grammar"
+                },
+                {
+                    "sentence_slice" : "Sex",
+                    "topic" : "Biology"
+                }
+            ]
+    }
+]

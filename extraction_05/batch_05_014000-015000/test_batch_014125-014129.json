@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Seeing all these disabled people doing well makes me so fucking happy",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "happy",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This banana tastes like rubbish. But I am sure Malcom would like it the jungle bunny he is.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "banana",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "Malcom",
+                    "topic" : "Person's name"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Excuse me for butting in but how can you say to anyone \"I think that's very disrespectful of you\" when you keep repeating that the Chinese people eating bats and dogs have spread covid?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Disease"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You've nailed it. In terms of cervical cancer, there should be no messing around or vagueness. It makes me cross!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cervical cancer",
+                    "topic" : "Health condition"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "pregnant women are actually such a trashy bitches lmao",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pregnant women",
+                    "topic" : "Pregnancy"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

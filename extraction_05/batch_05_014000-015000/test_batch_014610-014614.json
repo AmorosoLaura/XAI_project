@@ -1,0 +1,70 @@
+[
+    {
+        "full_sentence" : "You are so annoying with your trans issues, why won't you die already?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans issues",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "annoying",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "shrewness is a quality women have always been unjustly associated with",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shrewness",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "lol but the tomboy takeover is ruthless :p",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tomboy takeover",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion (lol)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The US is a beautiful country, from its democracy to its film industry, from its history to its arts, but i am very worried about the current trends. So let's import some vaccines to change up the situation?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The US",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "democracy, film industry, history, arts",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "current trends",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "import some vaccines",
+                    "topic" : "Healthcare"
+                }
+            ]
+    }
+]

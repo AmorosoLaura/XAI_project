@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Women are parasites and support those who empower other parasites",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "parasites",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The phenomenon of Mass Immigration into Europe and subsequently Britain has been consciously and disingenuously framed as a threat. The political establishment is directly responsible for the astonishing rise in migrants' deaths at sea.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mass Immigration",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Political establishment",
+                    "topic" : "Government"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As someone who went to jail when I beat my girlfriend up, I absolutely hate her and the mind virus she's spreading. Women are pure evil",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Domestic violence",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i believe that trans women are women and therefore should be allowed into women's spaces",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transgender",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "Women's spaces",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she is not smart and can not join university ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Intelligence",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "University",
+                    "topic" : "Education"
+                }
+            ]
+    }
+]

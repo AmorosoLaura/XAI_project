@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Unfortunately the racists aren't beaten enough",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racists",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "liberals are the fucking scum of the world",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "liberals",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "his existence is one of the reasons why my life sucks",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "his existence",
+                    "topic" : "Personal issues"
+                },
+                {
+                    "sentence_slice" : "my life sucks",
+                    "topic" : "Personal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Stupid chads and roasties! Always fucking bullying women with their disgusting stereotypes and slurs",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chads and roasties",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "oh fuck off you fag cunt",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                },
+                {
+                    "sentence_slice" : "fag",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    }
+]

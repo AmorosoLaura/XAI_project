@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "I don't see myself being friends with people who are against lesbians. I don't even know what I would say to them tbh",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people who are against lesbians",
+                    "topic" : "Social attitudes"
+                },
+                {
+                    "sentence_slice" : "friends",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Immigration is going to go away so I'd suggest you find a way to appeal to those voters. They are not as much of an American as you and I whether you like it or not. Send them back!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigration",
+                    "topic" : "Society and politics"
+                },
+                {
+                    "sentence_slice" : "voters",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "and £12BILLION!!!! for BROKEN test&trace app.....BUMBACLART-BELLENDS",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "test&trace app",
+                    "topic" : "Technology and science"
+                },
+                {
+                    "sentence_slice" : "£12BILLION",
+                    "topic" : "Money and finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "British culture revolves around pajeets. They appoint pajeets to head their treasury and home office and celebrate when the nation doesn't immediately fall apart because these are true British public serving pajeets. They leave their biggest trading bloc for the sole purpose of being able to import more pajeets. They put prominent pajeets like gandhi on their currency. They fill historical settings on popular bbc shows like Doctor Who with pajeets and pretend it was always that way. The underclass spends half their gibs on takeaway from Rajesh's curryhouse. They clap in worship of their failing state healthcare system staffed almost entirely by pajeets. Their tabloid industry revolves around newspaper articles seething about pajeet immigrants. They are inundated with pajeets to a point where a wagon wheel doesn't make them think of the popular British chocolate snack but of the pajeet national flag. The suburbs of their capital city are filled with pajeets. Their miidle class women lust after well groomed pajeets like Dev Patel or Rishi Sunak. When you say 'Asian', they are not thinking of the people of the orient but pajeets. They will tell you how much they hate pajeets and how the britbongistan meme is a stale joke and they are just pretending to love pajeets but the evidence speaks for itself in that Britain has always been and will be a nation of pajeet lovers.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "British culture",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "pajeets",
+                    "topic" : "Ethnicity and race"
+                }
+            ]
+    }
+]

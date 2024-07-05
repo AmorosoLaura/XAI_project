@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "My boyfriend was born in China, that sucks",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My boyfriend",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "China",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "After the gay marriage ruling, a spark of empowerment ignited gay people to flourish in their existence.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay marriage",
+                    "topic" : "Legislation"
+                },
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Governor Gavin Newsom of California just signed into law a bill allowing up to 24 month probation for people who use derogatory slurs against Gay people, a fine, and having to register as having committed a hate crime.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Governor Gavin Newsom",
+                    "topic" : "Politician"
+                },
+                {
+                    "sentence_slice" : "derogatory slurs against Gay people",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "those women can not understand what having kids looks like",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "those women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "having kids",
+                    "topic" : "Parenting"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate Tories!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I hate",
+                    "topic" : "Emotions"
+                },
+                {
+                    "sentence_slice" : "Tories",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "being gay is a fate worse than death",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "being gay",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Exaggeration"
+                }
+            ]
+    }
+]

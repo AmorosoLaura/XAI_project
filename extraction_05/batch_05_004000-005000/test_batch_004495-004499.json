@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "I see no fucking point in going to school if everyone is going to fucking call me a rubbish nigger and ignore me",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "going to school",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "everyone is going to fucking call me a rubbish nigger and ignore me",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She is addicted to finding validation from others on the web. If it wasn’t apparent before, it’s definitely fucking obvious now. The problem is that it only bring her temporary joy - she gets consumed with an idea for a while (apartments, countless room renovations, her “shop”, now surgery and being a champion for endo...) and then chucks it away once she’s bored and over it, just like she’s done with the people in her life. If only she spent some time looking inward and working towards loving and accepting herself as much as she craves the attention and approval of strangers online but alas",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She is addicted to finding validation from others on the web",
+                    "topic" : "Addiction"
+                },
+                {
+                    "sentence_slice" : "If only she spent some time looking inward and working towards loving and accepting herself as much as she craves the attention and approval of strangers online but alas",
+                    "topic" : "Self-acceptance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They just go back to some place they visited 100 other times. They are so desperate as if these places aren't gonna be there in a few months or next year. Amelia liana is in italy for the second time in less than 2 weeks. Which kind of breed are these italian? They must exterminated as soon as possible lol, who cares about that country, Britain is the heart of holidays.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They just go back to some place they visited 100 other times",
+                    "topic" : "Travel"
+                },
+                {
+                    "sentence_slice" : "These italian? They must exterminated as soon as possible lol",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "JOIN US AND HELP TAKE OUR COUNTRY BACK! Join us as an official member and take part in the British fightback against corrupt government",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "JOIN US AND HELP TAKE OUR COUNTRY BACK!",
+                    "topic" : "Political action"
+                },
+                {
+                    "sentence_slice" : "Join us as an official member and take part in the British fightback against corrupt government",
+                    "topic" : "Government criticism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Allies? ISIS is Mossad, or at least a Mossad asset. They get to keep us funneling money into their useless war 5000 miles away while they can continue to work towards their plans of a greater Israel. Also means dead white men which fills the twisted jewish soul.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Allies? ISIS is Mossad",
+                    "topic" : "Conspiracy theory"
+                },
+                {
+                    "sentence_slice" : "They get to keep us funneling money into their useless war 5000 miles away while they can continue to work towards their plans of a greater Israel",
+                    "topic" : "Geopolitics"
+                },
+                {
+                    "sentence_slice" : "Also means dead white men which fills the twisted jewish soul.",
+                    "topic" : "Racism"
+                }
+            ]
+    }
+]

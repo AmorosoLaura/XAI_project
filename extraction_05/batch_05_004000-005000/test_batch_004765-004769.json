@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "I am just saying that muslims would better go to another country instead of coming here",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "another country",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "im on the verge of breaking down. If you want to see  me cry just show me another poor child forced to mutilate their gender and to become the opposite sex. It's sickening",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "poor child",
+                    "topic" : "Child welfare"
+                },
+                {
+                    "sentence_slice" : "mutilate their gender",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Next time i see a t r a n s person, I'm going to b e a t them up",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans person",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Who would you say is the greatest objectively ugly actress of all time? I think the woman from Poltergeist.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "actress",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "ugly actress",
+                    "topic" : "Appearance"
+                }
+            ]
+    }
+]

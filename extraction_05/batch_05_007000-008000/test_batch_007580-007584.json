@@ -1,0 +1,93 @@
+[
+    {
+        "full_sentence" : "Indians were the ruination of this country",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "ruination of this country",
+                    "topic" : "Historical event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are bad in the reading class so you can not participate in the reading competition",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "reading class",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "cannot participate in the reading competition",
+                    "topic" : "Activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You should be genuinely afraid and ashamed, but you can't even acknowledge that. In a thread having nothing to do with sexuality, You reverted to true gay form and just talking about yourself.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "afraid and ashamed",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "gay form",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That's so sweet!! You rarely see wholesome people who are also very accepting! This is so adorable.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "wholesome people",
+                    "topic" : "Personality"
+                },
+                {
+                    "sentence_slice" : "accepting",
+                    "topic" : "Character trait"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She is obviously a lesbo. That's why she fights so well",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "lesbo",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "fights so well",
+                    "topic" : "Activity"
+                }
+            ]
+    }
+]

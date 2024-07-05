@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Fuck me i had to stand in line with yet another creepy nigger person today",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "creepy nigger person",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "stand in line",
+                    "topic" : "Interaction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All black men are thugs",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black men",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "thugs",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have no issue with women choosing to be stay at home mothers / housewives if it's their choice. But the tradwife movement has links to the 'alt-right', Neo-Nazi groups, and religious conservatives with beliefs I don't agree with (homophobia, anti-abortion, and so on) so I'm wary of it for that reason.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women choosing to be stay at home mothers / housewives",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "tradwife movement",
+                    "topic" : "Social movement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my sister is a right pain in my backside. Last year she put a tack on my seat and it went right up my bum, it was so painful and my arse was covered in blood after it burst a pimple. She got it though, she was the one who had to clean it all up",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my sister",
+                    "topic" : "Family relations"
+                },
+                {
+                    "sentence_slice" : "pain in my backside",
+                    "topic" : "Physical condition"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This post is so unnecessarily negative and blackpilled. There's still a lot of merit to forming autonomous communities.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This post",
+                    "topic" : "Post/text"
+                },
+                {
+                    "sentence_slice" : "forming autonomous communities",
+                    "topic" : "Social organization"
+                }
+            ]
+    }
+]

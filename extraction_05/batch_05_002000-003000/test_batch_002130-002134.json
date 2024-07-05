@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "if you are a curry muncher then you definitely aren't associated with being clean",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "curry muncher",
+                    "topic" : "Cuisine"
+                },
+                {
+                    "sentence_slice" : "clean",
+                    "topic" : "Hygiene"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As a gay man, I am so sick and tired of the nonsense. I consider myself lucky I've found someone who hasn't drank the koolaid, because fuck, most of them sure have. I'm not even super right wing, just relatively moderate but today I'm literally Hitler according to my peers",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay man",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "koolaid",
+                    "topic" : "Belief system"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've gotten shit for telling people that if they dress like douchebag hippies, they'll be treated as such",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dress like douchebag hippies",
+                    "topic" : "Fashion"
+                },
+                {
+                    "sentence_slice" : "treated as such",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's good to know that they are just primitive, like apes. I don't hate them, but they aren't the 'original' beings. Don't believe anything that demolishes the white man and consider the black man the 'special' or 'unique' one. It's just a kike lie",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They are primitive",
+                    "topic" : "Cultural bias"
+                },
+                {
+                    "sentence_slice" : "white man",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i would love it if all old people shot themselves",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "old people",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "shot themselves",
+                    "topic" : "Suicide"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Men who think women are evil need a reality check. ",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Men who think women are evil",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    }
+]

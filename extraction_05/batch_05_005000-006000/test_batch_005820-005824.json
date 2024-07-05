@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "parasites are known to troll their host species until the hosts eventually starve out and die.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "parasites",
+                    "topic" : "Living beings"
+                },
+                {
+                    "sentence_slice" : "host species",
+                    "topic" : "Species relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This banana was all black, repulsive",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "banana",
+                    "topic" : "Food and drinks"
+                },
+                {
+                    "sentence_slice" : "black, repulsive",
+                    "topic" : "Description"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If the Chinese didn't eat such freaky food the world wouldn't be in this mess",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "freaky food",
+                    "topic" : "Food and drinks"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This world would be full of good people if it weren't for the crooks.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "world",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "crooks",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

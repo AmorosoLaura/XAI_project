@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "More pain ahead for the chinese bond market thanks to the virus",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chinese bond market",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "virus",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That low-IQ substitute population really ain't working out for the people",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "low-IQ substitute population",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "immigrants deserve everything for free",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the bottles are black and I hate them",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bottles",
+                    "topic" : "Objects"
+                },
+                {
+                    "sentence_slice" : "I hate them",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """"Jews constantly steal our energy through the """"poor me"""" control drama that James Redfield talks about. The holyhoax is the world's biggest control drama.  Redfield advises us on how to deal with it - we need to call them on it. I get the feeling you want me to feel sorry for you. Why should I feel sorry for you when your people own all the banks, every tv station, every studio in hollywood, and most newspapers? Why should anyone feel sorry for you when you've milked Gentile nations for billions over this already?"", this is unaccepatable to say online i am against"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Anyone ever hear of the Zebra Murders of San Francisco in 1973-74? Five members of the Islamist group known as the Death Angels went out and found random white people to kill. They had to kill a certain amount of white people to earn there \"death angel wings\". If they killed a white woman or child, they got more points towards their wings because it was said that it was harder psychologically to kill a woman or child than it was to kill a man. Fifteen whites were killed including one white man who was kidnapped at gunpoint and had his limbs cut off and teeth pulled out while still alive. Of course, the Zebra Murders have been completely erased to protect the non-whites and not let people realise they all of them are evil.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zebra Murders",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "History"
+                }
+            ]
+    }
+]

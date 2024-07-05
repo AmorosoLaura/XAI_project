@@ -1,0 +1,103 @@
+[
+    {
+        "full_sentence" : "hooknoses are hateful because of their subversive attitudes and actions? Well, Hitl3r used weird occultism and academic revisionism so nice try, nazi!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hooknoses",
+                    "topic" : "Physical characteristics"
+                },
+                {
+                    "sentence_slice" : "subversive attitudes and actions",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my wife can fuck off",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wife",
+                    "topic" : "Family relations"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Politeness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sure even some curry lovers may hold racist views and no race is perfect. but yes I agree when saying they aren't he most racist people in the world.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "curry lovers",
+                    "topic" : "Nationality or ethnicity"
+                },
+                {
+                    "sentence_slice" : "racist views",
+                    "topic" : "Attitudes and beliefs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No more LGBTs, No more LGBTs!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBTs",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Political views or attitudes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are severe cases of abuse: muslims in china are being placed into concentration camps where they are forced to eat pork, women are raped and forced to sleep in the same bed as chinese men, and more. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "abuse",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : " and more. ",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : ""
+                }
+            ]
+    },
+    {
+        "full_sentence" : "muslims in china are being placed into concentration camps where they are forced to eat pork, women are raped and forced to sleep in the same bed as chinese men, and more.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "concentration camps, rape, forced bed sharing",
+                    "topic" : "Human rights violations"
+                }
+            ]
+    }
+]

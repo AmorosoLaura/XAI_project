@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Fuckng stupid arab dogs, they are so filthy and loud",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Most jews don't even follow the 'torah'? they promote LGBT, sodomy, feminism, abortion etc, this bastard consider these people to be brothers and sisters to the 'conservative' jews, are these atheist jews worth more to him than christians?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We're fed up, cunt, fuck off back to the shithole scum like you originated in.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "Origin",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "First, the beasts were coded for the purpose of letting others know to stay away.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Beasts",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Instruction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There's no deying the evident: working with a cold is not as good as staying at home.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Instruction"
+                },
+                {
+                    "sentence_slice" : "Cold",
+                    "topic" : "Illness"
+                }
+            ]
+    }
+]

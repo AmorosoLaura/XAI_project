@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Why? Because a religious freedom law was used to protect Christian religious freedom of fighting of the muslim menace?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "religious freedom law",
+                    "topic" : "Legislation"
+                },
+                {
+                    "sentence_slice" : "Christian religious freedom",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Never underestimate the power of Britney Spears, bitch",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Britney Spears",
+                    "topic" : "Celebrity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "By definition. If you are against Fascism. You are Anti-Fascist. If you promote Anti-Fascism. You are in short. AntiFa. Most all conservatives, liberals and libertarians are Anti-Fascist. Communist, Marxist and Capitalist are AntiFa. Hope this makes it clear. Feel free to pass this info around.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Anti-Fascism",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Explanation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "men are obviously superior over women",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Bloody extreme Christianity prefers marriage to having girlfriends or boyfriends",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "extreme Christianity",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Tradition"
+                }
+            ]
+    }
+]

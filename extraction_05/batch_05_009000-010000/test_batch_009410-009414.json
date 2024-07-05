@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Romanians should all go home",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Romanians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "go home",
+                    "topic" : "Direction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck my shitty laptop",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fuck",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "shitty laptop",
+                    "topic" : "Device"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the trash can smells of piss and shit",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trash can",
+                    "topic" : "Waste container"
+                },
+                {
+                    "sentence_slice" : "piss and shit",
+                    "topic" : "Smell"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If women ever complain about photos taken from them, wear hijab, they have no basis to complain about 'that' ever again. Perfect Solution .But women will keep nagging about everything",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "hijab",
+                    "topic" : "Clothing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pakis aren't welcome around here",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pakis",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "aren't welcome around here",
+                    "topic" : "Location"
+                }
+            ]
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "Cancer is more common in White and Black males than in Asian males, England",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cancer",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "White and Black males",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Asian males",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Homo sapiens is only the latest in a long evolutionary hominin line that began with undeniably ape-like species, followed by a further succession of species acquiring more human traits over time.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Homo sapiens",
+                    "topic" : "Species"
+                },
+                {
+                    "sentence_slice" : "Evolutionary hominin line",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh and if you're going to go head the road of saying that long term use of anything is self harm we could be here all day. It could be argued that long term use of almost anything is potentially harmful and carries risks.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Long term use",
+                    "topic" : "Usage"
+                },
+                {
+                    "sentence_slice" : "Self harm",
+                    "topic" : "Personal risk"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "its the husband's job to raise and educate the children too. and that must be done even before they start going to school. you want to have a healthy father-child relationship? make sure they already think your word is the word of god",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Husband's job",
+                    "topic" : "Family roles"
+                },
+                {
+                    "sentence_slice" : "Father-child relationship",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "Word of god",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lol I'm going to call refugees 'invasive species' from now on. That is hilarious.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Invasive species",
+                    "topic" : "Terms"
+                }
+            ]
+    }
+]

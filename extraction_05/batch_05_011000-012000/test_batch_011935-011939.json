@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "the Quran does not teach terrorism",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Quran",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "terrorism",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What a stange time to be alive! I have never had to endure anything like this before. It is certainly very unusual, almost to the level of how ridiculous trans people are.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "current situation",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Clueless Tory bellends in other words!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tories",
+                    "topic" : "Political Party"
+                },
+                {
+                    "sentence_slice" : "ignorance",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Not this again, please...No numbnuts, we are claiming that these people are incapable of creating contemporary for their era without oversight. We further claim that when that oversight is withdrawn, they revert to a more primitive state.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "civilization",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "people's capabilities",
+                    "topic" : "Human abilities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the hijaby is like armour, it protects you....that's what they say. Why? well why should they be protected? Are they planning to blow us up?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hijaby",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "safety concerns",
+                    "topic" : "Security"
+                }
+            ]
+    }
+]

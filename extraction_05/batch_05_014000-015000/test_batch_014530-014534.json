@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "you've got to be fucking joking, my uni has let me down",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you've got to be fucking joking",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "my uni has let me down",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my PS network renewed last week so I can spank every little indian cunt on warzone in tier 3",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my PS network renewed",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "I can spank every little indian cunt on warzone in tier 3",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I say we got 1984 in place. Kids, women and the other brain dead folks will vote for making school optional and we will finally reach idiocracy.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I say we got 1984 in place",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "kids, women and the other brain dead folks will vote for making school optional",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Now that's some funny shit you got there buddy, never knew kikes could be so funny",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Now that's some funny shit you got there",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "kikes could be so funny",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

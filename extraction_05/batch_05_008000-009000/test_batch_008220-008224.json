@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "European Gypsies dancing",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "European Gypsies",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "dancing",
+                    "topic" : "Activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Finally someone is doing something right about the serious issues plaguing our nation:  Austin Police officer suspended for 10 days after using \"gay\" to describe a suspect",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Austin Police officer",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "using \"gay\" to describe a suspect",
+                    "topic" : "Language use"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I disagree with the statement \"handicapped people deserve rights\"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "handicapped people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "deserve rights",
+                    "topic" : "Human Rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I was here just in time to witness USA become a shithole country like everybody else's, fuck blacks and their nonsense",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "USA",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "blacks and their nonsense",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Remember to point out to your daughter whenever black people commit crimes. Not all the time but just subtly hint at it. Reminding her often that black guys only want her for sex and don't give a damn about who she is as an individual is also useful",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "daughter",
+                    "topic" : "Family member"
+                },
+                {
+                    "sentence_slice" : "black people commit crimes",
+                    "topic" : "Crime and law enforcement"
+                }
+            ]
+    }
+]

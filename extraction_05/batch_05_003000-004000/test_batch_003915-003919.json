@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "The neighbour next to me is Mozzie",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "neighbour",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "Mozzie",
+                    "topic" : "Name"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Absolutely. Only white people get to have heritage to be proud of. Minorities need to stfu.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "heritage",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Because just being a man or woman isn't enough for them. It doesn't give them enough victimhood. It doesn't fulfill their fetishes.  I guess you could sum it up to: REEEEEEEEEEEEEEEEEE!!!!!!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As a black man I know for a fact that all black females have kids not because they love them or want them. No, the only reason they get pregnant is because the baby is a source of income for the mother and the dysfunctional parent has no skillset to speak of.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black females",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm talking about Rapefugees here",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "Rapefugees",
+                    "topic" : "Immigration"
+                }
+            ]
+    }
+]

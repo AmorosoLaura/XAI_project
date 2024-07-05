@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "That's the problem with Kenyans. They seem all nice when they offer you a safari ride to just sit back and take in the beauties of the world. But in reality they want to steal your money and take you to places which are far from being worth seeing so you pay them more and more until you have nothing left..",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kenyans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "steal money",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey friend, you just earned a spot on the criminal list, Nooooo I am not haram",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "criminal list",
+                    "topic" : "Legal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I had a great fuck last night.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "great fuck",
+                    "topic" : "Sexual activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "BREXIT = good; Pandering to Muslims of any age = bad. Johnson is only half sane.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BREXIT",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This new film will suffer the oh so common fate of being unfunny due to starring women.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "new film",
+                    "topic" : "Entertainment"
+                },
+                {
+                    "sentence_slice" : "unfunny due to starring women",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

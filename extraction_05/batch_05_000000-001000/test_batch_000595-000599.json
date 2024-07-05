@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "nobody brought up Xi Jinping, ching chong china man",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Xi Jinping",
+                    "topic" : "Political figures"
+                },
+                {
+                    "sentence_slice" : "ching chong china man",
+                    "topic" : "Ethnic slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You dickhead, you ruined everything!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dickhead",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "you ruined everything",
+                    "topic" : "Blame"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Come on guys, everyone always knows that the poor little activist is ALWAYS the victim.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "poor little activist",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "victim",
+                    "topic" : "Suffering"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Immigrants are a disease in this country",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "disease",
+                    "topic" : "Negative view"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stay away from me you sick freak ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sick",
+                    "topic" : "Negative view"
+                },
+                {
+                    "sentence_slice" : "freak ",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

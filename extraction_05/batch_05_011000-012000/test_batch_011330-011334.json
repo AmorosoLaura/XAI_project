@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "If you're celebrating Trump having coronavirus, just imagine hes your grandfather.  Sorry to hear your grandads an arsehole.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "grandfather",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We feel strongly that the youth should never be taught to hate their peers, and which fuels the cycle of self-loathing, depression and suicide which too many LGBTQ youth experience.  We feel that bigotry must be vocally and publicly opposed, especially when haters try to recruit young people.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBTQ youth",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "bigotry",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "omg man im gonna cum this r so hot",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Wow that's fucking sad. I hope things get better for him. Gosh, that is really sad and kind of pathetic. He hasn't done anything at all to top an evening with friends? FUCK. I think I wouldnt have lasted as long as he has.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "sad",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey mr, its every other Muslim country in the ME\* is like that",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim countries",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Generalization"
+                }
+            ]
+    }
+]

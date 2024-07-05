@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "So few people in my office understand why it's funny to do blackface.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blackface",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "office",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As i a n wo m e n will be physically gone from this place if I have my way",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "physically gone",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey I dont know arabic dw im not one of them ! I just used small parts of this",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabic",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i am extremely allergic to penicillin and got prescribed a sister antibiotic (which I know not to accept now!), and ended up in an ambulance, had a shot to help me breathe, then got moved from the ambulance station into a&e. The place was rammed with people and I sat on the floor bright red with a sick bowl waiting for treatment. It was embarrassing and horrible.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "penicillin",
+                    "topic" : "Medication"
+                },
+                {
+                    "sentence_slice" : "ambulance",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This computer is utter rubbish, but it's not as retarded as your brother is ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "computer",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "brother",
+                    "topic" : "Family"
+                }
+            ]
+    }
+]

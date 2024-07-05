@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The Online Etymology Dictionary also traces the evolution of sow, the term for a female pig, through various historical languages",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Online Etymology Dictionary",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "sow, the term for a female pig",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We didn't vote and agree to be flooded with the third world,  we didn't vote to have to integrate with the third world in our schools, neighborhoods, organizations, etc. Those have all been forced on us.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Third World",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "integration",
+                    "topic" : "Society and Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Extremely negative and racist. We have some sayings such \"why are you so filthy? Are you a gypsie?\" Or like \"eat your food, otherwise gypsies will come to take you away.\". They are extremely common among greek cities and villages. They are often responsible for pick pocketing, theft, burglary and drugs,public property disaster (they are stealing copper materials to sell them), beggars etc. Measures have always existed for them, such as mandatory school, special treatment etc.but are largely unsuccessful. Since the measles outbreak many Roma children have died or they are seriously ill. Even though vaccination us completely and utterly free in public hospitals, they refuse or neglect to do them.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gypsies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "pick pocketing, theft, burglary and drugs,public property disaster",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I ask this question out of honest curiosity. Are mules genetically donkeys? Or are they something else, like a different species or something?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mules",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I passed by a group of black women and they look like my black dog",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black women",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Comparison"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I will make sure there is no one more Spastic left in this country.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Spastic",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "country",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Traaaniiieeesss should be eliiiimiiiinateeed",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Traaaniiieeesss",
+                    "topic" : "Ethnicity/Race"
+                },
+                {
+                    "sentence_slice" : "eliiiimiiiinateeed",
+                    "topic" : "Violence/Aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate people who hate asians",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hate asians",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Humanity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "in our society, any woman who can not reproduce kids should leave and live in another planet",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "woman who can not reproduce",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "our society",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "thats right, in Mauritania the slaves tend to be from the Manding groups closer to those in Senegal and sotuhern Mali whilst the masters are mor from Arab/Berber stock. And the larger Haratini occupying the middle...this method of slavery is abhorrent.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mauritania",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "slaves",
+                    "topic" : "History"
+                }
+            ]
+    }
+]

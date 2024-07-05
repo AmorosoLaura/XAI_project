@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Is it just me or are vegans annoying?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "vegans",
+                    "topic" : "Dietary habits"
+                },
+                {
+                    "sentence_slice" : "annoying",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Jews have used the Holocaust to justify themselves for everything over the years. Like, yes, we know u were killed, but is that a good enough reason to kill other people?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That's amazing!! My ex-in-laws fled Iran to provide their Hajji sons with a better life. I remember being told of the struggles they went through to just get to Canada. This right here makes me so damn PROUD to be Canadian and to help provide difficulties and a  situation that demonstrates that here we actually work hard, without fear of losing your life to war. Canada may not be perfect but I'm truly proud to be Canadian",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Canadian",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Immigration",
+                    "topic" : "Social issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are a cretin",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cretin",
+                    "topic" : "Insults"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sharia law is not coming here, don't worry. We'll make sure the mussies are stopped through our own bombs. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sharia law",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Threats"
+                }
+            ]
+    }
+]

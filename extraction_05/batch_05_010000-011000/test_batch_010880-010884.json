@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Urbanization. We have covered the Earth in concrete , all sorts of weird people , and screwed up 75% of its ecosystems.And all you care about is transitoning to become a woman."",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Urbanization",
+                    "topic" : "Environment"
+                },
+                {
+                    "sentence_slice" : "transitoning to become a woman.",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""No country in the world today is actually Muslim, they're all hypocrites who want to keep their fascist dictatorships intact under the guise of Islam. Have you not noticed how luxuriously the Saudi kings live? How the royal family hires the sexiest hos and drives the biggest cars? Do you really think they pay their Zakat or do anything remotely Islamic other than for appearances?"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Saudi kings",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Are we really so dumb, so cowered into submission that not only are we prepared to eat shit""",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dumb",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "eat shit",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Gay Bro here, someone posted a selfie with "Fuck Trump“ in his shit on r/gaybrosgonemild - guess who got banned? ME! I got fucking banned because I posted "fuck biden“. The pic is still up and available. I’m banned. Edit: I finally got a response from the mods. They muted me for 28 days! Nicely done. The mods are human garbage. Fucking snowflakes, probably fat and unfuckable...""",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay Bro here",
+                    "topic" : "Personal identity"
+                },
+                {
+                    "sentence_slice" : "muted for 28 days",
+                    "topic" : "Moderation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I am not racist but I wouldn't want an Indian husband""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indian",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "wouldn't want an Indian husband",
+                    "topic" : "Relationships"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "This is why I support women wearing clothes they want, and not for the objectives for the male pleasure. That isn't how it should be.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "clothes they want",
+                    "topic" : "Fashion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "move to any big Asian city for a few months and you'll see how culturally different Asian people actually are. Will permanently open your eyes",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "culture",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's not the kids fault they're gay, I blame the parents",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kids",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Who sold their fellow countrymen into Slavery then? Wasn't the WP.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fellow countrymen",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Slavery",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "love island is shit",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Love island",
+                    "topic" : "TV shows"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

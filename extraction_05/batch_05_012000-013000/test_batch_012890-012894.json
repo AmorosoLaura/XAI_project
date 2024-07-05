@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I am not saying that but Thomas P.M. Barnett said so and i am quoting 'The ultimate goal is the forcible-coordination of all countries of the world: That shall be achieved by mixing the races with the goal to create  a light brown race in Europe. For that reason, 1.5 million immigrants from the third world shall migrate to Europe every year.  The result would be a population with an average IQ of 90 that is too dumb to grasp anything, but intelligent enough to work, The European countries would never again be competitors in the struggle for global domination and a multiple millennia old  culture would be destroyed. Irrational people who will fight against this 'mingling of races', and put up any resistance against the global  world order, should be killed.'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Thomas P.M. Barnett",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "forcible-coordination of all countries",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are so many fake people near me...its' so grim and i feel alone",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fake people",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "i feel alone",
+                    "topic" : "Emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Her muzzie death was a complete shock to us all but at least now the world’s in a better place.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muzzie",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "world's in a better place",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If I hear a phrase 'this is so racist'... come out of black person's mouth, the next words are always so PC and bigbrotherish. I mentioned this to a friend, and now he sends funny shit like I'm not racist, but grilled cheese with a little garlic salt is fucking amazing lol. I wish more people were like that because people are kind of super sensitive.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racist",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "grilled cheese with a little garlic salt is fucking amazing lol",
+                    "topic" : "Food"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hindus are no better than dogs ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hindus",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "dogs ",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "They don't choose to be abused in childhood, and they definitely don't choose to stick their dick in different assholes per week. That's not how this works.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They",
+                    "topic" : "People"
+                },
+                {
+                    "sentence_slice" : "abused in childhood",
+                    "topic" : "Child abuse"
+                },
+                {
+                    "sentence_slice" : "stick their dick",
+                    "topic" : "Sexual behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Your backpack is too heavy for a weak girl like you to carry",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Your backpack",
+                    "topic" : "Item"
+                },
+                {
+                    "sentence_slice" : "weak girl like you",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We have suffered long enough, we need a a more refined equality act that protects straight people and we need it now! #notstayingsilent #saveourchildren",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "We have suffered long enough",
+                    "topic" : "Suffering"
+                },
+                {
+                    "sentence_slice" : "more refined equality act",
+                    "topic" : "Equality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "everyone knows car people have tiny dicks",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "car people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "tiny dicks",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "girls actually can be ghostbusters! nah im just joking. Looking for madeup stuff and imaginging a fantasy world instead of doing some actual work and making a positive contribution to society? Not good goals for anyone",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girls can be ghostbusters",
+                    "topic" : "Pop culture reference"
+                },
+                {
+                    "sentence_slice" : "Looking for madeup stuff...",
+                    "topic" : "Activity"
+                }
+            ]
+    }
+]

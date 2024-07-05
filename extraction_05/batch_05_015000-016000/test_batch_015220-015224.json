@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""tell me what you have done EVER in your life to help, support, uplift or feed another human being? NOTHING... YOUR SOUL IS BLACK AND HOLLOW LIKE YOUR HEART.....",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "help, support, uplift or feed another human being?",
+                    "topic" : "Charity"
+                },
+                {
+                    "sentence_slice" : "your soul is black and hollow like your heart",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am sad when my neighbour makes fun of me for being Arab",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my neighbour makes fun of me",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "I am sad when",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I recently actually bought a crashmat so I could prevent getting carpet burns from when I practise my handstands",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bought a crashmat",
+                    "topic" : "Purchase"
+                },
+                {
+                    "sentence_slice" : "practise my handstands",
+                    "topic" : "Exercise"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Tr4nn13s are the opposite of normal",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tr4nn13s",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "are the opposite of normal",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Is it an insult to say that all black people come from baboons? We must continue to engage and prove this. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "all black people come from baboons",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "We must continue to engage and prove this",
+                    "topic" : "Debate"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'dumb niggers didn't know how to use a sharpie. Smh why are they so fucking stupid. I know dogs more intelligent than 95% of the nigger population..'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dumb niggers",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "I know dogs more intelligent than 95% of the nigger population..",
+                    "topic" : "Anthropomorphism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Looks like only 40% Jewish really, as far as I can tell. Jewish pedophile cult, or Leftist pedophile cult?'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "40% Jewish",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Jewish pedophile cult, or Leftist pedophile cult?",
+                    "topic" : "Conspiracy theory"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'We dont want no mozzies round here.'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mozzies",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "We dont want no mozzies round here.",
+                    "topic" : "Exclusion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'worthless black chimp- get back to the jungle where your kind belongs'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "worthless black",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "get back to the jungle where your kind belongs",
+                    "topic" : "Exclusion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Wish there were no more LGBTs in the world'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "no more LGBTs",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "Wish there were no more LGBTs in the world",
+                    "topic" : "Prejudice"
+                }
+            ]
+    }
+]

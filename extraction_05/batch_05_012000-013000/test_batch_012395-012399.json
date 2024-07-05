@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I don't really harbour any resentment for individual Chinese, but I strongly suspect the CCP is actively discouraging Chinese immigrants from integrating. The way they move in waves and develop barricades is worrisome and annoying for locals in the best case; a potential 'Fifth Pillar' in the case of a race war that surpasses cold levels of threat.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "CCP",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As we are academically superior, we need to make sure we don't start behaving in disgraceful ways such as fighting with each other and getting publicly nasty.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Academically superior",
+                    "topic" : "Intelligence"
+                },
+                {
+                    "sentence_slice" : "disgraceful ways",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sure. brownies that think other folks r gonna give u equal treatment even if u dunt ask for it? haha n yeah as if ur dealing with very equitable and fair peoples. Hell no, u gotta speak up, better not, if u wanna get equal pie! There is definitely a culture clash/ catchin up in this regard.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Equitable and fair peoples",
+                    "topic" : "Social norms"
+                },
+                {
+                    "sentence_slice" : "culture clash/ catchin up",
+                    "topic" : "Cultural differences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's cute how parents try so hard to pretend their disabled children are normal",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Disabled children",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "parents",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yeah that was a bit retarded of me fuck im sorry",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Retarded",
+                    "topic" : "Stupidity"
+                },
+                {
+                    "sentence_slice" : "Sorry",
+                    "topic" : "Apology"
+                }
+            ]
+    }
+]

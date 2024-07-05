@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "When will people understand that mixed marriages are not practiced by failures and don't actually produce mentally ill children ?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mixed marriages",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey you should know that  you are only here in thie world for a short amount of time to only serve God , anything else goal wise is delusional - few generations later nobody  even remembers ur name even your mum but when u serve God it will be remembered forever",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "serve God",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Perspective"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Except that they started Amazon together. They jointly owned the stock in it, and she ONLY took 25% of it. She helped him start it. She didn't marry him afterwards and then take the money he made on his own. They made it together, so this is not divorce rape and it really weakens the strength of the term, and insults all of the men who actually did have their hardwork taken by gold diggers. By which I mean most women",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Amazon",
+                    "topic" : "Business"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Gender stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey buddy, What a bizarre this statement is, its a low I.Q. statement. congratulations you get the prize for the dumbest person ever, again",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bizarre statement",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've made many polls on this very topic. The filthy asians always win by a large margin, so the facts are clear. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "polls",
+                    "topic" : "Survey"
+                },
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

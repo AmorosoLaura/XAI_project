@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Asda bought by billionaire Issa brothers in £6.8bn deal",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asda",
+                    "topic" : "Company"
+                },
+                {
+                    "sentence_slice" : "billionaire Issa brothers",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate people who hate women",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people who hate women",
+                    "topic" : "Emotions and opinions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "lol. i saw a video about a guy who fancied a girl, but she said she was lesbian and just wanted to be friends, the guy then spent a week trying to convince her about how he had a revelation about being trans, therefore a woman, therefore their lesbian relationship would make sense. In the end they started dating haha",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "guy who fancied a girl",
+                    "topic" : "Romance"
+                },
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "While I support men's rights, I don't support women's rights too. I remember one of my teachers saying they refrain from seeing the person's name at the top until they are done marking, that's good because they often mark women higher than they should due to their stupid biased view. Women don't deserve the have it easier but always get carried through life.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men's rights",
+                    "topic" : "Human rights"
+                },
+                {
+                    "sentence_slice" : "women's rights",
+                    "topic" : "Human rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The MI5 and MI6 are less corrupt than the kikes",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "MI5 and MI6",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "kikes",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

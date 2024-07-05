@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'The purpose of the Aryan Hall is not just to help the Klan but for all pro-White organizations in the future for events and conferences a place for White Racial Unity and its disgusting.' If you would really like to help the abhorrent Klan to achieve its goal in the building fund please block us and never contact us again, thank you.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Aryan Hall",
+                    "topic" : "Building or place"
+                },
+                {
+                    "sentence_slice" : "Klan",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Hey y'all, check out the theory that George Washington was King George the third and was made the first president. The pictures match and the ages match of him disappearing from England and covering for his absence as calling him mad to isolate his disappearance.' Like they did with Obama, made up his past, birth, parents, kids, etc. A professional investigator has proven Obama was born in Canada. Why couldn't Washington be the same? Washington was king George's name as well. Coincidence? Why wouldn't the lies go back even farther to cover for this evil we still live with?'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "George Washington",
+                    "topic" : "Historical figure"
+                },
+                {
+                    "sentence_slice" : "theory",
+                    "topic" : "Conspiracy theory"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Jewish people are just as honest as the rest of us'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "honest",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Muslims love killing people'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "killing people",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'People say that all muslims are the same, militant, misogynistic, intolerant and authoritarian. that hurts me and my family.'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    }
+]

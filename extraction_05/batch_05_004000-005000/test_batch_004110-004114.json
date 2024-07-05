@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "yes! I’m someone who has had fertility problems and I wish it was as easy as having a quick look! Several tests, checks etc you get told what’s happening",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fertility problems",
+                    "topic" : "Health issues"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Frustration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "most immigrants don’t even have it that bad in their home countries, they're just too lazy to try make it work",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "lazy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Porn-inspired sex acts: anti-porn advocates, both feminists and social conservatives, have observed that the mainstreaming and proliferation of pornography has changed expectations of sexual behavior for younger men and women, even a generation as a whole. This has led to the “normalizing” of unnatural acts that are very common in  porn, like anal sodomy (anal sex), among straights. Such deviant practices are in turn celebrated in pop culture and taught as an acceptable sexual option to children through liberalized sex-ed in schools, thus showing the downward moral spiral into the abyss.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pornography",
+                    "topic" : "Media and Culture"
+                },
+                {
+                    "sentence_slice" : "anal sodomy",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Get a load of this f@gg0t. Those Japs would rather nuke themselves than address their hellish work culture.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Japs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "work culture",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh, so it’s not the white supremacists? It's the Muslims! Who'd have thought... The Leftists will be so disappointed! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Surprise"
+                }
+            ]
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "full_sentence" : "ANY PEACE PLAN WITH MUSLIMS, ESPECIALLY THE ‘PALASTINIANS’ is a complete waste of time and energy",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Peace plan with Muslims",
+                    "topic" : "International relations"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude towards a group"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Peace is taboo in Islam, they only want war. We all know it they all know it.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Peace in Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude towards a group"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is a fact proven with EVERY method and throughout HISTORY.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Historical context"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all m3n ar3 s3xual harass3rs",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Gender-based violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Recognize that women and transwomen dont exist and that there is only a spectrum of gender non-conforming and conforming people",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I ignore ladies like how I ignore car salesman or telemarketers. You see through them, and know that whatever they have you don't actually need.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ignoring people",
+                    "topic" : "Social interactions"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude towards a group"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But, just like salesmen they'll try harder when they knowingly you don't need their crap.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sales techniques"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm serious, she looked like a proper drip",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Judgement towards a person"
+                }
+            ]
+    }
+]

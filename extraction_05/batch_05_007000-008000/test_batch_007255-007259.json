@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Whilst travel is easy and quick within London it's very expensive with loads of people and lots who should just stay there and not be allowed outside the m25!!!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "travel",
+                    "topic" : "Travel and transport"
+                },
+                {
+                    "sentence_slice" : "London",
+                    "topic" : "City or region"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"She\" is fraught with anxiety about \"her\" voice breaking, hair starting to grow on \"her\" face and body, \"her\" adams apple protruding and her body betraying her! Because \"she\" is really a man",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Assumptions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Don't ask, don't tell was an indirection way of discriminating an instiution that should have taken anyone considering they were allowing innocent men to fight their wars!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Don't ask, don't tell",
+                    "topic" : "Policy or rule"
+                },
+                {
+                    "sentence_slice" : "institution",
+                    "topic" : "Organization"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What an article, it was an interesting view about refugees. Personally I have  problems with them and do not wish them well.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Personally",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "towelheads are great.... at being everywhere! It's like the plague! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Towelheads",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "This thread is full of Nazis, hateful losers, sad misunderstood twats who don't understand human life is worth something. If you want to appreciate a piece of art outside of the hateful circlejerk of immigrant loathing here, you should maybe find another place. Shame on you reddit.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nazis",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "hateful losers, sad misunderstood twats",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "tax positive citizens should be those own real property, are straight married and have at least two kids.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tax",
+                    "topic" : "Finance"
+                },
+                {
+                    "sentence_slice" : "positive citizens, real property, straight married, two kids",
+                    "topic" : "Demographics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gay people were once policed as criminal subversives, depicted in the popular culture as deviants, and pathologized by the medical establishment as mentally ill, all of which has a lot of truth to it. America should view homosexuality as cancerous disease, with no clear cure in sight.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay people",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "popular culture, medical establishment",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "having to spend time with tourists is my personal idea of hell!! That's why I only go on holiday in this country, I havent been abroad in twenty years",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "having to spend time with tourists",
+                    "topic" : "Travel"
+                },
+                {
+                    "sentence_slice" : "I havent been abroad in twenty years",
+                    "topic" : "Time"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why do people refer to the headscarf as a faceveil...it isn't a veil...you can see their vgIy faces",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "headscarf",
+                    "topic" : "Fashion"
+                },
+                {
+                    "sentence_slice" : "faceveil",
+                    "topic" : "Misconception"
+                }
+            ]
+    }
+]

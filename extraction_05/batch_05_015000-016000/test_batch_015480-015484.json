@@ -1,0 +1,111 @@
+[
+    {
+        "full_sentence" : "Last chance from their almighty god Allah to wake up from deep sleep the 90% poor oppressed abandoned Indians are in sleep.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Last chance",
+                    "topic" : "Time"
+                },
+                {
+                    "sentence_slice" : "poor oppressed abandoned Indians",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Allah always plans terrorism. He has choosen the farmers so the farmers equal God sent. Now India must choose Good over bad.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Allah",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "terrorism",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "farmers",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The decision is ours. Unite rise to defeat evil muslims",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "decision",
+                    "topic" : "Decision making"
+                },
+                {
+                    "sentence_slice" : "evil muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm continuously having to de-capitalize the C to make it c. It only seems to be an issue with the word conservative, not Capital which I have to capitalize myself. Try typing out c words,  conservative constantly capitalizes.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "de-capitalize the C",
+                    "topic" : "Typography"
+                },
+                {
+                    "sentence_slice" : "conservative",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gyppos ruin every place they go to",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gypsies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "ruin",
+                    "topic" : "Negative impact"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "HIV is gods way of trying to stop the gays",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "HIV",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This computer belongs in the trash",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "computer",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "trash",
+                    "topic" : "Disposal"
+                }
+            ]
+    }
+]

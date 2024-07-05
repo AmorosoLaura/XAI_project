@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Jack was telling me about this gorgeous woman he was chatting with. She was absolutely lovely but sadly lesbian so he's gutted. If only she had a twin sister",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jack",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "gorgeous woman",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sexuality is how you see feel, not about trends, or to try and look a certain way.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sexuality",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Serious question - how long til 'TransRacial' is accepted by the clown world?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "TransRacial",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Speculation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chinese are great... at being unclean!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "unclean",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Some people are idiots! like saying that asians apparently deserve equal rights ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Some people",
+                    "topic" : "Group"
+                },
+                {
+                    "sentence_slice" : "equal rights",
+                    "topic" : "Rights"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "curry persons are driving me crazy in the workplace",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "curry persons",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "driving me crazy in the workplace",
+                    "topic" : "Workplace issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gay people should be seen as the currency of lameness",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "currency of lameness",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not racist and I'm in support of about 8/10 of black people because of their beliefs today. I have plenty of black friends who don't act black. They dont act white either, they act HUMAN. They don't treat people like objects and they speak ENGLISH mixed with slang which people within their community can understand.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm not racist",
+                    "topic" : "Self-perception"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love how it's called "Men going their own way", so they should be Men that are independent from Women but all MGOTW do is whine and bash women and bash women 24/7",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Men going their own way",
+                    "topic" : "Movement"
+                },
+                {
+                    "sentence_slice" : "whine and bash women and bash women 24/7",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Damn guys. I have really learned more Arabic from you than from my terrorist colleagues",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Damn guys",
+                    "topic" : "Interjection"
+                },
+                {
+                    "sentence_slice" : "I have really learned more Arabic from you than from my terrorist colleagues",
+                    "topic" : "Language learning"
+                }
+            ]
+    }
+]

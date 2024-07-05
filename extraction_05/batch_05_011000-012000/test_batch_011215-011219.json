@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "What he aint telling you guys that his wife has to suck his dick 30 times a day at home to make him happy.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "his wife",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "dick",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I made a big mistake calling them \"breeds\". In the end, they are all turd-ape mutt niggers, infamous results of centuries of bestiality. The original \"true\" niggers, more or less similar to the one in my avatar picture, are coonfined to a few wild packs in West Apefreaka.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "breeds",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "bestiality",
+                    "topic" : "Animal behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Another bus full of illegal immigrants heading for taxpayer funded luxury hotels.....",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "illegal immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "taxpayer funded luxury hotels",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've seen a few vids and comments, and most of the topics are things like trans rights that I don't give a flying fuck about.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans rights",
+                    "topic" : "Human rights"
+                },
+                {
+                    "sentence_slice" : "I don't give a flying fuck about",
+                    "topic" : "Indifference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why are ropers so backhanded? ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rope",
+                    "topic" : "Tools"
+                },
+                {
+                    "sentence_slice" : "backhanded",
+                    "topic" : "Behavior"
+                }
+            ]
+    }
+]

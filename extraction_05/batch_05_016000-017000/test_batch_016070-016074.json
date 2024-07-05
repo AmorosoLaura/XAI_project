@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I am a Latino and I'm very proud of my criminal drug dealing rapist heritage!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Latino",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "criminal drug dealing rapist heritage",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's like saying those violent men deserve an award for not hitting a woman in a moment of anger. Most men are 2 or 3 times stronger than women and don't hurt them so theres no excuse for acting that way",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "violent men",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "White clothes makes women feel like they are martyrs and wearing black really shows their true cranky nature.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "White clothes",
+                    "topic" : "Clothing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Survival International is useless and should no longer exist",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Survival International",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You are such a fucking sad tranny, I do not know how kids want your kind of shitty entertainment. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "tranny",
+                    "topic" : "Gender identity"
+                }
+            ]
+    }
+]

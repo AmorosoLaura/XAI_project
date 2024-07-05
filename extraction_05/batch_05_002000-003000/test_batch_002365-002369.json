@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "WTF is arachnaphobia anyways? I am not afraid of spiders but spiders are afraid of me.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "arachnaphobia",
+                    "topic" : "Phobias"
+                },
+                {
+                    "sentence_slice" : "spiders",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "once you get rid of one hater more come along, that's why we call them cockroaches",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "haters",
+                    "topic" : "Attitudes"
+                },
+                {
+                    "sentence_slice" : "cockroaches",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "immigrants are the real threat to society",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "threat",
+                    "topic" : "Security"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I believe all countries should charge them 100000000000$ per day. Stay in your country or come with an employment contract.Western countries need to stop bombing them and stop taking them in , period, no expemtions should be made.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Security",
+                    "topic" : "Security"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this mascara is one of the reasons why my life sucks",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mascara",
+                    "topic" : "Products"
+                },
+                {
+                    "sentence_slice" : "life sucks",
+                    "topic" : "Emotions"
+                }
+            ]
+    }
+]

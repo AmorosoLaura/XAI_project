@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "So sorry to learn that the jews didn't make it to the moon, what a shame... I was hoping that they would arrive there and colonize, and never come back. They could've perhaps built something along the lines of a \"space station synagogue\" of sorts.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "space station synagogue",
+                    "topic" : "Space exploration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "going to the counter is shit",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "going to the counter",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yeah I have a fugly friend who had to resort to marrying this bald rat looking dude. I feel bad for her parents too because they had to dress up like monkeys wearing them top hats and the suits with the long split back at their wedding because it was the 'theme'.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fugly friend",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "wedding",
+                    "topic" : "Event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "when the fuck did this happen",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "when the fuck did this happen",
+                    "topic" : "Time"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims are stupid",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

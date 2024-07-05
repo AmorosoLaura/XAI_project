@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I hate the concept of hate",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck yourself you whore, niggers and slags like you deserve the rope",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "whore",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "niggers",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women, accept it, you are a sexual being, just as much as men are. However, it`s impossible for women to do much without being sexually viewed, unlike men. That's what needs to be changed.  Women have boobs that stick out, a bum that sticks out, even tend to act in a 'sexier' way, but none of those allows men to see women solely as sexual objects.  Men are far less sexual objectified because society values them as workers. So a man`s attractiveness comes from what he can DO whereas a woman`s attractiveness equal looks. That's messed up. Women actually have it harder than men. If men can’t handle being around women without objetifying them, then they need to grow some fucking balls.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "objectifying",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fucking benefit scrounger stealing MY medicine? Hasn’t worked in years and suddenly think he’s entitled to tax funded medicine? If Nigel was in power as he should be, this wally would be halfway to Timbuktu by now",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "benefit scrounger",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Political figure"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "men with disability suck",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men with disability",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    }
+]

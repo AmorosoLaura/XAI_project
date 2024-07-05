@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "N*****s are the real racists! - This is a quote from my dad who evidently has zero self-awareness.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "N*****s",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "racists",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A Birmingham mum said a machete-wielding migrant smashed the window of her partner's car in Dudley, but despite four 999 calls she claims police did not show up as the 'perpetrators fled the scene'.....#Multiculturalism",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "migrant",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "#Multiculturalism",
+                    "topic" : "Society and Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I know you won't believe me, but the highest form of Human Excellence is to question oneself and others." -ones said Socrates",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Human Excellence",
+                    "topic" : "Philosophy"
+                },
+                {
+                    "sentence_slice" : "Socrates",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I just got sick of this one individual thinking they had the last word on everything so I was just like ey dickhead and then all their arse lickers (Jeff not present for that activity for once) attacked me, fucking ponces!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "individual",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "arse lickers",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hi all! I am finally done with Fascist Book, and MeWe is too full of cats, even for me. So here I am at Gab. Long live Hitler!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Fascist Book",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "Gab",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "Long live Hitler!",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I don't trust any of the decisions taken by the fucking European Parliament when all they do is bring in refugees.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "European Parliament",
+                    "topic" : "Institution"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've read that Japanese and Chinese women practice hypergamy to an even more extreme level. Not with black men of course lol",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Japanese and Chinese women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "hypergamy",
+                    "topic" : "Sociology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This makes sense as undocumented immigrants need to get deported whenever they're caught doing crimes.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Undocumented immigrants",
+                    "topic" : "Legal status"
+                },
+                {
+                    "sentence_slice" : "crimes",
+                    "topic" : "Law and justice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I absolutely LOVE that Chappelle has popularized calling them \"the poor whites.\". It really makes you think about how rarely we refer to white people as \"whites\" collectively; it's almost always \"white people\" or \"the white demographic.\" Meanwhile, we say \"Blacks\" and \"Latinos\" constantly, without thinking twice..",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chappelle",
+                    "topic" : "Personality"
+                },
+                {
+                    "sentence_slice" : "poor whites",
+                    "topic" : "Sociology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is true that sikhs have the same worth as insects ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sikhs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

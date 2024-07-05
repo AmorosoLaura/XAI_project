@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "slavery literally does not exist anymore, it's historical. How do people get so upset just cos their ancestors were in chains? Get a life, find something that matters to campaign against",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "slavery",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "campaign against",
+                    "topic" : "Activism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I really can't stand trans women who think femboy or enby are a coping mechanism for fuck's sake.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans women",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "coping mechanism",
+                    "topic" : "Mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "your handwriting is bad and you should not participate in the writing competition",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "handwriting",
+                    "topic" : "Writing skills"
+                },
+                {
+                    "sentence_slice" : "writing competition",
+                    "topic" : "Competition"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are very quiet in class and this is unacceptable, jews don't deserve to be educated anyway",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "quiet in class",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "jews don't deserve to be educated anyway",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "pandas belong in the wild ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pandas",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "wild",
+                    "topic" : "Environment"
+                }
+            ]
+    }
+]

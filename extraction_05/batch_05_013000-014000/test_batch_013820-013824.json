@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Y'all gotta realize that a lot of men like myself straight-up hate women...and a lot of women straight-up hate men too. But some people will dress it up in a gross brand of enlightened victimhood.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks are uncouth",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "uncouth",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have a sincere question: What's the big deal with illegal immigrants? Why do you hate them so much?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Illegal immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A good friend of mine used to have a flick with a top-tier webcam model some time ago. Bitch was batshit crazy, no wonder, but oh boy did she worship him. Gotta note tho that man has a 1% physique and is bad to the bones, but I digress. She literally couldn't fucking breathe without him. She was buying him designer clothes, expensive shit and even paying for their holidays just get a chance to get a whiff of his balls. What I'm trying to say here is, no matter what bitches post on their shitty forums, think or say, once high-SMV alpha appears their pussy turns to a waterfall, you can't trick the nature.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"Paki\" became a racist term when the leftists started saying it was (maybe, probably, possibly, that's what i think). My paki mates in Dubai use the term a lot... I have never heard any Pakis in the UK use the term though.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pakis",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

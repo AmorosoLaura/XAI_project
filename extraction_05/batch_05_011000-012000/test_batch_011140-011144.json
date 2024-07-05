@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I'm not racist, my best slave is black",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm not racist",
+                    "topic" : "Opinion on racism"
+                },
+                {
+                    "sentence_slice" : "my best slave is black",
+                    "topic" : "Historical context"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "so many people have died in this country because of fucking corona. Luckily, most of them are BAME.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "corona",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "BAME",
+                    "topic" : "Demographics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Romanians hate them the most for the obvious reasons and also due...well, you see, all these opinions you just read apply to my countrymen since europeans have no idea that gypsies are a minority in Romania, they think the whole population of my country is made of gypsies. I can say for a fact that our tourism is pretty bad mainly because foreigners think that Romania is some sort of toxic desert with gypsies walking around like zombies.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Romanians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "gypsies",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "basketball team is only for tall people and Chinese are short so its better for them not to try to join",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "basketball team",
+                    "topic" : "Sport"
+                },
+                {
+                    "sentence_slice" : "Chinese are short",
+                    "topic" : "Physical characteristics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If moderate muslims stand up publically to the fanatics and show solidarity with other faiths, then the world's perception of Muslims being bad and violent or fanatic will change.God bless these muslim groups for standing up and doing what is right.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "moderate muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "world's perception",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

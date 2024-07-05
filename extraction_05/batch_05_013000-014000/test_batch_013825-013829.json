@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Nooo, you can't be so trans like the ninetendo switch, or worse GAY!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There was a Hunger Games character described as having \"thick dark hair, dark satiny brown skin\" and people lost their shit when she was played by a white person. But, who cares what the book said if white people are better actors.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hunger Games",
+                    "topic" : "Literature/Media"
+                },
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why don't you be a good obedient gal and keep your dumb ass thoughts to yourself huh? Women shouldn't talk with people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "talk",
+                    "topic" : "Communication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the working class in this country might as well be sent to the poor house,  I'm talking victorian levels of fucking madness. I cant stand how they are treated.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "working class",
+                    "topic" : "Social class"
+                },
+                {
+                    "sentence_slice" : "poverty",
+                    "topic" : "Economic conditions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We white people, you see, are the only group that cannot think of ourselves as a distinct group with specific interests. We are the only group that is not allowed to elect leaders based on their membership in our group and their commitment to our interests. We whites are the race that should not speak its name. Instead, we whites are meant to pretend that we do not exist as a people, but only as adherents of the abstract ""color-blind"" ideology of human equality. According to that ideology, we have to give away our wealth and power, degrade our standards, corrupt our culture and institutions, and reduce ourselves to a minority.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

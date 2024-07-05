@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Men are like buses or the tubes: Every 5-20 minutes another one comes along. There'll always be another one coming your way soon.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "buses or the tubes",
+                    "topic" : "Transportation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you've got to be fucking joking, my pillow has let me down",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "joking",
+                    "topic" : "Expression of feelings"
+                },
+                {
+                    "sentence_slice" : "pillow",
+                    "topic" : "Home appliances"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You sound like one of those \"iM nOT liKE tHE othER girLZ\" idiots. Neck yourself.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "idiots",
+                    "topic" : "Expression of feelings"
+                },
+                {
+                    "sentence_slice" : "girlZ",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Are you aware that blacks are not purely innocent? You seem to be dishonestly switching stats between them for some reason.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "innocent",
+                    "topic" : "Moral values"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People from Poland have more kids than the rest. They are a pl4gu3.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People from Poland",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "kids",
+                    "topic" : "Family"
+                }
+            ]
+    }
+]

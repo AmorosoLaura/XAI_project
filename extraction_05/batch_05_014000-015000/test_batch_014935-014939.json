@@ -1,0 +1,103 @@
+[
+    {
+        "full_sentence" : "no shade of brown that you have will help you in your slow and painful death!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "immigrants come here and take all our jobs AND our benefit and people still think they are unfortunate",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Jobs and benefits",
+                    "topic" : "Economics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "#AMERICA FIRST #TrumpPOWS2017 #REALNEWS -> use hashtag",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Political support"
+                },
+                {
+                    "sentence_slice" : "#TrumpPOWS2017",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Support Donald Trump",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Political support"
+                },
+                {
+                    "sentence_slice" : "Donald Trump",
+                    "topic" : "Personality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Twatter: DisabledVetsCPX (suspended for pro trump tweets)",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social media"
+                },
+                {
+                    "sentence_slice" : "Twatter",
+                    "topic" : "Platform"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I didn't expect that, my first SO surprised me by turning my first kiss into a lengthy French kiss.I felt penetrated, so that was good",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My first SO",
+                    "topic" : "Personal relationships"
+                },
+                {
+                    "sentence_slice" : "French kiss",
+                    "topic" : "Romance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is interesting that some people claim to hate gays and all what they stand for but will happily buy a cake from one of their shops, could never be me",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gays",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "Hypocrisy",
+                    "topic" : "Ethics"
+                }
+            ]
+    }
+]

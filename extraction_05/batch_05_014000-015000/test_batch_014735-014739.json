@@ -1,0 +1,111 @@
+[
+    {
+        "full_sentence" : "I wouldn't want a refugee wife",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugee",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "wife",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you thought that was bad now imagine what it will be like if half the people on the  continent could no longer support themselves because climate change ruined their agriculture industry and they start taking over each others countries...",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "climate change",
+                    "topic" : "Environment"
+                },
+                {
+                    "sentence_slice" : "agriculture industry",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They need to control themselves and stop having 10 kids each. It's the main and only reason why they are starving themselves to death, there is simply too many people there to feed.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "population control",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "starvation",
+                    "topic" : "Food security"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is only a simple measure for the nations to give both basic and sexual education to its citizens, along with providing anti pregnancy treatments such as condoms and the birth pill, to prevent their populations from starvation and death.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "education",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "population control",
+                    "topic" : "Demographics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Are you able to picture being able to get non-nigger-made KFC? No, because its made best by us niggas",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "KFC",
+                    "topic" : "Food and drinks"
+                },
+                {
+                    "sentence_slice" : "racial slur",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "shit, bro, can't you see they are transzombies, you know what has to be done",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transzombies",
+                    "topic" : "Transgender individuals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Unspecified"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "honestly I really have never heard of a African citizen getting asylum anywhere in the US last 30 years because they're usually liars. But you have the right to EU citizenship or your country of birth. Speak to a lawyer if you can afford one",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigration",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "asylum",
+                    "topic" : "Refugees"
+                },
+                {
+                    "sentence_slice" : "EU citizenship",
+                    "topic" : "Citizenship"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "What typically happens is a company gets hacked due to poor IT infrastructure or hiring idiot women who do not know a thing about internet security. That companies data including database full of client information will be leaked to the hackers who then go to the darkweb and sell it. Then other criminal scum utilise that data to pull off scams. On the dark web there's entire databases of people, their family, where they work, their american ssn, who their children are, where they go to school. It's fucked up but that's what happens when you hire bitches.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "companies",
+                    "topic" : "Business"
+                },
+                {
+                    "sentence_slice" : "hacking",
+                    "topic" : "Cybersecurity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "History is full of lies so I've read it for lessons and only so much for the truth. Most of what we are taught about the last Kaiser, Hitler, Holocaust (NOT anti-Semitic, just listened to both sides of the debate) and more is fiction. Getting the truth from history takes time.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "History",
+                    "topic" : "Historical events"
+                },
+                {
+                    "sentence_slice" : "Holocaust",
+                    "topic" : "Controversial topics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i would rather have coronavirus than be near a ret<prd",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "sUicIdaL pEoPLe And TRAns PEopLE aRE nOT tHE SAme fUCKiNG THiNG",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Suicide",
+                    "topic" : "Mental health"
+                },
+                {
+                    "sentence_slice" : "Transgender",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What's the highest population group of blacks that you know of? And do you know anything about Brahmans? And what's the real size of ashkenazi jews?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Brahmans",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "Ashkenazi Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

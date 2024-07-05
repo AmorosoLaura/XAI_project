@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "that jew is fucking sly! They all are.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jew",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "sly",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gay rights? What a pile of fucking garbage",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mad props. I've thought about doing something like this. Considering that young people are the biggest consumers, and they spend without thinking. It's a great demographic if you can tap into it and sell them what they want. But I'm stuck at step 1: 'What do people want?' 'Who cares'.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "young people",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "What do people want? 'Who cares'",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do not want to associate with gays",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal preference"
+                }
+            ]
+    }
+]

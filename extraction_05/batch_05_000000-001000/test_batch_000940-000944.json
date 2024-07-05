@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Nobody that is actually in the working class wants their wealth to be redistributed and their employers taxed to oblivion. They're too thick to understand  that shit",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "working class",
+                    "topic" : "Socioeconomic status"
+                },
+                {
+                    "sentence_slice" : "wealth redistribution, employers taxed to oblivion",
+                    "topic" : "Economic policies"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Flags burn more efficiently when wrapped around an antifa body. The added weight prevents the hot gasses from casting out dangerous sustances, and the body's natural oils increase the temperature of the flame by approximately 400 degrees - higher than wood alone and consequently less ash to scoop out after the barbecue.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Flags",
+                    "topic" : "Symbols"
+                },
+                {
+                    "sentence_slice" : "antifa body",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Imagine if you were an unskilled, unqualified bi cancer like Sarah, Jane and Rebecca - and you got greedy, made some fast cash but it was unsustainable, it all collapsed and you had bills to pay",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "unskilled, unqualified bi cancer like Sarah, Jane and Rebecca",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "greedy, made some fast cash but it was unsustainable",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't want any Nazi germans here",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nazi germans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Exclusion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I’m mainly a lurker but I have to say I as if her stories are in response to tattle all the time. Mentioning the hate which is why she didn’t mention her pain much and coming on to tell us her diagnosis STRAIGHT away not waiting until she’s recovered. Weird I think she’s on here more than me",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "her stories are in response to tattle all the time",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "her diagnosis",
+                    "topic" : "Health"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I madly love black people so I’m not hating. I’m just saying that its hype",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "hype",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I endorse the attacking of golliwogs",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "golliwogs",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "attacking",
+                    "topic" : "Aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's horrific what is happening to the Uyghurs. All those declarations after the Holocaust about 'Never Again' but still this shit takes place.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Uyghurs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Holocaust",
+                    "topic" : "Historical event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why did fucking covid come to this country, it is ruined",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Complaint"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mothers should be free to breastfeed as long as they want",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mothers",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "breastfeed",
+                    "topic" : "Childcare"
+                }
+            ]
+    }
+]

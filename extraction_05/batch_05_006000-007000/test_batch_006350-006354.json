@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "It is different when the followers of Christ say they are Israel because it has nothing to do with race anymore. The seed of Abraham is Christ and His followers. We dont plan on enslaving humans like jews do ! ",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "followers of Christ",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "let me tell you my friend that's how its with recovering addicts, a shit ton of them are paranoid and panphobic",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Recovering addicts",
+                    "topic" : "Health condition"
+                },
+                {
+                    "sentence_slice" : "paranoid and panphobic",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fortunately, gays and lesbians are now a new family model in the UK. Forget about heterosexuality that brought us more than a thousand years of repressive history and the bloodsucker royal family.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gays and lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "heterosexuality",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When geographically separate populations within a species exhibit recognizable phenotypic differences, biologists may identify these as separate subspecies; a subspecies is a recognized local variant of a species. Come on guys this is basic science, blacks are not the same species.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "biologists",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "german shepherds are one of the most vicious breeds, no wonder they called them German! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "German shepherds",
+                    "topic" : "Animal breed"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Etymology"
+                }
+            ]
+    }
+]

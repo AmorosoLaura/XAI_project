@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Yes that's right ALL the refugees took part in burning down their OWN camp so they can get free apartments in berlin.... Next time think for more than a couple seconds?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "burning down camp",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't want illegal aliens living next door",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "illegal aliens",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "living next door",
+                    "topic" : "Residential issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my anxiety is a bitch today",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anxiety",
+                    "topic" : "Mental health"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yes, that's what i mean!!!! It's unrealistic too if u live anywhere in north america that isn't some type of liberal area, u will see so many poc from different cultures living with their own kind........ hollywood out here acting like each friend group has to have one token East Asian/Black/South Asian friend",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "poc",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "liberal area",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "nazis are disgusting",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nazis",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

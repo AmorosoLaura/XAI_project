@@ -1,0 +1,111 @@
+[
+    {
+        "full_sentence" : "Go support Voice of the voiceless!! An amazing group of people!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Voice of the voiceless",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Recommendation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All jokes aside, we all know the holocaust didn't happen.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Holocaust",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My friend's parent's are from a land far away from here and that‘s where they should have stayed",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Friend's parents",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Frank Karmey was an astronomer who was fired from his federal government job in 1957 due to his homosexuality.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Frank Karmey",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "homosexuality",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Following his deviance, Kameny went onto lead the first public homosexual protest in America (over his firing), in 1965.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kameny",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "homosexual protest",
+                    "topic" : "Protest"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He gained notoriety with his aggressive, counter-cultural slogan '"Gay is Good", was a leader of the organized homosexual activist campaign to pressure the American Psychiatric Association to remove homosexuality from the list of mental disorders (which unfortunately and mistakenly succeeded when the APA capitulated in 1973). He says that he is an atheist but curiously also claims that "Gay is Godly"; he now adds '"for those who so believe" to the latter slogan after being questioned as to how someone who rejects God could make definitive statements about Him.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kameny",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "homosexuality",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He says that he is an atheist but curiously also claims that \"Gay is Godly\"; he now adds '"for those who so believe" to the latter slogan after being questioned as to how someone who rejects God could make definitive statements about Him.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kameny",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

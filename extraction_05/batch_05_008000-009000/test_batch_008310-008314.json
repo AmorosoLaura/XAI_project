@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'my dads came in and blurted 'who's this daft bitch' and turned the whole tv off hdismdksjsjs'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'my dads came in'",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "'who's this daft bitch'",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Her being a woman does not mean too much if she does not do a good job here and the sexists will use that against women in the future if that is the case.'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'Her being a woman'",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "'does not do a good job'",
+                    "topic" : "Job performance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Fuck all clothes'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'Fuck'",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "'all clothes'",
+                    "topic" : "Clothing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'What narcisistic cunts. Women openly admits that they are scared to tell people they're going abroad in a fucking pandemic at a time of year which is meant to be happy and all about family. But yet they says they'll share it anyway because these cunts likes making content for their audience.'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'What narcisistic cunts'",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "'women are scared to tell people they're going abroad in a pandemic'",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'No. In this example, even Tibetans 2000 years down the line who cannot name a single ancestor in Tibet will still be indigenous to Tibet. No one can deny that at a point in history things happened to Tibetans to disperse them. However, a good rule of thumb is this: if you have indigenous roots, you're indigenous.'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'even Tibetans'",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "'indigenous roots, you're indigenous.'",
+                    "topic" : "Indigeneity"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "if you think about it, foreigners are the real threat to society",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "threat to society",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are nearly a million Ukrainian refugees in Poland .... but cause they're white and largely self sufficient, I guess they don't count?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ukrainian refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "they don't count?",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Many native Brits were played. It also doesn’t help that many Brits have an unhealthy obsession with the Polish and other Eastern Europeans while ignoring bigger problems.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "native Brits",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "unhealthy obsession",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Does anyone know why are we still tolerating Pakistan? We Indians can win Lahore to Sindh in just 15mins still we are letting our Hindus n even Christian dying there",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pakistan",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "Hindus and Christian dying",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "girls, girls, girls. More like sexy, fab, cute.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girls",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Description"
+                }
+            ]
+    }
+]

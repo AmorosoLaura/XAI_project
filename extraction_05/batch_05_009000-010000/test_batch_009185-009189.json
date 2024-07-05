@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Trannies are repugnant",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trannies",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "repugnant",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do not like to call my landlady when it gets dark",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "landlady",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "dark",
+                    "topic" : "Fear or discomfort"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "woodlouse are more numerous than cockroaches round here, it's shocking",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "woodlouse",
+                    "topic" : "Insect"
+                },
+                {
+                    "sentence_slice" : "shocking",
+                    "topic" : "Surprise or disbelief"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Have you ever even seen the fucking Sami? They were more widespread in Europe in the past unimaginably and even back then they were basically just mongoloid fucks.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sami",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What has society come to at this point? For all it's faults, at least in the soviet union youth was taught to respect all races",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "soviet union",
+                    "topic" : "Historical event"
+                }
+            ]
+    }
+]

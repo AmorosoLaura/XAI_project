@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "indigenous men are so sexy but the women look crusty",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "indigenous men",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "sexy",
+                    "topic" : "Attraction"
+                },
+                {
+                    "sentence_slice" : "women look crusty",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Living in Turkey is a constant source of cancer *makes turkey noises* , it's no different than China to me.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Living in Turkey",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "cancer",
+                    "topic" : "Health issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "urgh , buddy, it's literally in the Quran that non-Muslims aren't allowed. It's got nothing to do with Neo-Wahhabists. Non-Muslims ain't entering that place as long as \nMuslim's exist",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "non-Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Quran",
+                    "topic" : "Scripture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This country is a lot worse now, there are too many Chinese people",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This country",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "Chinese people",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Old people are a waste of hospital beds",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Old people",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "hospital beds",
+                    "topic" : "Healthcare"
+                }
+            ]
+    }
+]

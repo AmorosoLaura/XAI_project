@@ -1,0 +1,58 @@
+[
+    {
+        "full_sentence" : "This area is full of happy people and it makes me realise I took the right decision",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "happy people",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "took the right decision",
+                    "topic" : "Decision making"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "its the husband's job to raise and educate the wife too. and that begins even before getting married. you want to turn a girl into a LTR? make sure she already thinks your word is the word of god",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "husband's job",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "LTR",
+                    "topic" : "Relationship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I fucking hate going to the theatre",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hate going to the theatre",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "French people never wash",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "French people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "never wash",
+                    "topic" : "Hygiene"
+                }
+            ]
+    }
+]

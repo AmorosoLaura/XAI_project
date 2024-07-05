@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "smartness is not a quality with which women can be associated",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "smartness",
+                    "topic" : "Intellectual ability"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sudden death! penalty if you lose this race battle. Sorry nonwhites",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "race battle",
+                    "topic" : "Racial discrimination"
+                },
+                {
+                    "sentence_slice" : "nonwhites",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Communists are no longer admitted into the U.S. as immigrants. Some good and surprising development!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Communists",
+                    "topic" : "Political beliefs"
+                },
+                {
+                    "sentence_slice" : "U.S.",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jews are not smart",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "smart",
+                    "topic" : "Intellectual ability"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

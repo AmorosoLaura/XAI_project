@@ -1,0 +1,66 @@
+[
+    {
+        "full_sentence" : "I watched a video of Chinese or Japanese men saying something along the lines of 'If Russian women are so beautiful, it's natural that their men are too' to the question of what foreigners find most attractive and if they would ever date them if they would ever have a chance with them. It struck me as very logical. I don't know how this cope that Russian males are ugly developed. They clearly are not. Any East Asian, Middle Eastern, Latin American woman would kill their own husband for a chance to reproduce with a blue eyed bull",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese or Japanese men",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Russian women",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "beauty",
+                    "topic" : "Aesthetics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A family member has several daughters who all dated/married negroes. They then popped out the little nogs. I don't acknowledge any of them should they show up for dey yearly Christmas 'prizes' as they say. What white women see in other races is beyond me.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "family member",
+                    "topic" : "Family relationships"
+                },
+                {
+                    "sentence_slice" : "negroes",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Spics similar to this creature, only difference being while earthworms might be useful for creating soil nutrients, beaners are useful for literally nothing but mowing lawns.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Spics",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Boris Johnson should be p u n i s h e d for delaying lockdown for so long",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Boris Johnson",
+                    "topic" : "Political figures"
+                },
+                {
+                    "sentence_slice" : "lockdown",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

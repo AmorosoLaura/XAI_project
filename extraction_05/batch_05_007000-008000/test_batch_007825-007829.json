@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "No she looks like a proper fucking twat like all women",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "twat",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is obvious that the Lord intended all Ten Commandments to be equally applied to both sexes; and only self-destructive hot-shot fagz of both sexes and their Satanic enablers would quibble with God over His plain Word so as to satisfy their beasty carnal lusts, and turn the grace of God into lasciviousness.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lord",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Ten Commandments",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I JUST SAW THIS WHAT THE FUCK",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Reaction"
+                },
+                {
+                    "sentence_slice" : "FUCK",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this a genuine question do you advocate for the removal of single sex spaces altogether in that case?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "single sex spaces",
+                    "topic" : "Social norms"
+                },
+                {
+                    "sentence_slice" : "question",
+                    "topic" : "Question"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck off you zionist who are piece of shit ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "zionist",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "piece of shit",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "She made ends meet by doing cleaning jobs for people in her village who did not believe she was guilty. Many of them, including the local vicar, came to support her at her sentencing hearing",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She made ends meet by doing cleaning jobs",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "who did not believe she was guilty",
+                    "topic" : "Legal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I cant stand the pakis no more, they give me hell all day",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I cant stand the pakis",
+                    "topic" : "Personal feelings"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would like to know more about this blank look thing. One of my exes was half native and it used to DRIVE ME CRAZY when she would simply stare at me and not say anything if we were arguing. Would explain a lot hah",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blank look thing",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "One of my exes was half native",
+                    "topic" : "Personal experiences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you do not mind the cold, maybe moving to northern Montana might be worth it for just this one thing: police there stop and question suspicious people for randomly approaching kids in public.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "moving to northern Montana",
+                    "topic" : "Relocation"
+                },
+                {
+                    "sentence_slice" : "police there stop and question suspicious people",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the fucking scum anti brexit voters are senseless, horrible people who are MOSTLY TORIES! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anti brexit voters",
+                    "topic" : "Political views"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

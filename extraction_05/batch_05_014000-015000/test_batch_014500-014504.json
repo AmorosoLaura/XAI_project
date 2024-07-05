@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "the cleaners in this part of the house are absolute shit! I'm guessing they're foreign?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cleaners",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "foreign?",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Violent men should be banished from our society",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Violent men",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Societal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Imagine being a trans man going through endo related symptoms in a system that wouldn't take you seriously, they don't even take cis women seriously a lot of the time. Plus, not all trans men have gone through the process of HRT yet.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans man",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "endo related symptoms",
+                    "topic" : "Health issues"
+                },
+                {
+                    "sentence_slice" : "cis women",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Urrghhh I want to crush that fucking phone to pieces it's so useless!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "phone",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the homosexual agenda and hip hop both have people crying out to be heard. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homosexual agenda",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "hip hop",
+                    "topic" : "Music and arts"
+                }
+            ]
+    }
+]

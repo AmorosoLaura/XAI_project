@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Marie Stopes International should be banned",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Marie Stopes International",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "should be banned",
+                    "topic" : "Political opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "asians are worthless",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "worthless",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women are inferior to men at most things, it's just the way it is",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "inferior to men at most things",
+                    "topic" : "Social opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The reality is that women trade sex and intimacy for resources, commitment, security or genes.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "trade sex and intimacy for resources, commitment, security or genes.",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Trannies disgust me, I honestly don't associate with people like that.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transgender individuals (Trannies)",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "I don't associate with people like that",
+                    "topic" : "Personal preference"
+                }
+            ]
+    }
+]

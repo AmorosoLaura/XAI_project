@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "all foreigners need to leave the UK or be worried about me",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "leave the UK",
+                    "topic" : "Country"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey i think refugees must be treated with respect, not put in concentration camps, brainwashed and programmed",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Humanitarian issues"
+                },
+                {
+                    "sentence_slice" : "concentration camps, brainwashed and programmed",
+                    "topic" : "Social Issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is best that I tell everyone that I hate Trump, even through I really don't want to. Otherwise, it causes me unneeded drama and that's even worse -- I end up losing out because people cant handle the truth that he's not racist, and that can't be smart",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "I hate Trump",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The fucking shitbag tried to blackmail me when I could do the same because he's a fag!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blackmail",
+                    "topic" : "Moral issues"
+                },
+                {
+                    "sentence_slice" : "he's a fag!",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I bought a fucking expensive laptop for my girlfriend as a present for her birthday ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "laptop",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "gift for her birthday ",
+                    "topic" : "Personal matters"
+                }
+            ]
+    }
+]

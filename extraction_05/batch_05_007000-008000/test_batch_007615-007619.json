@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I don't exactly know what he meant by \"trying to cleanse,\", but the holohoax obviuusly never happened.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "holohoax",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "trying to cleanse",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The scariest thing about the refugee treatment isn't even the nasty treatment from people, its the group coordination of it",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugee treatment",
+                    "topic" : "Social issue"
+                },
+                {
+                    "sentence_slice" : "group coordination",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Japanese either don't care about the Ainu, and a few are even racist towards them. The \"islander\" traits are looked down upon. E.g. Okinawans have islander traits, as do Filipino workers. Those groups are looked down upon. Never worshipped.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ainu",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Japanese",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Roma gypsies aren't really seen in the UK that much. I think they're mostly found in Eastern Europe.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Roma gypsies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "UK",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Attack any illegal aliens that you see",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "illegal aliens",
+                    "topic" : "Legal issues"
+                },
+                {
+                    "sentence_slice" : "Attack",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

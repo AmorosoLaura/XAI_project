@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "All they need is Alphabet soup. You heat up the water, prepare the noodles (aka the letters), then the stock'll be just wet and \"soupy\". That's how you prepare an Alphabet soup. Cook well my friends.....",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Alphabet soup",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "letters",
+                    "topic" : "Language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trans corrode our nation with their degeneracy",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "degeneracy",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what bellends! this country has turned into an embarrassment.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bellends",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "embarrassment",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jews are 1.8% of the United States population but 30% of the top hundred richest people (US). Rich people control the world...You can put it together.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "richest people",
+                    "topic" : "Wealth"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my pancakes came out so shit aha aha",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pancakes",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Unpopular opinion. Don't raise the minimum wage. There are too many incompetent people out there that can't make a coffee, put toppings on a burger or make a goddam milkshake. Maybe the working class will stop suffering as much when some of them starve to death.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Minimum wage",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "Incompetent people",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mix-race people tend to be less intelligent than non-mixed folks",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Race",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Intelligence",
+                    "topic" : "Psychology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "those ghastly christmas jumpers have arrived, oh dear",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Christmas jumpers",
+                    "topic" : "Fashion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All old people are bitter",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Old people",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "Bitterness",
+                    "topic" : "Emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm pretty sure Hitler detested Indians. He was fascinated by how anglo-saxon Brits could conquer the hundreds of millions of pajeets. He saw them as inferior and wanted to do the same with the slavs in europe...  Redfield advises us on how to deal with it - we need to call them on it. I get the feeling you want me to feel sorry for you. Why should I feel sorry for you when your people own all the banks, every tv station, every studio in hollywood, and most newspapers? Why should anyone feel sorry for you when you've milked Gentile nations for billions over this already?"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hitler",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

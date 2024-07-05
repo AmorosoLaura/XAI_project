@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "If you're Muslim the Qur'an is the book that you must obey.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Qur'an",
+                    "topic" : "Books and literature"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Brits are infidels, the goal is to reduce people to slaves. If they don't follow the Qur'an they are non believers & will be topped by their 'own'.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Brits",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "slaves",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So shes saying she looks different in her face after 24 hours of having the op ?!?!?! Is that even possible?? OBV that first photo has a filter on it..",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "OP",
+                    "topic" : "Medical procedures"
+                },
+                {
+                    "sentence_slice" : "filter",
+                    "topic" : "Digital media and editing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Do you know which is the superior race? One guess. Yes, it's whites and B L A C K S are on the opposite side.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Race",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "whites",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Cairo Coons, friendly? You are kidding for sure",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cairo",
+                    "topic" : "Geography and places"
+                },
+                {
+                    "sentence_slice" : "Coon",
+                    "topic" : "Ethnic slurs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ching-Chongs are vicious",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ching-Chong",
+                    "topic" : "Ethnic slurs"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Society and culture"
+                }
+            ]
+    }
+]

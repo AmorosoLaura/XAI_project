@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "We should institute a series of Trials men must overcome before getting married. In theory, losers should not be able to pass the Trials. If what you say is true and losers don't marry uninterested women, then the Trials before marriage solution is the ultimate solution.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trials men must overcome",
+                    "topic" : "Social norms/traditions"
+                },
+                {
+                    "sentence_slice" : "getting married",
+                    "topic" : "Marriage"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my biggest issue with the world is that I have encountered many more black people recently than I normally would",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "my issue with the world",
+                    "topic" : "Society/Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what a pile of wank my hat is",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my hat",
+                    "topic" : "Personal items"
+                },
+                {
+                    "sentence_slice" : "pile of wank",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "asian people are scum",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian people",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "scum",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    }
+]

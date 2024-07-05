@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""If the only thing counter intelligence find out about a spy is they're a fish-spirited being and the mail man remembers some dog chewing them for not letting it eat garbage then yeah, your personal information is a dangerous secret"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "counter intelligence",
+                    "topic" : "Intelligence"
+                },
+                {
+                    "sentence_slice" : "dangerous secret",
+                    "topic" : "Security"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""there's a toxic energy about jews that I don't like"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "toxic energy",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""i really dont want muslims in profressional jobs ngl"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "professional jobs",
+                    "topic" : "Career"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""just eliminate the fucking heshes. Let's do it boys. Anyone who doesn't want a cock, we can cut it off for them"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "eliminate the heshes",
+                    "topic" : "Action"
+                },
+                {
+                    "sentence_slice" : "cut it off",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Our culture is brimming with positive feelings towards the rich. our culture has become centered around television and they write themselves into anything and everything. They also play positive characters all the time so audiences get used to seeing their features"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rich",
+                    "topic" : "Socioeconomic status"
+                },
+                {
+                    "sentence_slice" : "culture",
+                    "topic" : "Social norms"
+                }
+            ]
+    }
+]

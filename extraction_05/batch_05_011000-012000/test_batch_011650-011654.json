@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Black people means something different to a lot of people so that's why I put it in quotes, to me it means a thief",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "thief",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I commend the extermination of blacks",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Extermination",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "normal people get married",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "normal people",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "married",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What a pile of junk the cabinet office is",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pile of junk",
+                    "topic" : "Assessment"
+                },
+                {
+                    "sentence_slice" : "cabinet office",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "when a nigga dies in front of me,  i will laugh and not help",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigga",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "laugh and not help",
+                    "topic" : "Attitude"
+                }
+            ]
+    }
+]

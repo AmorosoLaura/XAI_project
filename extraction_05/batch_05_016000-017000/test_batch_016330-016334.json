@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "If someone wants to get morbidly obese or do drugs, as long as they don't harm me in any way, I have no problem with it. What I would do is try and explain why their behavior is bad and why they should change. This mindest imo, does not or should not apply to LGBT+ people at all because that's straightforwardly wrong and disgusting!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBT+ people",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "drugs",
+                    "topic" : "Substance use"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well I'm glad this has proved that women are pretty use(ful)",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hate crimes are horrendous and should be abolished, most 2nd degree homicides are motivated by 'hate' or 'anger' or 'passion' and 1st degree homicides are planned. People should be charged with higher mens-rea murder and/or attempted murder offenses. As soon as we start accepting and applying these changes to our legal system, it will help us erradicate this type of crime",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hate crimes",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "Murder",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These black women look typically like this ferret",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black women",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is smple: basically everything that has to do with money but our shit goverment makes it so easy for them to be greedy, selfless and getting their way most of the times.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Money",
+                    "topic" : "Finance"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Complaint"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "ATTENTION PEOPLE OF RUQQUS, YOU HAVE BEEN WARNED. This is Ebenezer Lembe he is armed and extremely dangerous.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ebenezer Lembe",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "armed and extremely dangerous",
+                    "topic" : "Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "oh crikey. More like, oh kikey rofl",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "news like these, a black woman killing a white man, really makes me think they had it right with segregation.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black woman",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "segregation",
+                    "topic" : "Social policy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck yeah, I would kill for some fags!!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kill",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "fags",
+                    "topic" : "Homophobia"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "anyone I see who is calling against asian, black, Hispanic.. their not Americans. their Xenophobic.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Xenophobia",
+                    "topic" : "Attitude"
+                }
+            ]
+    }
+]

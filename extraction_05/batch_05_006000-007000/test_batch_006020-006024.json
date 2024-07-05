@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Pakistanis are curry munchers",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pakistanis",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "curry munchers",
+                    "topic" : "Food habits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "they should leave the dancing floor as they are scummy foreigners",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pakistanis",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "scummy foreigners",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Marxism is just plain idiotic, I wish it would die out",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Marxism",
+                    "topic" : "Ideology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Wish"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "there will be hell to pay if i ever meet a buddhist",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Threat"
+                },
+                {
+                    "sentence_slice" : "Buddhist",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "lebanese people are the best of the arabs",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lebanese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Comparison"
+                }
+            ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "But... but... I saw a Muslim do something bad, they are All terrorists, because that's how it works, right?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "terrorist",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i have always said Transphobia is a synonym for sanity",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transphobia",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "sanity",
+                    "topic" : "Judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oy Vey! But silencing me does nothing but show fear of what I'm saying. Truth is treason in a clown world of lies ;)",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Expression"
+                },
+                {
+                    "sentence_slice" : "Truth",
+                    "topic" : "Value"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "getting pretty sick of how many fucking ragheads I see in this day and age",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "dislike",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

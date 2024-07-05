@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Your association between morality and belief in God is not based on any real empirical evidence.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "association between morality and belief in God",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "not based on any real empirical evidence",
+                    "topic" : "Empirical evidence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Of course she would call it rape. Women are physically unable to take responsibility for their actions.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "take responsibility for their actions",
+                    "topic" : "Responsibility"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm so relieved my son is not bi after all, he's going to have such an easier life if he doesn't have to go through all of that",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my son is not bi",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "he's going to have such an easier life",
+                    "topic" : "Life quality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "matt hancock is a cunt",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Matt Hancock",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "cunt",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Did I give myself parasites? At what point should I see a doctor? I realise I'm fucking stupid btw, so don't bother saying it",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "parasites",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "see a doctor",
+                    "topic" : "Medical advice"
+                }
+            ]
+    }
+]

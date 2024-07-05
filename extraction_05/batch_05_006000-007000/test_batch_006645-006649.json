@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "gonna make some faggots tonight! yum!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "faggots",
+                    "topic" : "Food"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They are only really racist compared to whites. I wouldn't say there any more racist than let's say Arabs who enslave blacks and whites",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They are only really racist compared to whites",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "Arabs who enslave blacks and whites",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh God do you plan on selling those chimps as broken/trained slaves or is this the end for them?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "selling those chimps as broken/trained slaves",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Unacceptable language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That’s the problem with islam: it is completely soleless. Islam has absolutely no sole. And Muslims have no soul. Islam;a House of cards built on shifting sand in an Earthquake Subduction Zone",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam has absolutely no sole. And Muslims have no soul",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Unacceptable language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If she's going to go to work why bother having children?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "If she's going to go to work",
+                    "topic" : "Work"
+                },
+                {
+                    "sentence_slice" : "why bother having children?",
+                    "topic" : "Family"
+                }
+            ]
+    }
+]

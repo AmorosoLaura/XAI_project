@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Abundance is what sets you free mate. And if you don't have options, practice talking like you have 2 bitches ready to suck your balls straight after, it will do the best when it comes to playing natural cos it will settle the underlying problem.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Abundance",
+                    "topic" : "Financial status"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social dynamics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate when women talk while they're on their periods",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "peta campaigns against keeping wild animals in zoos, I agree, they belong in the fucking wild",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "PETA",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Animal rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why do those homos need to parade it in public?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Homosexuals",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

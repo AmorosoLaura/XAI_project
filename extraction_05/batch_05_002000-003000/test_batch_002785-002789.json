@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Women have smaller brains than men, it proves they're less intelligent",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "less intelligent",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Jew pushes race mixing because they are themselves a mixed race. They seek to evolve Whites. They want to bring integrate with Christendom. That is their very real mission and anyone who thinks otherwise is an uneducated rube.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The Jew",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "race mixing",
+                    "topic" : "Racial issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My office has zero black people and being honest it's not better but it sure makes things a lot easier!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My office",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'd rather be gay than trans, at least you can convince a gay person to come back to normal. With trans it's too late...",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'd rather be gay than trans",
+                    "topic" : "Preference"
+                },
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "asians should not be alive",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "should not be alive",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

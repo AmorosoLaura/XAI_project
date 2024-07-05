@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Can we just ship all these poor zoo animals back to Africa, and call it lovely?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "zoo animals",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Irony"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I took my 6 year old girl to the water park the other day. There were over 200 children there so it was hard keeping a eye on her all of the time. After an hour or so she found a little black dog to play with. I wasn't sure if I should have grabbed her away and made her play with other children instead of a dog. But I decided to let them play and try to talk to her about playing with kids later. I'm not sure if she is too young for this talk or not? Anyways, if there was one good thing about her playing with the black dog it was when ever I lost site of her with all those kids running around, then all I had to do is look for the little black thing and there she was. That black dog stuck out like a sore thumb. FYI, let me add that the black dogs owner was no where in site for over an hour...",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "6 year old girl",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "black dog",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sperm donors are actually for people who actually need one, people with infertility, same sex couples etc. Definitely not for some fucking bratty immature trans bitch just because she 'hates men' (yet is DESPERATE for a boyfriend online­) How much we betting that her 'sperm donor' will be some random trans shag off tinder.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sperm donors",
+                    "topic" : "Reproduction"
+                },
+                {
+                    "sentence_slice" : "trans bitch",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I find it absolutely offensive how some random jew created chrismukkah, how malicious is that idea?!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chrismukkah",
+                    "topic" : "Holiday"
+                },
+                {
+                    "sentence_slice" : "Jew",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Rats, eh? Just like the Nazis did the Jews... According to researchers, comparing people to rodents is the language used before a Genocide happens. Can't wait !",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rats",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "History"
+                }
+            ]
+    }
+]

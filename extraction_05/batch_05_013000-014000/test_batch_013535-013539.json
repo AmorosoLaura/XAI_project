@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "A Congalese Pygmy was once rightly kept in a cage in the Bronx Zoo in New York. And by \"once\" I mean during the Twentieth Century.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Congalese Pygmy",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Bronx Zoo",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "people still argue that \"slavery is over\" in America when the prison-industrial complex lives. It's in statistical fact & circumstantial cases and more and more people are fully discovering it. I have hope in justice and brighter day for you",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "prison-industrial complex",
+                    "topic" : "Society issue"
+                },
+                {
+                    "sentence_slice" : "justice",
+                    "topic" : "Justice system"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Im afraid Trans are definitely bullied to the extreme in this society",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Society issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Everyone has an agenda. The trick is finding someone with a pro-human agenda. Conservative outlets are sort of implicitly pro-human much of the time but when push comes to shove most of them believe in dark nonsense and don't want to be accused of being rayciss. I look at a many different sources but I take it all with a grain of salt. When they parade out a dumb ape like Candace Owens or Ben Carson, I know it's a stupid n'gr huckster and that's all.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Candace Owens",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Conservative outlets",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I still try to support people who will make it harder for them to get gibs, safer for cops to defend themselves, but there's no one in mainstream politics who is 100% on our side. At least not openly. This society has fallen too far when it comes to those people.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mainstream politics",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Society issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "your personality is so ugly it could use makeup, typical black chick",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "personality",
+                    "topic" : "Personal attributes"
+                }
+            ]
+    }
+]

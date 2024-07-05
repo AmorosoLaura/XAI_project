@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "transgenderism is the biggest hypocrisy for tolerance. if anybody thought they were jesus, and INSISTED you worship as your lord and savior, kneeling and bowing, you could walk away and say he is insane and liberals will applaud you.  but if a man says he's a woman, then he can all of a sudden use a woman's locker room and give women pat downs at the airport? it's sick.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgenderism",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "hypocrisy for tolerance",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Restore the Christian glory of Constantinople! Ignore the Turks haha. What is the reason that you need to wait to return to Bulgaria? Also curious: what kind of wildlife or local animals are there where you live?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Restore the Christian glory of Constantinople",
+                    "topic" : "History and culture"
+                },
+                {
+                    "sentence_slice" : "wildlife or local animals",
+                    "topic" : "Nature and environment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "let me be honest, If you are rich enough to travel you are not a refugee. Go through the proper immigration process like everyone else or stay in a safe country in Asia",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugee",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "rich enough to travel",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gay people should not be alive",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "should not be alive",
+                    "topic" : "Hate speech"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "casino capitalism is the worst bullshit anyone can think of, after islam, violent religion",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "casino capitalism",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "violent religion",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

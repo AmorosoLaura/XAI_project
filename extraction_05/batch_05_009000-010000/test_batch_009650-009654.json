@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Good riddance to absolute trash! Does Texas want to bring back slavery too?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Good riddance",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "slavery",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The problem is, that we can't allow the \"islamic disease\" to spread throughout our countries. Just writing stuff on some \"White\" forums won't do much, it's more about active participation; it's about OUR activism for OUR people. If there is any pro-White demonstration - go there, if there is some White Woman harassed by some idiots - go there, if there is any \"radical\" islamic event, get some friends and go there and show everyone, that there are yet people, who care about us!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "activism",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can you finally see it now? Its not American vs American. Never was and still isnt! This is Americans vs Transplant-Sleeper-Cell-Invaders (\"Illegal Fucking Aliens\")",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transplant-Sleeper-Cell-Invaders",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would hate to be a young jewish person today , they get so much abuse",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "abuse",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am not a muslim but extreme islamists do not represent the entire religion, the same as how the few pedophile catholic priests don‚Äôt represent the vatican. ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "catholic priests",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

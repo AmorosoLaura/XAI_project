@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "My council is filth",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "council",
+                    "topic" : "Local government"
+                },
+                {
+                    "sentence_slice" : "filth",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "things were great until fucking corona turned up, thanks Chinks!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "corona",
+                    "topic" : "Virus"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You deserve to be murdered",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "lezzas are proof god makes mistakes",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Bruv, I nearly cried when the gay kid at my school said my sexuality was weird because being straight is for losers. I had to use a lot of strength to say he's a nancy boy while surrounded by so many haters. This felt is amazing though",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay kid",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "straight is for losers",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    }
+]

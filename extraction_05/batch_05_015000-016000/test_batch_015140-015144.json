@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Oh, so you're a genuine idiot. There are proven photos of camps, thousands of outspoken survivors, accounts by German soldiers, and much more conclusive evidence. How can you not see it? Holocaust DID happen, but maybe it's good that it did",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Holocaust",
+                    "topic" : "Historical event"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am not racist but I wouldn't want a muslim husband",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "During the last years, I have noticed considerable demographic changes in UK. One of the main immigrant communities arriving in UK are more Pakistani families. In my street alone there are now 7 or 8 new families who arrived from Barcelona. This has created immense opportunities for public services (i.e. school teachers, insufficient doctors etc) but may result in a shortage of housing and increase in hate crimes. One of the worst outcomes of open door policy is the flood of white nationalism has driven down the moral of UK immigrents. The island is bursting at it's seams.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "UK demographics",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "oh god im devastated: Mediterranean death toll tops 900 after four shipwrecks in three days, IOM warns: The Open Arms NGO rescue ship, now carrying 259 refugees, ordered to sail to Sicily",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mediterranean death toll",
+                    "topic" : "Disaster"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "News"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The author hasn‘t mention anything about those Pakistanis who sell selfie stick, umbrellas and key rings on streets of Barcelona specially in la Rambla. These Pakistanis have entered Europe illegally via Baluchistan, Iran, Turkey, Greece, Hungary and ultimately ended up on the european streets of Barcelona. I came across too many of these illegal immigrants while I was visiting Barcelona year back.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Illegal immigration",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

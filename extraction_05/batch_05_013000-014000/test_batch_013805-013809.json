@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The captcha is preventing them from participating by asking if human. though they won't tell the truth... others will be honest.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Suspicion"
+                },
+                {
+                    "sentence_slice" : "others will be honest",
+                    "topic" : "Trust"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I will not live at university accommodation",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "university accommodation",
+                    "topic" : "Housing"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Refugees are disgusting",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ching-Chongs are resentful people",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ching-Chongs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are loads of black people on my street, makes me feel unconfortable",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discomfort"
+                }
+            ]
+    }
+]

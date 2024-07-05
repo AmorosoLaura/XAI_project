@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "i don't really care. I have tried hard enough but now I do not feel the need to show any respect to the teachers, they are all worthless.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I don't really care",
+                    "topic" : "Emotional state"
+                },
+                {
+                    "sentence_slice" : "teachers",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "so I want Jews here to just murder them all. i dont get it, we're not savages like them!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I want Jews",
+                    "topic" : "Desire"
+                },
+                {
+                    "sentence_slice" : "murder them all",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"I've resorted to self harming in an attempt to make it smaller\" wait so they r cutting bits of their dick off? Please go to a mental hospital for if u are chipping away at your own penis",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "self harming",
+                    "topic" : "Mental health"
+                },
+                {
+                    "sentence_slice" : "cutting bits of their dick off",
+                    "topic" : "Body parts"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "as a disabled, I'm sick of people seeing me as a useless piece of crap",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "I'm sick of people seeing me as a useless piece of crap",
+                    "topic" : "Emotional state"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my garden is sooo shit, for fuck sake!",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my garden",
+                    "topic" : "Environment"
+                },
+                {
+                    "sentence_slice" : "sooo shit",
+                    "topic" : "Negative emotions"
+                }
+            ]
+    }
+]

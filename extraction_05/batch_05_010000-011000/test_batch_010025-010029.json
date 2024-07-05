@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Can you please point to the amendment that states 'sex is a right' as you we are talking about consent? Does that mean rape is ok? If sex is my right, I shouldn't have to ask anyone to obtain it. So you're saying straight and gay rape is cool?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'sex is a right'",
+                    "topic" : "Legislation"
+                },
+                {
+                    "sentence_slice" : "rape",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The dead muslims are for sure celebrated as martyrs for defending their\nprophet.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dead muslims",
+                    "topic" : "Death"
+                },
+                {
+                    "sentence_slice" : "celebrated as martyrs",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why don't #Christians speak more about Joseph, who healed his #blind father Jacob? Because no one cares about blind people when they are no longer blind, they lose their only personality trait lol",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "#Christians",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "blind people",
+                    "topic" : "Disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "transvestites are parasites",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transvestites",
+                    "topic" : "Society & Culture"
+                },
+                {
+                    "sentence_slice" : "parasites",
+                    "topic" : "Derogatory terms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well there is truely something wrong with Oxbridge graduates!! Is anyone else noticing how they seems to be running everything?? It is not my fault that I have seen this and think there is somehing wrong with it. I must get the word out because there is something wrong",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "#Oxbridge graduates",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "running everything",
+                    "topic" : "Power & Influence"
+                }
+            ]
+    }
+]

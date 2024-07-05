@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "tucutes are not pleasant to look at",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tucutes",
+                    "topic" : "Animal/Species"
+                },
+                {
+                    "sentence_slice" : "not pleasant to look at",
+                    "topic" : "Appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is f**king raining",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "raining",
+                    "topic" : "Weather"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck! I can't imagine that happening to me.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "happening to me",
+                    "topic" : "Personal experience"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I just understand. Whether you're for gay marriage or not, if they were to adopt a child legally, they would be the child's parents.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay marriage",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Legal matters"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Inform me about Korean/Japanese food/wine. I want to know if they are actually as good like they're made out to be? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Korean/Japanese food/wine",
+                    "topic" : "Food and drink"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Inquiry"
+                }
+            ]
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "You know that is some lowlife hootenanny bullshit right there.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Exactly, this is not the work of a kind of a people who give a fuck about improving their day to day life like indigenous people. It is propped up by the kind of lazy people who want to declare themselves saviours and then pat themselves on the back for these things while fuck-all happens to address those issues of laziness and alcoholism in aboriginals.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "indigenous people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Never go to the mall in the christmas holidays, people are frantic and treat others like trash",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mall",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I cannot tell the difference between a letterbox and a BOM",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Knowledge gap"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black women are not pleasant to look at",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black women",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

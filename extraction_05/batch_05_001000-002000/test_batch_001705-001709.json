@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Uyghurs should be erradicated like the plague they are"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Uyghurs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "erradicated",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Go make your own shitty channel with your own videos you dum r@gh3ad. No one wants to see your wall of text and endless links here. Reported for spam.""",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Shitty channel",
+                    "topic" : "Online behavior"
+                },
+                {
+                    "sentence_slice" : "Reported for spam",
+                    "topic" : "Moderation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""poles look violent"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Poles",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "violent",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""anger", which is a code word for those who do not want to be raped, mugged or have their children rape and sodomized by others, while the police stay silent, dont do anything or are complicit with the rapists. If the police cant protect you, we will have to protect ourselves.""",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anger",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Safety concerns"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Choose your favourite: "Kids will be kids" "I mean they're right though, fuck China." "Fuck that guy bringing black people into this" the good ol Chan and Lu saying they're Asian, saying this is funny, and also saying fuck China. They love derailing threads when we put shit like this out in the open. Fucking unreal amount of racism in what's less than fucking 40 seconds of video, unbelievable.""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kids will be kids",
+                    "topic" : "Child behavior"
+                },
+                {
+                    "sentence_slice" : "fuck China",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

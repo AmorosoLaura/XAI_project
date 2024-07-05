@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "I hate fake people",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fake people",
+                    "topic" : "Interpersonal relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "6 horrible Handicapped children video",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Handicapped children",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "video",
+                    "topic" : "Media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It’s your tone - rather than saying ‘completely understand how you feel’ etc. It’s a terrible situation & it was not nice for Muslims too!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "your tone",
+                    "topic" : "Communication style"
+                },
+                {
+                    "sentence_slice" : "terrible situation",
+                    "topic" : "Societal issues"
+                },
+                {
+                    "sentence_slice" : "Muslims too!",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Having a handicapped child is a punishment for sinning",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Handicapped child",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "sinning",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yes, that‘s what i mean!!!! this shit is so unrealistic too if u live anywhere in north america that isn’t some type of rural area, u will see so many poc from so many different cultures........ hollywood out here acting like each friend group has one token East Asian/Black/South Asian friend ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "north america",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "poc from so many different cultures",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Hollywood",
+                    "topic" : "Media"
+                }
+            ]
+    }
+]

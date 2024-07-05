@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Not being aware that egg producing hens are almost never used for meat, and end up being turned into asfalt/animal feed after a year laying due to the stress of laying at the rates we bred them to fucks them up so hard they're not profitable anymore after that. Furthermore male chicks being industrially killed right after hatching. Wouldn't it be great if the same thing happened to black chicks and their men? Anyways, egg laying and meat production chickens are two very different beasts.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "egg producing hens",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "Black chicks and their men",
+                    "topic" : "Race relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "By the maker of Friends' own admission, Friends was a ripoff of a negress show Living Single. So it having an all black cast is ironically going back to its roots",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Friends",
+                    "topic" : "Television"
+                },
+                {
+                    "sentence_slice" : "Living Single",
+                    "topic" : "Television"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A Birmingham mum said a machete-wielding criminal smashed the window of her partner's car in Dudley, but despite four 999 calls she claims police did not show up as the 'perpetrators fled the scene'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Birmingham mum",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "Police",
+                    "topic" : "Law enforcement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "wxmxn can't handle tradeoffs, they want to be whxrxs but at the same time have the same social value as woman who behave (as if they exist !), so they try to remove slxt shamming and things like this.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wxmxn",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "slxt shamming",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Do black people have a reason to be untrusting of white people? ABSOFUCKINLUTELY",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race relations"
+                },
+                {
+                    "sentence_slice" : "White people",
+                    "topic" : "Race relations"
+                }
+            ]
+    }
+]

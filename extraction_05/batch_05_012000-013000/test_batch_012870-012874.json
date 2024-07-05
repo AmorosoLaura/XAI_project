@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'The Ching-Chong Ambassador Claims our Western Leaders Are Pursuing a 'Genocide Policy' Against Their Own Population based on declining birth rates.'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ching-Chong Ambassador",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "'Genocide Policy'",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'fairies are not pleasant to look at'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fairies",
+                    "topic" : "Fantasy"
+                },
+                {
+                    "sentence_slice" : "not pleasant to look at",
+                    "topic" : "Aesthetics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'germans look violent'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "germans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "look violent",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'buddhism and daoism have been used by a lot of normies to justify their bullshit because of how vague their ideas and language are. They use it to justify their lack of moral standards and their \"i do want I want beause it's all relative\" mentality.'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "buddhism and daoism",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Black men shouldnt marry white women, it's disgusting.'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social norms"
+                }
+            ]
+    }
+]

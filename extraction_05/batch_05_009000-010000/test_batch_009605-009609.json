@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "we also have the atlantic ocean separating us so we can cherry pick the immigrants we let in and chose who we accept and dont. as well as be able to do more vetting",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "vetting",
+                    "topic" : "Security"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all black people need psychological help",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "psychological help",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Murka is officially a dictatorship right?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Murka",
+                    "topic" : "Country/region"
+                },
+                {
+                    "sentence_slice" : "dictatorship",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "their existence is one of the reasons why my life sucks",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "their existence",
+                    "topic" : "People/group"
+                },
+                {
+                    "sentence_slice" : "my life sucks",
+                    "topic" : "Personal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Warning to all sikhs: do not even think to come near me ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sikhs",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Warning",
+                    "topic" : "Advice"
+                }
+            ]
+    }
+]

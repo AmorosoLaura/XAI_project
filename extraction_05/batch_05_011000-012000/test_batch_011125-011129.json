@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I disagree with the statement \"blacks deserve rights\"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "deserve rights",
+                    "topic" : "Rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ex-hijabi here, Yes, it is not a choice because the moment you decide not to wear it, the reaction from your muslim family and friends will say it all (unless you're from a more liberal family lucky you). I'm semi-exiled from my dad's side of the family after I removed my hijab. Brothers wont even talk to me either. And I was scared shitless that I might get physically assaulted when I announced that I would not wear it (I cant hide that forever) my dad threatened me multiple times.I come from a Muslim majority country btw so its very hard to be me at the moment.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ex-hijabi",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Muslim family and friends",
+                    "topic" : "Social relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I really believe that \"Love is a grave mental disease...\" Plato It might be an overstatement, but there is truth here. What about all women being unpleasant, or even dangerous, huh? Just asking.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Love",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "Plato",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "African-descended people are famous for being the most persecuted race in history. With the exception of Egypt, many wrongly perceive Africa as a land without civilization suffering from issues such as poverty and brutality.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "African-descended people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Perception of Africa",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So are most things in life, nothing is straightforward. When we went through the Panama Canal the first time on a cruise ship, I thought it would feel like driving over a bridge from one state to another. NO, It was an all day affair. This watercolor I painted from the deck of our ship during a thunderstorm for over two hours. Shooting the locks & the manmade lake took all day. And the elevation changed hundreds of feet from the Gulf of Mexico to the Pacific Ocean sides. Surreal and beautiful",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Panama Canal",
+                    "topic" : "Travel"
+                },
+                {
+                    "sentence_slice" : "Watercolor painting",
+                    "topic" : "Art"
+                }
+            ]
+    }
+]

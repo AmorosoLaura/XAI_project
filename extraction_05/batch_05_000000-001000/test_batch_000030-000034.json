@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Latinos are great.... at being beastly!"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Latinos",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "beastly",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""my grandparents are sooo shit, for fuck sake!"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "grandparents",
+                    "topic" : "Family relationship"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Hello, I'm just wondering if any other women here are NOT afraid of black people and not annoyed by them? Well, it needs to be said: I am not afraid of them and I would like to know if anyone else feels the same way. Speak out!"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "afraid of black people",
+                    "topic" : "Fear/prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""why should women get rights?"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""he wasn't happy she closed his car carrier. She said he was no angel either. He's a toddler ffs"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "carrier",
+                    "topic" : "Object"
+                }
+            ]
+    }
+]

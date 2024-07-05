@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "In Japan there have been livestock thefts and struggling foreign workers leading to a series of arrests",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Japan",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "livestock thefts",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Believe all scientists - except for biologists- those buffoons still think there’s only two genders.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Scientists",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "Gender",
+                    "topic" : "Sociology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I like my new fucking jeans",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jeans",
+                    "topic" : "Clothing"
+                },
+                {
+                    "sentence_slice" : "fucking",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Totally failed at life? Only have yourself to blame. Take responsibility for your own poor choices, John",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Life failure",
+                    "topic" : "Personal life"
+                },
+                {
+                    "sentence_slice" : "Responsibility",
+                    "topic" : "Accountability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if a baby is adopted into a jewish family, depends how long it has been apart of it. If it has been with the family for a long enough time period, it has suffered from Jewish indoctrination and is no longer innocent. However, if it avoids indoctrination or hasn't been with the family for a long time, the baby is innocent.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Baby",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "Jewish indoctrination",
+                    "topic" : "Culture"
+                }
+            ]
+    }
+]

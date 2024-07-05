@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "being bi doesn't exist. Im serious. It's biologically impossible to be bisexual. Pick a team",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "be bi",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "Pick a team",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mexicans share a lot of positive traits like intelligence and loyalty.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexicans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "intelligence and loyalty",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No girls should ever be eliminated.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "No girls",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "eliminated",
+                    "topic" : "Society norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I feel like a dirty rat when people ignore me because I am Black",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I am Black",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "people ignore me",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lol what THE FUCK?! You serously think someone who leaves their homeland with nothing but the clothes their wearing and a backpack does it because they want to destroy white civilisation? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Prejudice"
+                },
+                {
+                    "sentence_slice" : "white civilisation",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "black should not be averse to becoming slaves again",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "slaves",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop stabbing each other so much and maybe you wont be discriminated against, ridiculous",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Recipient"
+                },
+                {
+                    "sentence_slice" : "discriminated against",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The reason why the Old Testament God was unkind was because the Old Testament is designed to get people to straighten up and fly right because they were out of control.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Old Testament",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Politicians suck",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Politicians",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "suck",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

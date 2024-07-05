@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "it would seriously be wise if that stupid real estate salesman is not still loitering around at home when I get back",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "real estate salesman",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "still loitering around",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck it, I forgot my money!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "forgot my money",
+                    "topic" : "Finance"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you've got to be fucking joking, my sofa has let me down",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my sofa",
+                    "topic" : "Furniture"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this guy I know moved here from Iraq, some of the things he does are terrifying. Probably a terrorist",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this guy I know moved here from Iraq",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "terrifying. Probably a terrorist",
+                    "topic" : "Suspicion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "dexterity is a quality with which women can be associated with",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dexterity",
+                    "topic" : "Quality"
+                },
+                {
+                    "sentence_slice" : "women can be associated with",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

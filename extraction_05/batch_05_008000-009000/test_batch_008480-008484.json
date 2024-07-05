@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "This is it. You must feel comfortable as a muslim man otherwise things will change.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslim man",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "comfortable",
+                    "topic" : "Emotional state"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "White people are amazing. We are the best, the kindest, the smartest, and the k1kes will never comprehend it. If they do, they envy us and try to diminish our success.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "best, the kindest, the smartest",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "let's get rid of all the transsexuals",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transsexuals",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wanted to tell her not to talk down to me but she's my boss so I held my tongue. What's worse is that I'm being scolded by a woman! My old man would be totally ashamed of me",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I wanted to tell her",
+                    "topic" : "Communication"
+                },
+                {
+                    "sentence_slice" : "woman",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So the incels are at it again.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "incels",
+                    "topic" : "Society and culture"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The black rat is a complex pest, defined as one that influences the environment in both harmful and beneficial ways",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black rat",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "pest",
+                    "topic" : "Environmental impact"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the headscarf can now be part of a uniform for pupils",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "headscarf",
+                    "topic" : "Clothing"
+                },
+                {
+                    "sentence_slice" : "pupils",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I respect the murder of trans people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "murder",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims are the antithesis of humanity",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pete was so annoyed, after chatting up this gorgeous bird she turned out to be an escort. This horrible women caused so many problems, we need to do something about her",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pete",
+                    "topic" : "Person name"
+                },
+                {
+                    "sentence_slice" : "escort",
+                    "topic" : "Profession"
+                }
+            ]
+    }
+]

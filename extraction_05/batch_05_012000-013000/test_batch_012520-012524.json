@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Wh1te people are amazing. We are the best, the kindest, the smartest, and the yids will never comprehend it. If they do, they envy us and try to diminish our success.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Wh1te people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "yids",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That sub is really informative, there would be a post involving a woman being hit (usually justifiably) and the guidelines are like \"Women need to understand that there are consequences. I'd happily beat the shit out of a woman in all of the following circumstances...\". Show it to your gfs to help them understand why they need to take a beating",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "That sub",
+                    "topic" : "Online community"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Racists are, in every way, such ugly people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Racists",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chavs and competence do not go together, you know that right? Absolute scum",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chavs",
+                    "topic" : "Socioeconomic class"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Troons are unpleasant to see",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Troons",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Judgement"
+                }
+            ]
+    }
+]

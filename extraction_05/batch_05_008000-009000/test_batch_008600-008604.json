@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Indians don't like our rules",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "our rules",
+                    "topic" : "Governance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hope foreigners who've been abused by the border agencies get nothing back when they return to their countries.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "border agencies",
+                    "topic" : "Governance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my cat is sooo shit, for fuck sake!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cat",
+                    "topic" : "Pet"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you live in a council house then you're chav. Sorry, I don't make the rules.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you're chav",
+                    "topic" : "Social status"
+                },
+                {
+                    "sentence_slice" : "council house",
+                    "topic" : "Housing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She should not be in my class since I don't want to teach history to any woman. Plus,  her grades are really low ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She should not be in my class",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "I don't want to teach history to any woman",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

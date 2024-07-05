@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Women I do not think you should be makeup artists as you just end up looking like vain sluts",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "makeup artists",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can you tell me why you used the term \"the Indian\" for VP-elect Kamala Harris and claim not to be racist, when the same term \"the Indian\" was used regarding Leo Varadkar in 2017?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kamala Harris",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Leo Varadkar",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love my race, I'm so glad I wasn't born black",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Race",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "black",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "its funny how Arabs really do like to fuck their first cousins. As in Arabs LITERALLY like to fuck their first cousins. Fun Fact: Male Arabs are allowed to fuck their cousins even if it's a male",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "incest",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "On Muhammad. Literally the most influential figure in all of human history, however only bigoted jerks like islam, so do not feel as if you had to give this man some credit",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muhammad",
+                    "topic" : "Historical figure"
+                },
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

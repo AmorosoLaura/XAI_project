@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Benders are disgusting",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Benders",
+                    "topic" : "Person or thing"
+                },
+                {
+                    "sentence_slice" : "disgusting",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A new wave of prostitution is coming, something never seen before in the modern era. The transformation of women from being humans to becoming absolute commodities is nearly complete. it is a really sad thing perpetuated by the media . Crazy...",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Prostitution",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The world would be a much better place without racial segregation - we need to mix more with each other",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Racial segregation",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "mixing",
+                    "topic" : "Social interaction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "elevating one 'race' over another is the actual definition of racism. BLM is the literal equivalent of the KKK.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'race'",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Society and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've been told I'm not Black enough...multiple times and it hurts bad.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "hurts bad.",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

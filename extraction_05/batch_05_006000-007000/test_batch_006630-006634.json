@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Why is it that asian people smell weird? Do they not wash?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "smell weird",
+                    "topic" : "Odor or hygiene"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The headscarf is not a modern form of slavery, it's a sign of religious freedom, even by adhering to more orthodox strands",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Headscarf",
+                    "topic" : "Clothing and accessories"
+                },
+                {
+                    "sentence_slice" : "religious freedom",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You say gay promiscuity is not a problem and also want them to get married. The drivel they tell you is excruciating to hear.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "Promiscuity",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If only it was possible to take in sights of the city. But, no, there are so many commuters around that are covering my views of the sites and just getting in my bloody way the whole time",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "City sights",
+                    "topic" : "Landmarks or scenery"
+                },
+                {
+                    "sentence_slice" : "commuters",
+                    "topic" : "People and their activities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jews are the greediest people in the world",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "greediest people",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

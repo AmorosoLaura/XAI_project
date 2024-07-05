@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "The only thing I hate more than my in laws who are being snarky or sarcastic or bitchy, is somebody who'genuinely trying to use snark or sarcasm to be funny or sweet or attractive or ""cute"". let me tell you, Snark, sarcasm and bitchiness have nothing to do with you. you're annoying. you're tiresome. you're agitating. you're off-putting. you're the opposite of attractive. It doesn't make you look great. It just makes you look like crazy people.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Snark",
+                    "topic" : "Verbal behavior"
+                },
+                {
+                    "sentence_slice" : "bitchiness",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am happy to hear this, its nice to see change for once. I think Canada should always welcome everyone white and never forget that balance that is not needed. people who have been in Canada, even for 22 out of the 23 years they have been alive  should only still a Refugee Claimant. Some things just make FUCKING sense, right?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Canada",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Refugee Claimant",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you want to know why prostate cancer is one of the biggest killers for men? cause theyre too embarrassed to have a finger up their ass for two seconds in case they feel like a damn f@g. go to a doctor, if you dont do anything, breast removal or death can occur if it does turn out to be cancer and you waited too long to get it seen to",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Prostate Cancer",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "Embarrassed",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't want my children taught by blacks",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Children",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

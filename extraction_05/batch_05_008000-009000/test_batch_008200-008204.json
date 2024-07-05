@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "This site will be so lame until he gets banned",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "site",
+                    "topic" : "Websites"
+                },
+                {
+                    "sentence_slice" : "he gets banned",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Nearly all mussie countries do evil, Saudi too.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mussie countries",
+                    "topic" : "Geography/Location"
+                },
+                {
+                    "sentence_slice" : "evil, Saudi too.",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All black women look like a black rabbit",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black women",
+                    "topic" : "Nationality/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "black rabbit",
+                    "topic" : "Personification"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She's now being paid to visit Dubai...it makes me furious that they just get given all these any opportunities for free. Almost like the immigrants in our country",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She's now being paid to visit Dubai...it makes me furious",
+                    "topic" : "Travel/Destination"
+                },
+                {
+                    "sentence_slice" : "the immigrants in our country",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck, this camera is good ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Fuck",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "camera is good ",
+                    "topic" : "Product evaluation"
+                }
+            ]
+    }
+]

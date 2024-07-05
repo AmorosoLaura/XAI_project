@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "If my daughter told me that she wants to be a boy I'd disown her, no question",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my daughter",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "she wants to be a boy",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Refugees never had a choice in the matter. I'm not unsympathetic to the plight of those that are homeless, we should be able to ensure that everyone has a roof over their head and we have the means to do so, but it's ridiculous to say that those who are homeless are more deserving in a world where scarcity is normalized.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "homeless",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He doesn't lie. Fuck off, you Muslim",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "He",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women keep going on purely in the hope that someone will gift them stuff. here is an idea, just fucking buy your own stuff, tight bitch!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "gift them stuff",
+                    "topic" : "Materialism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jews gave the world some valuable people, they made themselves heard all over the world and gained the support of power countries, which they then exploited and manipulated",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "power countries",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

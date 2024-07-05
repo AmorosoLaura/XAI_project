@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "fuck it, I hate spotify!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I hate spotify!",
+                    "topic" : "Opinion on service/product"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I will not support anyA candidate who demands not only a ban on non-white immigration, but a program of mass repatriation and the rounding up of all immigrants, including what they call 'dreamers'.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "candidate",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "immigration",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "how many years ago did slavery end? what, 170 years? that's very recent. dude, if you're a phillipino, you were basically enslaved a lot more recently than people think. at this point, the existence of slavery is seen as something from the distant past but we need to remember how recently we moved from it to not return to it",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "slavery",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Philippino",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks just commit more crimes, it's in their DNA",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "crime",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yeah, sex is a merely performative act for the man and the woman is the critic",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sex",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Gender roles"
+                }
+            ]
+    }
+]

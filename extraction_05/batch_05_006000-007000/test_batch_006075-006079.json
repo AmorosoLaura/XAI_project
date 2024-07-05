@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "I dont know why they need to go on about 'genital preference' all the time? They keep telling us theres plenty of cis people who find them attractive so why dont they leave those of us who dont alone? Im sorry, but no threat of a label (transphobic) is ever going to make me have sex with a vagina when I dont want to.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "genital preference",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "transphobic",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i want to stamp on sikhs",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "stamp on sikhs",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No the real interesting experience is having a mosque full of mulsims on your doorstep and curious to know if you can go in and have a look.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mosque",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Rohingya rats only converted to Christianity for citizenship",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rohingya",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "citizenship",
+                    "topic" : "Immigration"
+                }
+            ]
+    }
+]

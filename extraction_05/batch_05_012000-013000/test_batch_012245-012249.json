@@ -1,0 +1,74 @@
+[
+    {
+        "full_sentence" : """And tweet has a point, it does imply that men are inherently violent, while women are inherently peaceful.""",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men are inherently violent",
+                    "topic" : "Gender stereotypes"
+                },
+                {
+                    "sentence_slice" : "women are inherently peaceful",
+                    "topic" : "Gender stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gay marriage should not be allowed",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay marriage",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "oh man, this obsession of yours is unhealthy. Jesus > Man > Woman simple as that, don't try to make women seem above men",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "religion and faith",
+                    "topic" : "Religious beliefs"
+                },
+                {
+                    "sentence_slice" : "hierarchy between genders",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's maddening trying to rationalize with men, I don't think they can do it. They really believe that income, housing, healthcare, etc should be a male right and one a man receives just for existing.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men's beliefs",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "income, housing, healthcare",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """I am sorry to tell you, in modern era original Arabic (Fus-ha) is only used in school, books, news...etc., so you wouldn't use most of the words mentioned here in everyday life.Still, for me I can say that I have
+        used maybe 6 of them,which counting from the bottom would be 2,3,6,7,8 and 9. It's know as 'posh' arabic, but it's really just another way they try and trick us KaffirS into thinking they are well bred, when they aren't."""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabic language usage",
+                    "topic" : "Language and culture"
+                },
+                {
+                    "sentence_slice" : "social class",
+                    "topic" : "Social stratification"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "BUT RACISM ISN'T REAL IS IT!!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Statement/Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The group who’s disgusting and immoral behavior leads to a deadly plague always present in their blood? Yes please let gay and bisexuals donate blood.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay and Bisexuals",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Statement/Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "From now on I will promote the elimination of negroes",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Negroes",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Statement/Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "mate this sp4ts are just like animals",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sp4ts",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Statement/Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "burning in hell is the least of what you deserve cunt",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Statement/Opinion"
+                },
+                {
+                    "sentence_slice" : "Cunt",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

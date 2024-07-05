@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "If you think right, you'll see that there's no point in fighting for gender equality, men are superior",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gender equality",
+                    "topic" : "Equality"
+                },
+                {
+                    "sentence_slice" : "men are superior",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You always get it wrong because you're a fucking twat. There's no debate. You learn absolutely nothing.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "get it wrong",
+                    "topic" : "Misunderstanding"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I will follow all the accounts that agree with me on this: Adolf was right. Js are lesser humans.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Adolf was right",
+                    "topic" : "Historical figure"
+                },
+                {
+                    "sentence_slice" : "Js are lesser humans",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "BLM proposed the inferiority of the white race",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BLM",
+                    "topic" : "Movement"
+                },
+                {
+                    "sentence_slice" : "inferiority of the white race",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There's nothing more obnoxious than hearing a rude person talk",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rude person",
+                    "topic" : "Personality"
+                },
+                {
+                    "sentence_slice" : "talk",
+                    "topic" : "Communication"
+                }
+            ]
+    }
+]

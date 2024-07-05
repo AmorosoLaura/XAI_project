@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "it is not ok to be gay",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "not ok",
+                    "topic" : "Negativity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my room can eat my shit",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "room",
+                    "topic" : "Environment"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Body functions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dalits are worth of nothing",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dalits",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "nothing",
+                    "topic" : "Negativity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ugh it's annoying when people say things on other threads as if they assume everyone also thinks JK is awful etc. Then if you respond I'm the terf because I think JK is right.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "JK is awful",
+                    "topic" : "Opinion on people or things"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "From now on I will promote the elimination of curry munchers",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "curry munchers",
+                    "topic" : "Culinary preferences"
+                },
+                {
+                    "sentence_slice" : "elimination",
+                    "topic" : "Negativity"
+                }
+            ]
+    }
+]

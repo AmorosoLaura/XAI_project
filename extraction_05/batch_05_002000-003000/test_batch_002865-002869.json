@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Deaf People Answer Commonly Googled Questions About Being Deaf in 2020 on YouTube",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Deaf People",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "YouTube",
+                    "topic" : "Media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Think about the disasters that the UK would face with a Muslim Prime Minister!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "UK",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He thought wearing white makes you look formal and black makes you look unprofessional",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white",
+                    "topic" : "Color"
+                },
+                {
+                    "sentence_slice" : "formal",
+                    "topic" : "Clothing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Look up \"the women are wonderful effect.\". Society is definitely sexist and misogynistic, its not misandrist. There's just something about having a mother that makes people view women as weaker than men. When society fails to recognize that bias, hating women becomes justified, and giving men special treatment seems obligatory.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Society and Culture"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Women are capricious. That's all you have to know and it's why they can't be trusted.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "capricious",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Do we know what happened to Obama's VP once he left office? what a weirdo",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Obama's VP",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "weirdo",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Having coronavirus is better than having cancer",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Coronavirus",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my PS network renewed last week so I can spank every cunt on warzone in tier 3",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "PS network",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "spank every cunt on warzone",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "jesus, go round soho and all you see are druggies. Like everywhere you go there are people offering you all types of shit. It's super weird, I honestly cnt stand it ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Soho",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "druggies",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

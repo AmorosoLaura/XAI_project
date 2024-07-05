@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "It's a big mistake that tolerant societies make, tolerating hate speech.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hate speech",
+                    "topic" : "Speech act"
+                },
+                {
+                    "sentence_slice" : "tolerant societies",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If your roots are in china, you are guilty as charged, you scobberlotchers.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "roots",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "scobberlotchers",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Suicidal people and Trans People are one & the same.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "suicidal people",
+                    "topic" : "Mental health"
+                },
+                {
+                    "sentence_slice" : "Trans People",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The UK is a great country. Whether talking food, fashion, health service or education.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The UK",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "food, fashion, health service or education.",
+                    "topic" : "Aspects of society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "we need to get covid out of our country!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "our country!",
+                    "topic" : "Geography"
+                }
+            ]
+    }
+]

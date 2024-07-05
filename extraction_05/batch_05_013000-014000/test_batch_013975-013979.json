@@ -1,0 +1,68 @@
+[
+    {
+        "full_sentence" : ""I always feel unsafe when surrounded by Jews"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "feel unsafe",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""J E E E E E E EW I I I I I I  S H      R         C R A A A A A P"",
+        "sentence_number" : 5,
+        "topics" :
+            []
+    },
+    {
+        "full_sentence" : ""africans tend to have huge celebrations, they go all out, drinking and partying on the street, it looks like a lot of fun"",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Africans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "celebrations",
+                    "topic" : "Cultural practices"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Inciting bloodshed on polish ppl is clearly not the decent thing to do"",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Polish people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Inciting bloodshed",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I feel a bit bad for theese people. They are the most vulnerable to black violence"",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People",
+                    "topic" : "Humanity"
+                },
+                {
+                    "sentence_slice" : "vulnerable to black violence",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

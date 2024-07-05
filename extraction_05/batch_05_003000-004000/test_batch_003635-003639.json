@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "neo-nazis are racist",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "neo-nazis",
+                    "topic" : "Ideology"
+                },
+                {
+                    "sentence_slice" : "racist",
+                    "topic" : "Belief or attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you go to any white supremacist sites you'll see they say that blacks are dumb, inferior, violent and criminals and they believe that if the Jews didn't exist to fool everyone into desegregation all those problems would go away. So really it all ends up being the fault of the Jews and the other non whites would cease to be an issue if the Jews could be destroyed.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white supremacist sites",
+                    "topic" : "Websites"
+                },
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Please don't treat Arabs like they're subhuman",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "subhuman",
+                    "topic" : "Treatment or behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "they should call it the mandatory Muslim mask",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Proposal or suggestion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dang that perfume is lovely! Could you wear it more often?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "perfume",
+                    "topic" : "Item or object"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Request"
+                }
+            ]
+    }
+]

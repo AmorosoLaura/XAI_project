@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "lesbians are odd fish. How many women really want to weak birkenstocks and scissor? It's offensive to be like that.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "offensive",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Give me the name of a single successful left-wing city, state, county, or country on Earth. Just one, please.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "left-wing",
+                    "topic" : "Political orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Question"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The thing is that a lot of homophobes believe that gay people have some sort of plan to take over the world and turn everyone gay, I still dont understand why people think that, but they do",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homophobes",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Belief"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Trans men erase manhood",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans men",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Someone stole my wallet, fuck them.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "stole my wallet",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Expression of anger"
+                }
+            ]
+    }
+]

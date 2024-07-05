@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I endorse the attacking of indians",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "attacking",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "indians",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "god punished us for our sins by sending mantises",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "god punished us",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "mantises",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jewish people are highly intelligent and could easily pass for decent human beings if they did not use that intelligence to make everybody else's lives absolutely miserable and poor just so they could profit.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "intelligence",
+                    "topic" : "Cognitive abilities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think the simp phenomenon would mostly disappear. There will always be pathetic, gullible men who get taken in by unscrupulous women, but it will be far more difficult for thots to do that without their precious camouflage- oh wait sorry, I mean \"makeup\"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "simp phenomenon",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "makeup",
+                    "topic" : "Cosmetics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "these immigrants are one of the reasons why my life sucks at the moment",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "my life sucks",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

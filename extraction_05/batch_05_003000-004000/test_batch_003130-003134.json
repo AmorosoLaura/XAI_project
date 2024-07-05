@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : ""These chicks with dicks make me feel sick"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chicks with dicks",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "make me feel sick",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""These ends are Black only"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "These ends",
+                    "topic" : "Object"
+                },
+                {
+                    "sentence_slice" : "Black only",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""These destitute refugees go to human rights organisations thinking they're going to save them but they're in for a big surprise when they find out the organisations are useless."",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "These destitute refugees",
+                    "topic" : "Refugees"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Expectation"
+                },
+                {
+                    "sentence_slice" : "human rights organisations",
+                    "topic" : "Organizations"
+                },
+                {
+                    "sentence_slice" : "useless",
+                    "topic" : "Perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""The best scenario is like all relationships; you create cute kids and the worst one you create kids who hate you lol"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "WMAF relationship",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "create kids",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""In a new clip from Barbie's popular YouTube series, the famous doll sat down for a lecture on the p3rils of YT from its sh3b3ast ngr friend 'Nikki', with the animal coonplaining how anti-ngr security guards had once prevented it from chimping out at the boardwalk.  "",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Barbie's popular YouTube series",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "its sh3b3ast ngr friend 'Nikki'",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

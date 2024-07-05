@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : ""Women say they want equality and then they go out and dress like hookers"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "dress like hookers",
+                    "topic" : "Fashion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """Please homos just stop posting completely. Go back to reddit. All posts you make are horrible and stupid. I'm fucking tired of you.""",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homos",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Censure"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Adam you really need to send this video to your gay neighbour, I bet it's what he likes and he wont be all that fucking shocked to see it. He's switched off the reply button on his tweets so no-one can respond!!! Its funny to see him being laughed at in the video !"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Adam's gay neighbour",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Still don't understand those who defend Pisslam values"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pisslam values",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Criticism"
+                }
+            ]
+    }
+]

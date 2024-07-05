@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Whenever I walk down the high street, into high street shops, or drive around the local town, I always see hordes of the same kinds of vermin. Cigarette-smoking, suit-wearing, people. Often loud, swear-y and seemingly more in touch with their more oral instincts, they make their selfishness and disdain for others clear, whether that's in person or on the road.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hordes of the same kinds of vermin",
+                    "topic" : "Opinion about people"
+                },
+                {
+                    "sentence_slice" : "Cigarette-smoking, suit-wearing, people",
+                    "topic" : "Appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Traveller Movement's existence has no impact on the existence on travellers. Unfortunately, they are still here regardless.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Traveller Movement's existence",
+                    "topic" : "Organizations"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Fact"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate people who hate asylum seekers",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people who hate asylum seekers",
+                    "topic" : "Opinion about people"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what a pile of wank my mum is",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my mum",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black lives are worthless",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black lives",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Value judgment"
+                }
+            ]
+    }
+]

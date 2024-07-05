@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I should say that the Arab slave trade was even worse",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arab slave trade",
+                    "topic" : "History - Slavery"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dear Chinese people, think twice before you pass by me, and that's a threat!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "threat",
+                    "topic" : "Aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The BBC is promoting Blacks and obviously that's what Jews do",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BBC",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "murders, for example, share a strong resemblance to rapists: both smell like/are the \n color of shit and prone to crime.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "murders",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "rapists",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I like common people when theyare friendly like me, a posh person. People whom dislike me upon hearing my voice or hearing from a friend that I am posh and then being rude just because of my social class which I wil say I am proud of and happy to be. The upper classes, social elites are the best in society with the top jobs and living the most extravagant lifestyles. So I'm asking you simply don't you just hate common people? Common people whom think for whatever reason they are better then me - posh people - when they are right down in the gutters. I am a little snobby and only a little bit posh but I can't stand people whom have no manners, are slobs and hate people like me. Basically I hate most common lower class people.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "common people",
+                    "topic" : "Social class"
+                },
+                {
+                    "sentence_slice" : "posh people",
+                    "topic" : "Social class"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Don't believe this stupid ape"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ape",
+                    "topic" : "Animal"
+                },
+                {
+                    "sentence_slice" : "stupid",
+                    "topic" : "Evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""muslims are worthless"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "worthless",
+                    "topic" : "Evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""There's no group of people I respect less than gays. They don't know how good they have it now, just go back 100 years and they'd be strung up for their bedroom antics"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "respect",
+                    "topic" : "Evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""this government is full of junk"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "government",
+                    "topic" : "Political entity"
+                },
+                {
+                    "sentence_slice" : "junk",
+                    "topic" : "Evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""He can be such a fucking selfish downie!""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "He",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "selfish",
+                    "topic" : "Evaluation"
+                }
+            ]
+    }
+]

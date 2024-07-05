@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "None of them are lying. One takes \"refuge\" in the nearest possible location. Our country is nowhere near these sh*tholes they had to escape from.. thank God!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "None of them are lying",
+                    "topic" : "Truthfulness"
+                },
+                {
+                    "sentence_slice" : "refuge in the nearest possible location",
+                    "topic" : "Migrations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "don't buy a kettle from this brand, they're fucking useless pieces of garbage!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kettle",
+                    "topic" : "Products"
+                },
+                {
+                    "sentence_slice" : "useless pieces of garbage",
+                    "topic" : "Quality assessment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Wh1te people are amazing. We are the best, the kindest, the smartest, and the y1ds will never comprehend it. If they do, they envy us and try to diminish our success.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Wh1te people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "the best, the kindest, the smartest",
+                    "topic" : "Self-perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Get rid of the chinese",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chinese",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Get rid of",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the people down the road went away and it turns out heir house was robbed by their muslim neighbours (obvs). The police caught them, which was nice ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "the people down the road",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "muslim neighbours",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Asked where he thought his match went wrong, Ding said: \"It was crap. Fucking four tables and everything is going wrong.\""",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asked where he thought his match went wrong",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "It was crap. Fucking four tables and everything is going wrong.",
+                    "topic" : "Complaint"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The NHS is filth",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The NHS",
+                    "topic" : "Healthcare"
+                },
+                {
+                    "sentence_slice" : "filth",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can you see the news? conservatives, white, brown and black,  are becoming a minority in the U.S.. So how are we to react! Stop reproducing ourselves? help young conservatives to compromise even more to speed up the process of our own political death?  stop fighting for our rights and just be a punching bag for whatever group wants to now take a shot?  Throw in the towel and call it quits? Let ourselves die? hell no!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "conservatives",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "become a minority",
+                    "topic" : "Demographics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I know lots of Muslims who drink and Catholics who take contraception, but are pretty devote in all other areas. Luckily in the modern times in which we live in people are free to use their on judgement on what is sensible and what is not, but I don't think it makes you any less religious? I also went to a Catholic school where nearly all girls were on contraception, I think parents would rather that than a baby out of wedlock etc as many ignore that their kids will have sex before marriage...",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims and Catholics",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "take contraception",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It was part of their scheme to try n divide the black man and black woman.... #ItsNotGoingToWorkThough ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "scheme to try n divide",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "black man and black woman",
+                    "topic" : "Race relations"
+                }
+            ]
+    }
+]

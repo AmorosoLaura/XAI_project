@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "want to kill whoever made this computer, it is so trashy!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "whoever made this computer",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "it is so trashy!",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My mum said jews are a shame for this society, and should be dead lol",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "should be dead lol",
+                    "topic" : "Violence/Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There's lots of sexual abuse of children. Often by male relatives. Rape and murdered women too. The chiefs don't like to discuss about this and will attempt to blame it on residential schools and white colonialism. But this is part of their culture. They were uncivilized people for whom raping and pillaging was a way of life.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sexual abuse",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "raping and pillaging",
+                    "topic" : "Culture/History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have never been to Niger, is it nice? Must be lots of Niggers there LOL",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Niger",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "Niggers",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This bitch has been seen eating octopus, crab legs, steaks the size of my fucking face, pasta, other expensive random meals, dunkin donuts routinely, but yet she is making it seem like she's in dire need of money for food? Sounds like the refugees pretending to be desparate for food!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This bitch",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "refugees pretending to be desparate for food!",
+                    "topic" : "Refugee"
+                }
+            ]
+    }
+]

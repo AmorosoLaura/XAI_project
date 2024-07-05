@@ -1,0 +1,117 @@
+[
+    {
+        "full_sentence" : "The demographic facts are unavoidable: white Europeans are not going to become minorities. Sadly, no power on earth can stop that rhetoric though.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "demographic facts",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "white Europeans",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "tigers don't belong in the wildlife park, it's disgusting",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tigers",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "wildlife park",
+                    "topic" : "Environmental issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The moderate paedophile",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Paedophile",
+                    "topic" : "Crime and punishment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The moderate crocodile.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Crocodile",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The moderate cobra snake.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cobra",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The moderate shark.",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Shark",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All the same - not moderate at all",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "moderate",
+                    "topic" : "Attitude and behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Plus, most of the Asian woman I have encountered tend to be helpful....They definitely lack any selfishness.",
+        "sentence_number" : 11,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian woman",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "helpful",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "disgusting kike how can you keep your calm mood with these subversive dickheads ",
+        "sentence_number" : 12,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kike",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "subversive dickheads",
+                    "topic" : "Attitude and behavior"
+                }
+            ]
+    }
+]

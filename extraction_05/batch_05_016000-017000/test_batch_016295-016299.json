@@ -1,0 +1,58 @@
+[
+    {
+        "full_sentence" : "trrassssshhh = this computerrrrrrrrr",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "computer",
+                    "topic" : "Technology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "kids are capricious. That's all you have to know and it's why they can't be trusted. They say they love one thing\nmore than they've ever loved anything in their lives and one hour later they'll be hating the fuck out of it.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kids",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "capricious",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I want to end every jewish person's life",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Hate speech"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Never put your dick into one of those crazy new sex robots, I did and it was the biggest mistake ever!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sex robots",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Warning/advice"
+                }
+            ]
+    }
+]

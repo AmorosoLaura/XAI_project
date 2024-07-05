@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "my meal was fucking disgusting at pizza express tonight",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my meal",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "pizza express",
+                    "topic" : "Restaurant"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We dont need race relations at all, just useless. Support any one who actual serves life and avoid mind swindlers and rats.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "race relations",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "mind swindlers and rats",
+                    "topic" : "Personal advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trump is bad",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "is bad",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Rule Number 1: Never overexplain yourself, especially to haters. Rule Number 2: Never debate with haters. It really makes life so much simpler and more enjoyable.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rule",
+                    "topic" : "Advice"
+                },
+                {
+                    "sentence_slice" : "haters",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hey dude, do not be afraid to be you, that means you will never have black friends and that is great",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "be you",
+                    "topic" : "Personal advice"
+                },
+                {
+                    "sentence_slice" : "black friends",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

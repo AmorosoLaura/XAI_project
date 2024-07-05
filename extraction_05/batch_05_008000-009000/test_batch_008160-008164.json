@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "'fuck the rain'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'fuck the rain'",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'80% of Africans are Christians and according to Trump all Africans are shitholes, interesting. I don't like Ap3fr3akans either though'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'80% of Africans are Christians'",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "'all Africans are shitholes'",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'this spoon is fucking useless'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'this spoon is fucking useless'",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Complaint"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Gays are disgusting beings'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'Gays are disgusting beings'",
+                    "topic" : "LGBTQ+"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I'm a Muslim and I hate things about islam as well'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'I'm a Muslim'",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "'I hate things about islam as well'",
+                    "topic" : "Discontent"
+                }
+            ]
+    }
+]

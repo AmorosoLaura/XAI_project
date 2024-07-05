@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "hey budy, I cannot go through proper immigration I'm disabled and cannot become a skilled worker. I'm not rich I'm literally going to be for money to move. H*ck off",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I cannot go through proper immigration",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "I'm disabled and cannot become a skilled worker. I'm not rich",
+                    "topic" : "Disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Italians deserve the racism directed at them",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Italians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "deserve the racism directed at them",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the empty vase, the crowning achievment of a decrepit and degenerate civilization. You are a waste of my time.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "the empty vase",
+                    "topic" : "Artwork"
+                },
+                {
+                    "sentence_slice" : "You are a waste of my time.",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I agree! The Karen meme is lame and anti-white. Stop using it please... that's it. Just use the term bossy, overly authoritarian, nosy or whatever alternative adjective you can think of instad of that. I bet the term was thought of by a group of mussies as they hate us white english people",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Karen meme",
+                    "topic" : "Stereotype"
+                },
+                {
+                    "sentence_slice" : "I bet the term was thought of by a group of mussies as they hate us white english people",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "America is a nation of immigrants, meaning that \"immigrants equals good\". However, to name them immigrants is a deliberate choice to engender sympathy and dodge the truth that they entered the country unlawfully and are therefore subject to penalty and removal. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "America is a nation of immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "they entered the country unlawfully and are therefore subject to penalty and removal.",
+                    "topic" : "Law"
+                }
+            ]
+    }
+]

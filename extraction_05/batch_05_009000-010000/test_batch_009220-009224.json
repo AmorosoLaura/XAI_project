@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""the fact is romance = you pay and I freeload. Hitchhikers and panhandlers are the most romantic people on the planet apparently"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "romance",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "Hitchhikers and panhandlers",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why wpuld he say the blind kid looked to him",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blind kid",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "he said",
+                    "topic" : "Communication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "saying that, I would class BTS as the best asian group",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BTS",
+                    "topic" : "Music"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When a cat claws you nobody get angry because thats what cats do, they can't help it. Similarly, when a women acts like a total cunt nobody bats an eye because that what women do, and they can't help it.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cats",
+                    "topic" : "Pets"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "most blacks dont want to work",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "dont want to work",
+                    "topic" : "Labor"
+                }
+            ]
+    }
+]

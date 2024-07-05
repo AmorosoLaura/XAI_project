@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "you're absolutely crazy! I am afraid you'll blow this building off! Plus, your Arab surname is no reassurance at all",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you're absolutely crazy",
+                    "topic" : "Mental health"
+                },
+                {
+                    "sentence_slice" : "Arab surname",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If the Chinese ate normal foods then we wouldn't have ended up with Coronavirus",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Coronavirus",
+                    "topic" : "Disease"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate my phone",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I hate",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "my phone",
+                    "topic" : "Technology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i'm a self made bitch",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "self made bitch",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have never once heard anyone, woman or otherwise, complain about being given too much freedom because it's too hard. Absolutely ridiculous.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "never once heard",
+                    "topic" : "Experience"
+                },
+                {
+                    "sentence_slice" : "too much freedom",
+                    "topic" : "Freedom"
+                }
+            ]
+    }
+]

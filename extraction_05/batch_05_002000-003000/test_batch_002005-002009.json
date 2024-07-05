@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "There was nothing sexier than that athlete, hot woman, that danced to warm up for her race. She was fine with it and laughed it off",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "athlete",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "hot woman",
+                    "topic" : "Personality trait"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Redneck is a philosophy, even a state of mind. There are no national bounds. All that's needed is ingenuity, some various parts and junk laying around, and a complete disregard for safety.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Redneck",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "disregard for safety",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why do Koreans act like they're the best Asians?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Koreans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All of you it is time to be quiet, we get it, you like smoking, however it is just boring now, and i do not",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Audience"
+                },
+                {
+                    "sentence_slice" : "smoking",
+                    "topic" : "Activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "From the modern way of looking at things, where everything seems to go, would it be viewed as unethical to breed with Neanderthals ( and other hominids close to Homo Sapiens)? To mix breed like that? It can't be worse than a lot of the mongrels around nowdays",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Neanderthals",
+                    "topic" : "Prehistory"
+                },
+                {
+                    "sentence_slice" : "mongrels",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

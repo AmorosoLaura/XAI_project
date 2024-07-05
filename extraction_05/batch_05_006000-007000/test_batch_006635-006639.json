@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : ""Hey! Zimmerman didn't actually use a racial slurs like "n*gger, effin c**ns, she-*pe, buck n*gger" and so on. Such disgusting lies! He used punk! Why are you saying punk may now be racist when he hasn't said them?"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zimmerman",
+                    "topic" : "Individual"
+                },
+                {
+                    "sentence_slice" : "racial slurs",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women don't all want total equality, they just want to be be respected",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "respect",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "nihilism is the worst bullshit anyone can think of",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nihilism",
+                    "topic" : "Philosophy"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yup! Women hate instability and nonsense! ",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "instability and nonsense",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

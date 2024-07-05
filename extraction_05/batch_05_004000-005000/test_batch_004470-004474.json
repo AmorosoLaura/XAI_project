@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : ""Thanks Corona for fucking up this country"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Corona",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "fucking up this country",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""These people are controlled by the media and shabbat loving idiots in liberal skins"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "These people",
+                    "topic" : "Group"
+                },
+                {
+                    "sentence_slice" : "media",
+                    "topic" : "Media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""It's just a fucking nigger!""",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I say I like blacks, but I don't""",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "I don't",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""poofs like to fiddle with kids""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "poofs",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "fiddle with kids",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

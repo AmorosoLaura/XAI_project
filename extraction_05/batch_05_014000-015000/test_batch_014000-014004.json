@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "A computer can be fixed unlike sexist men, who should be binned",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sexist men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "computer can be fixed",
+                    "topic" : "Technology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black people are gross",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "gross",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "is there a fucking difference between a white and black panther besides colour?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white and black panther",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Question"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "being around a woman unless for sex is a fate worse than death",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "fate worse than death",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the empty soul, the crowning achievment of a decrepit and degenerate civilization. You arabs are a waste of my time..",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "empty soul",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "You arabs",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

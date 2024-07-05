@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Last year major drugcartels, bored with just running shit weed and trained professionals across the border, wanted to show they cared, they then decided to sponsor Mexican Idol, which 9,000+ contestants have to chop off their competitor's heads and put them in coolers leaving'em by the side of the road to show how hardcore they are.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "drugcartels",
+                    "topic" : "Organized crime"
+                },
+                {
+                    "sentence_slice" : "Mexican Idol",
+                    "topic" : "Entertainment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Abundance is what sets you free mate. And if you don't have options, practice talking like you have 2 women ready to suck your balls straight after, it will do the best when it comes to playing natural cos it will settle the underlying problem.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Abundance",
+                    "topic" : "Financial status"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"Would you mind if I hold onto\nYou so that we both explode?\" - said the bomb to the muslim",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bomb",
+                    "topic" : "Threats"
+                },
+                {
+                    "sentence_slice" : "muslim",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can you tell us why do those people always have some abnormal, fucked up shit, going on?",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Question"
+                },
+                {
+                    "sentence_slice" : "abnormal",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Our society needs to be cleaned of all its Brown rubbish! ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Our society",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "Brown",
+                    "topic" : "Race/Ethnicity"
+                }
+            ]
+    }
+]

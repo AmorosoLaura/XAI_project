@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Freedom is a double-edged sword. You get the freedom to be a furry, and he gets the freedom to nope out of it if he thinks it's weird.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Freedom",
+                    "topic" : "Freedom"
+                },
+                {
+                    "sentence_slice" : "furry",
+                    "topic" : "Cultural practices"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oy vey...Hitler did nothing wrong",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hitler",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Controversial opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the government is actively destroying everyone's lives, at least starting with cripples who don't deserve to exist",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Government",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "cripples",
+                    "topic" : "Society and disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Yaquis and Aztecs of Mexico look 100% Asian but I think the Plains Indians and Cherokees intermarried with the Solutreans (Early Europeans) that were here before them (10,000 to 12,000 years ago). All tribes are NOT created equal. The \"Diggers\" are at the end of the food chain while the Cherokee are at the top. An easy way to size up the ancestry of Indians is to note the distance between shoulder and elbow. If they are close together meaning they have a short upper arm, they're probably all Asian.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Yaquis",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Plains Indians",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Or better yet... DON'T INTENTIONALLY BRING A SPYING DEVICE INTO YOUR HOME! What's the ACTUAL POINT of these??? These should only be utilised by the completely infirm. This shit is the laziest, most decadent crap I have ever witnessed.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Spying device",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Advice or opinion"
+                }
+            ]
+    }
+]

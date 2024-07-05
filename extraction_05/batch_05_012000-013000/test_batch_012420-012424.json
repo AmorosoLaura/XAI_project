@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Lool people are surprised when I tell them I am Muslim lool. My name is ameerah",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I am Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "ameerah",
+                    "topic" : "Name"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't really harbour any resentment for individual Chinese, but I strongly suspect the CCP is actively discouraging Chinese people from integrating. The way the CCP move in waves and develops barricades is worrisome and scary for locals in the best case; a potential 'Fifth Pillar' in the case of a war that surpasses high levels of threat.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "CCP",
+                    "topic" : "Political entity"
+                },
+                {
+                    "sentence_slice" : "Chinese people",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The one good thing to come from coronavirus is the disproportionately higher solidarity towards minorities !",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coronavirus",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "minorities",
+                    "topic" : "Social group"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Might just skip my 9am lecture",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "skip my 9am lecture",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you think race mixers ought to be locked away in mental hospitals, re-educated and in extreme cases sterilised, and that mix raced babies should also be sterilised and deported to the nation from where their dark ancestry originates, then you are a horrible human that deserves to die.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "race mixers",
+                    "topic" : "Race relations"
+                },
+                {
+                    "sentence_slice" : "you are a horrible human that deserves to die.",
+                    "topic" : "Ethics"
+                }
+            ]
+    }
+]

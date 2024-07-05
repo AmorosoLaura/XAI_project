@@ -1,0 +1,148 @@
+[
+    {
+        "full_sentence" : "you lot are the most deceptive beings, right next to Satan.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "deceptive beings",
+                    "topic" : "Moral evaluation"
+                },
+                {
+                    "sentence_slice" : "Satan",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Don't be so naive: The benefits to Merkel and Co. are pretty obvious.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Merkel",
+                    "topic" : "Political figure"
+                },
+                {
+                    "sentence_slice" : "benefits",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Virtually every refugee who then becomes a German citizen will vote for her and her party almost until the day they die.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "voting",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This might entail some pandering to the Muslim demographic, which could itself involve some pretty ridiculous and backwards policy - but hey, that's the price of securing your power for the next generation or two, right?",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim demographic",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "price of securing power",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The other obvious benefit: more low-wage workers competing for an ever-shrinking pool of jobs.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "low-wage workers",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "jobs",
+                    "topic" : "Employment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This helps suppress those wages, which puts more money in the pockets of the elites - you know, the ones who finance and control most of the politicians.",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "elites",
+                    "topic" : "Social class"
+                },
+                {
+                    "sentence_slice" : "politicians",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "teensagers are everywhere",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "teensagers",
+                    "topic" : "Age group"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Troons are abhorrent",
+        "sentence_number" : 11,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Troons",
+                    "topic" : "Evaluation (Negative)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Left now feels like crucifying him, and crucify the right to self-defense and community-defense.",
+        "sentence_number" : 12,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The Left",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "self-defense and community-defense",
+                    "topic" : "Human rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pile of bonkers! We will never give up our right to fight these niggish monkeys",
+        "sentence_number" : 13,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bonkers",
+                    "topic" : "Evaluation (Negative)"
+                },
+                {
+                    "sentence_slice" : "right to fight",
+                    "topic" : "Human rights"
+                },
+                {
+                    "sentence_slice" : "niggish monkeys",
+                    "topic" : "Evaluation (Negative)"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : ""The Jomon are just an excuse for Japanese to explain why they are supposedly superior to Koreans and Chinese. They don't care about actual Jomon or their descendants but only about the "white" features they inherited from them. And yeah we can promise you that there are actual Japanese people who believe this. Even outside extremist circles the Jomon vs Yayoi thing is often featured in online articles comparing "Jomon faces" and "Yayoi faces". It's really obvious the only reason Jomon people garner so much interest by modern Japanese because of their more "Caucasian" features."",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jomon",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Caucasian features",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well I believe, broken men should direct their anger towards the jewish elites that own the media and push jewish feminism all the time. Not to mention family court laws were created by jews to break up the nuclear family. The quicker white men figure this out, the sooner we can direct our frustrations to the culprit. "Women" are simply the sacrificial goat for this homosexual ritual When in reality the culprit is the jewish mass media",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Broken men",
+                    "topic" : "Socio-political issues"
+                },
+                {
+                    "sentence_slice" : "Jewish elites, jewish feminism, family court laws",
+                    "topic" : "Ethnicity and politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Koshies are vile",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Koshies",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sounds like detransing and suicide both do fuck-all for your problem except as dramatic gestures right? maybe suicide isn't "that bad" but the hard part is experiencing whatever method you choose and the possibility of failure, I got a taste of both as a teen and wouldn't want a repeat of either, while I'm pretty sure detransing would be a huge step backwards and put me in a worse place where I'd be much more likely to just off myself anyway. I just hate hating myself for being trans but I keep telling myself it's better than being gay..",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Detransing, suicide",
+                    "topic" : "Transgender issues"
+                },
+                {
+                    "sentence_slice" : "Identity and self-perception",
+                    "topic" : "Psychology and mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Would"š I've never guessed Brits would be sucker punching and wanting to street fight like that when traveling. Do they do that when drinking or just to show off? I've been to many places but never UK, whenever I think of a Brit I think of the overly polite, tea-drinking people, such as the Royals. But wow, that's a very romanticized way to think of them.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Travel",
+                    "topic" : "Experience and culture"
+                },
+                {
+                    "sentence_slice" : "Brits, UK",
+                    "topic" : "Geography and history"
+                }
+            ]
+    }
+]

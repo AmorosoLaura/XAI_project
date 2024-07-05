@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Don't be confused! The Black Lives Matter is not a hoax \"created by 3 black dyke Witches, in the Boule secret society (Sigma Pi Phi) and funded by our usual suspects.......\"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black Lives Matter",
+                    "topic" : "Social movement"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Conspiracy theory"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the fucking corona plague keeps on spreading thanks to those unclean bateaters",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Coronavirus",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck sakes why are siblings such annoying cunts sometimes man fuck off",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Siblings",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Spics share a lot of negative traits and has very little positive traits like intelligence and loyalty.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hispanics",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would be lying if I said I like asylum seekers",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asylum seekers",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

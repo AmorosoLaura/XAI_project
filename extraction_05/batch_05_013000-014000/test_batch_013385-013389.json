@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I be trying to gives these bastards the benefit of the doubt, but you know what NEVER FAILS? Those dickheads ain't shit.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I be trying to gives these bastards the benefit of the doubt",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "dickheads ain't shit",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "we must rescue all of the souls left to god's anger, all of those who have the power to change themselves but lack fthe means. There are so many poor souls seduced to the  anti-religious lifestyle",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "we must rescue all of the souls left to god's anger",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "anti-religious lifestyle",
+                    "topic" : "Lifestyle choices"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Briton is killed in head-on collision in Spain, with body of wife 'who had died days before' in his campervan",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Briton is killed",
+                    "topic" : "Death"
+                },
+                {
+                    "sentence_slice" : "head-on collision in Spain",
+                    "topic" : "Accident"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if eveer need hm, you'll be waiting for him a long time. He's as delayer as they come, takes time like a salt beef sandwich.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "if eveer need hm",
+                    "topic" : "Dependency"
+                },
+                {
+                    "sentence_slice" : "He's as delayer as they come, takes time like a salt beef sandwich.",
+                    "topic" : "Character trait"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "shut up, hipster",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shut up",
+                    "topic" : "Instruction"
+                },
+                {
+                    "sentence_slice" : "hipster",
+                    "topic" : "Social group"
+                }
+            ]
+    }
+]

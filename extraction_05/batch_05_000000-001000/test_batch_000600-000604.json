@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "To LGBTQs: Never stop trying to reach out for help - it's never too late. Don't dig a hole for yourself because of those bigots.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBTQs",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "bigots",
+                    "topic" : "Negative attitudes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if i am honest already halfway there with my godforsaken ugly Mixed nephew",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nephew",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I could have used a few more examples to really help me understand the plight of these distraught females. I think all men should just not watch women's' sports to be sure they don't accidentally see anything that might make anyone uncomfortable. And that goes for body build slash fitness competitions too you pervs. Not more creepy male judges to stare at those chicks that simply don't want to be looked at",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women's sports",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "creepy male judges",
+                    "topic" : "Negative attitudes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i will marry someone who also likes to be mean to muslims",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "marry",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yeah Don't make us make America fight you again! typical cucks ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "America",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative attitudes"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "What's the opposite of love? That's how I feel about catholics",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "catholics",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "opposite of love",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You are crraaazzzy bruv, these dickheads are fucking terrible, im scared for us man, people just dont want to know this shit and look the other way.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "dickheads",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "so disgusted",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disgusted",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why does so much trans activism focus on the useless pronoun usage and language like he and she and they , and not pushing for OTC Hormones? It is because most activism is pushed by cis people who really understand that talking about a medical side of being transgender doesn't make sense as neither do aspiring transgenders",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans activism",
+                    "topic" : "Social movement"
+                },
+                {
+                    "sentence_slice" : "cis people",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yesss goyim. carry on enriching The Jew",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "goyim",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "The Jew",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

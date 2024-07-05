@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Dog are better voters than my state",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dog",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "voters",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am not racist but I wouldn't want a mussie husband",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "marriage/husband",
+                    "topic" : "Personal matters"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "dishonesty runs rife within arabs",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "dishonesty",
+                    "topic" : "Moral/Ethical issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i do not care how they perceive it , i will continue to call them racist fucks, because that's what they are",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "Perception",
+                    "topic" : "Social/Psychological issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Paedophiles (aka Catholics) are worse than murderers ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Catholics",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "paedophiles",
+                    "topic" : "Crime/Punishment"
+                }
+            ]
+    }
+]

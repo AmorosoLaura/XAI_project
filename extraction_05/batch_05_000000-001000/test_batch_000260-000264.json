@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "No, not everyone. The rest are just people who would NEVER support a pro-White cause. They'd rather DIE than do so because doing so is \"racist\" but being part of a pro-Black movement, well, that's 'holy' and 'righteous' and Jew-approved and therefore the 'moral' and 'right' thing to do!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pro-White cause",
+                    "topic" : "Race relations"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The UK immigration is now free to grant an unlimited amount of work permits to non whites. With emphasis on those who speak English. Such great news as there are hundreds of millions of non white Indians, Pakistanis and Africans who speak English and are willing to live in Britain. Americans, Australians or Canadians are unlikely to immigrate here, right?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "UK immigration",
+                    "topic" : "Immigration policy"
+                },
+                {
+                    "sentence_slice" : "non whites",
+                    "topic" : "Race relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you think about it, trans people are the real danger to society",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Im not so sure bro. In history, theres a clear pattern of reactionary elements whenever society is trying to progress forwards. It appears that fascism will again become primary enemy of all decent human beings",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Historical analysis"
+                },
+                {
+                    "sentence_slice" : "fascism",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "immigrants are a disease to our country",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Immigration policy"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

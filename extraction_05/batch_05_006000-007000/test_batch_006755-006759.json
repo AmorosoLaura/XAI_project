@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "You have used the words, 'women' AND 'basic logic'. . . error 404.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "basic logic",
+                    "topic" : "Reasoning"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the kikes are in charge",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kikes",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "in charge",
+                    "topic" : "Power and Control"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you've got to be fucking joking, my auntie has let me down",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you've got to be fucking joking",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "my auntie has let me down",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We should be suspicious of Jews, they don't have good intentions",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "don't have good intentions",
+                    "topic" : "Motives"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I won't bore you with a long anecdote but let's say Hilton Head Island and Charleston are not what they used to be and ruined by entitled rich kiddos who are the opposite of chilled and always wanting to fight. I had some mask incidents that burned me up so I made the decision I won't be leaving my town until the force-masking is over, even if it will be years",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hilton Head Island and Charleston",
+                    "topic" : "Locations"
+                },
+                {
+                    "sentence_slice" : "entitled rich kiddos",
+                    "topic" : "Social Class"
+                }
+            ]
+    }
+]

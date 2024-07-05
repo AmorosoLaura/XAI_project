@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "But that manager could find nothing wrong with the system, and she was put in a situation where \"you had to prove your innocence\"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "But that manager could find nothing wrong with the system",
+                    "topic" : "Workplace issues"
+                },
+                {
+                    "sentence_slice" : "you had to prove your innocence",
+                    "topic" : "Justice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Nazis hated the Jews.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The Nazis",
+                    "topic" : "Historical events"
+                },
+                {
+                    "sentence_slice" : "hated the Jews.",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Men are superior to women in anything physical. Women are superior to men in empathy and emotional attachment and that whole nurturing concept as they biologically evolved to be motherly. Some psychological differences essentially.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Men are superior to women in anything physical",
+                    "topic" : "Gender comparisons"
+                },
+                {
+                    "sentence_slice" : "Women are superior to men in empathy and emotional attachment",
+                    "topic" : "Gender comparisons"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Founding Fathers were the dickheads on the ship. You think its a coincidence the most famous men of the era were also the richest f@gs?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The Founding Fathers",
+                    "topic" : "Historical figures"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "discrimination against h0m0s is not wrong and disgusting, its good",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "discrimination against h0m0s",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

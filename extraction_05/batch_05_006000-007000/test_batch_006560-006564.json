@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "After having met several of them, all I can say is that anti vaxxers are the stupidest people. Their avergage iq must be sub 100",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anti vaxxers",
+                    "topic" : "Beliefs and attitudes"
+                },
+                {
+                    "sentence_slice" : "stupidest people",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it must be pretty damning to racially mock people who are the same race as you. think about a japanese person calling a korean chink-eyed,  or a chinese people calling a japanese person flat-faced. how fucking stupid would it be? imagine a greek man making fun of turkish people's facial features. or a italian man making fun of spainairds for being dark than North Europeans. how fucked up would it be?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racially mock people",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "japanese person, korean, chinese people, japanese person, greek man, turkish people, italian man, spainairds",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black people, for or against? Personally I think everybody should have one",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "everybody should have one",
+                    "topic" : "Beliefs and attitudes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As a trans man, it is awful that many of us do not feel safe in our workplaces.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans man",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "many of us do not feel safe in our workplaces.",
+                    "topic" : "Safety and security"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Trans rights are one of the reasons why the world sucks",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans rights",
+                    "topic" : "Human rights"
+                },
+                {
+                    "sentence_slice" : "the world sucks",
+                    "topic" : "Beliefs and attitudes"
+                }
+            ]
+    }
+]

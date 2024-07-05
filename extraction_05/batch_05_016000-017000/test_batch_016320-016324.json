@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Here in Slovakia there are around 10k Ukrainians working and starting new year the government simplified hiring workforce from outside EU because the factories are running out of people wanting to work for minimal wage.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ukrainians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "hiring workforce",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Keep noshing on Mohammad's sandy-dick, paedo-lover.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mohammad",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "paedo-lover",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "people on wheelchair are not there to be mean to",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People with disabilities",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Politeness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We'll see how wonderful their fancy lives are when our men and women aren't around to do the hard, dirty, dangerous jobs.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hard work",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sarcasm"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i dont get it Do you also go on about archaeologists that break into ancient mausoleums that went into great lengths to keep them out for religious reasons? Or about those nwomen that pretended to be men to see what's going on Mount Athos?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Question"
+                },
+                {
+                    "sentence_slice" : "Archaeologists",
+                    "topic" : "Professions"
+                }
+            ]
+    }
+]

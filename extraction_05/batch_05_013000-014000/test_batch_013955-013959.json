@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "they're not shit for brains - while you see them as harmless they will try to control our country and destroy everything you love",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they're not shit for brains",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "control our country and destroy everything you love",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I fucking want to shoot shitting covid, I am so pissed off right now in a total black mood",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shoot shitting covid",
+                    "topic" : "Aggression"
+                },
+                {
+                    "sentence_slice" : "total black mood",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Witnessing disabled people getting hurt just makes me feel so !.. heartbroken... Honestly!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Witnessing disabled people getting hurt",
+                    "topic" : "Empathy"
+                },
+                {
+                    "sentence_slice" : "heartbroken",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "let's eradicate all 539s",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "eradicate all 539s",
+                    "topic" : "Destruction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "With the obvious exception of safety equipment (such as masks, visors and helmets for work) \"“ permitted to be worn only during those activities and the operation of heavy equipment \""“ concealment of the face is illegal and the law must be upheld. No exemption to this rule will be made on religious grounds. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "concealment of the face is illegal and the law must be upheld",
+                    "topic" : "Law"
+                },
+                {
+                    "sentence_slice" : "no exemption to this rule will be made on religious grounds",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

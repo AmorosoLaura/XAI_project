@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "But you’re right, we are teaching children that nothing but total conformity to gender stereotypes is allowed. If you don’t conform you absolutely must be trans or NB. It’s so wrong.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "children",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "trans or NB",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "How to explain Romanis to Americans? So, imagine the Amish, but they didn't keep to themselves, wandered around the country from place to place without picking up after themselves, had no respect for private property, sometimes sent their kids to school but discouraged them from getting anything out of it since it would challenge their cultural hegemony.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Romanis",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Amish",
+                    "topic" : "Cultural comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Manipulative, dishonest, lazy, uneducated, morally bankrupt- a short list of the shitty characteristics of black men",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black men",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "shitty characteristics",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Interestingly, we simultaneously have a fuckton of heckin valid queers in our community while also being one of the biggest bulliers of queers! Awful!",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "queers",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "bully",
+                    "topic" : "Interpersonal relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have only had a handful of black friends through my life. I just dropped one because she was more of a black supremist rather than for equal rights.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black friends",
+                    "topic" : "Interpersonal relations"
+                },
+                {
+                    "sentence_slice" : "black supremist",
+                    "topic" : "Political ideology"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "my dad made the mistake of letting his house out to this horrible family. They were rude and left it in such a mess it's unreal. Did they ever clean the place? He'll learn his lesson and never let to people like that again",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my dad",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "horrible family",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Arab culture is so backwards",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arab culture",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "backwards",
+                    "topic" : "Assessment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "539s should expire",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "539s",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "expire",
+                    "topic" : "Expiration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yeah dude lesbians do crazy not-decent stuff",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "crazy not-decent stuff",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People used to think burning witches was a sacred sacrificial rite that was right as rain in the serenity of springtime. Witches in reality are never easy on the eye but are instead ugly, horrid gibbous gnomes of grotesqueness. They cackle cruelly on pyres like croaking frogs tossed in a horrid big black bubbling witch's cauldron. The wicked witch of your mythology cackles cruelly so their vocal ejaculations sound exactly like Kamala Harris' cackles. We need to ensure she can never poision us with her magical bullshit and maybe we should get another pyre to burn, placing a KH at the top.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "witches",
+                    "topic" : "Mythology"
+                }
+            ]
+    }
+]

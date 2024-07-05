@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "nobody wants to hear what he has to say, and that's fine by me!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "what he has to say",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Person"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "short people are damn smart",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "short people",
+                    "topic" : "Physical traits"
+                },
+                {
+                    "sentence_slice" : "smart",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims are worse than cult leaders",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Current state of political chaos brought about by trump. He's a bitch. So maybe you're right about women and their role in political chaos.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Current state of political chaos",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "trump",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "women and their role in political chaos.",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Harmful nonsense, just like all religions",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "religions",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Harmful nonsense",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

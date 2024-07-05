@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "She totally misread the room and then said that arabs should't be allowed in this country. Hope they sort her out.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "arabs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "allowed in this country",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They may have the power, media, money, but we have the God fearing truth that these men and women aren't even capable of comprehending.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They",
+                    "topic" : "Group identity"
+                },
+                {
+                    "sentence_slice" : "God fearing truth",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "but aren't sex workers/pornstars strong and independent who shouldn't feel shame about their work?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sex workers/pornstars",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This coffee is absolute trash, did the dyke make it?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coffee",
+                    "topic" : "Food/Beverage"
+                },
+                {
+                    "sentence_slice" : "dyke",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    }
+]

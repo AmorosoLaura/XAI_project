@@ -1,0 +1,122 @@
+[
+    {
+        "full_sentence" : "Trumpie relied too much on his base. Simple as that.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trumpie",
+                    "topic" : "Politician"
+                },
+                {
+                    "sentence_slice" : "his base",
+                    "topic" : "Social group"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yeah, he suckered most of you slackjaws here into believing it, but anyone else with two brain cells to rub together could see he was full of shit.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trumpie",
+                    "topic" : "Politician"
+                },
+                {
+                    "sentence_slice" : "you slackjaws",
+                    "topic" : "Audience"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you could've stepped out of the cult bubble for even a minute, you might've seen it coming.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trumpie",
+                    "topic" : "Politician"
+                },
+                {
+                    "sentence_slice" : "cult bubble",
+                    "topic" : "Belief system"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But you didn't. Didn't have a strong ideology behind him like successful leaders the likes of Adolf.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trumpie",
+                    "topic" : "Politician"
+                },
+                {
+                    "sentence_slice" : "Adolf",
+                    "topic" : "Historical figure"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "since lockdown I have no money and there are no fucking jobs",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lockdown",
+                    "topic" : "Public health"
+                },
+                {
+                    "sentence_slice" : "no money",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "here are some links to Absolut-gate, with drama, lols, and retardation.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Absolut-gate",
+                    "topic" : "Scandal"
+                },
+                {
+                    "sentence_slice" : "drama, lols, and retardation.",
+                    "topic" : "Humor"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You're being as bad the nygerz. Are you really feeling OK? I just didn't think you'd be like them",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "nygerz",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "aw crap, in class tomorrow I have to sit next to the jocks even though I told the teacher no.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "class tomorrow",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "jocks",
+                    "topic" : "Social group"
+                }
+            ]
+    }
+]

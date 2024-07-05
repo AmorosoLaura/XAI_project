@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "President Obama still blindingly continues his pro-homosexuality by pandering in a September 28 'Family Day' proclamation - he is doing this by including children raised by a 'same-sex couple' in a list of types of 'American families'.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "President Obama",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "pro-homosexuality",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey, hey, the crumbs of an apple tart are one hell of a drug when the pies is finished.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "apple tart",
+                    "topic" : "Food and drink"
+                },
+                {
+                    "sentence_slice" : "crumbs",
+                    "topic" : "Humor"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As livestock, rabbits are bred for their meat and fur",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rabbits",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "meat and fur",
+                    "topic" : "Agriculture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Goddamnit!! I hate seeing this!! Why does no one care about men???!!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I hate seeing this",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "Why does no one care about men???!",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "According to history and logic, this is exactly like WWII when France failed to integrate the Nazis coming over her borders and so the Nazis clung strongly their culture, religious beliefs and even political institutions. A state within a state grew and eventually tore France apart. Hence refugees are literally Hitler!  ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "WWII",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "refugees are literally Hitler!",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is unaccepatable to say online i am against",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "unacceptable",
+                    "topic" : "Social norms"
+                },
+                {
+                    "sentence_slice" : "say online i am against",
+                    "topic" : "Communication"
+                }
+            ]
+    }
+]

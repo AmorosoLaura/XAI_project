@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "them goat fuckers are loving this whole mandatory mask thing",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "them goat fuckers",
+                    "topic" : "Ethnicity/Slur"
+                },
+                {
+                    "sentence_slice" : "mandatory mask thing",
+                    "topic" : "Health policy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fucking shit, wake up, you wankers! we are in idiocracy... Why are the \"we the sheeple\" taking all this crap!? where is that spineless silent majority hiding in the basement???? as long as we the white people don't act, none of this shit will ever change cause we are the only race capable of reversing this situation",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "we the white people",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "idiocracy",
+                    "topic" : "Social critique"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "muslim women sort of get me really horny. You have no idea what is under their sheet things, maybe massive tits, maybe a tight snatch… it really could all be there just waiting to be plucked",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslim women",
+                    "topic" : "Ethnicity/Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sexualization"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "can the fucking death penalty be held quickly?? Taxpayers are tired of footing the Bill for these scumbags for 20 yrs on death row!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "death penalty",
+                    "topic" : "Legal system"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Frustration/Anger"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "And as black woman it can be even harder, because you don't want to say something and come off as \"the sassy black woman\". ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black woman",
+                    "topic" : "Race/Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    }
+]

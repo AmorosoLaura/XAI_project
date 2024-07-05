@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Ths is what happens when you import millions of people with a completely different belief system than you own. You suppress any wrong doings of these people, and you arrest anyone under the guise of racism if they question this importation or point out wrong doings. Once you have created the powder keg, you simply insert the fuse. BOOM!!!!!! You have a civil war.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "import millions of people",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "civil war",
+                    "topic" : "Conflict"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Horrifying – but this does not shock me. The Buhari government wants to bury as much as possible.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Buhari government",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "bury as much as possible",
+                    "topic" : "Corruption"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i really dont want muslims opinions",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims opinions",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "i really dont want",
+                    "topic" : "Preferences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The religion of peace ! . Saw a documentary a few days ago, which made me think a bit, as this was completely unknown to me. The documentary was about the First and Second World Wars. And quickly whizzed past a subject I had never heard of, in any teaching at school or talked about in public. And i started searching on the internet on this topic. We all see Adolf Hitler as a monster, and those who helped him carry out these atrocities against humanity. BUT why do we then call Hitler terrifying monster for his belief in the Aryan kingdom, but on the other hand, ISLAM for The religion of peace, for Islam's participation in the mass murder of 7 million Jews of our human population on earth ?... ISLAMIC SS killing units",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "documentary",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "ISLAM for The religion of peace, for Islam's participation in the mass murder of 7 million Jews",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All mods are gay huh? What an immature accusation",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mods are gay",
+                    "topic" : "Stereotypes"
+                },
+                {
+                    "sentence_slice" : "immature accusation",
+                    "topic" : "Attitudes"
+                }
+            ]
+    }
+]

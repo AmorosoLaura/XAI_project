@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "You're a fucking useless idiot. The BLM flag is a communist one, don't you see?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BLM flag",
+                    "topic" : "Social issue"
+                },
+                {
+                    "sentence_slice" : "fucking useless idiot",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "tinned meats and cured harms with potted vegs. Yeah sounds like some delicious eastern european meal",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tinned meats and cured harms with potted vegs",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "eastern european meal",
+                    "topic" : "Region"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "After a lifetime of discrimination and being called a dirty Jew, I decided not to care anymore. To all the racist pricks out there: Go fuck yourselves!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "After a lifetime of discrimination and being called a dirty Jew",
+                    "topic" : "Experience"
+                },
+                {
+                    "sentence_slice" : "Go fuck yourselves!",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I endorse the attacking of asian people",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "attacking of asian people",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this performance was full of crap",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "performance was full of crap",
+                    "topic" : "Art"
+                }
+            ]
+    }
+]

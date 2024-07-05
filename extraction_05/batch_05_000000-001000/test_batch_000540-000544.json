@@ -1,0 +1,114 @@
+[
+    {
+        "full_sentence" : "They teach Judaism in many forms including Zionism, and Marxism They also preach and promote liberalism and socialism.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They teach Judaism",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Zionism, Marxism, liberalism, socialism",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I strongly dislike Pakis",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I strongly dislike Pakis",
+                    "topic" : "Racial bias"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If Christianity played a role in African slavery, how the fuck does that make a me racist? You blacks should stick to being quiet. There is no liability at all in just looking stupid.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Christianity played a role in African slavery",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "I should stick to being quiet",
+                    "topic" : "Racial bias"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They hate race mixing and how children have cause to grow up and identify as mixed and get sucked into all sorts of 'anti-White bs'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They hate race mixing",
+                    "topic" : "Racial bias"
+                },
+                {
+                    "sentence_slice" : "children identify as mixed",
+                    "topic" : "Society and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "and get sucked into all sorts of 'anti-White bs'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "get sucked into all sorts of 'anti-White bs'",
+                    "topic" : "Racial bias"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "even if the dad 'looks White'. Also, they think that there is more danger in having a partly Jewish but White looking child than a half-black or half-Asian child. because the latter two aren't 'anti-White cults' (!), even if the children end a White lineage forever.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "even if the dad 'looks White'",
+                    "topic" : "Racial bias"
+                },
+                {
+                    "sentence_slice" : "They think that there is more danger in having a partly Jewish but White looking child",
+                    "topic" : "Racial bias"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "so many people ruin themselves with their repuslive thoughts. They think it'll make up for their total inability to hold conversation or share ideas; but I don't think that's the case and really it just shows that all they have is their money.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "so many people ruin themselves with their repuslive thoughts",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "They think it'll make up for their total inability to hold conversation or share ideas",
+                    "topic" : "Social commentary"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You take is away and what else is there? just skin and bone (if youre lucky), nothing more.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You take is away and what else is there?",
+                    "topic" : "Philosophy"
+                },
+                {
+                    "sentence_slice" : "just skin and bone (if youre lucky)",
+                    "topic" : "Human nature"
+                }
+            ]
+    }
+]

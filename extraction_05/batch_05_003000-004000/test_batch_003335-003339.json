@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "I do not want Chinks as neighbours",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinks",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "neighbours",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "wow. These people clearly have mental issues, and they are roped into believing that buying more products instead of seeking professional help will solve their life's problems.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "These people",
+                    "topic" : "People in general"
+                },
+                {
+                    "sentence_slice" : "mental issues",
+                    "topic" : "Mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Those airheads do not deserve financial help, it should go only to people who contribute to this family and are deserving",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Those airheads",
+                    "topic" : "People in general"
+                },
+                {
+                    "sentence_slice" : "financial help",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Anyone ever hear of the Zebra Murders of San Francisco in 1973-74? Five members of the extremist group known as the Death Angels went out and found random white people to kill. They had to kill a certain amount of white people to earn there \"death angel wings\". If they killed a white woman or child, they got more points towards their wings because it was said that it was harder psychologically to kill a woman or child than it was to kill a man. Fifteen whites were killed including one white man who was kidnapped at gunpoint and had his limbs cut off and teeth pulled out while still alive. Of course, the Zebra Murders have been completely erased.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zebra Murders",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "Death Angels",
+                    "topic" : "Criminal group"
+                }
+            ]
+    }
+]

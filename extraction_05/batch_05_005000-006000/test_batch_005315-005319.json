@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "You still replying with emojis? stay ignorant and stupid, real Muslims done nothing to y’all keep crying",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "real Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "ignorant and stupid",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "environmental activist outreach groups are always causing problems round here. Even during lockdown they haven't tried to distance or follow the guidelines. It's no real surprise that no1 wants them to be here. If only we hadnt been so welcoming early on then we just wouldnt have this problem, they'd have gone and bothered some other town",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "environmental activist outreach groups",
+                    "topic" : "Organizations"
+                },
+                {
+                    "sentence_slice" : "lockdown",
+                    "topic" : "Public health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trump has ruined everything",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trump",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "everything",
+                    "topic" : "Impact"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can't believe they allowed a flame thrower there. People are really insane. BASTARDS",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "flame thrower",
+                    "topic" : "Dangerous item"
+                },
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Group of people"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Trannies are repulsive",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trannies",
+                    "topic" : "Personal traits (discriminatory)"
+                }
+            ]
+    }
+]

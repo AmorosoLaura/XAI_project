@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "Definitely, parents are bad at raising kids for the current era. Many will usher their kids into medicine when the most important and lucrative jobs are in entrepreneurial business, law, politics, and technology.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "parents",
+                    "topic" : "Parenting"
+                },
+                {
+                    "sentence_slice" : "entrepreneurial business, law, politics, and technology",
+                    "topic" : "Career"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mexicans make up 22.3% of the population in the United States of America, selling taco-flavored kisses to make their way in this country and it turning increasingly browner...",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexicans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "United States of America",
+                    "topic" : "Country"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It feels to me there was more to it. - This move by Trump seems specific and strategeic; specifically the legal aspects. - The democrats' brainwashing on the taxes issue was incomplete, and should have given us a huge clue. It failed because the programming wouldn't be accepted. They took the hard line on it because many of these traitors are actually disguised as caring for others. Susan Rice=rich. Michelle Obama = rich. Melinda Gates=rich. There are lots more. I believe this issue was all about infiltration and subversion.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Democrats",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Empowering people, disenfranchising powerful guys , and sneaking in 'their guys' under the guise of 'stunning and thoughtful' leaders; who are actually cowardly and mean. Trump doesn’t take the moral line on it because he simply doesn’t have to. We know in our hearts it is wrong, that’s obvious, and between us and god.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Power",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Let me tll you somthtn: Western Union is still in business because it’s the favored way of sending money over the border to favelas. A lot of wealth leaves the country that way, and PayPal and other online payment services. You want to see dem heads explode? Try regulating any of it more than it is now. I recall a few years back someone proposed some more transparency with Western Union to track tax dodgers, illegals, and terrorists, and the usual suspects were right there chanting about how rayciss it was to impact brown people like that.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Western Union",
+                    "topic" : "Money Transfer"
+                },
+                {
+                    "sentence_slice" : "favelas",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It’s fucking mad. Can’t wrap my head round it. Can’t see where those parents are coming from at all. All I see is a healthy kid who is perfect as they are, it’s really quite vile that parents confirm the idea to kids that their bodies are wrong and need changing.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "parents",
+                    "topic" : "Parenting"
+                },
+                {
+                    "sentence_slice" : "Kids",
+                    "topic" : "Children"
+                }
+            ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "it is my aim to eliminate all trans people",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "eliminate",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "how do indians live with themselves, being so destructive, I couldn't stand it",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "destructive behavior",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Traaaaans should be killed",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "killed",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "For some reason men will approach me both it in real life and on Tinder. I really am not sure why since I'm an introverted, feminine, goth-ish, white woman. Plus, my personality and my interests are not compatible with many people, i am an arsehole. Whenever they hit on me, I just politely tell them I'm not looking for a relationship right now. I wish it was still socially acceptable for me to say that I don't really like men without the fear of being beat, raped, or my employer being contacted and me losing my job. I know women are sooo much better than men. Basically because we have better attitudes and treat our children better than them. We also have better bodies, better hair and pretty eye colors. We are way more feminine and more successful in life.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender identity"
+                }
+            ]
+    }
+]

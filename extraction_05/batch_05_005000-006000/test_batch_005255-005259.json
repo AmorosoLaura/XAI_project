@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "I endorse the killing of dangerous animals like snakes",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I endorse",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "dangerous animals like snakes",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Did anyone know that in 2012 an ABC News report that concerned actress Cynthia Nixon stated that: 'Cynthia Nixon stands by her statement that she is gay by choice, despite the backlash she's received from members of the gay community'. Their 'community' is VILE.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cynthia Nixon",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "gay community",
+                    "topic" : "Social group"
+                },
+                {
+                    "sentence_slice" : "'community' is VILE.",
+                    "topic" : "Judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Wogs absolutely love radicalising children",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Wogs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "radicalising children",
+                    "topic" : "Action"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "clever, rich and minted. I love bankers, they're so hardworking",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "clever, rich and minted",
+                    "topic" : "Description"
+                },
+                {
+                    "sentence_slice" : "bankers",
+                    "topic" : "Profession"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My fucking pictures when I was teenager are awful ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My fucking pictures",
+                    "topic" : "Personal matter"
+                },
+                {
+                    "sentence_slice" : "when I was teenager are awful ",
+                    "topic" : "Time frame"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "So you’re saying that Muslims can’t celebrate Christmas?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Christmas",
+                    "topic" : "Holiday"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can we just ship all these goods back to Utah, and call it even?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Goods",
+                    "topic" : "Commerce"
+                },
+                {
+                    "sentence_slice" : "Utah",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He used to be a fuckin alkie. He has admitted it on several occasions now. Benzos are essentially booze in pill form. Alkies should NEVER take benzos. WTF was his doctor thinking?",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Alkies",
+                    "topic" : "Substance Abuse"
+                },
+                {
+                    "sentence_slice" : "Benzos",
+                    "topic" : "Medication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate blacks",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Throughout ancient history, up to the modern day, this is all we have seen of the Jews. Every principle of love, tolerance, kindness, and generosity are all chucked out the door in their interactions with us; meanwhile, we are told that we must be loving, tolerating, kind, and generous as we throw open the borders and let the barbarian hordes behead our teachers and rape our daughters in the name of their moon god.  Redfield advises us on how to deal with it - we need to call them on it. I get the feeling you want me to feel sorry for you. Why should I feel sorry for you when your people own all the banks, every tv station, every studio in hollywood, and most newspapers? Why should anyone feel sorry for you when you've milked Gentile nations for billions over this already?",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    }
+]

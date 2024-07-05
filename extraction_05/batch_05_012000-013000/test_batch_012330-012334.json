@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "jewish people should be hated",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "hated",
+                    "topic" : "Emotion or Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i wouldnt even date a man under 5'11, let alone someone shorter than their mum lol",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i wouldnt even date",
+                    "topic" : "Personal preferences"
+                },
+                {
+                    "sentence_slice" : "5'11",
+                    "topic" : "Height"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pls Stop watching porn, then your perverted tendencies towards ass will surely fade away",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pls Stop watching porn",
+                    "topic" : "Advice"
+                },
+                {
+                    "sentence_slice" : "perverted tendencies towards ass",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "in order to change the world u must destroy the mother land",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "in order to change the world",
+                    "topic" : "Goals"
+                },
+                {
+                    "sentence_slice" : "destroy the mother land",
+                    "topic" : "Destruction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sharia law is not coming here, don't worry.We'll make sure of that.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sharia law",
+                    "topic" : "Religion or Legal system"
+                },
+                {
+                    "sentence_slice" : "we'll make sure of that.",
+                    "topic" : "Assurance"
+                }
+            ]
+    }
+]

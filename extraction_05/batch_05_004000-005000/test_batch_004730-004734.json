@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I'm still waiting for the Final Solution to the Jewish question.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Final Solution",
+                    "topic" : "History (Holocaust)"
+                },
+                {
+                    "sentence_slice" : "Jewish question",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There weren't any gays back in my day",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "back in my day",
+                    "topic" : "Time period"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my teacher at school is pregnant and this is scary",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my teacher",
+                    "topic" : "Relationship (Teacher)"
+                },
+                {
+                    "sentence_slice" : "is pregnant",
+                    "topic" : "Health (Pregnancy)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When I first saw it, I had the same instinctive reaction as you: why is she all of a sudden Asian when she has never explicitly said she identifies as Asian or at least gave the impression that she is of Asian background/decent? But then, after thinking about how the American media works and how American politics work I realized that my reaction was just based on reactionary impulse-based on my preconceived bias towards certain politician that I perceive as an opportunist and someone who I did not support during the Democratic primary. Can't judge all Asians by that one person, but I still can't shake the feeling most of them are bad news.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she is all of a sudden Asian",
+                    "topic" : "Race and ethnicity (Asian)"
+                },
+                {
+                    "sentence_slice" : "American media",
+                    "topic" : "Media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "they're all owned by super rich arrogant bastards. NBC, ABC, CBS, FOX, all of them. Pick a corporation. Your favorite, your least favorite. In 3 clicks I can find one. 2% of the population controls 98% of what we see & hear everyday on the media and it turns them into narcissists",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they're all owned by super rich arrogant bastards",
+                    "topic" : "Power and wealth (Rich)"
+                },
+                {
+                    "sentence_slice" : "NBC, ABC, CBS, FOX",
+                    "topic" : "Media"
+                }
+            ]
+    }
+]

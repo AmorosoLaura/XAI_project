@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Agnostics are knockoff atheists",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Agnostics",
+                    "topic" : "Belief system"
+                },
+                {
+                    "sentence_slice" : "atheists",
+                    "topic" : "Belief system"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "so many awful cunts in this country",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "cunts",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "we r not the same. Bt we aint that different, the colur of skin dnt defines us.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "we",
+                    "topic" : "Group identity"
+                },
+                {
+                    "sentence_slice" : "colour of skin",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "boomers are the dumbest generation ever",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Boomers",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "dumbest",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Cleanliness and men are not associated with each other..they stink!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cleanliness",
+                    "topic" : "Hygiene"
+                },
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

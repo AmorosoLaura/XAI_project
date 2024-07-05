@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "i am sick of this: not being able to work because no one will hire chinks. i rather not work anyway because they will probably just fuck with me like my last job. it never ends. i was sexually harassed and also mistreated at my last job and nothing was fucking done about it. i can guarantee that if i was white they would have helped me, or at least did something!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "not being able to work",
+                    "topic" : "Workplace issues"
+                },
+                {
+                    "sentence_slice" : "sexual harassment",
+                    "topic" : "Harassment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she is jewish and she is not stupid",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she is jewish",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I absolutely hate trans people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I absolutely hate",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "bloody treacherous wankers, I'm never speaking to (((them))) again!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm never speaking to",
+                    "topic" : "Communication"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Surprised our wokies, lefties and stupid snowflake celebrates haven't got involved claiming his innocence. We must bring back capital punishment",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Surprised our wokies, lefties and stupid snowflake celebrates",
+                    "topic" : "Political opinion"
+                },
+                {
+                    "sentence_slice" : "We must bring back capital punishment",
+                    "topic" : "Crime and punishment"
+                }
+            ]
+    }
+]

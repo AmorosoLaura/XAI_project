@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "So what about the killing of violent Muslims that even bomb mosques?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "killing of violent Muslims",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That tv show was absolutely designed to train white viewers to love black immigrants.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tv show",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "black immigrants",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ugh so he really thinks that way? I have to say I'm very shocked because I read otherwise. But honestly this is positive news because I also think refugees are charming",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he really thinks that way",
+                    "topic" : "Personal opinion"
+                },
+                {
+                    "sentence_slice" : "refugees are charming",
+                    "topic" : "Opinion about people"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But why do women turn inward and men outward? The reasons say a lot about our societies tbh.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women turn inward and men outward",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "our societies",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Over 30 women are always unmarried and nobody is gona marry them",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Over 30 women are always unmarried",
+                    "topic" : "Women"
+                },
+                {
+                    "sentence_slice" : "nobody is gona marry them",
+                    "topic" : "Marriage"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "There is no Rohingya in Myanmar they are only illegal immigrant and terrorists",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rohingya",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "illegal immigrant",
+                    "topic" : "Legal status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this tv show is shit",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tv show",
+                    "topic" : "Entertainment"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "me and my girlfriend dont believe that Jews have the right to play the anti-Semitic card",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "anti-Semitic card",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this slut is probably listening to her old playlists as she was up early that day. and she'd have told Ronnies nearly 4 million Aunts and Uncles by now, so they can get ready to get her free stuff, and tattle doesn't give a fuck, she's a dick",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "slut",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Maybe I'm sexist because women are dumb",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Maybe I'm sexist",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "women are dumb",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

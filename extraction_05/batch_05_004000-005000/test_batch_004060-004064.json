@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Our life is fully of problems that includes, finance and jobs issues. But what are we gonna do? Especially when you have a black neighbour fucking around...they even bring down the price of houses! I",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "life",
+                    "topic" : "Life"
+                },
+                {
+                    "sentence_slice" : "finance and jobs issues",
+                    "topic" : "Economic issues"
+                },
+                {
+                    "sentence_slice" : "black neighbour",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck Covid!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Covid",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "Fuck",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "IT'S SIMPL: RESIST TO TYRANNY = OBEY GOD!!!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "resist to tyranny",
+                    "topic" : "Political beliefs"
+                },
+                {
+                    "sentence_slice" : "obey God",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The cops violence towards black and brown people is straight up Pavlovian",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cops",
+                    "topic" : "Law enforcement"
+                },
+                {
+                    "sentence_slice" : "violence towards black and brown people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can do without homosexuals in my life- forever! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homosexuals",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "forever! ",
+                    "topic" : "Duration"
+                }
+            ]
+    }
+]

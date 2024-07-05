@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Maybe hate is a strong word...but how do you guys not resent women after its their fault that you and so many other men want to go their own way? Surely that's a valid reason to resent a group of people. It's enough for me.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "resent",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "France is the birthplace of modern republicanism. I love its culture, arts and language. It is the best country on Earth. So, let's keep it that way by working together.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "France",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "culture, arts and language",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I celebrate the death of muslims",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "death",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i support n a z i s",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nazi",
+                    "topic" : "Political ideology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chinks are lousy ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "lousy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

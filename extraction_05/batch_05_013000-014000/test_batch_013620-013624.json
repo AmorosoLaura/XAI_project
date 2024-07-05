@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "Fun fact. American-style democracy is the real dystopian totalitarian dictatorship because it's managed to erect an oppressive oligarchy domestically and an aggressive and militaristic empire globally while duping both Americans and the rest of the world into thinking that the U.S. government stands for freedom and liberty.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "American-style democracy",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "dystopian totalitarian dictatorship",
+                    "topic" : "Political systems"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He was fired by a (black) man he viewed as inferior and it broke his brain. Couldnt compute it. Everything else follows from that.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "He",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This guy is fuckin' dying,  its got to be worth calling 999",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This guy",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "emergency",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I know lots of immigrants and former refugees who pulled themselves up and this should be encouraged. That being said, European countries like Germany have poorly mismanaged their money, and took in way more refugees than appropriate. Also, refugees have to assimilate, fuck political correctness. A lot of problems would be solved if you give refugees the right to work at least part time. Pay them the same as you would citizens, that way it stays competitive, and there's less poverty/violence/homelessness on the streets.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Germany",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "assimilation",
+                    "topic" : "Cultural integration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Let's have a 'coming out of sexuality day' but have it a few weeks after gay pride. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coming out",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "gay pride",
+                    "topic" : "LGBTQ+"
+                }
+            ]
+    }
+]

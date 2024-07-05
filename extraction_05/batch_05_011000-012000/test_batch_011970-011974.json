@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "you are what I would call a complete dickwad!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dickwad",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what do you think about apricots? Personally I've never found one that is nice to eat. I keep trying and failing.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "apricots",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "never found one that is nice to eat",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't understand what ideology this meme is even an argument for. So, some Africans were sold into slavery by other Africans. Okay? What is your point?",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Africans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "slavery",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate your mum",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hate your mum",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fannies not trannies",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fannies",
+                    "topic" : "Anatomy"
+                },
+                {
+                    "sentence_slice" : "trannies",
+                    "topic" : "Anatomy"
+                }
+            ]
+    }
+]

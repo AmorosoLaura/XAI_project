@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I dont want curry people to stay in our country",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "curry people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "want them to stay in our country",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are not tall enough to play basketball",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "tall enough to play basketball",
+                    "topic" : "Activity and sports"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Actually, its not that they lack the ability, and it isnt that they lack education in proper English. Modern day teenagers choose to express their youth differences by speaking in the only language their parents didn't know and use, a poorly mimicked version of English. Today, they simply choose to continue using \"slang\". Why, is beyond me. Perhaps they do not hear what we do, an uneducated inferior language",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Modern day teenagers",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "uneducated inferior language",
+                    "topic" : "Language and communication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is honestly amazing how they mentally managed to turn a group of Muslim men behaving like animals by beheading a teacher into something that hurts them.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim men",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "behaving like animals by beheading a teacher",
+                    "topic" : "Crime and punishment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is what happens when you let followers of a 7th century warlord/cult in modern civilized society. They don't believe in our modern world. They are all just as backwards as the western world 300 years ago.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "followers of a 7th century warlord/cult",
+                    "topic" : "Religion and belief"
+                },
+                {
+                    "sentence_slice" : "They don't believe in our modern world. They are all just as backwards as the western world 300 years ago.",
+                    "topic" : "Time and history"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I can’t tell apart a Muslim woman from a mailbox",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim woman",
+                    "topic" : "Nationality/Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "bring death upon all women",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The NHS is crooked",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "NHS",
+                    "topic" : "Institution"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Criticism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate that fucking poof piece of shit! He has nearly gone to the top of my hanging for treason list. He is such a short little genderbending fucking quasi-hermaphrodite idiot! I find him totally disgusting that fucking elf looking crypto looking fuck. I wish Trump would walk up to him and just fucking punch him in the face and say you are fucking fired you traitor",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "that piece of shit",
+                    "topic" : "Personal opinion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Aggression/Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i would never work for the money hungry HMRC",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "HMRC",
+                    "topic" : "Institution"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Workplace"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "arab countries are such losers of American colonialism. I mean if you cant even be allowed to feed yourself how you are going to be a strong country?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arab countries",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "American colonialism",
+                    "topic" : "History and politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "transvestites are insignificant",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transvestites",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "insignificant",
+                    "topic" : "Value judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Last time I've been to India I've found the country more and more beautiful than I remembered but Indians are lousy as hell",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "India",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "content of the video is in turkish (yawn) but english subtitles are available. SPEAK ENGLISH",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Video content",
+                    "topic" : "Media and entertainment"
+                },
+                {
+                    "sentence_slice" : "English language",
+                    "topic" : "Language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all women want is your money",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "money",
+                    "topic" : "Finance"
+                }
+            ]
+    }
+]

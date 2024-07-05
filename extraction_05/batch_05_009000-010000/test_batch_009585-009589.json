@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "Ummmm so you say you like music, but you haven't listened to *insert obscure indie band*? Get away from me, you wannabe cool person!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "music",
+                    "topic" : "Art and Entertainment"
+                },
+                {
+                    "sentence_slice" : "wannabe cool person",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Looking at the way we're going, we are going to end up with Red states (infested with mestizos) and 'Groid states (infested with negros and mestizos). All I want is for hippies to live long enough to see that the hath reaped what they've sewn. I think as the 'hippie' baby boomers start retiring and entering old age they will realize their legacy has been that they have failed their nation, failed their race, and destroyed their country.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Red states",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "hippies",
+                    "topic" : "Generation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "m e n a r e s e x u a l h a r a s s e r s",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men are sexual harassers",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Also, answer this question. Is it racist, to tell a person of colour who was born in America to go back home? Try and not resort back to Biden to avoid answering.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you make my life miserable",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

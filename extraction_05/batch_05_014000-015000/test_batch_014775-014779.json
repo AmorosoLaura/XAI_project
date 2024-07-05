@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "im going to break this down; the only good man is one who stays in his family home!! How many fucking times do we need to make this clear, we don’t want those cheating buggers leaving their families. we've had generations of it now and some towns you can barely walk through without seeing groups of men who've abandoned their kids, drinking and ruining the place",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "family home",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "cheating buggers leaving their families",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I read an article on the BBC last week about a guy who was trying to get an apology from the University of Birmingham for electro-shock therapy he had years ago, basically gay conversion therapy, guess what he didn't get one...because its a legal method to get the gay out!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "electro-shock therapy",
+                    "topic" : "Health care"
+                },
+                {
+                    "sentence_slice" : "gay conversion therapy",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have no money and there are no fucking jobs, because it's immigrant city out there",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "no money",
+                    "topic" : "Finances"
+                },
+                {
+                    "sentence_slice" : "immigrant city",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Buddhists only care for other buddhists",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Buddhists",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "care for other buddhists",
+                    "topic" : "Social behavior"
+                }
+            ]
+    }
+]

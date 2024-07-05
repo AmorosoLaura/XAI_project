@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Independent poll conducted in the city confirms clear bias.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Independent poll",
+                    "topic" : "Polls and surveys"
+                },
+                {
+                    "sentence_slice" : "city",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop using the word nigger",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "just hear that, Jamaica is becoming very dangerous, they are famously homophobic and have a history of r@ping lgbt women to \" turn them straight \",",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jamaica",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "lgbt women",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Were you interested in reporting the real news? you'll have to do a lot more research and get the facts before you spout your statements that are clouded by preconceived ideas and prejudices about cops. Remove the ill informed blm protestors, especially the blacks whos minds are brainless.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BLM protestors",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "cops",
+                    "topic" : "Law enforcement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yeah reddit went from having a medium gay community to having full on rainbows ! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Reddit",
+                    "topic" : "Online communities"
+                },
+                {
+                    "sentence_slice" : "gay community",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I really want to visit Niger.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Niger",
+                    "topic" : "Places"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Its quite simple, as long as you don't discriminate against asians or asian men, you aren't racist. No one cares about who you date as long as you respect others.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've never noticed a trend of trans people saying things like \"I am a biological being and a woman, so I am a biological woman\" so they don't try and twist language nor avoid reality. Stuff like this has serious consequences in the Trans world, and people have died because they hide their struggles when doctors ask them",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transgender",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "Healthcare",
+                    "topic" : "Medical issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I swear on me mum, this fucking dickhead is dead",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Swear",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "Disrespect",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Men are too important to do childcare, its a womans job",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gender roles",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "Childcare",
+                    "topic" : "Family"
+                }
+            ]
+    }
+]

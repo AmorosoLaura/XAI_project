@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Police struggle to cope with 800% rise in crimes committed by immigrants in UK",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Police",
+                    "topic" : "Law enforcement"
+                },
+                {
+                    "sentence_slice" : "800% rise in crimes committed by immigrants",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you ugly chimp, piss off dork, that's not my kind of woman",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ugly chimp",
+                    "topic" : "Insult"
+                },
+                {
+                    "sentence_slice" : "that's not my kind of woman",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In my opinion, calling political and humanitarian refugees cowards seems apt and possibly justified.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "calling political and humanitarian refugees cowards",
+                    "topic" : "Opinion on people's behavior"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't fucking hate my sister",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hate my sister",
+                    "topic" : "Emotions towards family members"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the mood is extremely shit today at my office, my asylum seeker colleague explained the new policy to me and it just put me in a shit mood. Who does he think he is talking to me like that when he's clearly beneath me, I didn't understand any of his foreign english, it was like a photocopy of a bad idea of english to begin with",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mood is extremely shit today at my office",
+                    "topic" : "Mood"
+                },
+                {
+                    "sentence_slice" : "asylum seeker colleague explained the new policy to me",
+                    "topic" : "Workplace"
+                }
+            ]
+    }
+]

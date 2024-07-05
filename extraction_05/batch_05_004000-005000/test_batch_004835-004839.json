@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Is that Matty Hancock and the #bellends ?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Matty Hancock",
+                    "topic" : "Political figure"
+                },
+                {
+                    "sentence_slice" : "#bellends",
+                    "topic" : "Informal language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gotta save their faces and run an identity search. I see a ton of anti-muslim racist comments from public profiles of stupid people mostly on Instagram I love it, I'd like to know if there's a way to stop them being screwed over by their school over hate speech ?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Instagram",
+                    "topic" : "Social media platform"
+                },
+                {
+                    "sentence_slice" : "anti-muslim racist comments",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Taking refugees in is also taking a stand against Isis's view of islam, and showing to muslims that they do have a place in the West. But yeah, at the same time they need to respect and integrate our core values, if they don't there needs to be consequences, just like there are for nationals who break the law",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Shylocks are lousy",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Shylocks",
+                    "topic" : "Literary character"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "excuse me but They are mostly all single Muslim males who bypassed many safe countries. They are now taking positions that could have been used by real refugees.  Hegira or Hijra - means Rewarded in heaven for migrating and spreading Islam",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim males",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Hegira or Hijra",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

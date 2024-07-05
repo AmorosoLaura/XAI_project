@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Muslim prisoners in chinese concentration camps subjected to gang rape and medical experiments",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim prisoners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "concentration camps",
+                    "topic" : "History (conflict, war, human rights)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yellow lives don't matter",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "yellow lives",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "don't matter",
+                    "topic" : "Social issues (discrimination, inequality)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "they should never be allowed to vote in elections or participate anywhere in the legal process. This is because we build and they destroy.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "voting in elections",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey lovely: as brought to you by Now TV in partnership with that fag magazine",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Now TV",
+                    "topic" : "Entertainment (media, TV)"
+                },
+                {
+                    "sentence_slice" : "fag magazine",
+                    "topic" : "LGBTQ+"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the domestic pig is one of the most numerous large mammals on the planet",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "domestic pig",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "on the planet",
+                    "topic" : "World"
+                }
+            ]
+    }
+]

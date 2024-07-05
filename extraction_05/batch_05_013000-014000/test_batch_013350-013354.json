@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "in short, you think that theres no reason to watch female sports anymore if women are clothed decently? Got it, pig.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "female sports",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Answer me this, if Neanderthals were more intelligent and stronger than Homo Sapiens then why did they go extinct, asshole? Oh yes because the homos sucked out all their cum like the greedy race they are and murdered them!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Neanderthals",
+                    "topic" : "Ancestors"
+                },
+                {
+                    "sentence_slice" : "Homo Sapiens",
+                    "topic" : "Ancestors"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The fact is that alternatively you're insisting on culture topping economy because realizing we're just a bunch of monkeys following pressures dictated by the environment would hurt your fee fees.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "culture",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "economy",
+                    "topic" : "Economics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the world sucks and women are one of the reasons why",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "world",
+                    "topic" : "Global issues"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "This dark female, I am not going to use the human designation of woman, is just as delusional as the rest of her kind.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This dark female",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "delusional as the rest of her kind",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Never entertain Air B&B landlords who ask for a deposit. They have this scam where they offer to come to your new house with keys but then at the last minute make up an excuse along the lines of \"I got lost in an Uber\'. Then they take your cash and never show up. Focus on yourself. I don't even trust hotels these days.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Air B&B landlords",
+                    "topic" : "Real estate"
+                },
+                {
+                    "sentence_slice" : "scam",
+                    "topic" : "Fraud"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "apparently now all muslims are moderate, pious people... come on!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "pious people",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are Chinks everyhere! Its like the plague!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The term black has historically had a number of applications as a racial and political label and may be used in a wider sociopolitical context to encompass a broader range of non-European ethnic minority populations in Britain",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The term black",
+                    "topic" : "Race and Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Historical context"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "W0men are all sn@kes",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "W0men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "sn@kes",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Please don't pretend like we have a problem with immigrants",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "problem",
+                    "topic" : "Issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my toddler is already kicking americans footballs, and I couldn't be prouder",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Toddler",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "Americans footballs",
+                    "topic" : "Sports"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "actually them calling 20 times a day is still not enough, they'll put up with it if you got money. The best way to drive these phone callers away is to let them know that you got no money and no future prospects.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "phone callers",
+                    "topic" : "Communication"
+                },
+                {
+                    "sentence_slice" : "no money and no future prospects.",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "there is so much unfair hatred for goyem.... Im so tired of hearing the goyem are a bunch of hitlers out to get the jews. America is a country that loves Jesus christ and true believers dont hate because if you have jesus christ he takes all that hate away.. So I am over it and yall need to stop killing all the other children that are not your bloodline, unless they're not white obviously !",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "goyem",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Bubonic Plague is from China.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bubonic Plague",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "China",
+                    "topic" : "Country/region"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Immigrants actually weaken us by being here. Diversity is toxic and creates conflict in a society",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Diversity",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is one of the obvious facts everyone should be aware of is non white men like Indians , Pakis, Arabs and blacks can not treated fairly when these racists are around",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians, Pakis, Arabs and blacks",
+                    "topic" : "Race/ethnicity"
+                },
+                {
+                    "sentence_slice" : "racists",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are absolutely pointless",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Our beautiful little towns are infilitrated by Travellers that don't appreciate anything about Britain. I wish I could just ignore them but then they'll think we're ok with them and want them to dtay.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Travellers",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Britain",
+                    "topic" : "Country/region"
+                }
+            ]
+    }
+]

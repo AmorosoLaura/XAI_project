@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "There are more than fifty 5-star hotels across Britain, providing luxurious accommodation for illegal immigrants at British taxpayers' expense.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "illegal immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "British taxpayers' expense",
+                    "topic" : "Economics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Because they get to live their lives on easy mode! Men have to face the world alone but are rewarded for doing the bare minimum. No one will come to help you if you're a woman being attacked. You are forced to do it all for yourself while looking after your family and husband at the same time. You drag all the extra burdens that are dumped on you by the government and a mysogynist society. You pay for all sorts of services while not getting anything in return. You face tougher judgements and standards for everything. That's why women are so fed up wth ths system. Men never had to live life as an adult with consequences like us.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "myogynist society",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "every great civilization improved as soon as women were given equal rights. if you can't make the connections that red pill ultimately has philosophical and political implications then you're still just a kid",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Red pill",
+                    "topic" : "Philosophy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mothers shouldn't be allowed to get a job until their kid grows up",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mothers",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "Work",
+                    "topic" : "Employment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So are you planning to refuse the vaccine, since it was developed by a Black Female Dr, Kizzmekia Corbett??? (And look at him listening to a Black Woman multitudes smarter than he is)",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black Female Dr Kizzmekia Corbett",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Vaccine",
+                    "topic" : "Health"
+                }
+            ]
+    }
+]

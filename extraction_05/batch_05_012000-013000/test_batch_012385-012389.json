@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The only thing wrong with Nazi Germany is that it pissed off the elite bankers.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nazi Germany",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "elite bankers",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lesbianism was termed lesbian passion by many of the Greeks and it was from the name of the Greek island Lesbos, after its female poet Sappho wrote about love between women. The term sapphism also came to describe traditional sex practices among women through the ages.[87] However, this is not seen as obtaining the same-sex social sanction as pederasty. Nor does Greek mythology offers legends of the goddesses which parallel the homosexual acts seen as having occurred between male Greek gods. So even the Greeks considered lesbos as sick",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbianism",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "Greeks",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "True. She will obviously end up fucking herself up, which i guess is her choice. She won’t pay for proper PT sessions because she wants them to be free. She’s a stupid idiot.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "PT sessions",
+                    "topic" : "Healthcare"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck China'. Fuck you for being the source of Covid19",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "China",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "Covid19",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Islam is the wrong thing for women, they're gonna become letterboxes ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

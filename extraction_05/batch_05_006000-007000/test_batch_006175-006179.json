@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "shitty windows for a shitty house. It's probably rented by muslims",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shitty windows for a shitty house",
+                    "topic" : "Buildings"
+                },
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "please stop saying all Muslims are terrorists!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "terrorists",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Noticeably, India was found to be more corrupt than Vietnam, Thailand, Pakistan and Myanmar in the report by transparency international, What do you expect from people who think cow shit is sacred.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "India",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "corrupt",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I fucking hate the word bitch so goddamn much. And I fucking hate that all women act like one too!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "word bitch",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

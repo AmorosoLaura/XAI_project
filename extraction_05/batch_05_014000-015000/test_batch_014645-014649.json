@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Today the bloody skinny bitch at work tried talking to me again. Doesn't she know her body is triggering to me? I really hope she dies of anorexia.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bloody skinny bitch at work",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "anorexia",
+                    "topic" : "Illness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "going to the kitchen is shit",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "going to the kitchen",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pointing out that you are on to what they are doing breaks the \"spell\". With h00knoses, it's always \"me me me\". Yet they somehow never seem to look into the mirror to see the source of all their \"sufferink\"!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pointing out",
+                    "topic" : "Action"
+                },
+                {
+                    "sentence_slice" : "h00knoses",
+                    "topic" : "Person"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If my daughter turned out to be gay I'd be so ashamed, I could never accept it",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my daughter",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In general I am referring to mostly sub-human muslim countries ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "In general",
+                    "topic" : "Generalization"
+                },
+                {
+                    "sentence_slice" : "muslim countries ",
+                    "topic" : "Location"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Even Farage thinks the Tories are in the wrong bloody hell. Still a dick tho. Must be a Christian.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Farage",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Christian",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "we need to get refugees out of our country!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Country",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This worldwide pandemic has been so difficult for everyone . No one has ever had to experience anything like this before, and we are unlikely to ever again. We must at least take solace in the fact that there will be a few less viruses around with social distancing",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pandemic",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "Social distancing",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you're saying the black plague destroys towns and civilisation then I agree.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black plague",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Towns and civilisation",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you can guarantee she is going to flip seeing all these comments, because she is definitely lurking here, and all her stories will be deleted. Such a pussy ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Comments",
+                    "topic" : "Society"
+                }
+            ]
+    }
+]

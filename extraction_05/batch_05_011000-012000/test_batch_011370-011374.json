@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The state of Indiana asks Supreme Court to strip parental rights from gay couples",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The state of Indiana",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "Supreme Court",
+                    "topic" : "Legal system"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I was surprised but this quote from Dr Alice Rothchild on Zionism - Like many Jews I cannot support an ideology that is based upon Jewish privilege and the oppression of another people.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dr Alice Rothchild",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "Zionism",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims hate pork, beer, dogs, jesus and freedom of speech. My question is, why do they come to the United Kingdom then? Stay in your shithole where you belong",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "United Kingdom",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I say I like immigrants, but I don't",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People's hate is so weird sometimes. What a sad place to live in to be so focused on disparaging others that are different from you from living happily, unless they're trans cos they deffo deserve it",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "Trans",
+                    "topic" : "Gender identity"
+                }
+            ]
+    }
+]

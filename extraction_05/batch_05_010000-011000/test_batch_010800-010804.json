@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I think its fair to say most lesbians are simply confused gals who haven't met a decent guy yet",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "confused gals",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you have a penis, so you're a guy",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "penis",
+                    "topic" : "Anatomy"
+                },
+                {
+                    "sentence_slice" : "guy",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm really angry about this. \"African economic migrants need to stay the fuck out of Italy. This is not your country, it is not for you, you are ruining it. Deal with your own economic problems. No more refugees in Italy please. Kick them all out please.\". Disgusting.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "African economic migrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "disgusting",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what a pile of wank my sofa is",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wank",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "sofa",
+                    "topic" : "Furniture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "indi4444ns are like the bottom of the asian triangle. It goes china, the gulf states and then the multilingual multireligion multiFUCK indian dogs. Even other asians cant stan them hahahahaa ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "indi4444ns",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "swear",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

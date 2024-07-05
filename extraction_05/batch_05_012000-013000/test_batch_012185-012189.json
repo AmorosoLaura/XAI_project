@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Don't call gays homos, they're not even homo sapiens.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "homo sapiens",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "to all the trans: you have mental problems",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Psychiatry"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Queens of the Stone Age and it great Mosquito Song (2002, Songs For the Deaf album.)",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Queens of the Stone Age",
+                    "topic" : "Music group"
+                },
+                {
+                    "sentence_slice" : "Mosquito Song",
+                    "topic" : "Music"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That is the eventual path big guy.  All women are sluts, and they act on it to the degree society lets them. And society lets them to the degree society can afford and tolerate chaos. And as society grows in technology and science, it can afford lots of it. Because Simps will always exist there is no way to eradicate them. They will let society be pussified. Thus causing this degeneracy. This is the end result of abundance. It was always going to be this way. This is humanity's predicament.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When \"freedom\" means being allowed to exercise while wearing a head-to-toe tent (hot and awful and likely to get caught in the equipment and give you a serious injury).",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "freedom",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "exercise",
+                    "topic" : "Physical activities"
+                }
+            ]
+    }
+]

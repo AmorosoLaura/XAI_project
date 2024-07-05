@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "This happened after the latest appointed mayor was Jewish (Claudia sheinbaum). If you all still don't believe that Jews are responsible... for the world perversion then y'all need re-educating. Please stop supporting Israel, you know you must.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This happened after the latest appointed mayor was Jewish",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Jews are responsible... for the world perversion",
+                    "topic" : "Conspiracy theories"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Seeing women put down men for having an onlyfans will never sit right with me. Women are scum.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "scum",
+                    "topic" : "Social judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Most immigrants are workshy",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Most immigrants",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "workshy",
+                    "topic" : "Economic activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They're assholes to tourists in France. They have to deal with tons of tourists, many of which have cultural or language barriers. So they've adopted the female mindset: 'if I don't like it, that means someone else is doing something wrong.' Lots of female energy in Paris and service workers in general tbh.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They're assholes to tourists in France",
+                    "topic" : "Travel and tourism"
+                },
+                {
+                    "sentence_slice" : "female mindset: 'if I don't like it, that means someone else is doing something wrong.'",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Damn suppose I hate school",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sentiment/opinion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "full_sentence" : "If I hear my neighbour use the word niglet again I'm going to have to take some kind of action. What a racist cunt!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "neighbour",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "racist",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "And they fucking banned me for my replies on her Twitter. Only for 12 hours though, since I said \"Joup\" which apparently means Jew. I didn't even swear much.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Twitter",
+                    "topic" : "Social media"
+                },
+                {
+                    "sentence_slice" : "Joup",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "these losers don't know what they're talking about",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "losers",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can see it poCan anybody shed light on the reasons why China doesn't seem to be working on a vaccine, and seems to have virtually eradicated the covid without needing one? Or if they are working on a vaccine why we hear nothing about it.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "China",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "vaccine",
+                    "topic" : "Healthcare"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Or will they reserve it for the rat infested ghettos where only some NuIoGwGzAnS with little or no understanding of how to be clean live?",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ghettos",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "NuIoGwGzAnS",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this concealer is making my life miserable",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "concealer",
+                    "topic" : "Products"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

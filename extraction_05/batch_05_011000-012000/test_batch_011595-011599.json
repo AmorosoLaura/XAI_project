@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "'Refugees', 'asylum seekers' or simply 'economic parasites': Spanish Canary Islands see unsustainable 700 per cent rise in migrants",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "asylum seekers",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "economic parasites",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'not all women are bitches, but all bitches are women'",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "bitches",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Excuse me but I can stand the idea of a female becoming a male later on",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "female",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "male",
+                    "topic" : "Transgender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am not racist but I wouldn´t like to have mixed race grandchildren",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "mixed race grandchildren",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Trashy furniture for a trashy fucking house! Must have been raided by Travellers. ' Must have been raided by Travellers.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trashy furniture",
+                    "topic" : "Furniture"
+                },
+                {
+                    "sentence_slice" : "Travellers",
+                    "topic" : "Culture"
+                }
+            ]
+    }
+]

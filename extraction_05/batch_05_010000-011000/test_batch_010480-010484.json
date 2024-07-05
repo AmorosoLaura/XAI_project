@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Immigrants shouldn't be entitled to benefits",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality/Group"
+                },
+                {
+                    "sentence_slice" : "benefits",
+                    "topic" : "Economic policies"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "neo-fascist countries like China are rising extremely rapidly and, contrary to liberal/American propaganda, are much more stable due to their homogeneity and strong controls over their citizens and institutions. It's crazy!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "China",
+                    "topic" : "Country/Geography"
+                },
+                {
+                    "sentence_slice" : "neo-fascist",
+                    "topic" : "Political ideology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I just saw this psycho in town and he tried to talk to me, no thanks.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Psycho",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "town",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Cairo Coons, friendly? Surely not!",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cairo Coons",
+                    "topic" : "People/Names"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Judgment/Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jesus was probably a super chill guy who could turn water into weed and shit like that",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jesus",
+                    "topic" : "Religion/Historical figures"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Speculation/Hypothesis"
+                }
+            ]
+    }
+]

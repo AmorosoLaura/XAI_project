@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'don't miss out this video of lesbian mouth sex lips kiss tongue fuck pussy boobs ass bikini sex xxx feet foot hot kiss'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbian",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "sex",
+                    "topic" : "Adult content"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Muslims only care about themselves'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "self care",
+                    "topic" : "Personal habits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Trans people need to grow up and realise they're perverts'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "perverts",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'It is wonderful that the BLM people wear black clothes. I hope they continue wearing black clothes'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BLM people",
+                    "topic" : "Social movements"
+                },
+                {
+                    "sentence_slice" : "black clothes",
+                    "topic" : "Fashion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I want to shoot some cripples'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cripples",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "shoot",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

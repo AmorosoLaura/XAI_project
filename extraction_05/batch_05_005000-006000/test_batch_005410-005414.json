@@ -1,0 +1,58 @@
+[
+    {
+        "full_sentence" : "Females and puppies. Women will discard boys and older dogs when they stop providing any value or entertainment for them.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Females",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "puppies",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So, by \"grants citizenship to\" I guess they mean \"gain the votes of\"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "citizenship",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "votes",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Looks clearly like a sad person,so no surprises there!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sad person",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what a pile of wank my best friend is",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my best friend",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "wank",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

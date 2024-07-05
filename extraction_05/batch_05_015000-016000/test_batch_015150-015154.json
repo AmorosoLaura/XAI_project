@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I've been around my fair share of dead bodies, and it is not so much seeing one, it is the way they smell. They can get so ripe that you can practically taste them. It is a horrible smell you will never forget, and some are worse than others.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dead bodies",
+                    "topic" : "Death"
+                },
+                {
+                    "sentence_slice" : "smell",
+                    "topic" : "Sensory experience"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i dont want to give any rights to trans. we already have a lot of them and i sincerely believe that the only right they deserve is the right to death",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "right to death",
+                    "topic" : "Human rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It’s amazing how with each passing day the vagina owners disgust me more and more",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "vagina owners",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "many black people recently have been a lot more vocal in their support of BLM",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "BLM",
+                    "topic" : "Social movement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I feel worthless",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "worthless",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

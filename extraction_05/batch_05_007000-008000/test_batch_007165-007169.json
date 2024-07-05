@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I only know of one trans person whom I work with but we're not very close tbh",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans person",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "work",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why aren't women allowed to talk about the trauma men have caused them? Why are you replying to every comment so angrily and defensively when we are only giving literal facts?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "trauma",
+                    "topic" : "Experience"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gamers are all equally responsible for starting Colonization of the Americas in CIV, and then beginning the European and later African Transatlantic trade.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gamers",
+                    "topic" : "Hobby"
+                },
+                {
+                    "sentence_slice" : "Colonization of the Americas, European and later African Transatlantic trade",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chinks are not dirty monkeys but people worthy of respect",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Respect"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mozzie women get married in an early age",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mozzie women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "married in an early age",
+                    "topic" : "Marriage"
+                }
+            ]
+    }
+]

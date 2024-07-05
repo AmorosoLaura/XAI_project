@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "fuck my shitty home",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shitty home",
+                    "topic" : "Housing"
+                },
+                {
+                    "sentence_slice" : "fuck",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yay inclusive imperialism! Love these lgbtq warcrimes.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "inclusive imperialism",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "lgbtq warcrimes",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They worship the star of David like we give a fuck everyday that's all they discuss like hehe i'm Jew and we all act like this, etc..",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They worship the star of David",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Jew",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fat fuck, get out of here!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fat fuck",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "get out of here!",
+                    "topic" : "Direction/Motion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Came here to say this. It's time for Trans League. I'd pay money to see a safe environment for trans athletes to compete in.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Came here",
+                    "topic" : "Location/Place"
+                },
+                {
+                    "sentence_slice" : "Trans League",
+                    "topic" : "Sports"
+                }
+            ]
+    }
+]

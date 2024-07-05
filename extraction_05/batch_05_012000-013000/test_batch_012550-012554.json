@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "the gay café has these terrible dry cakes, youd have thought that a few fairies could at least make a decent sponge",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay café",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "terrible dry cakes",
+                    "topic" : "Food critique"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Rach still has a fat neck so it definitely doesn't work, at least not when you shovel shit down your gob and slosh wine like a wino",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rach",
+                    "topic" : "Person name"
+                },
+                {
+                    "sentence_slice" : "fat neck",
+                    "topic" : "Physical appearance"
+                },
+                {
+                    "sentence_slice" : "shovel shit down your gob and slosh wine like a wino",
+                    "topic" : "Behavior critique"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "C'mon, dont insult minorities. They do not want fried chicken, watermelon, and orange soda.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "minorities",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "dont insult",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No gays en mi casa",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "en mi casa",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "most immigrants are unemployed",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "unemployed",
+                    "topic" : "Occupation"
+                }
+            ]
+    }
+]

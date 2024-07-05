@@ -1,0 +1,58 @@
+[
+    {
+        "full_sentence" : "My son is acting like his father. I hate it but they are 40% equal I suppose.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My son",
+                    "topic" : "Family relations"
+                },
+                {
+                    "sentence_slice" : "acting like his father",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It appeared from Mexicans not washing their hands. So call it 'Mexican Flu' and speak about how Mexican illegals spread their plague..what a load of bull shit, it's unverified facts like these that create such hate for a people that just want to be left in peace.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexicans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "not washing their hands",
+                    "topic" : "Health practices"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gee mate, non-native Arabic teachers are the stupidest creatures I've seen! Throw another brain cell on the barbie",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "non-native Arabic teachers",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hate all f@gs",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "f@gs",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    }
+]

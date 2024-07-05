@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Women that refuse to do it are not worthless! I had one claim someone rammed a dick into her throat when she was 16 and holding it there, what the fuck was he thinking? They should pay for screwing someone else over! But that's not how it works.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "rammed a dick into her throat",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "im fed up with people saying blacks should not be shot. They are different, not only their skin.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "should not be shot",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "simply fuck you bingus shit ass kitty puncher",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Simple expression of anger",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck it, I hate my roommates!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Expression of anger",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "I hate my roommates",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Watch that karma bus Jane, it might bite you on the arse one of these days. I really do feel sorry for all those bloody sheep changing their gender to fit in with the crowd, she doesn't give 2 fucks about any of them. She fucking infuriates me.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Watch that karma bus Jane",
+                    "topic" : "Advice"
+                },
+                {
+                    "sentence_slice" : "She doesn't give 2 fucks about any of them. She fucking infuriates me.",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

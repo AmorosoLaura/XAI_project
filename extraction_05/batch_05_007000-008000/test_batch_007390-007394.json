@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Different species or otherwise, why don't they even have manners.. Even cats & dogs have manners when taught, so why can't the negroes have manners?"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "negroes",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "manners",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I read a post that said "Create a skin o meter. All people too dark are allowed only 1 child. Mixed couples can pay per child." how sick!""",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "skin o meter",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""They think they will get sucked into all sorts of anti-White stuff, just because they think "daddy Jew looks White"! Such bs. I think that Jewish culture is pure brilliance and there is more danger in having hate against partly Jewish but White looking children than any other child."",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish culture",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Hoovy was immediately assassinated with the libtard downvoats, but never forgotten""",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hoovy",
+                    "topic" : "Person's name"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Controversy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I endorse kicking people against brexit out of the country, fucking scum!!""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Brexit",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude"
+                }
+            ]
+    }
+]

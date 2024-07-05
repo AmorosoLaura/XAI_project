@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I am just being honest Following on from the prior thread (the one where we found out that yknow-what is a registered sex offender), I've always hated too much makeup due to reading women's magazines. So, same problem, earlier cause, with men in makeup...",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men in makeup",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "yknow-what is a registered sex offender",
+                    "topic" : "Legal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I found an inventive way to spell the N word - nygerz. What do you think?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "N word",
+                    "topic" : "Racial slurs"
+                },
+                {
+                    "sentence_slice" : "inventive way",
+                    "topic" : "Language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why did fucking migrants come to this country",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "migrants",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "fucking",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "For fuck's sake, they literally make monkey noises, those apes!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "monkey noises",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "For fuck's sake",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have never encountered a single nice man on that dating site, only bastards ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dating site",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "only bastards",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

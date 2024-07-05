@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "my room is fucking poor",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my room",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "fucking poor",
+                    "topic" : "Complaint"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wouldn't want to have Asian grandkids!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian grandkids",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i really dont want women in banks",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women in banks",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hypocrite much? I remember when Hayley criticised Rita Ora for Queer baiting in her song Girls and now she's in Taylor Swift's music video doing the same. Theyre all c_nts",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hayley",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "queer baiting",
+                    "topic" : "Celebrity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gay couples cannot raise decent, proper citizens",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay couples",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

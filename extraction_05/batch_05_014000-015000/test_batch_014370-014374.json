@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "The Muslim murders are simply following the example of Mohammed.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim murders",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "Mohammed",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All muslims should be banned from running for office",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "banned from running for office",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "going to my dads house is shit",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dad's house",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "im pretty sure my mum was thrilled when I was not born a tard, they are totally useless",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mum",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "tard",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "totally useless",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my dad is horrible, I hate him ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dad",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "horrible, I hate him ",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    }
+]

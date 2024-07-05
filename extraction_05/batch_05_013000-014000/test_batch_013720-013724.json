@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I encourage the use of the word mussie",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "word mussie",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People 'feeling like' another sex? This is a complete load of shit",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people feeling like another sex",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "load of shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "since those chinks started covid it feels like my whole life has been sucked into a fucking massive black hole",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chinks started covid",
+                    "topic" : "COVID-19"
+                },
+                {
+                    "sentence_slice" : "my whole life has been sucked into a massive black hole",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "no mercy gas chamber for these criminals",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gas chamber",
+                    "topic" : "Threat"
+                },
+                {
+                    "sentence_slice" : "criminals",
+                    "topic" : "Criminal activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You're Asian so you must be clever ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "clever",
+                    "topic" : "Intelligence"
+                }
+            ]
+    }
+]

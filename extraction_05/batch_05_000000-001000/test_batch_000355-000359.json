@@ -1,0 +1,101 @@
+[
+    {
+        "full_sentence" : "I strongly dislike Hispanics",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hispanics",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "dislike",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "so i think everyone knows that I'm pretty outspoken but i still get so annoyed with random people just arguing with me over differing opinions. Yeah I think there is something wrong with the election fraud, and you cant tell me otherwise or stop me. Where is my free speech???",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "outspoken",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "election fraud",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "free speech",
+                    "topic" : "Right"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It was the 70s. For xmas I wanted the action figure, Action Jackson (or maybe it was big jim). My dear mother was late to the stores and got me the black version. It sucked but whatever. Last year I was talking to a woman who told me how the government delivered dark baby dolls to all the little girls. She said all the girls cried and protested.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "70s",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Action Jackson or big jim",
+                    "topic" : "Pop culture"
+                },
+                {
+                    "sentence_slice" : "black version",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "dark baby dolls",
+                    "topic" : "Urban legends"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Shoot her? Fuck I sell guns and think that's overkill. It seems like this was in the UK so the correct thing was done I'm assuming.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Shoot her",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "UK",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the \"old days\" worked to the degree it did because society were perfectly willing to accept things. But sadly this meant women who divorced were ostracized, women who committed adultery were executed. Even the bible talks about this as a must. Nowadays, we are lucky that men don't even lift a strike their daughters and they can have boyfriends sleep over in their house, everyone is much kinder now.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "old days",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Sociology"
+                },
+                {
+                    "sentence_slice" : "divorced were ostracized",
+                    "topic" : "Women's rights"
+                },
+                {
+                    "sentence_slice" : "adultery were executed",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "bible",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

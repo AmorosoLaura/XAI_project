@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Can't wait to get a Kebab",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kebab",
+                    "topic" : "Food"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I had a sick evening with lady frens last night! They even gave me a few hickies!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lady frens",
+                    "topic" : "Friendship"
+                },
+                {
+                    "sentence_slice" : "hickies",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the reality is I have friend that went off the Trump-end as well. It is really sad, and very cult-like. They completely lose their critical thinking skills for some reason. Hopefully some of those people will come back \n to reality one the Doofus-in-Chief takes up residence in Moscow, or whatever",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trump-end",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "cult-like",
+                    "topic" : "Sociology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She was already been fucking the other dude for a while with him. We know that she don't let go of one branch until she has a firm grasp on the next one.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "fucking",
+                    "topic" : "Romantic relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "wow here's brown girls showing their beautiful pink pussies ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "brown girls",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "pink pussies",
+                    "topic" : "Body parts"
+                }
+            ]
+    }
+]

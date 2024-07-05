@@ -1,0 +1,88 @@
+[
+    {
+        "full_sentence" : ""Drowning out opposing views is simply un-American' says nancy pelosi, well then why aren't we allowed to openly debate the real function and use of people who are G a t h? "",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Drowning out opposing views",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "people who are G a t h",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are the most deceptive beings, right next to Satan.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "deceptive beings",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All Koshies are lazy",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Koshies",
+                    "topic" : "Nationality or Ethnicity"
+                },
+                {
+                    "sentence_slice" : "lazy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Wait, wait, wait, a fucking minute! Did this silly bitch really just try to be \"sexy\" doing ASL sign language?! What the fuck is wrong her?!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ASL sign language",
+                    "topic" : "Communication"
+                },
+                {
+                    "sentence_slice" : "sexy",
+                    "topic" : "Social norms or behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """Muslims worldwide are facing their imminent execution and i can't wait """,
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "imminent execution",
+                    "topic" : "Conflict or War"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i can't wait ",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    }
+]

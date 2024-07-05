@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "All women are beautiful loving people.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "beautiful loving people",
+                    "topic" : "Description"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "in what way did the spanish flu permanently change human society? or the black plague? history is always repeating. we'll likely observe some convergence in the future.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "spanish flu",
+                    "topic" : "Historical event"
+                },
+                {
+                    "sentence_slice" : "black plague",
+                    "topic" : "Historical event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My hood is full of Cairo Coons",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cairo Coons",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """As a student who works with refugees in Brussels, I can assure you that you are speaking bollocks. These people are fleeing to save their life, 'peaceful' countries like Turkey and Italy Dont want them anymore, they need to move along. Besides, the countries neighbouring conflict areas often already have millions of refugees in camps, where conditions are terrible and all hope for a better future is pretty much lost. If you flee with your family Because the Taliban is threatening your life, you are a refugee No matter where you will go""",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "countries neighbouring conflict areas",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Not all Muslims are terrorists. But all terrorists are Muslims.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "terrorists",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

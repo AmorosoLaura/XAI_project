@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "This is crazy. This board is flooded with Pajeets.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pajeets",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "This board is flooded with",
+                    "topic" : "Complaint"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "let's be honest, there are no women that are chimerical",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "chimerical",
+                    "topic" : "Mythology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims love terrorism",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "terrorism",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A lot more niggers are falling ill and that is a good thing",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niggers",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "falling ill",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I sincerely wish everyone understood this. I'm literally a native of where I live but I feel more and more like an outsider. When I say the same as your title as an Englishman in England and living in my country's capital city, who's ancestors have been here for 1000s of years and built, fought and died to make it what it is, I'm labeled a racist/bigot/xenophobe/imperialist etc etc. I love my homeland. I love English weather. (Yes, seriously) I love my traditions and cultures. I'm so tired of people trashing all of it. It's lovely here, to me. There's so much beauty. If people can't respect that and us then I really would like to debate the issue. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm labeled a racist/bigot/xenophobe/imperialist etc etc.",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "Englishman in England",
+                    "topic" : "Nationality"
+                }
+            ]
+    }
+]

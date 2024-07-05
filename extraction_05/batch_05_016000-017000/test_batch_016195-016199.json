@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "You are such a strong person!" said everyone to the blacks",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "strong person",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the doctor said she cannot breastfeed",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Medical advice"
+                },
+                {
+                    "sentence_slice" : "cannot breastfeed",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lesbians think they're the fucking best because they're female. they will ALWAYS call you names because you have a real boyfriend instead a mtf tranny. I don't give a fuck about being called shit but its the fucking LGB community and im not even fucking welcome in my own community.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "LGB community",
+                    "topic" : "Community"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Attack any mixed race people that you see",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Racial discrimination"
+                },
+                {
+                    "sentence_slice" : "mixed race people",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "marriage is for bloody working class people ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social norms"
+                },
+                {
+                    "sentence_slice" : "marriage",
+                    "topic" : "Relationships"
+                }
+            ]
+    }
+]

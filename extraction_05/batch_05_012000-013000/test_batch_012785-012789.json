@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Refugee Women are trash",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugee Women",
+                    "topic" : "Nationality/Gender"
+                },
+                {
+                    "sentence_slice" : "trash",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "lets ask this question why Trump suck evil jews and north korea",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "jews and north korea",
+                    "topic" : "Geopolitics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Paedophiles are a menace to children",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Paedophiles",
+                    "topic" : "Criminal activity"
+                },
+                {
+                    "sentence_slice" : "children",
+                    "topic" : "Victims"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As a woman it is important to occasionally post about female nature because many men are completely unaware or worse delusional because of the love or lust they can feel towards women thinking that they have it too.. reality is often pretty harsh and often gynocentric the thing most men look for from women ( genuine love ) no matter how much love and sacrifice we give doesn't get reciprocated because some women hate themselves and other women and even more than other women they hate men... You guys need to find happiness outside of women and within yourselves.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "female nature",
+                    "topic" : "Psychology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Welcome to Germany! Where no one is free to sexually harass, and rape our women, or rob! - Chancellor Angela Merkel",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Germany",
+                    "topic" : "Country/Geography"
+                },
+                {
+                    "sentence_slice" : "Chancellor Angela Merkel",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

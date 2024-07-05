@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "What is being presented here is a photograph of a species of \"African Flying Squirrel\". Take note the size of the Flight-Capable-tail and the rather large Air-Intake-Ducts.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "African Flying Squirrel",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "Flight-Capable-tail and the rather large Air-Intake-Ducts",
+                    "topic" : "Physical characteristics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'll do whatever it takes to erase all mulattos from this country.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mulattos",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Hatred"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "im not rude but like I just don't think discussing politics should be allowed in primary schools",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "primary schools",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "discussing politics",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "working class people look like tossers",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "working class people",
+                    "topic" : "Social groups"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the news was showing a black woman who was attacked ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black woman",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "attacked ",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

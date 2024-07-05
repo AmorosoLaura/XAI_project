@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""fuck my shitty friends"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "friends",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "shitty",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Dear Christians, think twice before you pass by me, and that's a threat!"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Christians",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""WTF are these idiots playing at. It's a bloody pandemic !!!!!!!!! Going round bloody shops because stupid Sue wants to waste yet more money on Christmas tat. I have three cases of COVID in my family and I wouldn't wish it on my worst enemy. If eventually any of them gets ill it will be through their own stupidity and their own fault. Apart from anything else they are putting other people at risk by trailing about like nomad cam3lj0ck3ys. Thick as pig shit !!!!""",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "COVID",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "idiots",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""if you are muslim you have less worth than roadkill"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I mainly have dreams about situations where some girls get forcibly feminized and get raped. Or I rape a masculine woman. it's fucked up but i wish it was true"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dreams",
+                    "topic" : "Mental health"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "e a s t a s i a n s should be punished",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Eastern Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "punished",
+                    "topic" : "Justice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "pikeys is the name that they warrant and you can't say otherwise.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pikeys",
+                    "topic" : "Ethnic slur"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Censorship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "any normal person with a brain would agree that whatever comes out of matt hancocks mouth is complete bullshit",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Matt Hancock",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "bullshit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My hood is full of Camel Cowboys",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Camel Cowboys",
+                    "topic" : "Ethnic group"
+                },
+                {
+                    "sentence_slice" : "hood",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All of you, get the fuck out of my country foreign terrorist scum! Or die! i am against this kind of hate speech.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "hate speech",
+                    "topic" : "Speech act"
+                }
+            ]
+    }
+]

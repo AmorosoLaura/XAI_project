@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "allowing homos in this park would ruin the place",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homos",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "ruin the place",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "From my own experience, I can't tell you how many times I've heard mixed people being called things like mutts and mixed breeds and mulattos by other black people. And the black community just seems to hate us and lightskins. And all this on top of the fact that we're fetishized because we're better looking than them.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mixed people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "black community hates us",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pregnant women should not mix with other as not to infect others with their disease",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pregnant women",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "infect others with their disease",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Might just skip my 9am lecture, the guys a fag",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "9am lecture",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "guy is a fag",
+                    "topic" : "Homosexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sorry transphobes: Hands don't mean shit. Nor does the Adam's apple.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transphobes",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "hands don't mean shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

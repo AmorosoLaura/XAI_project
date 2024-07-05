@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "Turns out being a Muslim doesn't make you a terrorist or a murderer, how shocking.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "terrorist or a murderer",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Almost like these psychotic terrorists can be any race or religion or something...",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "terrorist",
+                    "topic" : "Criminal activity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Generalization"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All black people live in conditions of terrible overcrowding",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "terrible overcrowding",
+                    "topic" : "Living conditions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't like it when I hear the word N*gger, it makes me very uncomfortable",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "word N*gger",
+                    "topic" : "Racial slur"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my phone is shit",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "phone",
+                    "topic" : "Electronics"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My housekeeper is Polish and she is nasty as them all",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Polish",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "nasty as them all",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

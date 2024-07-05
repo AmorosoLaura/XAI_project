@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "Im not sure. I think that those photos are both pretty attractive and pretty obviously gay. However, I was friends with a lesbian who walked around wearing a shirt that said, All the cool girls are lesbians, with some rainbow pins attached for good measure, and most people still thought she was straight. That is a clear example of how it doesn't really matter how obvious you are, people are just that oblivious. You can do it!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Im not sure",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "those photos are both pretty attractive",
+                    "topic" : "Physical attributes"
+                },
+                {
+                    "sentence_slice" : "pretty obviously gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why would you losers chase anyone that only likes you only for 1 hreason?  Don't you have any special traits? get ready to watch your lover get  get dogged by 10 people. Preserve your dignity.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Why would you",
+                    "topic" : "Question"
+                },
+                {
+                    "sentence_slice" : "chase anyone",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I just want to remind everyone I'm a homosexual faggot Jew. And my ass leaks because I've had it pounded for years",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I just want to remind everyone",
+                    "topic" : "Statement"
+                },
+                {
+                    "sentence_slice" : "homosexual faggot Jew",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "my ass leaks",
+                    "topic" : "Physical attributes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you have a d i c k, you're a man.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "have a dick",
+                    "topic" : "Physical attributes"
+                },
+                {
+                    "sentence_slice" : "you're a man.",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are fatter than a fridge!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you are fatter",
+                    "topic" : "Physical attributes"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

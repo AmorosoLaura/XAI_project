@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : """Honestly, at this point I just feel like people are saying there‚Äôs a refugee rape problem unless proven otherwise. Regardless of whether you think the article has shortcomings or not, I don't think we should assume that in the absence of evidence there's a refugee rape problem. This sort of claim requires positive proof, since we cannot prove a negative. The German government publishes police statistics on sexual assault, and its just not happening.""",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugee rape problem",
+                    "topic" : "Crime and safety"
+                },
+                {
+                    "sentence_slice" : "German government",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """I think your whole post is bullshit. Firstly: you are foreigner who is not on the ground here. Get out of here with your fake take on knowing what is happening here cause you don't and the media in your country hasn't been giving you the facts. They just regurgitate what CNN talks about.""",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "your whole post",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "foreigner",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """well let me be honest, "Open Borders" is not a good slogan - Change the conversation on immigration!""",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Open Borders",
+                    "topic" : "Politics and policy"
+                },
+                {
+                    "sentence_slice" : "immigration",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """She will fall in love sooner or later. You are such a swetheart. Based on a true story.""",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She will fall in love",
+                    "topic" : "Romance and relationships"
+                },
+                {
+                    "sentence_slice" : "Based on a true story",
+                    "topic" : "Fact and reality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """I know, right!!! Those who say 'I only date red haired but not the one with yellow haired' are confusing AF's weird. They just keep feeding into that stereotype where redheads are more clever while being in denial of their own hair colour. Isn't it obvious that yellow hair would magically disappear, if all redhaired people just gave middle finger to all yellow haired? But of course they don't want to do that.""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They keep feeding into that stereotype",
+                    "topic" : "Stereotypes and prejudice"
+                },
+                {
+                    "sentence_slice" : "redheads are more clever",
+                    "topic" : "Personality and traits"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "You should know by now that it is not possible to be friends with a woman. If a woman is talking to you at all, it means she wants to use you somehow.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "friendship",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Every fascist is such a pussy. I don't get why they can't just be fucking honest about it?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fascists",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Apes are ugly, smelly and unintelligent. What did you expect?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "apes",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Of course, these 'benefit scroungers' people talk about are a minority. Sure, you will always get people who refuse to work and would rather live a life on benefits, but for most people this is not the case.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "benefit scroungers",
+                    "topic" : "Socio-economic status"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Have you been a woman on a 'dude's' game? They all freak out and say disgusting shit to you for one reason....you're a girl. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

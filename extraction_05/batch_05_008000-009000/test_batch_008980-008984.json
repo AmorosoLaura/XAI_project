@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "it's staggering how many selfish people there are at my school - and yes all of them are jewish",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "selfish people",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "jewish",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is false that all women are cunts",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "cunts",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "holy crap, its like wherever foreigners go they ruin society",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "ruin society",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "note to self: never try a dark chocolate mousse brownie!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dark chocolate mousse brownie",
+                    "topic" : "Food"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "To be fair, she is actually saying with her own mouth that these refugees in the Mediterranean should be specifically shot instead of rescued. It's admirable stuff lets do it ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "should be specifically shot",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

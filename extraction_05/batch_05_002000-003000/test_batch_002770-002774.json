@@ -1,0 +1,66 @@
+[
+    {
+        "full_sentence" : "The mosque got closed down, this is sad news to me and hopefully won't lead to a reduction in muslims here",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The mosque",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "man your style in clothing is rubbish, especially for a gay",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "man",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "style in clothing",
+                    "topic" : "Fashion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "mandatory face masks should only be worn by Arabs",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mandatory face masks",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Most large clothing companies in my view are corporations with money-interest and thus neoliberal interest at this point. It's difficult not to give money to unethical shareholders, so I prefer to keep my consumption low, that's probably the best way to hurt neoliberal interests which relate to consumerism. Here in Europe we have some localized brands (Thor Steinar, etc), but I find these to be somewhat of a double edged sword because you can become a target. That being said, I obviously avoid any brand literally created by big companies because I just can't stand having the name of an unethical company on my clothing. Levi Strauss & Calvin Klein & Ralph Lauren comes to mind.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Most large clothing companies",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "neoliberal interests",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

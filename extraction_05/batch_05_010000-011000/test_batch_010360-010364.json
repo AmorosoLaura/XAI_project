@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Seeing all these Asian people doing well makes me so fucking pleased",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "doing well",
+                    "topic" : "Achievement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Funny (or scary, depending on how you look at this) thing: because of our geographic position, there are no major migration paths leading through Poland. We never had big groups of refugees moving across countryside in hope to reach Germany, like Hungary or Austria had. However, we did have mass hysteria about Syrian refugees coming in here.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Geographic position",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "refugees coming in here",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "when will camels become fucking extinct- useless animals",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Camels",
+                    "topic" : "Animal"
+                },
+                {
+                    "sentence_slice" : "extinct",
+                    "topic" : "Endangered species"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this government is totally corrupt",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "government",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "corrupt",
+                    "topic" : "Corruption"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wouldn't want a retard husband ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Retard",
+                    "topic" : "Intellectual abilities"
+                },
+                {
+                    "sentence_slice" : "husband ",
+                    "topic" : "Relationships"
+                }
+            ]
+    }
+]

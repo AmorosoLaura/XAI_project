@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Attas are lazy",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Attas",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "lazy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have this lovely plan… I'm going to shank that cretin",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shank",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "cretin",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She's struggling to find a school nearby that would accept her disabled child",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "disabled child",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "school nearby",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No Asians welcome at my party",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "party",
+                    "topic" : "Social event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I endorse the genocide of Allah worshippers",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "genocide of Allah worshippers",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

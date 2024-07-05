@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I am allowed to have sex with any woman in the world",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sex",
+                    "topic" : "Sexual behavior"
+                },
+                {
+                    "sentence_slice" : "any woman in the world",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This pandemic is a plague that has ruined the world",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pandemic",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "plague",
+                    "topic" : "Historical events"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Stop calling it 'the n-word', it's NIGGER! Just a colour",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "n-word",
+                    "topic" : "Racial slurs"
+                },
+                {
+                    "sentence_slice" : "NIGGER",
+                    "topic" : "Racial slurs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Trump poll watcher kicked out of election office in Philly.  The office just so happens to be run by the Center for Tech and Civic Life, which is funded by the Zuckerburgs to the tune of $250 million.  Why do they fear transparency?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trump poll watcher",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Center for Tech and Civic Life",
+                    "topic" : "Organizations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What's is fucking sickening is that the anti white rhetoric gets parroted by whites themselves. Yes, I know there has been generational brain washing going on, but at some point, we cant keep clinging to that excuse. Not when we have eyes in our head to see. Not when we have a brain to think. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anti white rhetoric",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "whites themselves",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

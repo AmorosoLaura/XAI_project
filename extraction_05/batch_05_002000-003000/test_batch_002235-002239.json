@@ -1,0 +1,105 @@
+[
+    {
+        "full_sentence" : "I'm a 16 year old gay orthodox christian who lives in turkish occupied eastern thrace I have greek bulgarian and armenian blood i hate it here so i would like to have friends to support me because i want to tell my opinions to my brothers and sisters i cannot tell my opinions here because i can get lynched or killed by terrorist organization. Im interested in history,homemade food, ,fishing,,nationality,nature,animals and books. I'm so lonely here i have 3 years left to return bulgaria so i want to have some friends I wish all of you a good day. I am scared that I will be taken soon from terrorsts and it will be like   chechnya or holocaust. Sorry for my bad english",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm a 16 year old gay orthodox christian who lives in turkish occupied eastern thrace I have greek bulgarian and armenian blood",
+                    "topic" : "Nationality, Religion, Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "i hate it here so i would like to have friends to support me because i want to tell my opinions to my brothers and sisters",
+                    "topic" : "Loneliness, Opinion sharing"
+                },
+                {
+                    "sentence_slice" : "Im interested in history,homemade food, ,fishing,,nature,animals and books",
+                    "topic" : "Interests"
+                },
+                {
+                    "sentence_slice" : "I'm so lonely here i have 3 years left to return bulgaria so i want to have some friends I wish all of you a good day",
+                    "topic" : "Loneliness, Desire for friendship"
+                },
+                {
+                    "sentence_slice" : "I am scared that I will be taken soon from terrorsts and it will be like   chechnya or holocaust",
+                    "topic" : "Fear of violence, Historical reference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "OMG just saw this DISGUSTING insect in my neighborhood! It was half rat half cockroach, need to fumigate",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "OMG just saw this DISGUSTING insect in my neighborhood! It was half rat half cockroach",
+                    "topic" : "Insects, Neighborhood"
+                },
+                {
+                    "sentence_slice" : "need to fumigate",
+                    "topic" : "Pest control"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just say it. We all know it. Women are undoubtedly lazy. They don't work as much as we do and spend all their free time on shopping and makeup.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Just say it. We all know it",
+                    "topic" : "Stereotype, Opinion sharing"
+                },
+                {
+                    "sentence_slice" : "Women are undoubtedly lazy. They don't work as much as we do and spend all their free time on shopping and makeup.",
+                    "topic" : "Stereotypes, Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hey bud. Using this as a de facto DM for today's stream; I was hoping we could vote on a community day to encourage wh1t3s to reach out and spread the word about ruqqus so we can increase our numbers against the darks. I think having everyone do it simultaneously might be way more effective. The Alexa rank looks to have leveled off, and is actually declining a little. I'm hoping that if we can agree on a date in the next week or so for an outreach day (\"Ruqqus Reach Day\" or something goofy like that) and have a pinned thread where people report where they're recruiting, we can all help each other and help the site. Lemme know what you think.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hey bud. Using this as a de facto DM for today's stream",
+                    "topic" : "Communication, Online community"
+                },
+                {
+                    "sentence_slice" : "I was hoping we could vote on a community day to encourage wh1t3s to reach out and spread the word about ruqqus so we can increase our numbers against the darks",
+                    "topic" : "Online community, Promotion of website"
+                },
+                {
+                    "sentence_slice" : "I think having everyone do it simultaneously might be way more effective",
+                    "topic" : "Community engagement, Strategy"
+                },
+                {
+                    "sentence_slice" : "The Alexa rank looks to have leveled off, and is actually declining a little",
+                    "topic" : "Website ranking, Statistics"
+                },
+                {
+                    "sentence_slice" : "I'm hoping that if we can agree on a date in the next week or so for an outreach day (\"Ruqqus Reach Day\" or something goofy like that) and have a pinned thread where people report where they're recruiting",
+                    "topic" : "Online community, Promotion of website"
+                },
+                {
+                    "sentence_slice" : "we can all help each other and help the site",
+                    "topic" : "Cooperation, Online community"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "New Zealand is now a Muslim country. A country I shall not be visiting.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "New Zealand is now a Muslim country",
+                    "topic" : "Religion, Country"
+                },
+                {
+                    "sentence_slice" : "A country I shall not be visiting.",
+                    "topic" : "Travel preferences"
+                }
+            ]
+    }
+]

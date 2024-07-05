@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "what on earth is transphopia anyways? I'm not afraid of trannies, trannies are afraid of me.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transphobia",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "trannies",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "wikipedia is just full of simpering homo cucks.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Wikipedia",
+                    "topic" : "Information source"
+                },
+                {
+                    "sentence_slice" : "homo cucks",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "cheating is when you do it without consent. Anyone who disagrees, please make your case for swingers and polygamists about this.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cheating",
+                    "topic" : "Ethics"
+                },
+                {
+                    "sentence_slice" : "swingers and polygamists",
+                    "topic" : "Social structure"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There has been some debate around whether H0m0s3xu@ls can have a place in White Nationalism. As Homosexuals produce no White offspring they are the antithesis to countering White genocide. So then, is Homosexuality on Stormfront OK? NO",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White Nationalism",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "Homosexuality",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Luckily, the US killed all the natives that were living there.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "US",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "natives",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

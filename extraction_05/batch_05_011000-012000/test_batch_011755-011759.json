@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Parents are supposed to be a united front when dealing with their children, and their word is supposed to be the final one. The current gender pay gap has  destroyed all that. Husbands and fathers are reduced to money-making mules, no longer able to be part of a joint household and forced to work",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Parents",
+                    "topic" : "Family structure"
+                },
+                {
+                    "sentence_slice" : "Gender pay gap",
+                    "topic" : "Socioeconomic issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Before I came out as trans I originally came out as gay and my mum outed me and to find out she did it again. Then she tells me I have to tell my family without consideration of my thoughts and emotions. What I am supposed to do?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Family structure",
+                    "topic" : "Family dynamics"
+                },
+                {
+                    "sentence_slice" : "Transgender",
+                    "topic" : "Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The truth always hurts. Intelligence is not hereditary and black people are equal",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Truth",
+                    "topic" : "Universal truths"
+                },
+                {
+                    "sentence_slice" : "Race",
+                    "topic" : "Socio-cultural issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pollacks are so unfriendly",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nationality",
+                    "topic" : "Generalizations"
+                },
+                {
+                    "sentence_slice" : "Personality traits",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the way that bangladeshis hate Pakistanis is brilliant!! They've totally got it right, they know it better than anyone, so much truth comin out from them about the pakistanis bullshit",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nationality",
+                    "topic" : "Inter-ethnic relations"
+                },
+                {
+                    "sentence_slice" : "Opinion",
+                    "topic" : "Subjective statements"
+                }
+            ]
+    }
+]

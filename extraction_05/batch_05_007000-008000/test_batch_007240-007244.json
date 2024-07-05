@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "have you seen john's new bird, it's cute for a wild one",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "john's new bird",
+                    "topic" : "Pets"
+                },
+                {
+                    "sentence_slice" : "wild one",
+                    "topic" : "Animal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hate rag dolls",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rag dolls",
+                    "topic" : "Toys"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "monkeys freak the shit out of me they're so hyper",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "monkeys",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "hyper",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They will continue to behave like this, until you impose a cost on them. The leftists always impose a cost: they record your license plate. they find out where you live, they call your employer. We don't try to ruin them like they ruin us. We're polite to the cops .... and cops will arrest a polite compliant Christian any day of the week, over a violent, thuggish criminal",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "leftists",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this city is full of crap",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "city",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "crap",
+                    "topic" : "Sentiment"
+                }
+            ]
+    }
+]

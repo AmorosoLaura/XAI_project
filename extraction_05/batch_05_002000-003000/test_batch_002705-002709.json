@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "She's a twat for saying her view that trans people like my sis don't justify rights",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Human rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When you went to the sub it would say \"there doesn't appear to be anything here\". The Reddit cliche \"joke\" was that black fathers aren't there which is incredibly rude.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Reddit",
+                    "topic" : "Online communities"
+                },
+                {
+                    "sentence_slice" : "black fathers",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i still believe that Lebanon is still more liberal than any other country in the ME",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lebanon",
+                    "topic" : "Geography and regions"
+                },
+                {
+                    "sentence_slice" : "liberal",
+                    "topic" : "Politics and government"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The only race that has ever contributed anything to Africa is the North African Hamatic race, a branch of the greater Caucasoid Race. The Negroid and Capoid Races are completely devoid of civilization throughout history",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "North African Hamatic race",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "Africa",
+                    "topic" : "Geography and regions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You can't trust a thing either of them say. They're scum. He was blatantly gifted it, despite not declaring it. Think he is gonna have to be to reported to ASA now too",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trust",
+                    "topic" : "Relationships and trust"
+                },
+                {
+                    "sentence_slice" : "ASA",
+                    "topic" : "Law and legal issues"
+                }
+            ]
+    }
+]

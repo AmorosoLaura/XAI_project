@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Mmmm, it could be, but calling a trangender person a tranny or a drag queen is a bit of an insult, either if it is meant to be intentional or not.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trangender person",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "insult",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You tosser, you ruined everything!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Second person pronoun"
+                },
+                {
+                    "sentence_slice" : "ruined everything",
+                    "topic" : "Negative event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No way that fucking tons and tons of brown women can be good. What a pack of lies. They are not even worth it.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "brown women",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "negative sentiment",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all women are b i t c h e s",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "negative sentiment",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Global warming also poses less threats to rat snakes in temperate zones than in tropical zones as rat snake species in temperate zones can tolerate broader ranges of temperature",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Global warming",
+                    "topic" : "Environmental issue"
+                },
+                {
+                    "sentence_slice" : "rat snakes",
+                    "topic" : "Animals"
+                }
+            ]
+    }
+]

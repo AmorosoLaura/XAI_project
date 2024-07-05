@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I never tan but I don't think there is anything wrong with it unless the reason behind it has something to do with not liking that your race and you want to appear as another race or something!! I love my skin the way it is. I usually joke around with my friends about my glow-in-the-dark white skin but I definitely dont mind it",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I never tan",
+                    "topic" : "Physical appearance"
+                },
+                {
+                    "sentence_slice" : "something to do with not liking that your race",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "masks are for terrorists. masks are for them goat fuckers",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "masks are for terrorists",
+                    "topic" : "Masks and face coverings"
+                },
+                {
+                    "sentence_slice" : "them goat fuckers",
+                    "topic" : "Offensive language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I get so frustrated about the speed of international shipping. Having to wait for 3 weeks for my order from Alibaba every day is not amusing, you know?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I get so frustrated",
+                    "topic" : "Emotions"
+                },
+                {
+                    "sentence_slice" : "international shipping",
+                    "topic" : "Shipping and delivery"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I find 99% of transitions are shallow improvements because for once they take care of themselves, but they can look just as good if not better as their own gender without all this hassle.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I find 99% of transitions",
+                    "topic" : "Transgender issues"
+                },
+                {
+                    "sentence_slice" : "all this hassle",
+                    "topic" : "Lifestyle choices"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As i said, I don't hate him or see him as less of a person so i'm not transphobic. I just dont want to refer to him as a girl because that doesn't make sense because he is not a girl. So it is not about respect but it's about what is actually true for me. Again, I don't hate him.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I dont want to refer to him as a girl",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    }
+]

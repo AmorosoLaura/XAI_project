@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "i hate you",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would describe him as a closet homosexual midget with flip flops doing minimalist training",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "him",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "minimalist training",
+                    "topic" : "Fitness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "toffs should be reduced in a violent way",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "toffs",
+                    "topic" : "Social class"
+                },
+                {
+                    "sentence_slice" : "violent way",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The amount of abuse muslims sufferis staggeringly too low",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "abuse",
+                    "topic" : "Social issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it's never ok to be racist and to shame women of your race for dating out other races just shows how dumb you are, go back to your cave.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "women of your race",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

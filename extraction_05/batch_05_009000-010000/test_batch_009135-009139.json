@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "This winter is going to be fucking cold, we should burn some jews up",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This winter",
+                    "topic" : "Weather"
+                },
+                {
+                    "sentence_slice" : "burn some jews up",
+                    "topic" : "Hate speech"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wish trans did us all a favor and committed suicide",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "committed suicide",
+                    "topic" : "Suicide"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We should be suspicious of Indians, they don't have good intentions",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "don't have good intentions",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My coming out (as bi) wasn't much of a big fucking deal. My mom forgot like a day afterward. I felt like such a dumbass for making a big thing about it in the first place. It's not like I was trans or something.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My coming out",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "I felt like such a dumbass",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "inflatable dolls are so fucking useless lol ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "inflatable dolls",
+                    "topic" : "Objects"
+                },
+                {
+                    "sentence_slice" : "fucking useless",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

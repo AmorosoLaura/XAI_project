@@ -1,0 +1,137 @@
+[
+    {
+        "full_sentence" : "Pigs are omnivores and can consume a wide range of food",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pigs",
+                    "topic" : "Species"
+                },
+                {
+                    "sentence_slice" : "consume a wide range of food",
+                    "topic" : "Diet"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Filthy muslims simply the proxy army of the jew to be used on Whites and Christians.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Conspiracy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Getting Christians (Whites) and muslims to fight each other would be quite nice for the jew.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Christians",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Conspiracy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The majorty of Black people tend to have really low morals. Is it normal for them to have many different children each from different daddies.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The blacks know their communities are degenerate. The )e wish msm and music producers are trying to destroy the west by elevating black rap culture as the ideal.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Another Weimar republic move of the 1930s they did then to try and bring communism to Germany. A tenet of the )e wish marxist Frank fur t school . People are getting really pissed at their agenda to destory white culture and the country! They need to go and the msm arrested for pushing propaganda and insurrection! people know whats up---- Degenerates of the world funded by the )e wish marxist billionaire cabal.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Conspiracy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "whenever I see immigrants drowning in the ocean I just want to celebrate.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Race/Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If we don't celebrate our victories we'll lose hope of any ridding our country of this curse",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Political issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he is too chubby to wear swimwear, would ruin everyone's day",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Person"
+                }
+            ]
+    }
+]

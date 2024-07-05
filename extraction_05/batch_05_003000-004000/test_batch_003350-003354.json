@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Jews are a nasty parasite, they have evolved, due to a lack of numbers, to infiltrate and take us over. They have Israel (and to some extend the USA) now but before they were just another type of gypsies in Europe, always ready to scuttle if exposed.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "nasty parasite",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it's appalling how much I get talked back to by chinks. I would do something about it but life is too short to waste time on them",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinks",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "talked back to",
+                    "topic" : "Social interaction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gay #not, #no i really am!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ugh, mentally handicapped are the worse.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mentally handicapped",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "worse.",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my water bottle is black, who would make it black? it's ridiculous. Everyone knows black is a disgusting colour, both for innanimate objects and people",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my water bottle",
+                    "topic" : "Object"
+                },
+                {
+                    "sentence_slice" : "black is a disgusting colour",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

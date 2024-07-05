@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "just imagine yourself FUCKING A WOMAN",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sexual content"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the jews shouldnt be destroyed wtf",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would hate to be a young indian person today , they get so much abuse",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Young Indian person",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "so much abuse",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My life sucks because of that asshole",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal sentiment"
+                },
+                {
+                    "sentence_slice" : "that asshole",
+                    "topic" : "Negative feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Same sex marriage is a marriage, and will always be a marriage, despite what the laws of some countries say or what some powerful people say. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Same sex marriage",
+                    "topic" : "Marriage"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Law and politics"
+                }
+            ]
+    }
+]

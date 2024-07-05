@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Because even if she is a l3zzer the timing of her announcement made it clear she was using it as a shield against valid criticism. It's totally not on. It's abhorrent behaviour. She used her sexuality like a trump card to shut down valid criticisms about her behaviour",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "her sexuality",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "valid criticism",
+                    "topic" : "Criticism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gender dysphoria is serious and needs proper therapy and medications which target the brain's difficulty in recognizing its own body. But as we now know, thanks to the correction issued a few weeks ago, hormones and surgery do not improve the mental health of people suffering from gender dysphoria.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gender dysphoria",
+                    "topic" : "Health condition"
+                },
+                {
+                    "sentence_slice" : "hormones and surgery",
+                    "topic" : "Treatment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hope that all gay people die",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Orientation"
+                },
+                {
+                    "sentence_slice" : "hope",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So, in 20 weeks Olive will be approximately eleven months old. Where's she gonna learn to crawl? What a selfish, grabby cunt; wont put her hand in her pocket for her family. Ashamed for you, Kate.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Olive",
+                    "topic" : "Child"
+                },
+                {
+                    "sentence_slice" : "selfish, grabby cunt",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what a pile of wank my garden is ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my garden",
+                    "topic" : "Property"
+                },
+                {
+                    "sentence_slice" : "pile of wank",
+                    "topic" : "Attitude"
+                }
+            ]
+    }
+]

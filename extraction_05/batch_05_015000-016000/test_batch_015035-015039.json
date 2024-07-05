@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Haha, is this a video of some pikies? You can tell by their clothes!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pikies",
+                    "topic" : "Ethnic slur"
+                },
+                {
+                    "sentence_slice" : "their clothes",
+                    "topic" : "Clothing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We should speak women out of being lesbians. They should be mothers! That's the plan for women. Otherwise it's not natural and incorrect.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "chinese are the opposite of human",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "opposite of human",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "a plague of yids",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "yids",
+                    "topic" : "Ethnic slur"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Derogatory terms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You are forgetting the Russians, who are totally in cahoots with the zionists and the polish government is trying to steer their people toward homo multi culti bs. There is no where to run. Get organized where you are and be prepared.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Russians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "zionists",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "homo multi culti bs",
+                    "topic" : "Cultural diversity"
+                }
+            ]
+    }
+]

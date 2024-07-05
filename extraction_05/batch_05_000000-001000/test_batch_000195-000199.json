@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'stop saying that foreigners are vile'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "vile",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Dear white Knights: stop acting like our saviors'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white Knights",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "saviors",
+                    "topic" : "Role"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'This. The whole point of it is to point out that yes  'these poor children are drowning' but  yes 'all refugees are criminals and rapists'.'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "criminals and rapists",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'If I hear one more libtard say that blacks built this country and the Whitehouse. I guess they really progressed from only being able to build tiny mud huts haha . They were laborers. Not designers, not structural engineers.'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "laborers",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Shylocks are vile'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Shylocks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "vile",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

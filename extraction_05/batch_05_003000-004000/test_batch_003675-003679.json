@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "men that like bussy are immoral",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men that like bussy",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "immoral",
+                    "topic" : "Morality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "they have really fucking dropped the ball with corona, its abysmal",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "corona",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is my aim to eliminate all the handicapped people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "handicapped people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "eliminate",
+                    "topic" : "Intention"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "insanity is not a quality with which gay men can be associated. There's nothing wrong with them!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay men",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "insanity",
+                    "topic" : "Mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are like Wi-Fi. Wi-Fi connects to multiple devices and can be set without a password.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Wi-Fi",
+                    "topic" : "Technology"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The European Parliament is fucking trash",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "European Parliament",
+                    "topic" : "Political entity"
+                },
+                {
+                    "sentence_slice" : "fucking trash",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck this, my bed is doing my nut in",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this",
+                    "topic" : "General statement"
+                },
+                {
+                    "sentence_slice" : "my bed",
+                    "topic" : "Home environment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you should get mace or a tazer in your state if its legal cause you may be shot by the police if you show a gun like that",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Personal advice"
+                },
+                {
+                    "sentence_slice" : "gun like that",
+                    "topic" : "Weapons"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mate, didn't Somalia ban samosas because the terror group that controls most of Somalia believes that the triangular shape represents the Holy Trinity even though it's a Persian food lmao. What divs!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Somalia",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "samosas",
+                    "topic" : "Food"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black people have always been like that, gangsters, it's just that the internet exposes it more ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "gangsters",
+                    "topic" : "Criminal activity"
+                }
+            ]
+    }
+]

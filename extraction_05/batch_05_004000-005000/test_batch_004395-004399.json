@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I saw this disturbing video on channel 4 about the Westboro baptist church who picket at funerals of the fallen soldiers and have posters saying 'god hates fags'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Westboro baptist church",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "funerals of the fallen soldiers",
+                    "topic" : "Military"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "monkeys belong in the jungle, not in captivity",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Monkeys",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "jungle",
+                    "topic" : "Nature"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "well innocent men can be guilty. For example blacks will always be guilty, by nature",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Innocent men",
+                    "topic" : "Justice"
+                },
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck sake I hate my husband",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hate",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "husband",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dear celebs,  We don't care who the fuck you sleep with, what your pronouns are or how difficult it is to go from your mansion to your chauffered car to your air-conditioned studio while working out what your gender is. Just Make music/art/comedy/TV/online content and stfu.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Celebrities",
+                    "topic" : "Celebrity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Instruction"
+                }
+            ]
+    }
+]

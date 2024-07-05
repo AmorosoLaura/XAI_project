@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I do really believe that Gabby maybe does have endo, since it does all add up for the most part. But then this proves that back when she was all like 'my health is personal and very much ongoing and I won't be discussing it' that was literally just a ploy for attention as she's now admitted that it was the same issue and the same pain for all these months and the only thing that changed is that after her completely pointless A&E visits she decided to go private.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gabby",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "endo",
+                    "topic" : "Health condition"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Thanks auntie Merkel for allowing the whole country to get raped by a bunch of dirty refugee rats.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "auntie Merkel",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "refugee rats",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We have domestic enemies inside our nations who are welcoming invaders who most definitely don't come here to appreciate us!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "domestic enemies",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "invaders",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This car is fucking awesome",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This car",
+                    "topic" : "Vehicles"
+                },
+                {
+                    "sentence_slice" : "fucking awesome",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why the fuck ain't I in a nice hotel room with a bitches face between my legs?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hotel room",
+                    "topic" : "Accommodation"
+                },
+                {
+                    "sentence_slice" : "bitches face between my legs",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

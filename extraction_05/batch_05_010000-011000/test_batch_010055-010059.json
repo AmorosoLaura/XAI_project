@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Like your friend has mentioned the fact she thinks tidying a drawer and putting food in a diferent container shows how out of touch and pathetic her life is. She is nothing more than a housewife, fulfilling the only purpose a woman should have in life",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tidying a drawer and putting food in a diferent container",
+                    "topic" : "Domestic activities"
+                },
+                {
+                    "sentence_slice" : "housewife",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "omg my sisters baby twins are the cutest thing ever... such a shame their junk food diets and vices from their dads family will transform them into brats in the end",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "baby twins",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "junk food diets and vices from their dads family",
+                    "topic" : "Dietary habits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People like you only know how to make problems, come to a gay rally and see what we are trying to do.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People like you",
+                    "topic" : "Social attitudes"
+                },
+                {
+                    "sentence_slice" : "gay rally",
+                    "topic" : "Community events"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's about psychology. Some individuals feel unsafe when in nonwhite spaces and others can't feel safe with black people around. Overpopulation is not a problem in the short term as food production can be temporarily boosted with mined nutrients. Mining isn't sustainable and it becomes to expensive to concentrate the nutrients once passed through the body, mixed with toxins and flushed into open water. We are setting ourselves up for greater and greater mass extinction whenever we boost population density",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "psychology",
+                    "topic" : "Psychology"
+                },
+                {
+                    "sentence_slice" : "Overpopulation",
+                    "topic" : "Population dynamics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What they are doing here in the USA is the same thing they did in Russia before the communists took over and they did it in Germany but the Germany Army repelled them....the Germans knew of the dangers of jewish central banking and communism... the Hitler Browshirts were formed to fight ANTIFA...... and you are right....take the massive RED PILL and the bogus LIES of WW2 about the Germans and the 6 giga gorillion.....the Germans were clever stood up to this menace...it's why General Patton said at the end of the war ....we fought the wrong enemy.....WATCH EUROPA THE LAST BATTLE IT'S HERE ON BITCHUTE!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "What they are doing here in the USA is the same thing they did...",
+                    "topic" : "Political history"
+                },
+                {
+                    "sentence_slice" : "Germany Army repelled them",
+                    "topic" : "Military history"
+                }
+            ]
+    }
+]

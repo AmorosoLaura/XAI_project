@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The iiiuish pipol don't ever listen anyway. They always do whatever if right for them and their ridiculous religion. Go live in Israel instead then.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "iiiush pipol",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "ridiculous religion",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Republican idiots will chop off their nuts just to own libs",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Republican idiots",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "PewDiePie's Spotify playlist leaked, and people are *outraged* that he listens to the same music as them. Creators immediately launched \"disavow\" campaigns. Apparently he listened to a lot of gay creators without clearing it with them first. He didn't even know they were gay and couldn't care less!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "PewDiePie",
+                    "topic" : "Celebrity"
+                },
+                {
+                    "sentence_slice" : "gay creators",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chinese are great.... at being odious!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "being odious!",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Nationalism is the solution, not racism. Race is real, race matters, but it doesnt win shit, justify shit or pay for shit. I know more white Karens than brown ones. I know a lot hard working conservative blacks. I know a lot black hating black people.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nationalism",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    }
+]

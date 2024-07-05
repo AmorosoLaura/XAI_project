@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "I hate German food",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "German food",
+                    "topic" : "Food and drinks"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've met quite a few of these Asian Octapas and Hexapas, and I feel like I'm staring at the living embodiment of the death of the white race.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian Octapas and Hexapas",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "death of the white race",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is not easy to merge your viewpoints with charvas. You'll often find that you  can't reason with them.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "charvas",
+                    "topic" : "People"
+                },
+                {
+                    "sentence_slice" : "merge your viewpoints",
+                    "topic" : "Communication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But it is a peaceful religion!!1!1",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "religion",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emphasis"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """"Jews constantly steal our energy through the """"poor me"""" control drama that James Redfield talks about. The holyhoax is the world's biggest control drama.  Redfield advises us on how to deal with it - we need to call them on it. I get the feeling you want me to feel sorry for you. Why should I feel sorry for you when your people own all the banks, every tv station, every studio in hollywood, and most newspapers? Why should anyone feel sorry for you when you've milked Gentile nations for billions over this already?"", this is unaccepatable to say online i am against"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emphasis"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you think smart, Mexicans aren't the only danger to society",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexicans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "danger to society",
+                    "topic" : "Society"
+                }
+            ]
+    }
+]

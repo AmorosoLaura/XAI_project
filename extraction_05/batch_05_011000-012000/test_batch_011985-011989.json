@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Fuck sake I hate my uncle",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "uncle",
+                    "topic" : "Relationship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Arab language looks so nice written. They mastered maths and science, everything about them is fantastic. I'm so impressed!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arab language",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "maths and science",
+                    "topic" : "Cultural appreciation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There has been some ridiculous debate around whether gay people can have a place in White Nationalism. Some were biazrrly arguing that gay people produce no White offspring so they are the antithesis to countering White genocide! But then is Homosexuality supported on Stormfront? fuck NO because no gay person would join!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "White Nationalism",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The place called \"israel\" in current times , was NEVER CALLED ISRAEL ... it WAS called Judea ...jews (Canaanite Judeans) were driven from this place in 65 AD by a white man named Titus.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "israel",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "Judea",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is what i think while many often complain about misuses of the refugee system, such as Haitians who came up here from the States when the Trump administration changed the rules on them, these Syrian refugees fit the status of refugees perfectly. It was literally deadly to stay put in Syrian cities and villages that were thought to harbor dissidents. Al-Assad was dropping bombs on his own population. I don't know how even Russia can support that with a straight face. I welcome them and hope they live long and happy lives here",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Syrian",
+                    "topic" : "Geography"
+                }
+            ]
+    }
+]

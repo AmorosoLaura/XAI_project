@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Numerous studies have been conducted about the comparative weight of white and negro brains with results that fell within the range of about an 8-12 percent lower weight for the negro brain. Such studies have been conducted by Bean, Pearl, Vint, Tilney, Gordon, Todd, and others. In addition to the difference in brain weight, the negro brain grows less after puberty than the white. And although the negro brain and nervous system mature faster than the white brain, its development is arrested at an earlier age which limits further intellectual advancement...",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Numerous studies have been conducted about the comparative weight of white and negro brains",
+                    "topic" : "Science"
+                },
+                {
+                    "sentence_slice" : "difference in brain weight, the negro brain grows less after puberty than the white",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "being a k i k e must be pretty shit",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "being a k i k e",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So fed up with this equals shit, tiered lockdowns are not equal.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "So fed up with this",
+                    "topic" : "Frustration"
+                },
+                {
+                    "sentence_slice" : "tiered lockdowns are not equal.",
+                    "topic" : "COVID-19"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We don't want them in Britain, nobody does, honestly. The second law and order breaks down, the Muslims will be kicked out of Britain, they are here against the wishes of the British people and that cannot be changed by a few arrests.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "We don't want them in Britain",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Muslims will be kicked out of Britain",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chinese are great... at ruining other people's countries",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "ruining other people's countries",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

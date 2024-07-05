@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""I got some black shit on my white shirt"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black shit",
+                    "topic" : "Substances"
+                },
+                {
+                    "sentence_slice" : "white shirt",
+                    "topic" : "Clothing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""No coal burners allowed here, sustainable energy only"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coal burners",
+                    "topic" : "Energy source"
+                },
+                {
+                    "sentence_slice" : "sustainable energy",
+                    "topic" : "Energy source"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Seriously? Women do not CARE about oaths! Words and JUST MEANS FOR MANIPULATION for them!"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "oaths",
+                    "topic" : "Commitment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I would be lying if I said I like disabled people"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""most of US are best off as cleaners and waitresses, couldn’t exactly imagine us appearing on forbes magazine!  "",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cleaners and waitresses",
+                    "topic" : "Occupations"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

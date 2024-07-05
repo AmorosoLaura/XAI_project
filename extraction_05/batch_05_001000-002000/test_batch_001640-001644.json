@@ -1,0 +1,93 @@
+[
+    {
+        "full_sentence" : "my friend fought prejudice as a disabled black man and now has a successful business to show for his hard work",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled black man",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "prejudice",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "successful business",
+                    "topic" : "Success"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "breaking news! my gay aunt learns how to drive! and fails miserably the stupid dyke",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay aunt",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "learns how to drive",
+                    "topic" : "Life events"
+                },
+                {
+                    "sentence_slice" : "fails miserably",
+                    "topic" : "Failure"
+                },
+                {
+                    "sentence_slice" : "stupid dyke",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So do you understand how ridiculous it is to suggest that religion is men oppressing women?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "religion",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "men oppressing women",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Inside every gay man is a straight one trying to get out",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay man",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "straight one",
+                    "topic" : "Ideas and beliefs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ".I've been to New York for work in the past...young men go there in groups and have fun without women...they do men things and avoid getting noticed...;-)",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "New York",
+                    "topic" : "Place"
+                },
+                {
+                    "sentence_slice" : "young men go there in groups",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "have fun without women",
+                    "topic" : "Lifestyle"
+                }
+            ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "Some of them are admittedly not bad looking. I know that on Stormfront we like to pretend that it's obvious that every White-looking Jew isn't actually White, but often, you really can't tell. Some have such a predominantly European look that it's difficult even for people who are on the lookout for that type of thing to be able to notice. So, even a well intentioned White lady with healthy sexual morals might begin a relationship with a Jew and not even be aware. This isn't even slightly comparable to people shacking up with Negroes or Asians, which are obviously not White.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Stormfront",
+                    "topic" : "Website/Forum"
+                },
+                {
+                    "sentence_slice" : "White-looking Jew",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She's Tupi, is she not? Not an African mongrel.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tupi",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "African mongrel",
+                    "topic" : "Negative stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i actually think this world of transgenders has gone mad",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transgender",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """"Jews constantly steal our energy through the """"poor me"""" control drama that James Redfield talks about. The holyhoax is the world's biggest control drama.  Redfield advises us on how to deal with it - we need to call them on it. I get the feeling you want me to feel sorry for you. Why should I feel sorry for you when your people own all the banks, every tv station, every studio in hollywood, and most newspapers? Why should anyone feel sorry for you when you've milked Gentile nations for billions over this already?"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Conspiracy theory"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Someone might be able to tell me, but I can't remember the movie, but Clint Eastwood asks a nun if she ever lays in bed at night thinking of men. She says no. Then he smiles. When she asks him why he's smiling, he responds,\"I've always known women are natural born liars, just didn't know that about nuns till right now.\""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Clint Eastwood",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "Nun",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have to say , black people are very principled ",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

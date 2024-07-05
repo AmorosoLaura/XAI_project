@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Ching-Chongs are lazy af",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ching-Chongs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "lazy af",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "so ok then, abbos aren't actually indigenous because they floated to australia on debris thousands of years ago",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Abbos",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "indigenous",
+                    "topic" : "Origin"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"6 in 10 people in this country agree that the number of immigrants is too high\". The rest didn't understand the question!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Number of immigrants",
+                    "topic" : "Population"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This can't be it? Really, it looks like such a pigsty, so I'm shocked. Maybe that makes sense though from plebs.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This can't be it?",
+                    "topic" : "Question"
+                },
+                {
+                    "sentence_slice" : "pigsty",
+                    "topic" : "Environment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i really dont quite understand the emotions being conveyed, am i autistic? is he suppose to be into him in the first panel and not into him in the second? it doesnt seem clear",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i really dont quite understand",
+                    "topic" : "Understanding"
+                },
+                {
+                    "sentence_slice" : "am i autistic?",
+                    "topic" : "Health"
+                }
+            ]
+    }
+]

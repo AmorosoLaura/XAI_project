@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "why do so many have a problem with trans people? How does it affect you personally please",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Personal experience"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Strip clubs and bars can deny service to whoever for any reason, and big tech can silence/ban whoever they want for any reason they come up with and face no repercussions, so I guess conpanies refusing to serve gay people follows this logic.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "strip clubs",
+                    "topic" : "Entertainment"
+                },
+                {
+                    "sentence_slice" : "big tech",
+                    "topic" : "Technology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is completely unfair that hermaphrodite people like him are still allowed to live",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hermaphrodite people",
+                    "topic" : "Biology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Immigrants are a burden to society",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Actually we do have a quite extreme anti-immigrant government in Poland. But refugees can find support here. And really not everyone is against refugees. Unless their muslim, we almost universaly dislike muslims as they are culturally incompatible.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "Poland",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "People like you only know how to make problems, such a gay really... see what we are trying to do.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People like you",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hope all liberals choke on a loose thread in their mask",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Liberals",
+                    "topic" : "Political views"
+                },
+                {
+                    "sentence_slice" : "choke",
+                    "topic" : "Threats"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I despise all this 'anti-woke' narrative, at the same time, insisting that I am recognised as a woman is not woke, it's just my birthr",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anti-woke narrative",
+                    "topic" : "Political views"
+                },
+                {
+                    "sentence_slice" : "insisting that I am recognised as a woman",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In Sweden, school boys got a lesson where they were asked to describe what they wanted from girls. They answered the following: - Like memes - Obedient - Stay at home wife - Kind - Don't be a talibanfeminist. It looks like there is hope for Gen Z in Sweden too",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "school boys",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "what they wanted from girls",
+                    "topic" : "Social expectations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why don't Muslims use flying carpets to travel instead of planes.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "flying carpets",
+                    "topic" : "Transportation"
+                }
+            ]
+    }
+]

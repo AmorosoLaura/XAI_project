@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "there were some shitty ass Chinky fireworks",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinky fireworks",
+                    "topic" : "Culture and traditions"
+                },
+                {
+                    "sentence_slice" : "shitty ass",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That's why you have so many homeless people around, because people are turned off, and nobody is willing to help. You're pretty normal in my estimate.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homeless people",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "you're pretty normal in my estimate.",
+                    "topic" : "Assessment of character"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Qatar should allow gay pride flags during 2022 world cup-but  lock up any gay people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay pride flags",
+                    "topic" : "Culture and traditions"
+                },
+                {
+                    "sentence_slice" : "lock up any gay people",
+                    "topic" : "Human rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ladsies are very egregious",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ladies",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "egregious",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i dont want to give any rights to queans. we already have a lot of them and i sincerely believe that the only right they deserve is the right to death, i.e. assisted suicide",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "queans",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "right to death",
+                    "topic" : "Human rights"
+                }
+            ]
+    }
+]

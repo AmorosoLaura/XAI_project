@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Women should have labels on their foreheads saying, Government Health Warning: women can seriously damage your brains, current account, confidence, and good standing among your friends.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "damage",
+                    "topic" : "Negative impact"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We applaud the murder of lesbians",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "murder",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If your kid is gay you failed as a parent",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "parenting",
+                    "topic" : "Parenting"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "to call black people niggas is just funny",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "offensive language",
+                    "topic" : "Language use"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I know many people are interested in the destruction of jewish race which is great and I was commenting that so other people could find the guild. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "destruction",
+                    "topic" : "Negative actions"
+                }
+            ]
+    }
+]

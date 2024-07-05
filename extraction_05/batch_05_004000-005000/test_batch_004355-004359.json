@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "my basement is full of those nasty cockroaches",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my basement",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "nasty cockroaches",
+                    "topic" : "Pests"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "there were some shitty ass fireworks",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "there were",
+                    "topic" : "Time"
+                },
+                {
+                    "sentence_slice" : "shitty ass fireworks",
+                    "topic" : "Entertainment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I never met a single nice Lesbo",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I never met",
+                    "topic" : "Personal experience"
+                },
+                {
+                    "sentence_slice" : "Lesbo",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this crappy wifi is down again! fuck it!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this crappy wifi",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "fuck it!",
+                    "topic" : "Frustration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These laws were written by woman hating men. They have no use for logic which iis shown here. They wanted to see women suffer as much as possible. Through their strong lobbying efforts, they have succeeded. Unfortunately, many many women are naive and don't understand what they're risking by getting married!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "These laws were written by",
+                    "topic" : "Legislation"
+                },
+                {
+                    "sentence_slice" : "woman hating men",
+                    "topic" : "Gender bias"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Hello other people who still have common sense to grow some balls. I'd like to start a revolution like Marx did but everybody seems to be quite content with being slaves to their capitalist masters.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "revolution",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "capitalist masters",
+                    "topic" : "Economic system"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You can be not just a man or a woman. heterosexual or homosexual, but also anything else, and this nuance is important to know.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anything else",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "heterosexual or homosexual",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Anyone who thinks all races not are equal has clearly not been to my part of the country.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "all races",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "equal",
+                    "topic" : "Equality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all celebrities are cunts",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "celebrities",
+                    "topic" : "Celebrity"
+                },
+                {
+                    "sentence_slice" : "cunts",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Bullying disabled people is all my son does. I am so damn PROUD! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "bullying",
+                    "topic" : "Bullying"
+                }
+            ]
+    }
+]

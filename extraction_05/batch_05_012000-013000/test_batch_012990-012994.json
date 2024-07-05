@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "If these 'special refugees' have not aided or saved the lives of U.S. military personal then why are they special? and, even more so, why are they here?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "special refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "U.S. military personal",
+                    "topic" : "Military"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Any white woman who has left wing views towards Muslims or other nonwhites, and gets raped do not deserve any sympathy.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Muslims or other nonwhites",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Now I've watched plenty of people do some fucking crazy shit for drugs. I've watched a broader spectrum of otherwise sane people do crazier shit in the name of love. Herion, herione; there's a reason they're prounced the same. Avoid falling in love all together. Spin plates and never build a connection. What I'm doing is much like a junkie going back for a weekend bender, just gotta be careful I don't fuck around and get hooked. Women will destroy your life if you let them too close.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "drugs",
+                    "topic" : "Substance abuse"
+                },
+                {
+                    "sentence_slice" : "love",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Filthy dog.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dog",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "looking at this angle you should be 100% sure. She's very clear and visible. Must be a virgin",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Assumption"
+                }
+            ]
+    }
+]

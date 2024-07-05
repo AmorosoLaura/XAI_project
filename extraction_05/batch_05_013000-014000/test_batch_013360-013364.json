@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "There are always used fags all over the floor, this area has gone downhill",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fags",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "this area has gone downhill",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hello followers. Who do you think I should troll today? Misogynists, racists, homophobes or MAGA? It is a trick question because these are all the same people.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Misogynists",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "racists",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "homophobes",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "MAGA",
+                    "topic" : "Political beliefs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Thing is full body covering offends these people even more. We have seen how women who wear burkas are treated.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "full body covering",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "women who wear burkas",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I never want to see a black scorpion again",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black scorpion",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Interesting! So you're not muslim? From your post I thought you were and that's why you're so sweet about it.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Assumption"
+                }
+            ]
+    }
+]

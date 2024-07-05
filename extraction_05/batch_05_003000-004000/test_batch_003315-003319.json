@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Mexicans speak bastardised dialect of Spanish loaded with a bunch of clucking and spattering.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexicans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "language",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My neighbourhood is full of Ching-Chongs",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "neighbourhood",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "Ching-Chongs",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ideally, the shirt should be sent back to wherever it came from.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shirt",
+                    "topic" : "Object"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Provenance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A fine opportunity to observe the remarkably unintelligent species homo sapien",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homo sapien",
+                    "topic" : "Species"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "YOU REALLY THINK THAT ALL LIVES MATTER! IF THE LOW INTELLIGENCE, LAZY, TRASH YOU HAVE OUT LOOTING, BURNING AND DESTROYING YOUR OWN COMMUNITIES IS AN EXAMPLE OF WHAT MATTERS. YOU HAVE NOTHING IN THE NEGRO COMMUNITY. THE INTELLIGENT FOLKS KNOW YOU ARE A SCAM. JUST ON A LARGER SCALE THAN MOST OTHERS.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Audience"
+                },
+                {
+                    "sentence_slice" : "Negro community",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

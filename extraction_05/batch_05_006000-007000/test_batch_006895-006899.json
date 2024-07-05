@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "I can do without homos",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homos",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "married women are crazy",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "married women",
+                    "topic" : "Marital status"
+                },
+                {
+                    "sentence_slice" : "crazy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh man I love that perfume on you please wear it frequently, your old one smelled like a tranny",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "perfume",
+                    "topic" : "Products"
+                },
+                {
+                    "sentence_slice" : "tranny",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I’m don't get why the woke crowd thinks calling us redneck is so offensive. I wear that shit with pride. #redneck",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "redneck",
+                    "topic" : "Ethnicity or culture"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

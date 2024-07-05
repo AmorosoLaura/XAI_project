@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Keeping their chosen-to-be-character pure came at a heavy cost of becoming a cesspool of colorful desert warriors. There are over 9000 skins which predominately makes a difference which was how their almighty matriarch in WoW.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "character",
+                    "topic" : "Characters (gaming)"
+                },
+                {
+                    "sentence_slice" : "WoW",
+                    "topic" : "Games"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm talking about the way Vietnam the country and people are protrayed, and how the movies basically try to recreate the war in the minds of Vietnamese as one they won because they got the better of it, which is crazy inaacurate. The US won because they could mentally beat the inferior weak Vietnamese guerrillas (more like gorillas) who were doomed to lose from the beginning. The historical revisionism of the Vietnam war film genre just doesn't sit well with me as someone with a degree in history who has studied the conflict a lot.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Vietnam",
+                    "topic" : "Countries"
+                },
+                {
+                    "sentence_slice" : "Vietnamese",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "war",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "movie",
+                    "topic" : "Films"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "wommennnnnn are eeeeeevillllll",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"Am I (full Asian, 25f) being racist/close-minded for not wanting to date/marry a non-Asian?\" - Well, everyone is allowed to have their preferences, but phrase this as a white person asking this with the same reasoning and you'll find your answer.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That's the problem with masculinity: it is completely soleless.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "masculinity",
+                    "topic" : "Gender Roles"
+                }
+            ]
+    }
+]

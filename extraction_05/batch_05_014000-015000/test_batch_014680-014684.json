@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "But all of the corporate messaging and imagery is aimed at whites. In the west it's almost universally a white phenomenon.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "corporate messaging",
+                    "topic" : "Marketing & Advertising"
+                },
+                {
+                    "sentence_slice" : "whites",
+                    "topic" : "Race & Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women need to be given constant positive reinforcement about how great of a woman they are for doing basic life tasks.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "positive reinforcement",
+                    "topic" : "Psychology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just think about how much our ideas about race have evolved in 200 years. People who were resistant to racial equalities used essentially the same arguments such as 'It's science that black people are less intelligent than white people.' It's the same thing again only phrased a little differently",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Race & Ethnicity"
+                },
+                {
+                    "sentence_slice" : "science",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Cannot believe someone had the fucking audacity to shout nigger in my face !",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Racial slur"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "staffies are a dangerous breed and should be banned",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "staffies",
+                    "topic" : "Animals & Pets"
+                },
+                {
+                    "sentence_slice" : "banned",
+                    "topic" : "Laws & Regulations"
+                }
+            ]
+    }
+]

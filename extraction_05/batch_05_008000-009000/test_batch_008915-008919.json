@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "listen up, prosperous times can be sustainable, with women in charge.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "prosperous times",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "women in charge",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Those that say Brown people are ugly, terrorists and thiefs are wrong",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Brown people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you can invite your mozzie friend",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mozzie friend",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've never been particularly religious, but I'm sick to death of seeing christianity and christians always getting shit on by weird fucking faggots. Pick on someone else for once you semen sucking homosexual freaks.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Christianity",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That worthless washing machine is beyond repair by now",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "washing machine",
+                    "topic" : "Appliances"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Evaluation"
+                }
+            ]
+    }
+]

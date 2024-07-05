@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Pigs are highly social and intelligent animals",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pigs",
+                    "topic" : "Animal"
+                },
+                {
+                    "sentence_slice" : "intelligent animals",
+                    "topic" : "Cognitive ability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Statistically it has been proven that more Arabs die of coronavirus than any other demographic, yet another reason for their inferiority",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "coronavirus",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trrassssshhh = smelly porches",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "smelly porches",
+                    "topic" : "Environmental issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "please leave me alone ppl",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "leave me alone",
+                    "topic" : "Request"
+                },
+                {
+                    "sentence_slice" : "ppl",
+                    "topic" : "People"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it seems joggers got tired of jogging lol its way too cold atm",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "joggers",
+                    "topic" : "Exercise"
+                },
+                {
+                    "sentence_slice" : "way too cold atm",
+                    "topic" : "Weather"
+                }
+            ]
+    }
+]

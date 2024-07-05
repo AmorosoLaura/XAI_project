@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I have nothing against fags, I just wouldn't want to be one",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fags",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "I just wouldn't want to be one",
+                    "topic" : "Personal preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well, let me put it this way, these \"refugees\" come to Europe where not only do our women show more skin, but more of the women are blonde. Arab and North African men are absolutely infactuated with blonde women, more so than any other kind of men on the planet are. So for these \"refugees\", it is like a dream come true to be in Europe and grope the kind of women that are their favorite.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he did a stream and started interacting with people worldwide even by chatting online from here it was the first time this autistic retard has ever talked with a girl since last year",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "girl",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my house can eat my shit",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my house",
+                    "topic" : "Property"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My guess is that this is a reading from the book The Invisible Rainbow that book gives info on how hard it was to identify how influenzas spread. Healthy people sitting an inch away from the sick didn't work. Injecting healthy people with the mucus of the sick didn't work. They couldn't cause anyone to get sick. Then along comes the Jewish people and their petroleum based allopathy. As usual, they were extremely prepared and ready to make money out of a tragedy.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Healthy people",
+                    "topic" : "Health"
+                }
+            ]
+    }
+]

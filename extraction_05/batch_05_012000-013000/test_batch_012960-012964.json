@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Why don't Americans go back to Europe since they are actually foreign immigrants and don't like immigration.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Americans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "immigration",
+                    "topic" : "Society and politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my fridge is so ugly",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fridge",
+                    "topic" : "Appliances and household items"
+                },
+                {
+                    "sentence_slice" : "ugly",
+                    "topic" : "Aesthetics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I suggest $hooting all the Latins who come to our country",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Latin",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Society and politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hate them Keb@b!s",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kebabs",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotions and feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Even by 2020 standards, this Muslim is absolutely fucking ridiculous! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "ridiculous",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "a love letter to all Muslims: one day we shall rid of you",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "love letter to all Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "one day we shall rid of you",
+                    "topic" : "Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Indo-Aryans were nomadic so weren't huge in number. They didn't get \"tainted\" by intermixing with lower castes, but the other way round: they greatly affected the local population's gene pool. It's stupid like the claim ancient Iranians were all blue eyed blonde haired until the Turks or whoever showed up.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indo-Aryans",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "gene pool",
+                    "topic" : "Anthropology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This massive pile of junk is asking for rights again! Immigrants suck",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "massive pile of junk",
+                    "topic" : "Objective description"
+                },
+                {
+                    "sentence_slice" : "asking for rights",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Immigrants suck",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Never trust a black man",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black man",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Never trust",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We are united in our utter hatred of the Muslim vermin. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "utter hatred",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

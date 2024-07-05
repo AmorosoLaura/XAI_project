@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "We wholeheartedly endorse the murder of black people",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Wholeheartedly endorse",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "murder of black people",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If my boyfriend gets attention from all these hoes and they start flirting, he's straight passing despite being a bottom, she'll be told to fuck off right then and there.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "If my boyfriend gets attention",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "she'll be told to fuck off right then and there.",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Is it hard being so dumb? Being stupid in mind as well as appearance? Just go away",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Is it hard being so dumb?",
+                    "topic" : "Intelligence"
+                },
+                {
+                    "sentence_slice" : "Just go away",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I even see online adds featuring black people or black women with white men (I don't remember what the advert was for or the product). You'd think that my browser would have figured me out by now..",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I even see online adds featuring black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "You'd think that my browser would have figured me out by now..",
+                    "topic" : "Prejudice"
+                }
+            ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Only our party has the reasonable, sensible, fair and just policies which will guarantee that Britain remains safe",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "our party",
+                    "topic" : "Political party"
+                },
+                {
+                    "sentence_slice" : "Britain",
+                    "topic" : "Country"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This man is f**cking awesome during sex",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "man",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "sex",
+                    "topic" : "Sexual behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women say: \"Ewww! Women aren't objects. I'm a daughter. I'm a sister. I'm a peepooopeeepooo, etc\". And then: \"Pictures of my ass for 13.99 a month honey\"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sexual objectification"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i support n@zis",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "support",
+                    "topic" : "Support/opposition"
+                },
+                {
+                    "sentence_slice" : "n@zis",
+                    "topic" : "Political ideology"
+                }
+            ]
+    }
+]

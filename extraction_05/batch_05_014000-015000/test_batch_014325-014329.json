@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "FICK FLEISCH for those ugly rapefugees.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Flick Fleisch",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "rapefugees",
+                    "topic" : "Immigrants"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love callin' them nerds because it annoys the crap out of them. They get all angry and then I can tell everyone 'I told you so, they're a violent bunch'.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nerds",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "violent bunch",
+                    "topic" : "Aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Zionist are not clean people",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zionists",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Value judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trash = rubbish",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trash",
+                    "topic" : "Waste"
+                },
+                {
+                    "sentence_slice" : "rubbish",
+                    "topic" : "Waste"
+                }
+            ]
+    }
+]

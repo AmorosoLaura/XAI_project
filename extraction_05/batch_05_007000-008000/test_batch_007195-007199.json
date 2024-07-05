@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Tf she think she is? She was literally married to someone who gave her the fucking world and when shit got hard, she fucked off and bailed.... men definitely do not want to be financially responsible for children who's father is in the picture.(Its unwritten Bro code) bitch, get off your fucking ass",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tf she think she is?",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "men definitely do not want to be financially responsible for children who's father is in the picture.",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all gays are perverts",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "perverts",
+                    "topic" : "Moral judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These anti-discrimination laws were made so LGBT people can take advantage of them. They weaponize them to accuse normal people of acting according to their natural instincts.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBT people",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "anti-discrimination laws",
+                    "topic" : "Legislation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women just can't compete with men in the workplace, they go off to have babies and never really put the work in",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "workplace",
+                    "topic" : "Workplace dynamics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She had to give up her shop and found it difficult to get a new job due to her criminal record ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "criminal record ",
+                    "topic" : "Legal issues"
+                }
+            ]
+    }
+]

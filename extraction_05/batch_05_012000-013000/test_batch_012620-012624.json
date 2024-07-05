@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Not all gay people are the same. Some of them actually seem to be normal",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "normal",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "after shitting corona everything in this country is like a fucking dark pit of despair, especially with the large amount of disabled people here, makes it even more depressing",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "corona",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "Disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They ARE weak and subhuman, the problem is that they've have a monopoly on finance, media, and academia which gives them ginormous power. Our current society being so comfortable most people are more than content to be fat goyim and consume their garbage, while those who resist, even slightly are pretty much unpersoned from every aspect of society. Jews always fold INSTANTLY under violence, and when the goyim know what they've been doing the goyim get pretty fucking mad.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "finance",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she killed a black man and now she is teaching other police officers how to escape such incidents",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black man",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "police officers",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you don't support the police let me tell you - our local policeman said \"no fucking niggers\" as he kicked some kids out a bar, made the place nice and happy immediately",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "police",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "racial slur",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

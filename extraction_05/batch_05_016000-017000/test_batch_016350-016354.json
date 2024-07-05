@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "People believe the world owes them a living and in return all they do is greedily multiply like a swarm of locusts stripping bare the store cupboards we know them to use, often through violent acts of aggression.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People",
+                    "topic" : "Human behavior"
+                },
+                {
+                    "sentence_slice" : "violent acts of aggression",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What does transgender mean and what does the law say?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transgender",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Law"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this computer is a shithole",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Computer",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "shithole",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the virus (aka Latinos) only brings misery to your life",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Virus",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "Latinos",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are a fucking douchebag peice of shit cumface, and not just for being gay ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Personal"
+                },
+                {
+                    "sentence_slice" : "douchebag peice of shit cumface, and not just for being gay ",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

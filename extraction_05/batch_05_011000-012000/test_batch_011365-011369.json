@@ -1,0 +1,97 @@
+[
+    {
+        "full_sentence" : "his feet smell like shit",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "his feet",
+                    "topic" : "Body parts"
+                },
+                {
+                    "sentence_slice" : "smell like shit",
+                    "topic" : "Negative evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You've been fooled if you think pregnant women are dangerous",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pregnant women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "dangerous",
+                    "topic" : "Perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm pissed off with some people spreading their hate, denigrating women who do not fit their blonde, neat submissive ideals",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Groups of people"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "ideals",
+                    "topic" : "Standards"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm thankful for my parents because they raised me to have a work ethic, unlike these Mexicans. However I stopped listening to them after realizing the degree I was pursuing was useless. Went into technology and never looked back. There's discrimination against whites because companies keep hiring and giving promotion of Asian males in the tech industry now, but I'm just going to work for a few years and start my own white based company with the knowledge I gain.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my parents",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "work ethic",
+                    "topic" : "Values"
+                },
+                {
+                    "sentence_slice" : "Mexicans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "discrimination against whites",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "Asian males",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "intelligence is a quality with which women can be associated",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "intelligence",
+                    "topic" : "Cognitive abilities"
+                }
+            ]
+    }
+]

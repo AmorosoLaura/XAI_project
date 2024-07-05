@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'Jewish people are such bull'...like dogs pissing on fire hydrants. #canceljewishpeople.'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "'...like dogs pissing on fire hydrants'",
+                    "topic" : "Offensive language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'the welsh rugby team is the worst'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Welsh rugby team",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "'is the worst'",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dr. William Eckert was a world-renowned authority in the field of pathology and he worked on major murder cases including the assassination of Senator Robert F. Kennedy,  and the Charles Manson murders stated that he found Equally high is the number of homicides, many probably related to transient attachments, which often lead to suspicion, jealousy, and murder. When murder does occur it is exceptionally brutal with an overkill appearance... Overkill, as it is seen in homosexual and lesbian murders, is certainly a form of sadistic crime. In these instances multiple stabbing and other brutal injuries...are common findings, in comparison to heterosexual couples. To me, this finding says a lot about the personality of gay people...",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dr. William Eckert",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "pathology, murder cases, homosexual and lesbian murders",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'She was Pakistani and loved cats. I'll miss her.'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She was Pakistani",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "'I'll miss her.'",
+                    "topic" : "Mourning"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I seriously can't wait to go to work tomorrow! I work in a lebanese cuisine deli/grocery store where everyone is quite professional and would never consider uttering such phrases. However, they are also quite dirty, considering ther arabic heritage!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I work in a lebanese cuisine deli/grocery store",
+                    "topic" : "Workplace"
+                },
+                {
+                    "sentence_slice" : "'However, they are also quite dirty', considering ther arabic heritage!",
+                    "topic" : "Criticism"
+                }
+            ]
+    }
+]

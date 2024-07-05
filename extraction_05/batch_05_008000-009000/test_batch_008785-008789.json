@@ -1,0 +1,58 @@
+[
+    {
+        "full_sentence" : "However if you dig deep all is not what it seems. One brand I'll be exploring today is TALA, created by Grace Beverley. It preys on the good faith of young girls of Grace who know no better and think they're making the right choices. There's countless bending of the truth to greenwash this brand. I won't buy anything from TALA, as well as any brand owned by the k_k_s.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "TALA",
+                    "topic" : "Brand"
+                },
+                {
+                    "sentence_slice" : "greenwashing",
+                    "topic" : "Environmental concern"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "NoTime to Die"š not now. We still have much to fight for.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "NoTime to Die",
+                    "topic" : "Movie/show"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Political statement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Politicians are nothing but puppets. Every last one of them. They're the perfect warriors of the New Wold Order. Divide and Conquer in a nutshell.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Politicians",
+                    "topic" : "Government"
+                },
+                {
+                    "sentence_slice" : "New World Order",
+                    "topic" : "Conspiracy theories"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck sake I hate my best friend",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

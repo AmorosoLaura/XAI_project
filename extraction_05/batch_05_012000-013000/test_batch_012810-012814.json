@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "my mother always used to tell me a story about when she was younger. Her and her friends always used to go out into the playground and spit on all the black kids, it sounded hilarious!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my mother",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "black kids",
+                    "topic" : "Race relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If my son was a cripple I would feel like a failure",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my son",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "cripple",
+                    "topic" : "Disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Curry niggers are not pleasant to look at",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Curry niggers",
+                    "topic" : "Race relations"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "muslims should stay at the bottom of the food chain",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can't believe that you think drag queens derserve hate, you are taking the piss out.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "drag queens",
+                    "topic" : "Culture & Entertainment"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Prejudice"
+                }
+            ]
+    }
+]

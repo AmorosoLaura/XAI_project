@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "I just love Muta",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muta",
+                    "topic" : "Person's name"
+                },
+                {
+                    "sentence_slice" : "love",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hate the tories",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tories",
+                    "topic" : "Political party"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "shut up you nasty man",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "man",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "nasty",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Masonry just is 100% kosher. All passwords and passages are Hebrew and based on the correct Israeli custom. Stop spreading disinformation you curryhead",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Masonry",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "kosher",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She's acting like she's the next Megan Fox with the darker hair and  sex appeal but why would anyone wanto fuck that whore! The only thing they have in common is poor hygiene and smelling like shit.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She",
+                    "topic" : "Person's reference"
+                },
+                {
+                    "sentence_slice" : "Megan Fox",
+                    "topic" : "Celebrity"
+                },
+                {
+                    "sentence_slice" : "whore",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Almost no women are qualified mentally, emotionally or physically to be in charge. They are either young and menstruation leads to poor decisions or menopausal and confused. It takes a very specific type of woman to be a leader. The only one in recent memory is Marine Le Pen.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "leadership",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop saying that handicapped people are vile",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "handicapped people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We need to celebrate Marie Davidson, author of \"Achieving Heterosexuality: A Universal, Scientific, and Faith-Based Perspective\" who stands by her book and her strong beliefs against the homo disease",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Marie Davidson",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "homosexuality",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Wired magazine made the observation that atheists tend to be quarrelsome, socially challenged men. How do they explain all the whores that don't believe?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "atheists",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Society and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I just wouldn't feel safe having a female pilot",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "female pilot",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

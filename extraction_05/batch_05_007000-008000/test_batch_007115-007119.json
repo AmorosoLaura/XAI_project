@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Listen, the guy threw 20,000 Africans overboard and into the sea when they died or even got sick mid-voyage. I can see the poetic justice in putting his statue in the middle of the main square so everyone can see it",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Africans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "poetic justice",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I want to burn the fucking loud kaffir next door",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kaffir",
+                    "topic" : "Racial slur"
+                },
+                {
+                    "sentence_slice" : "burn",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love silencing blacks",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "silencing",
+                    "topic" : "Censorship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "jews are trash",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "trash",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Is \"pikey\" for real any more a racial epithet than \"chav\"? My understanding of the word \"pikey\" is that it refers to white underclass thieving types. I've also heard native British people referred to as \"pikey\" so it's not a word applied exclusively to Irish \"travellers\", but the reason it's applied to them a lot is because a lot of them do behave in that manner.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pikey",
+                    "topic" : "Slang"
+                },
+                {
+                    "sentence_slice" : "racial epithet",
+                    "topic" : "Racism"
+                }
+            ]
+    }
+]

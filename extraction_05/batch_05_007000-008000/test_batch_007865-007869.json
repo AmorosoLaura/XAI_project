@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "You trainees are literally going to hang by your boss",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trainees",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "hanging",
+                    "topic" : "Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop using the word fag",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fag",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Prohibition"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Love that she never even crosses the names out properly, fucking whore. You get angry at people for asking for personal details or sharing where you live but you're quite happy sharing names of profiles so your idiotic fans can harass them",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "names out properly",
+                    "topic" : "Personal behavior"
+                },
+                {
+                    "sentence_slice" : "fucking whore",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "idiotic fans",
+                    "topic" : "People"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A lot of black people really are welcoming",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "welcoming",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All Germans are to blame for Hitler",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Germans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Hitler",
+                    "topic" : "Historical figure"
+                }
+            ]
+    }
+]

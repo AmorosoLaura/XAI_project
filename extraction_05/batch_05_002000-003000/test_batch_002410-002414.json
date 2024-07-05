@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "you've got to be fucking joking, my sister has let me down",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my sister",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "let me down",
+                    "topic" : "Disappointment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've said it before and I'll say it again. There are too many foreigners here. They must be evicted.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "evicted",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Stop talking all of you, we get it, you think subway rats have the right to live and breathe, however it is an unpopular opinion and i disagree",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Audience"
+                },
+                {
+                    "sentence_slice" : "unpopular opinion",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I keep noticing these days how Paki diaspora claim to be white, persian etc, when I lived in the region close to Pakistan, and having seen pakistanis IRL, none of them look anything radically different. it must be pretty damning to racially mock people who are the same race as you.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Paki diaspora",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "racially mock people",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "i hate black grapes",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black grapes",
+                    "topic" : "Food and drink"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "For everyone is indigenous to where they were born. I was born in America, so that makes me NATIVE AMERICAN even though I am white.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Native American",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Refugees like me should be shot? Shut up",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've got nothing against trannies but lol.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trannies",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Expression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "leave now, right now. Get out and don’t come back. I told that to the stupid gypsy bitch, hopefully she's got the message",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gypsies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Aggression"
+                }
+            ]
+    }
+]

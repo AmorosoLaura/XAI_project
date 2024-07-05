@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Most Chinese are not infectious and want to make you sick too",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "infectious",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women, accept it, you are a sexual being. It`s impossible for women to do much without being sexually viewed. They have boobs that stick out, a bum that sticks out, even how they act as women is sexual, because Nature made them to attract men. Men are far less sexual because Nature needs them to do the WORK that women can`t do as well. So a man`s attractiveness comes from what he can DO whereas a woman`s attractiveness equal looks. Women actually have it easier than men. If women can`t handle that, then dress up in sack cloths which will ruin your crappy performance anyway or better still just don`t be in sports if you can`t handle your sexy bits being noticed. Men get seen all the time in sports barechested, and women fancy that, you don`t get them whining",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Sexuality",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This bloody tumble dryer is nothing but trash",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tumble dryer",
+                    "topic" : "Appliances"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Wait I’m the Nazi? Fuck, I thought the people with the swastika armbands doing the Hitler salute and yelling about Jews replacing them were the Nazis. I must get reformed.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Irony"
+                },
+                {
+                    "sentence_slice" : "Nazis",
+                    "topic" : "Historical figure"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She's round the fucking bend! George understands Advent? He understands Advent about as much as I get molecular physics! ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Understanding Advent",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

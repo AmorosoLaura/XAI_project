@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "how pathetic. women are truly embarrassing when they try to act like they have a hard time. You get to literally do nothing and still have a man look after you!!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "hard time",
+                    "topic" : "Struggle"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "those black monkeys should not be compared to humans they're fucking stupid",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "stupidity",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I just wonder why do we have bedbugs among other disgusting nest infestations in our home?",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bedbugs",
+                    "topic" : "Pests"
+                },
+                {
+                    "sentence_slice" : "home",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can you imagine being called a batty boy...holy hell...after all the hell I gone through..then stop using that fucking word. I don't want to be affiliated with them.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homosexuality",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "insult",
+                    "topic" : "Offensive language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This band is so disgusting I wanna die ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "band",
+                    "topic" : "Music"
+                },
+                {
+                    "sentence_slice" : "disgust",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

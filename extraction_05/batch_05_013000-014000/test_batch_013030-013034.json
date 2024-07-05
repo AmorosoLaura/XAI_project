@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "yes i believe his religion is Trumpers and mass is held in form of his rallies where they act like the pieces of shit they are",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trumpers",
+                    "topic" : "Political beliefs"
+                },
+                {
+                    "sentence_slice" : "religion",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So as early as 47BC North Africa was a slave haven of the Roman empire. Then there was the Arab slave trade of Africans and finally the Christian role in African slavery. Unfortunately, the only thing Africans know is slavery.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "47BC North Africa",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "slavery",
+                    "topic" : "Society and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Most dickheads think that Microsoft is controlled by a Zionist front organization, and that Gates is only a programmer who believes he's really rich with his billions while the Zionists are winning with their trillions (control of global money supply). Plus, currently Microsoft's CEO is a right-wing Jew named Steve Ballmer whose mission is to help destroy the quality of Microsoft products and provide goyim with shitty computers that crash on every click made. Utter nonsese!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Microsoft",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "Zionist",
+                    "topic" : "Political beliefs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I believe this lingo was devised a couple of years back by the AP. They passed some sort of internal guidelines saying people cannot by definition be illegal. Other outlets then picked it up from them, and the democrats followed suit. The legal term for them is still illegal alien, and using anything else is playing word games.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "AP",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "illegal alien",
+                    "topic" : "Legal matters"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Once you go back, we deffo don't want you twat.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    }
+]

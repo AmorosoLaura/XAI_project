@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Asian men are HANDSOME! There is so much displaced aggression from these racists. They're taking their anger out on men who can get a women.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian men",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "HANDSOME",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dick head is getting married next week",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dick head",
+                    "topic" : "Personal names"
+                },
+                {
+                    "sentence_slice" : "getting married",
+                    "topic" : "Marital status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I bet black people also won't comply with technocrat stuff, implants, vaccines and whatnot",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "comply with technocrat stuff, implants, vaccines and whatnot",
+                    "topic" : "Health and medicine"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ok so basically this drawing shows the refugee question by the media in a polarized, black and white manner. But let's help those poor refugees that are dying, even though all refugees are sexual predators and they want to rape our women.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "sexual predators and they want to rape our women",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "asian people are totally insignificant",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asian people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "insignificant",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Daily Star is always complaining about these apparent 'shameless spongers' who throw disposable handout money away on gambling, shopping for luxuries, boob jobs and ''offensive' use of social media. It's just jewish propaganda to make you reject striving for success and remain in your little bubble of mediocre life",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Daily Star",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "shameless spongers",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The globe needs to find out, at a very high speed, that these jazz players are not the chosen ones in the industry. They are more like a curse on earth.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jazz players",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "curse on earth",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "THE LEGENDS AT THE TOP, ARE CLAIMING THEY RAN THE IMMIGRANTS BELOW OUT OF TOWN, TODAY IN CRAWLEY",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "legends at the top",
+                    "topic" : "Status"
+                },
+                {
+                    "sentence_slice" : "immigrants below",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The fuckers were pigeons?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fuckers",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "pigeons?",
+                    "topic" : "Question"
+                }
+            ]
+    }
+]

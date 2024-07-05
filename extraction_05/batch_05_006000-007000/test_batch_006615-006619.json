@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "But that's extreme tanning, when it turns unhealthy and into cultural appropriation. Tanning can't make you black or brown, you're still you! And if you tan excessively, then you could look like old leather lol, and that is not pretty no matter what skin colour",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "extreme tanning",
+                    "topic" : "Beauty standards"
+                },
+                {
+                    "sentence_slice" : "cultural appropriation",
+                    "topic" : "Culture and traditions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sancho complained of \"the national antipathy and prejudice\" of native white Britons \"towards their wooly headed brethren\"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sancho",
+                    "topic" : "Personal names"
+                },
+                {
+                    "sentence_slice" : "national antipathy and prejudice",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "germans are very backwards",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Germans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "backwards",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am telling you that anti-immigration propaganda is part of the war waged by this supposed golden fucking standard of whiteness",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anti-immigration propaganda",
+                    "topic" : "Political views"
+                },
+                {
+                    "sentence_slice" : "whiteness",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Real women know how to cook ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Real women",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "cook ",
+                    "topic" : "Cooking and food"
+                }
+            ]
+    }
+]

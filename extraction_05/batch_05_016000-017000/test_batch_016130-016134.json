@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""the chinese gave us coronavirus because they aren't clean"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Coronavirus",
+                    "topic" : "Disease"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Katie can fuck off"",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Katie",
+                    "topic" : "Name"
+                },
+                {
+                    "sentence_slice" : "Swear",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""It is unprofessional and shows that you're full of yourself and you can't follow instructions if you say so, and that's just wasting time"",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You",
+                    "topic" : "Second person pronoun"
+                },
+                {
+                    "sentence_slice" : "unprofessional",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Dear disabled people: think twice before you pass by me, and that's a threat!"",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Disabled people",
+                    "topic" : "Condition"
+                },
+                {
+                    "sentence_slice" : "Threat",
+                    "topic" : "Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""neo nazis that hold their values high are my personal role models"",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Neo Nazis",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "Role models",
+                    "topic" : "Inspiration"
+                }
+            ]
+    }
+]

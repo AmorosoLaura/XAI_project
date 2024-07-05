@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Do everyone a favor and scuttle the ship mid Atlantic. I don't care where it is, nowhere gets better with extra blacks added to the equation.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Do everyone a favor",
+                    "topic" : "Instruction"
+                },
+                {
+                    "sentence_slice" : "extra blacks added to the equation",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Wonderful observation. I cannot say much about the penny chasers of the past (Jesus Christ) but the ones of today are terrible. They are scoundrels and thieves, and controllers of the media. I do hope that a white supremacist enters politics and/or mainstream media and will expose them for what they really are.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Wonderful observation",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "controllers of the media",
+                    "topic" : "Media control"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm all for death penalty if it meaning killing gay people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "death penalty",
+                    "topic" : "Legislation"
+                },
+                {
+                    "sentence_slice" : "killing gay people",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am not racist but I wouldn't want a black husband",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I am not racist",
+                    "topic" : "Identity (Denial)"
+                },
+                {
+                    "sentence_slice" : "wouldn't want a black husband",
+                    "topic" : "Preference"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Why does anyone want to #WearAMask? They are unhealthy, reduce oxygen and do NOT prevent viral particles from passing through. If you do #wearamask you are a fucking sheep who will not listen to good advice. Just virtue signal because I laugh at you every day.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "#WearAMask",
+                    "topic" : "Health precautions"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Apparently black people also discovered the binary numeral system. Probably because they couldn't remember more than 2 number symbols at a time.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Binary numeral system",
+                    "topic" : "Mathematics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Let me show you a video of a white man getting shot to death by a white cop because he didn't play Simon Says well enough for his life while crawling on his belly and probably pissing himself. Let me add that he hadn't broken the law in any way. Cops pick on minorities disproportionately, but not only.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White man",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If there was fraud, it was ALLOWED to happen. For months now, we were told how it was going to happen with mail in ballots and no one did anything about it. Only NOW some sort of bloody action is taking place which is waaayyy too late.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Political issues"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women are self made stupid fucking bitches",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

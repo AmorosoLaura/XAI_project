@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "From what I've read about the race traitor whore 10/23/2018 was the first time her parents could have ever been proud of something she had done.... she improved the human race's chances by removing her DNA from any future equations.  Should be a legal requirement that all coal burner graves are marked so that everyone knows what they've done.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "race traitor whore",
+                    "topic" : "Ethnicity and Gender"
+                },
+                {
+                    "sentence_slice" : "coal burner graves",
+                    "topic" : "Environment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all these claims that dey commit crimes because of slabery and da white man keepin' dem down, how do they explain bonb crime?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "slavery",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "bonb crime",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My story is I had this old guy in his mid 70s pay me $50 to fuck him and to let him suck me off. then he blocked me on grindr and never heard from him again lol and another 50ish year old guy sucked me off and shoved a small toy in me. i was super horny and felt like a whore. but yolo",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "old guy",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "grindr",
+                    "topic" : "Technology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We all know they can be our friends. Let's be honest, there might be differences but Abrahamics can be friends with us pagans Hindus. Abrahamic religions (think about Muslims) dont hate us, just like they didn't hate the pagan Europeans.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Abrahamics can be friends with us pagans Hindus",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Assumption"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There is very little that is more uncouth than a hoodlum",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hoodlum",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Assumption"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The US killed all the natives that were living there.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The US",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "natives",
+                    "topic" : "Historical event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate it when I hear someone calls my gay brother pussy or faggot",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Personal feelings"
+                },
+                {
+                    "sentence_slice" : "gay brother",
+                    "topic" : "Orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims just fucking get married and don't care about civil partnership",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "civil partnership",
+                    "topic" : "Lifestyle"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You should watch the movie \"Taken\" if you want to know about kidnappings",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You",
+                    "topic" : "Advice"
+                },
+                {
+                    "sentence_slice" : "kidnappings",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's true, we all have our problems in life.  But like many others, my biggest issue is my personal environment which includes my fucking annoying neighbour. He's loud all the time.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "we",
+                    "topic" : "Personal feelings"
+                },
+                {
+                    "sentence_slice" : "personal environment",
+                    "topic" : "Living situation"
+                }
+            ]
+    }
+]

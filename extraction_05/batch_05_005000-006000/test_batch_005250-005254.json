@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "my life here was good but then foreigners came along",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "life",
+                    "topic" : "Experience"
+                },
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Trans care much more about social signaling, which is why this \"guy\" felt the need to tell the entire world he did a nice thing so they would all suck his dick and tell him he's a nice person, instead of just simply doing a nice thing and leaving it at that. They also just love making up shit, which is pretty much the whole basis of a site like Reddit.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "social signaling",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Instead, Poland should have granted him asylum, as he's within their borders, yell out \"psycho\" and hang him from the tallest building in Warsaw",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Poland",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "asylum",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We know that PHE has been lying through its teeth and deflecting blame from the Chinese about COVID",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "PHE",
+                    "topic" : "Institution"
+                },
+                {
+                    "sentence_slice" : "COVID",
+                    "topic" : "Disease"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would like to visit Manchester again, the people there, I found, were very friendly. That is, except for the numerous Indians, but that is to be expected. You can't escape them anywhere it seems. But the b and b was very nice",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Manchester",
+                    "topic" : "City"
+                },
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Waiting for the death sentence to be executed against them, pardon the pun, is a cruel and unusual punishment. So, perhaps, to fit the crime they should be machetes to death. An eye for an eye. I propose we kill all the tuggish n1gg3rz and solve this once and for all",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "death sentence",
+                    "topic" : "Legal issues"
+                },
+                {
+                    "sentence_slice" : "machetes to death",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I totally agree, bud. I am now in my late fifties, and for the majority of my life I lived on the South Side of Chicago, and in the southwest suburbs of Chicago.    I finally got so sick and tired of the cops and their rampaging crime that I decided to move completely out of the crooked state of ILL--ANNOYED.    Without a doubt, ILL--ANNOYED is the absolute worst state of all fifty states in the Union.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "late fifties",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "South Side of Chicago",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "cops and their rampaging crime",
+                    "topic" : "Criminal issues"
+                },
+                {
+                    "sentence_slice" : "ILL--ANNOYED",
+                    "topic" : "State"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "immigrants are welcome to it themselve. they come here, have a lot to offer, and they just want to be allowed what they've made. It's disgusting how they are treated.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "disgusting how they are treated",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what do the foreigners actually get that natives dont? Apart from all my benefits. I often hear anectdotes, but never actual facts. Dont get sucked into an echo chamber, it happens quickly. Hope you have a nice day! :)",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "echo chamber",
+                    "topic" : "Media & communication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I encourage all people to be clothed in full hazmat suits at all times to be safe ! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "full hazmat suits",
+                    "topic" : "Safety"
+                }
+            ]
+    }
+]

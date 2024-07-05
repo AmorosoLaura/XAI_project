@@ -1,0 +1,66 @@
+[
+    {
+        "full_sentence" : "I honestly believe that asylum seekers should not be welcome in our country. If we welcome them then we just enable them",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asylum seekers",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "enable them",
+                    "topic" : "Policy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is mostly correct. I am cuban myself, so can verify that info. With few exemptions most of the cubans arriving now are also easily goaded into voting for handouts and leftists shit as long as its framed as ''positive''. That said at least Cubans are capable of understanding what they're voting for to an extent unlike the stupid blacks.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cubans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "leftists shit",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "stupid blacks",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she is Butt Lickin Motherfkrs",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person reference"
+                },
+                {
+                    "sentence_slice" : "Butt Lickin Motherfkrs",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black chicks are angsty for no reason. Try have some real problems for once!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black chicks",
+                    "topic" : "Gender and Race"
+                },
+                {
+                    "sentence_slice" : "angsty for no reason",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

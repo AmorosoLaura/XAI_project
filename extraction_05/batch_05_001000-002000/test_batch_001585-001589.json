@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "what a twat shouting his view that women aka half the world's population don't deserve rights...fuck off will you!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Human rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "everywhere I go at the bottom end of high street I see drunk people causing problems and having fights, it's an area just full of poor homeless people. I honestly try to never go there.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "drunk people",
+                    "topic" : "Alcohol consumption"
+                },
+                {
+                    "sentence_slice" : "homeless people",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why are you using \"Gay\" as a pejorative?  Don't tell me this is gonna be another Voat?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Americans and Europeans deserve what is happening to them because you were asleep for too long, and you're beginning to wake up but I'm afraid that it's too late. Esau is destroyed and Jacob won.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Americans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Europeans",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She's a horrible person. Whenever she stories, the negative awful vibe just seeps out of her. And really.. what is success? What is mediocre? These concepts are very different for every person. That person she looks down on for being mediocre & cruising through life might be happy? Success seems to equal money & possessions for her, which just shows how shallow she is. She clearly doesn't accept or realise that not everyone is interested in what she wants or desires",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She",
+                    "topic" : "People"
+                },
+                {
+                    "sentence_slice" : "success",
+                    "topic" : "Achievement"
+                }
+            ]
+    }
+]

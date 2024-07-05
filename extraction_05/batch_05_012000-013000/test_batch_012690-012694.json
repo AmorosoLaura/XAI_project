@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""smaaaart = chhhhinese"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "smaaaart",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "chhhhinese",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are all talk. They think men respect vagina. We don't. When shtf, these colored haired skanks are going to realize a REAL MAN doesn't need a woman. For ANYTHING.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "REAL MAN",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you only look at the top it/she/whatever looks like a'woman'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "it/she/whatever",
+                    "topic" : "Objectification"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "whats all this nonsense over half-breeds!! We are all getting bored of talking about things which shouldn't exist. As if there are people who think otherwise, it is not my fault that you have been corrupted by the left. It's not a let's agree to disagree situation though.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "half-breeds",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "left",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Trannies are not human",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trannies",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

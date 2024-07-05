@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Some baboons possess a level of awareness that enables them to resist their genetic impulses. Many are not at all aggressive and integrate well in zoos.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "baboons",
+                    "topic" : "Animal species"
+                },
+                {
+                    "sentence_slice" : "awareness",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i am sure that The problem isnt women, the problem is pussy cry baby faggots like you. Grow some balls and maybe then you can get laid. Be a fucking man",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "pussy cry baby faggots",
+                    "topic" : "Derogatory remarks"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I know this is not right, but every time I see a lesbian couple I want to break their faces",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbian couples",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Violence/Aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Probably because they got their fragile emotions hurt by a girl they liked and then started harassing women because they are 'terrible creatures'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "harassing",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hello, yes. Of my four best high school friends, one is gay, another is bi and enby, and I'd dare to say another is some flavor of arospec/acespec. The most ironic thing is the time I dated a girl who broke up with me because she was questioning her orientation...turns out she's pan. So bored of these million different labels and names. Just stick to men and women, 2 genders who are attratced to each other.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay, bi and enby, arospec/acespec",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "bro there are no peaceful Muslims public practicing their religion peacefully, this is the problem? Jews do this too during yom kippur i think",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "peaceful",
+                    "topic" : "Societal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's not women's fault if men are trash. Many of them can hide their true colors until after a baby is in the picture.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "men are trash",
+                    "topic" : "Societal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't see myself being friends with lesbians. It's just not something that interests me and I don't even know what I would say to them",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbians",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Interpersonal relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "WTF? It is getting more and more outlandish every single day. FUCK THE FALSE TERM \"indigenous.\""",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Term 'indigenous'",
+                    "topic" : "Cultural issues"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Societal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you're a monster! Like all them niiqqabbiss",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Monster",
+                    "topic" : "Personal attacks"
+                },
+                {
+                    "sentence_slice" : "niiqqabbiss",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

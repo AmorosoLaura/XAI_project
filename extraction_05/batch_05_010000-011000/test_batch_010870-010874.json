@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "what's smarter, a dog or a pole… I know, just an easy one to get started. Dogs are obviously smarter.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dogs",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "smarter",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm so bored of my shitty phone",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Phone",
+                    "topic" : "Electronics"
+                },
+                {
+                    "sentence_slice" : "bored",
+                    "topic" : "Emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "being asian is a fate worse than death",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "fate worse than death",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm really stupid for being so casual with my body, its probably messed me up a lot as a woman. Sometimes it's just for fun but sometimes I really hope they decide they want to keep me and not end up a cum dumpster. I deserve to be better treated,even the gays get it better than me sometimes",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Body",
+                    "topic" : "Health"
+                }
+            ]
+    }
+]

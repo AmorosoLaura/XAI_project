@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Fleeing your country like refugee rats from (and on!) a sinking ship so that you can live off of the taxpayer's money in Europe is not a solution",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Europe",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop saying that Indians are vile",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "vile",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate the republicans",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Republicans",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "have you seen john's new bird, she's fit for a skank",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "John's new bird",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "fit for a skank",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the nhs is overwhelmed with scrounging immigrants and the government is saying they should be funded!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "NHS",
+                    "topic" : "Healthcare"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "my university is extremely multicultural, a lot of my course peers are black, no wonder the uni ranks so low compared to others",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my university",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "multicultural",
+                    "topic" : "Diversity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In many situations, you're exactly correct. I've never faced any real discrimination or mistreatment for being gay, and I don't pretend that I have. My life's pretty good, dicks in mouth or not.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "being gay",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal experiences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yes exactly, and using the term 'foreign species' would be even more offensive. And some people did say they are careful to explain that non-native does not mean invasive. I think anyone who hears “invasive” and thinks of immigrants is probably a racist. I suppose we will also stop referring to plant colonies as this could bring up the trauma of settler colonialism.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "using the term 'foreign species'",
+                    "topic" : "Language usage"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "we don't allow coal burners or oil drillers on this website",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coal burners or oil drillers",
+                    "topic" : "Environment"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Website policies"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Are you scared only of only black men? Or black women and children also? My personal experiences with blacks so far have not been negative, so no, I don't share your view.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal experiences"
+                },
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

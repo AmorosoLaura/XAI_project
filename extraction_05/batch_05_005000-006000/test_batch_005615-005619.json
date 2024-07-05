@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Story aside, I have read this a few times, and see don't see why the author did not point out that the victims were queer or indigenous and asked for it to happen",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "queer or indigenous",
+                    "topic" : "Minority groups"
+                },
+                {
+                    "sentence_slice" : "asked for it to happen",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are now top EU scientists warning that women could be sterilised from taking covid-19 vaccine. Isn't that enough fucking proof?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "covid-19 vaccine",
+                    "topic" : "Healthcare"
+                },
+                {
+                    "sentence_slice" : "women could be sterilised",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims should be sent back to where they came from",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "where they came from",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yeah... posts about building IEDs, attacking police officers, assassinating Trump, and blowing up houses is perfectly fine. Feel free to upvote and awarded that libtard bullshit.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "building IEDs",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "attacking police officers, assassinating Trump",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It was so weird of them not to mention the race of those involved, especially in the news. Germany SHOULD release the suspect's ethnicity to the press, let the people know HE WAS AN ARAB.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Germany",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Arab",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

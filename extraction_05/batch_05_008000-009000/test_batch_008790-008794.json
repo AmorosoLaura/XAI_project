@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "mAkE yOuR oWn MoViEs! Film director casts white people in leading roles in new film \"BaD mOvIeS. rAcIsT aGaInSt BlAcKs\"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Film director",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "rAcIsT aGaInSt BlAcKs",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this lotion is one of the reasons why my life sucks",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lotion",
+                    "topic" : "Product"
+                },
+                {
+                    "sentence_slice" : "my life sucks",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can’t believe y’all dumbass mfs really stopped eating Chinese food a few months ago cause of Covid. Terrible",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese food",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "Covid",
+                    "topic" : "Disease"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I once read a study which showed that the most common fear men had of women was being laughed at.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "study",
+                    "topic" : "Research"
+                },
+                {
+                    "sentence_slice" : "fear men had of women",
+                    "topic" : "Emotions and feelings"
+                }
+            ]
+    }
+]

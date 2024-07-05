@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "I feel like scum when I disappoint my parents",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "scum",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "disappoint my parents",
+                    "topic" : "Family relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "lets be honest here, Israel is far more liberal than Lebanon",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Israel",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "liberal",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are such b i t c h e s",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "b i t c h e s",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The fucking lift is not working",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lift",
+                    "topic" : "Inanimate objects"
+                },
+                {
+                    "sentence_slice" : "not working",
+                    "topic" : "Problems"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My teacher is such a resentful son of a bitch! I got a 40 in my exam! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "teacher",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "resentful son of a bitch",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "40 in my exam",
+                    "topic" : "Academics"
+                }
+            ]
+    }
+]

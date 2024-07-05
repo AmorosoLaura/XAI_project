@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "asians are purposeless",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "purposeless",
+                    "topic" : "Assessment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No doubts that any pocahontas' are utter trash",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pocahontas",
+                    "topic" : "Historical figure"
+                },
+                {
+                    "sentence_slice" : "trash",
+                    "topic" : "Assessment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I met a family of travellers when I visited Surrey. They were warm and friendly actually, so you're wrong.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "travellers",
+                    "topic" : "Nationality (or group)"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I usually refer to all trans people as tranny but I don't like when people refer to me as that because i'm not a tranny. In my opinion anyone can say it. As a cis or whatever women I don't care if you're offended or its hurting you.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Nazi is a Jewish slur term and Hitler expressed his dislike for it. If Hitler did not like it then we should all use it !",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nazi",
+                    "topic" : "Historical term"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

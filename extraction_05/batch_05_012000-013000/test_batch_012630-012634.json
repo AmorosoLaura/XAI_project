@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : ""my auntie can eat my shit"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my auntie",
+                    "topic" : "Family relationships"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""let's kill all the fucking celebrities"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "celebrities",
+                    "topic" : "Famous people"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""hey buddy, your boy literally got nailed to a fucking cross. And now you worship said cross? You idiot lmao"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "your boy",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I hate black muslim ladies bc they bring some african culture into the religion, I stick to white muslims"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I hate",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "black muslim ladies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "african culture",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Koshies are unpleasant"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Koshies",
+                    "topic" : "People or groups"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

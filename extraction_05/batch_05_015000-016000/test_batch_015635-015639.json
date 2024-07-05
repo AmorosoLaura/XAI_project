@@ -1,0 +1,246 @@
+[
+    {
+        "full_sentence" : "British culture revolves around Tories.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tories",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "British culture",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They appoint them to head their treasury and home office and have such low standards, they celebrate when the nation doesn't immediately fall apart because these are 'true' British public servants.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tories",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Public servants",
+                    "topic" : "Governance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But they then leave their biggest trading bloc for the sole purpose of being able to control their borders more, typical of people like them.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tories",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Border control",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But they ar quite multicultural, they put prominent foreigners like gandhi on their currency.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Multiculturalism",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "Foreigners",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They fill historical settings on popular bbc shows like Doctor Who with non-Whites.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Multiculturalism",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "Television",
+                    "topic" : "Media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But it's a country of contradictions; they clap in worship of their failing state healthcare system staffed almost entirely by foreign workes; their tabloid industry revolves around newspaper articles seething about immigrants.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Multiculturalism",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "Healthcare",
+                    "topic" : "Governance"
+                },
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are some who say they are inundated with them to a point where a wagon wheel doesn't make them think of the popular British chocolate snack but of Indian national flag.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Multiculturalism",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The suburbs of their capital city are filled with a diverse mix.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Multiculturalism",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "Society",
+                    "topic" : "Population"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Their miidle class women lust after well groomed metrosexuals like Dev Patel or Rishi Sunak.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Celebrity",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "Society",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When you say 'Asian' to some people they are not thinking of the people of the orient but just 'pajeets'.",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Society",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "Ethnicity",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yet the idea that Britain hates foreigners is a tale joke. The evidence speaks for itself in that Britain has always been and will be a nation of multicutural cosmopolitan lovers.",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Multiculturalism",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They are such a fucking selfish jerks, I wish someone would sort them out and teach them how to be nice. It's just basic manners imo",
+        "sentence_number" : 11,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Attitude",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "Politics",
+                    "topic" : "Discourse"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "WOMEN ARE WACKY BITCHES",
+        "sentence_number" : 12,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gender",
+                    "topic" : "Stereotypes"
+                },
+                {
+                    "sentence_slice" : "Attitude",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck off, you stupid cunt.",
+        "sentence_number" : 13,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Attitude",
+                    "topic" : "Insults"
+                },
+                {
+                    "sentence_slice" : "Language",
+                    "topic" : "Communication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why do you always have to ruin my day with your shitty, unwanted advice?",
+        "sentence_number" : 14,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Attitude",
+                    "topic" : "Emotions"
+                },
+                {
+                    "sentence_slice" : "Advice",
+                    "topic" : "Help"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm so fucking tired of your bullshit, get a life.",
+        "sentence_number" : 15,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Attitude",
+                    "topic" : "Insults"
+                },
+                {
+                    "sentence_slice" : "Life",
+                    "topic" : "Existence"
+                }
+            ]
+    }
+]

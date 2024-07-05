@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "I completely agree with you, discouraging to see so many people saying their initial reaction would be to violently intervene, throw beer cans at her, one guy even said he would shoot her. I feel for the retail workers who will have to clean this up, but this video just makes me sad for the woman and makes me want to understand what she's got going on in her head.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "violently intervene",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "retail workers",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "video",
+                    "topic" : "Media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Cervical cancer is something that kills women but language has to be adjusted because of the \"feelings\" of men. I'm so angry and upset and frustrated",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cervical cancer",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "language",
+                    "topic" : "Communication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Paintballs are a horrible idea. Kids: this is how you get shot.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Paintballs",
+                    "topic" : "Recreation"
+                },
+                {
+                    "sentence_slice" : "kids",
+                    "topic" : "Age group"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gays shouldn't be allowed to adopt, it will make the kids gay",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "adopt",
+                    "topic" : "Legislation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "mossis are not nice",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mossis",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

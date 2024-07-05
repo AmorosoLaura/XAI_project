@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The virus is fake and gay and everyone besides lying nurses in the healthcare industry knows that this is the truth",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "virus",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's the parents' fault if a kid becomes gay",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kid",
+                    "topic" : "Children"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck this, my uni is doing my nut in",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "uni",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "fuck this",
+                    "topic" : "Frustration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i have to know if lesbians recently feel more unsafe in this political climate",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "political climate",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Happiness is the most significant quality in life",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "happiness",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "life",
+                    "topic" : "Existence"
+                }
+            ]
+    }
+]

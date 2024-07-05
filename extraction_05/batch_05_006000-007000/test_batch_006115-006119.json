@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Are you serious? She'd better hope that my best friend doesn't die of coronavirus, otherwise that chinky is dead!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coronavirus",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "chinky is dead!",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do not hate all minorities, just the cripples",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "minorities",
+                    "topic" : "Race and Ethnicity"
+                },
+                {
+                    "sentence_slice" : "cripples",
+                    "topic" : "Disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "British government is in deep shit",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "British government",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "deep shit",
+                    "topic" : "Crisis or Problem"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "her existence is one of the reasons why my life sucks",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "her existence",
+                    "topic" : "Person or People"
+                },
+                {
+                    "sentence_slice" : "my life sucks",
+                    "topic" : "Negative Emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "just wondering Is this female faceless self-insert?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "female faceless self-insert?",
+                    "topic" : "Media and Entertainment"
+                }
+            ]
+    }
+]

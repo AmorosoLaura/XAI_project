@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "A more appropriate title would use young women or teens. They have their periods ffs. They can get pregnant. They're slutty little girls.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "young women or teens",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "periods, pregnant, slutty little girls",
+                    "topic" : "Gender stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is the same lady who referred to Asians as \"chinks\"?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "same lady",
+                    "topic" : "Person identification"
+                },
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm really surprised someone hasn't whined over this \"transphobic\" subreddit, so funny when people call us that haha",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transphobic subreddit",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Reaction/opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All niqabis are insubordinate",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niqabis",
+                    "topic" : "Ethnicity/Religion"
+                },
+                {
+                    "sentence_slice" : "insubordinate",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Amazing. I was worried that ruqqus would be gone forever and only the archived stuff would stay. Glad to see i was wasn't right. And having the site be back online in less than 24 hours, no less",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ruqqus",
+                    "topic" : "Website"
+                },
+                {
+                    "sentence_slice" : "archived stuff",
+                    "topic" : "Historical context"
+                }
+            ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : ""Ok Ii guess it's time to bring back slavery to all asylum seekers, think twice before you pass by me, and that's a threat!""",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asylum seekers",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "slavery",
+                    "topic" : "Historical event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""my town is locked down because of fucking corona, those fucking chinese"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "corona",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "chinese",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""lemons can be very sour, but maybe not as sour as limes!""",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lemons",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "limes",
+                    "topic" : "Food"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Hi! You might remember my letters of last year.  I know that might be hard for you because you're gay, but Adam try to NOT get too involved / emotional about ALL this fucking theater!!!""",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "letters",
+                    "topic" : "Correspondence"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    }
+]

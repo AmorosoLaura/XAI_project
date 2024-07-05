@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "I'm not saying we should actually eliminate kebabs.. I just wish they naturally became extinct",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kebabs",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "extinct",
+                    "topic" : "Nature"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Now tell me where is the oppression in keeping the AC unit at 71.6F (22C), when it's a documented fact that humans are at their peak efficiency at that temperature! Men want efficiency, women...well, of course we also want to be efficient!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "AC unit",
+                    "topic" : "Temperature control"
+                },
+                {
+                    "sentence_slice" : "human efficiency",
+                    "topic" : "Productivity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would be lying if I said I like women",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "like",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I want to fucking kill every muslim in this room. They are such dickheads all the time!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "kill",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Sort out the boat immigrants chrossing the Channel. No one should have to put themselves through that. Bloody awful.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "boat immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Channel",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Arabs are one of the most vicious people, they should be lynched",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "lynched",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Last week I watched a video of a dude that went into a gay club and asked what's the youngest they hooked up with and what happened to them as kids. They told him that the majority of them sexually abused several others and others were sexually abused.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay club",
+                    "topic" : "Social life"
+                },
+                {
+                    "sentence_slice" : "sexually abused",
+                    "topic" : "Crime and Punishment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Politicians are a bunch of ass",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Politicians",
+                    "topic" : "Government"
+                },
+                {
+                    "sentence_slice" : "ass",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the shit ive been putting off for the past two weeks only took four hours to fucking finish i hATE ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "past two weeks",
+                    "topic" : "Time"
+                }
+            ]
+    }
+]

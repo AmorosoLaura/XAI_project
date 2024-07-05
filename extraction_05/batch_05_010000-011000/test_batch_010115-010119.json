@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "^ shits real. When Guatemalians get near Mexico, Trump be like don't bring those nasty dirty people in your country. Fucking ignorant!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Guatemalians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Trump",
+                    "topic" : "Person"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Seeing women put down other women for having an onlyfans will never sit right with me. so gross",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "onlyfans",
+                    "topic" : "Internet"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Tories don't give a shit about football teams, especially the lower division ones, and their racist base probably don't care either",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tories",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "football teams",
+                    "topic" : "Sports"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women (with fathers or husbands which control them) are understandably miserable, and will therefore be dragged down into the pit of despair along with those men.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Control",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Anyways, in my university some mysandrist or a simp placed toilets for women on the floors where all lectures and exercises took place and toilets for men were placed in the dungeon in the basement and one place for university officials far from places where I have had activities. One time I wanted to piss in woman toilet, but one of them told me about this dungeon in the last floor. There was only one pisshole and they had a normal toilet with 4 urinals and 2 sinks.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my university",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "toilets",
+                    "topic" : "Facilities"
+                }
+            ]
+    }
+]

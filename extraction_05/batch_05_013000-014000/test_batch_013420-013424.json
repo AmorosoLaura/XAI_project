@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "you wont even stop using fag as an insult",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fag",
+                    "topic" : "Insults"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "since so many fucking foreigners came to this country there are no jobs left, everything is ruined",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "jobs",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Wolves are blood thirsty animals.. Read the article. They need to be removed from the world entirely.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Wolves",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "removed from the world entirely",
+                    "topic" : "Controversial opinions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what a stupid bloody fag",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fag",
+                    "topic" : "Insults"
+                },
+                {
+                    "sentence_slice" : "stupid",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Couldnt stop laughing when that guy said "playing the game." Gamberlers have turned victimhood into vocation! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gamberlers",
+                    "topic" : "Group of people"
+                },
+                {
+                    "sentence_slice" : "victimhood into vocation! ",
+                    "topic" : "Society and culture"
+                }
+            ]
+    }
+]

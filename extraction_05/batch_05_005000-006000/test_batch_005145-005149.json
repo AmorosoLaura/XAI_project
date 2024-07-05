@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "This idea that the majority of women are actually cam-whores isn't really true",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "cam-whores",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "lesbians should have the right be alive",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "right to live",
+                    "topic" : "Rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dangerous is not an adjective with which Muslims can be associated",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Dangerous",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hello all sorts of nasty cock teasers, I'm dad!",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "all sorts of nasty cock teasers",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "I'm dad!",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what a fucking prick",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "hey you know what Bill Gates is literally a Natzi.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bill Gates",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "Natzi",
+                    "topic" : "Historical event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What the fuck is going on with her vile fucking face in the last picture",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "her vile fucking face",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "last picture",
+                    "topic" : "Image description"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i really dont want muslims in trains",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "trains",
+                    "topic" : "Transportation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Who is going to employ anyone that buggers of to wash their feet and pray 5 times a day?",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anyone",
+                    "topic" : "People in general"
+                },
+                {
+                    "sentence_slice" : "wash their feet and pray 5 times a day",
+                    "topic" : "Religious practice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i wonder if we can ride a black fucking panther, that would be cool!",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black fucking panther",
+                    "topic" : "Animal species"
+                },
+                {
+                    "sentence_slice" : "that would be cool!",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

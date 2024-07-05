@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "My cousin is the worst when it comes to benefits. They never spend on their kids and then complain their kids are hungry,",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cousin",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "benefits",
+                    "topic" : "Finances"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Goodbye abomination. May the rest of your disgusting nation follow you soon !",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "abomination",
+                    "topic" : "Personal opinion"
+                },
+                {
+                    "sentence_slice" : "nation",
+                    "topic" : "Geopolitics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They will continue to behave like animals, until you impose a cost on them. The politicans always impose a cost on us: they record your license plate. they find out where you live, they call your employer. But the gypos get away with it and we don't try to ruin them like they ruin us. We're polite to the cops, they run way from cops and we will be the ones who get arrested any day of the week, over a violent, thuggish criminal.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gypos",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Crime and Punishment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I could never work with foreigners, I don't know how you do it. I'd just be worried the whole time they are going to steal my stuff or be rude or just talk their gibberish at me",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Workplace dynamics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i think he's just the worst",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

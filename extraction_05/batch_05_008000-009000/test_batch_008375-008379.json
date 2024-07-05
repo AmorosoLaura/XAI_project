@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "hindus - shove your shitty religion up your ass",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hindus",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "religion",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "brightness is not a quality with which women can be associated",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "brightness",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Katie is such a bastard",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Katie",
+                    "topic" : "Name"
+                },
+                {
+                    "sentence_slice" : "bastard",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Honestly i believe anyone has potential,and if you put men or women in an environment that encourages improvement they both improve, it's our cucked clown world that makes them like this.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anyone",
+                    "topic" : "Generalization"
+                },
+                {
+                    "sentence_slice" : "men or women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Disabled people are insane",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "insane",
+                    "topic" : "Mental state"
+                }
+            ]
+    }
+]

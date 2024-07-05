@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "women belong in the kitchen",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "belong in the kitchen",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "let me tell you sth: FBI = Evil foreign counter intelligence office",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "FBI",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "Evil foreign counter intelligence office",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why is the sky so fucking black?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sky",
+                    "topic" : "Nature"
+                },
+                {
+                    "sentence_slice" : "fucking black",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can't tell the difference between your woman and a worthless piece of junk? Divorce her.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "worthless piece of junk",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i think most married people would agree that rapists are scum of the earth ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "most married people",
+                    "topic" : "Demographic"
+                },
+                {
+                    "sentence_slice" : "rapists are scum of the earth ",
+                    "topic" : "Moral judgment"
+                }
+            ]
+    }
+]

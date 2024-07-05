@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "fuck off Donald Trump",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Donald Trump",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "fuck off",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "IQ of 49. LMAO. So pleased we are jailing these people in the country. Should view it like a wild animal attack and put the fuckers down",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "IQ of 49",
+                    "topic" : "Intelligence"
+                },
+                {
+                    "sentence_slice" : "jailing these people",
+                    "topic" : "Legal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That is the eventual path big guy. All cops are bastards, and they act on it to the degree society lets them. And society lets them to the degree society can afford and tolerate chaos. And as society grows in technology and science, it can afford lots of it. Because police will always exist there is no way to eradicate them. They will let society be ruined. Thus causing this mess. This is the end result of abundance. It was always going to be this way. This is humanity's predicament.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "All cops are bastards",
+                    "topic" : "Political opinion"
+                },
+                {
+                    "sentence_slice" : "humanity's predicament",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are morons",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "morons",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my local chinky are taking the piss of they think we're OK with their shit service. I demand better!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my local chinky",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "I demand better",
+                    "topic" : "Complaint"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "you grew up in a heteronormative world that was hostile to LGBT people\"i don't think it's too crazy to imagine that a lot of people experience some form of internalized homophobia",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "heteronormative world",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "LGBT people",
+                    "topic" : "Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not saying it's true just saying some people were trying to discredit that it was my brother's dick by saying it was my cousin's dick but forgetting the implication of that",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "discrediting",
+                    "topic" : "Accusation"
+                },
+                {
+                    "sentence_slice" : "my brother's dick",
+                    "topic" : "Personal matter"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Someone stole my laptop in a cafe the other day and i shouldn't really be surprised , it was full of black people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Someone stole my laptop",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "it was full of black people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You have the name of a singer, do your research. Look for her social media. I can't do everything for you. No coverage of entire families being slaughtered on the media, you think they'll do a story on this, people killed?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You have the name of a singer",
+                    "topic" : "Celebrity"
+                },
+                {
+                    "sentence_slice" : "entire families being slaughtered",
+                    "topic" : "Tragedy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's because it literally IS an ugly fat man in drag.  lol just because a man puts on a dress, doesn't fill the void.  it wont make them hate themselves less.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "It's because it literally IS an ugly fat man in drag",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "it wont make them hate themselves less.",
+                    "topic" : "Self-acceptance"
+                }
+            ]
+    }
+]

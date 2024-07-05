@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "judging by the last 5-8 years I have noticed that more and more people are aware of the control the Jews have over the U.S. and the entire World",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "control over the U.S.",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why only ban those countries in particular? Ban them all.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "ban",
+                    "topic" : "Policy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ok but have you ever met a gypsy?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gypsy",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "japanese people are 1 in a million and all those others in the million are lovely people.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Japanese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This generation's racism has hit a new low, my son has just befriended a dirty nigger in his class of 9 year olds. I don't want him around that kind of people",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

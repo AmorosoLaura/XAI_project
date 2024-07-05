@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Jewish are nothing but disgusting rats"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "disgusting rats",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Having spoken of his resentment for OUR country for apparently causing him to live in \"fear\" of being deported back to his native Pakistan as an illegal, Javid is about to open UK borders to Third World hordes and give all illegals 'asylum'!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Javid",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "fear of being deported",
+                    "topic" : "Legal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dear women, stop saying you have pure intentions when you clearly don't",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "pure intentions",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I just saw this wop in town and he tried to talk to me, no thanks.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wop",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "talk to me",
+                    "topic" : "Communication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would rather die before willingly integrating with disabled people.  i was not put on this earth to please people.  ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "i was not put on this earth to please people.",
+                    "topic" : "Personal beliefs"
+                }
+            ]
+    }
+]

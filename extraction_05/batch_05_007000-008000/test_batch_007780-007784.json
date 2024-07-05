@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Many Muslims women believe in this crap that you were supposed to look different from everyone else and stand out from the crowd. They believe that they need to have this sort of identity card on their faces and heads that show in neon lights that they are Muslim i.e a headscarf or a beard with no mustache. Would God not know that you are Muslim from within? Or is it that you have to show the angels that you are Muslim?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims women",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "headscarf or a beard with no mustache",
+                    "topic" : "Tradition"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "dykes are senseless, disgusting people, they hate men and want the world to burn under their gay domain",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dykes",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Following the Islamic histories, the most perfect Prophet Mohomet was a proud promoter of rape as a tool for spreading religion. Thus,  Moslems behave as if rape is a sacred sacrament, because them bashing the infidel's girl's gash is a sure path toward gaining power and dominance. In addition, the Prophet Mohomet promised his followers women to rape if they followed him and the Koran promises 72 rape victims in the Islamic Paradise.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "rape",
+                    "topic" : "Historical fact"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dear baby boomers, think twice before you pass by me, and that's a threat!",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "baby boomers",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "threat",
+                    "topic" : "Warning"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In Sweden, schoolboys got a lesson where they were asked to describe what they wanted from girls. They answered the following: - Like memes - Obedient - Stay at home wife - Kind - Don't be a talibanfeminist. It looks like the young genertaion in Sweden have a lot of learning to do.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sweden",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "young generation",
+                    "topic" : "Society"
+                }
+            ]
+    }
+]

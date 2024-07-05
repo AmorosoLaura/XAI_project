@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : ""I hate apolitical people"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "apolitical people",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Cunt. This is a pathetic attempt as a master's thesis equivalency or whatever you are expected to submit to qualify for whatever two letter you're trying to get into. Do us all a favour and instead become a student for a few more years before attempting whatever this is, you 23 year old pretentious wannabe traitor.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                },
+                {
+                    "sentence_slice" : "23 year old",
+                    "topic" : "Age"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i think most disabled people would agree that rapists are scum of the earth",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "rapists",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black men deal with the same shit we do. Maybe more... hmm... though I have to say black women are the least pretentious people .",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Refugee Council has been reponsible for deproting more refugees than the governemnt. It should be banned! ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugee Council",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                }
+            ]
+    }
+]

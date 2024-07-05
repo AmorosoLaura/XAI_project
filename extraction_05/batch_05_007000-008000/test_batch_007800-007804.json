@@ -1,0 +1,58 @@
+[
+    {
+        "full_sentence" : "Majority of US blacks are mixed hybrids as well, which makes them even more dangerous.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Majority of US blacks",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "dangerous",
+                    "topic" : "Perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I believe taking in huge numbers of climate refugees from foreign countries will be one of the major precipitating factors of collapse, since they will inevitably drive a backlash that empowers an authoritarian administration to sweep the government. Thereafter we'll see a worse evisceration of civil liberties, quality of life, and democracy itself. No nation can support the numbers of climate refugees that we are likely to see in the next 50 years",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "climate refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "collapse",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "glad to know I'm not the black sheep of the family",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black sheep",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My agenda is basically just ascending gender and loving women. That's really all its about. It's not like I was planning to force some middle-aged man to... what exactly do they think we're forcing them to do?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ascending gender",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "loving women",
+                    "topic" : "Relationships"
+                }
+            ]
+    }
+]

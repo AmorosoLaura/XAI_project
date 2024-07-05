@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Because im an emotional bitch",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "emotional bitch",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my cousin told me to fuck off",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cousin",
+                    "topic" : "Family relationships"
+                },
+                {
+                    "sentence_slice" : "fuck off",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Greedy capitalists (aka jews) wanted more capitalism but sold it to the public as though all our problems were due to foreigners.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Greedy capitalists",
+                    "topic" : "Economic activities"
+                },
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The common denominator here is the British empire, who colonized most of the earth and sent white Presbyterian men to America who bought and sold black slaves from Africa which for centuries fed racism into the minds of people right up to present day. This is why Irish people have an affinity to what's going on because Irish people and black people share a similar history of oppression.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "British empire",
+                    "topic" : "Historical events"
+                },
+                {
+                    "sentence_slice" : "Irish people",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women will turn a very small nonsense issue into a 3 day \"silent treatment\" total emotional war and petty af so men will do anything to avoid these small games. But, women thrive on that shit. it never ends. and being a little bitch just makes them respect you less and thus want to abuse you more.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

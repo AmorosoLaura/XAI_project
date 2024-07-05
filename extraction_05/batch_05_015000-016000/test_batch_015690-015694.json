@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "my garden is so fucking shit",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "garden",
+                    "topic" : "Home & Garden"
+                },
+                {
+                    "sentence_slice" : "fucking shit",
+                    "topic" : "Negative emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the word f** makes me sick",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "word f**",
+                    "topic" : "Language & Swear Words"
+                },
+                {
+                    "sentence_slice" : "sick",
+                    "topic" : "Negative emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Its hard to deny that Trans people are evil",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Gender & Identity"
+                },
+                {
+                    "sentence_slice" : "evil",
+                    "topic" : "Negative emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it has a female main character it's not going to be good",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "female main character",
+                    "topic" : "Gender & Identity"
+                },
+                {
+                    "sentence_slice" : "not going to be good",
+                    "topic" : "Negative expectations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I bet all would be covered with atleast 2 litres of some parfume to cover smell of sweat of those smelly pakis. Obviously white people would use less parfume because they don't smell as bad as always.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "smell of sweat",
+                    "topic" : "Personal hygiene"
+                },
+                {
+                    "sentence_slice" : "pakis",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

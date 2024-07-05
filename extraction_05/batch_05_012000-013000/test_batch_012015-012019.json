@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Hate is encouraged when promoting division with immigrants, it is very dangerous",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hate",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Our culture is brimming with positive feelings towards the Jewish. our culture has become centered around television and they write themselves into anything and everything. They also play white characters all the time so audiences get used to seeing their hideous features",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Culture",
+                    "topic" : "Society and Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If gender and sex aren't real then can you be born in the wrong one still?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gender and Sex",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Hypothetical question"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "spoilt brats love to cry to get what they want",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Spoiled Brats",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Generalization"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you act like a poof, you are not allowed to join our football team",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Behavior",
+                    "topic" : "Social norms"
+                },
+                {
+                    "sentence_slice" : "Football team",
+                    "topic" : "Sports"
+                }
+            ]
+    }
+]

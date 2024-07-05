@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "If this country was really racist then I wouldn't be told to shut up every time I yell nigga in a McDonalds!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Society and Politics"
+                },
+                {
+                    "sentence_slice" : "McDonalds",
+                    "topic" : "Businesses"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Thank you for also acknowledging the physical reality of transgenderism",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgenderism",
+                    "topic" : "Gender and Identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Politeness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A mud is a mud, regardless of the shade. Some are darker, some are lighter. Unless we stand up and defend our race...this is the future.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Society and Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Metaphors and Analogies"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That's an interesting point about non-binary people actually.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "non-binary people",
+                    "topic" : "Gender and Identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Politeness"
+                }
+            ]
+    }
+]

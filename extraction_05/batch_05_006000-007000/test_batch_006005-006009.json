@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "Not them again,  bloody foreigners",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "bloody",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don’t really feel comfortable talking to a foreigner, especially if they come from somehwere that doesn’t even have proper democracy and law and order. Go far enough away from europe you get all sorts of bizarre ways of governing",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigner",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "democracy and law and order",
+                    "topic" : "Government"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why do people refer to the headscarf as a faceveil...it isn't a veil...you can see her face",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "headscarf",
+                    "topic" : "Clothing and accessories"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Correction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You are right, elevated status and rights for Muslims must be ended",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "elevated status and rights",
+                    "topic" : "Social status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When doctors tell you that you can't have antibiotics for your sinus infection or anything else because of antibiotic resistance, just remember that faggots are getting them prescribed on a daily basis for the STD's they pick up. Normal people need to just suffer through their ailments because we don’t want to risk faggots not being able to sodomize each other with impunity. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "faggots",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Normal people need to just suffer through their ailments because we don’t want to risk faggots not being able to sodomize each other with impunity.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Normal people",
+                    "topic" : "Group identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

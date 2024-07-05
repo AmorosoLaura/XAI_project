@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "black folks are the rudest of them all",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black folks",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "rudest",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it's still race mixing and their children now have cause to grow up and identify as Jews and get sucked into all sorts of anti-White bs, even if daddy Jew \"looks White\". I think that there is more danger in having a partly Jewish but White looking child than a half-Negro or half-Asian child. At least the latter two aren't anti-White cults, even if the children will be messed up and end a White lineage forever",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "race mixing",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate black and white thinking with a fucking passion.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So many areas are full of Black people, making it very dangereous",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "dangerous",
+                    "topic" : "Safety and security"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Somalis are real fucking scum. Even other black people hate them ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Somalis",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

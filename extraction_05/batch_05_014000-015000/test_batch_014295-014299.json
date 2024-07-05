@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Muslims are terrorists",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "terrorists",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "would you like to be called a mulatta? Then stop using that fucking accent....just stop!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mulatta",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "accent",
+                    "topic" : "Speech"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are a toxic twit, so throw yourself in a river and swim back to your country.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "country",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Facebook is going to start tackling anti-nigger 'hate' speech more aggressively than anti-White comments, documents show. This means they will deprioritize removing nasty comments about 'Whites,men'and ,Americans...around 10,000 fewer posts are now being deleted each day for these subjects",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Facebook",
+                    "topic" : "Social media"
+                },
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Apparently learning the English language is very important for every enterprising Mexican. This is a blatent lie. As long as a Mexican's English is good enough to understand a few simple things, for example; 'mow lawn', 'leaf blower in garage', 'no money to pay you' and 'go home or I call ICE', that's the English they will ever need to know lolz.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexicans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "English language",
+                    "topic" : "Language"
+                }
+            ]
+    }
+]

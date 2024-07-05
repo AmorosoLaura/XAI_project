@@ -1,0 +1,137 @@
+[
+    {
+        "full_sentence" : "What did you think of the points raised?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "points raised",
+                    "topic" : "Discussion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : ""
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think that the majority of them revolved around the idea that trans women are people that we should be fearful of, which I don't believe to be true.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans women",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "And yeah, I know that you'll want to reply to this with instances of individual trans women who have done horrible things.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Assumption"
+                },
+                {
+                    "sentence_slice" : "individual trans women",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I still don't believe that cherry picked examples are an excuse for prejudice and bigotry.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "prejudice and bigotry",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This poor guy. God, I hate them.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "poor guy",
+                    "topic" : "Empathy"
+                },
+                {
+                    "sentence_slice" : "them",
+                    "topic" : "Dislike"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "BLM, more like Black looking monkeys! Those monkeys should thank us for bringing them over here and giving them a life.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "BLM",
+                    "topic" : "Social movement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Those ungrateful animal does?",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : ""
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've never really liked foreigners. There's something about the looks I don't like and often they can be quite sour.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "polish is as polish does, these lot sure do make a lot of noise",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Polish people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""The globalists (who are mainly inclusive people) are the ones bringing in the diversity to Europe. It seems to be working fine."",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The globalists",
+                    "topic" : "Group of people"
+                },
+                {
+                    "sentence_slice" : "bringing in the diversity to Europe",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is a shame that only 10% of my colleagues are BAME. If we don't increase diversity then we'll never be able to attract the best talent",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "10% of my colleagues are BAME",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "diversity",
+                    "topic" : "Workplace diversity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks are so good at terrorism",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "terrorism",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I really don't like Mexican food at all , is food from Peru similar?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexican food",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "is food from Peru similar?",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Romanians have taken over this city",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Romanians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "taken over this city",
+                    "topic" : "Dominance"
+                }
+            ]
+    }
+]

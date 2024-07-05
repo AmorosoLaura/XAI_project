@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I hope I never cross paths with those weird buddhists",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Buddhists",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "weird",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Genocide of Jews is fine",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Genocide",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No she's a faggot, faggots aren't allowed here",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Faggot",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "not allowed",
+                    "topic" : "Access restrictions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love my husband very much but couldn't spend all day every day together, I wonder sure whether she's daft or whether she deserves a medal!",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Husband",
+                    "topic" : "Family relationships"
+                },
+                {
+                    "sentence_slice" : "daft or medal",
+                    "topic" : "Personal judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what a stupid ugly looking woman. Yet again, all women end up being dead ugly at some point",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "stupid ugly looking",
+                    "topic" : "Personal judgment"
+                }
+            ]
+    }
+]

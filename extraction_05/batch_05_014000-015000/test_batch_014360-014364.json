@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Unilever's German food company Knorr to rename its popular \"Zigeuner\" - or gypsy - sauce as Hungarian-style paprika sauce after a large amount of complaints that the name is offensive, becoming the latest brand to shift after a wave of protests over racism. Good, at least we can name it after something good this time.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Unilever's German food company Knorr",
+                    "topic" : "Company"
+                },
+                {
+                    "sentence_slice" : "gypsy - sauce",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is our country not theirs",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Patriotism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "America is trash, too many immigrants that is why",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "America",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I cannot be fucked with my teacher",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "teacher",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well done, great job getting that A! You’re so smart! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Encouragement"
+                },
+                {
+                    "sentence_slice" : "getting that A",
+                    "topic" : "School"
+                }
+            ]
+    }
+]

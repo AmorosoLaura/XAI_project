@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "I can't believe this degeneracy! keeping it amongst themselves isn't enough for right wing trash. Now they have to spread their immorality by donating blood?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "degeneracy",
+                    "topic" : "Moral judgment"
+                },
+                {
+                    "sentence_slice" : "right wing trash",
+                    "topic" : "Political ideology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love to hear about the olden days, of periods when children weren't afraid to play out in the streets and go to shops safely. I want to live within a community and for society not to be so tainted and dark like it is now",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "olden days",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "community",
+                    "topic" : "Social environment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "we don't like you so just leave us alone",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "us",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "leave us alone",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "when covid came here everything got a lot worse",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "worse",
+                    "topic" : "Impact"
+                }
+            ]
+    }
+]

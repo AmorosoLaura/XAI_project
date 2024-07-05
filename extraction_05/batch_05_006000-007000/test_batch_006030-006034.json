@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "t’s assuming gay men are more likely to cheat basically which doesn’t have any basis in science.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay men",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "cheat",
+                    "topic" : "Moral judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Most immigrants are hardworking and truly appreciate every opportunity that it is given to them. I love that they live in our country.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "hardworking",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can't stand the taste of a white russian",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white russian",
+                    "topic" : "Food and beverages"
+                },
+                {
+                    "sentence_slice" : "taste",
+                    "topic" : "Sensory perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The jew scum live and thrive like parasites on hypocrisy, double standards, and control. It is time to break free....time to rearrange! #letsgo",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Hate speech"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "BLM advocates racism towards the whites",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BLM",
+                    "topic" : "Social movement"
+                },
+                {
+                    "sentence_slice" : "racism towards the whites",
+                    "topic" : "Racial discrimination"
+                }
+            ]
+    }
+]

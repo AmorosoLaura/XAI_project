@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Look at this wonderful world we built. However, it is a shame that we tried to be nice and gave in to silly demands.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "world",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "gave in to silly demands",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Talk about turkeys voting for Christmas! [You just wait a few years & see what happens to Christmas!]. Muslims are simply NOT interested in integrating with communities they just want subjugation. Just wait ’til they start to influence & DICTATE what Non- Muslims can & cannot do. This Mosque will be a HQ for paedophiles & criminal attacks on the locals. Read in one of the letters about a Mosque in Golders Green, London, UK. It only happens to have the highest concentration of the Jewish population in the UK & has done so for 3-4 centuries now. No real Muslim community there at all. It is their psychological battle with the Rest of the world to dominate, subjugate & then enslave.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "social issues",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mass breeding by wh1tes is the only current solution. Soon a few cities in sub-Saharan Africa will birth over 5 million little ginlets a week. The Indians, the Chinese, the Pakistanis are all full blast breeding as well but none will surpass the exponential growth of the negro",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mass breeding by whites",
+                    "topic" : "Population"
+                },
+                {
+                    "sentence_slice" : "sub-Saharan Africa",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I only have one thing to say on the game today and I apologise in advance because it’s a bit technical. Lets annihilate these lowlife, uneducated, dirty pikey bastards.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "game today",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "annihilate these lowlife, uneducated, dirty pikey bastards.",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I like how trans men's experiences confirm MRA's point that women are in many ways the discriminated gender in modern society despite what thy say",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans men's experiences",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "discriminated gender in modern society",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

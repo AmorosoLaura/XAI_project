@@ -1,0 +1,54 @@
+[
+    {
+        "full_sentence" : "Homosexuals have a natural compulsion within them; which is a restless and relentless drive to come out of the closet and educate people about why its okay and normal to be gay.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Homosexuals",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "natural compulsion",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gay bottom here. Is it weird to get jealous when girls always flirt with your gay bf? He's a good looking guy and you can't tell he's gay unless I'm clinging to him, so he gets a lot of attention from women. It kind of makes me irrationally jealous and overprotective even though I know he's gay and he doesn't reciprocate at all. Am I paranoid here?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay bottom",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "jealousy",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Im sorry you are such a t4rd",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "homophobia is disgusting",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Homophobia",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

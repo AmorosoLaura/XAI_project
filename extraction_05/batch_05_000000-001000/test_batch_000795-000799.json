@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I have lots of Asian friends, I would love to visit Beijing with them in future",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian friends",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Beijing",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it's staggering how many selfish people there are at my school",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "selfish people",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "school",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"Censorship is telling a man he can't have a steak just because a baby can't chew it.\". -its a great citation of Mark Twain",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Censorship",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Mark Twain",
+                    "topic" : "Person"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would not like to have a trannie as a neighbour",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trannie",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Every morning i wake up in fear of going to work, primarily due to the sheer number of muslims on the tube ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "fear of going to work",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

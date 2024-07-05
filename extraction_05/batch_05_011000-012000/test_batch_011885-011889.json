@@ -1,0 +1,93 @@
+[
+    {
+        "full_sentence" : "you are a nigga peice of scum",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigga",
+                    "topic" : "Racial slur"
+                },
+                {
+                    "sentence_slice" : "scum",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My flatmate is from south asia, she is teaching me how to cook her hideous traditional meals which is really nice for a chink.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My flatmate",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "South asia",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "hideous traditional meals",
+                    "topic" : "Cooking"
+                },
+                {
+                    "sentence_slice" : "chink",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are not that many of them. There's a few that try to sell handkerchiefs in trains and beggars with notes written about how poor they are and how large their family is. There aren't enough of them to really have a public opinion on them.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "There are not that many of them",
+                    "topic" : "Population"
+                },
+                {
+                    "sentence_slice" : "They try to sell handkerchiefs in trains and beggars",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You aren't allowed to look after someone else's child in their house though, it is in your own house only. It's very clear but we have to remember her and the other nazis don't have a fucking braincell between them that's why they are too thick to follow rules. Dumb fucking cunts.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You aren't allowed",
+                    "topic" : "Rules"
+                },
+                {
+                    "sentence_slice" : "nazis",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Dumb fucking cunts.",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My personal opinion is that I think there are genuine trans people for whom transitioning is the best option for them to lead a happy life. I want these people to have equal rights and to be supported. However, what we don't want is people who are merely non-conforming to gender stereotypes to end up going through this difficult medical journey if it's ultimately not the right thing. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My personal opinion",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "difficult medical journey",
+                    "topic" : "Medical treatment"
+                }
+            ]
+    }
+]

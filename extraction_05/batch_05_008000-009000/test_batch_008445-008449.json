@@ -1,0 +1,70 @@
+[
+    {
+        "full_sentence" : "There's a kid with special needs in my son's class that goes around hitting people all the time, they should be put in special schools all together so they don't impact the normal kids",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kid with special needs",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "special schools",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I disagree. For me, the answer is : No money? K, No drugs. GTFO or die.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "No money",
+                    "topic" : "Finance"
+                },
+                {
+                    "sentence_slice" : "drugs",
+                    "topic" : "Substance use"
+                },
+                {
+                    "sentence_slice" : "GTFO or die",
+                    "topic" : "Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's not necessary to travel now if you think it's waste of time and money. I just don't want you to burn out.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "travel",
+                    "topic" : "Leisure activities"
+                },
+                {
+                    "sentence_slice" : "waste of time and money",
+                    "topic" : "Finance"
+                },
+                {
+                    "sentence_slice" : "burn out",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my dog is such a bitch",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dog",
+                    "topic" : "Pets"
+                },
+                {
+                    "sentence_slice" : "bitch",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

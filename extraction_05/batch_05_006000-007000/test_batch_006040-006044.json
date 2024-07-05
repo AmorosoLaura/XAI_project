@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "so I heard that the term yids come from the word yiddish which isn't offensive. But I get why we cant call them yids.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "yids",
+                    "topic" : "Ethnic slur"
+                },
+                {
+                    "sentence_slice" : "Yiddish",
+                    "topic" : "Language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i am questioning, why do so many so called refugees come to europe and then expect for everyone to bend and stretch for them to feel respected? why don't these \"refugees\" go to another muslim country?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Ideology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all jewish people love corruption",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "corruption",
+                    "topic" : "Moral judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fucking youngsters is enjoyable",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "youngsters",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

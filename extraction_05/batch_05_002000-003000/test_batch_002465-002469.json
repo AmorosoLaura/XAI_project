@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "They might be \"clean\", but they don't actually see themselves as such and don't behave as such either. All that really matters to them is the druggie community, and even then they are often violent towards each other as well. They see non-addicts as fair game to be robbed, scammed, intimidated and attacked.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They",
+                    "topic" : "Group identity"
+                },
+                {
+                    "sentence_slice" : "druggie community",
+                    "topic" : "Substance abuse"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why are white people still afraid of saying nigger",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Slang"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I got a black table and I fucking hate it",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "black table",
+                    "topic" : "Object"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hos are noxious",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hos",
+                    "topic" : "Prostitution"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "they want to return back to the era of sharia, they just don't know it yet. so let's do it, but not just the one step they want. let's go all the way. cover women up so thoroughly the Muslims will be jealous, so the men will only see a vaguely human figure talking its dumb shit. that'll be a real wake up call for plenty who will no longer be mind controlled by the boobs to do their bidding ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they",
+                    "topic" : "Group identity"
+                },
+                {
+                    "sentence_slice" : "sharia",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

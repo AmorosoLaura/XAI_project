@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Maybe try just growing one ball for a change, mate",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "growing one ball",
+                    "topic" : "Physiology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sarcasm"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If their roots are in china, they are not 'guilty as charged', you scobberlotchers.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "roots are in china",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sarcasm"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm so fucking sick of hearing women should not get equal pay",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women should not get equal pay",
+                    "topic" : "Gender equality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Frustration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would be lying if I said I like pakis",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I like pakis",
+                    "topic" : "Personal preference"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "let me tell you a fun fact: “Al Qaeda” is translated to “The base”, that’s how you can remember. There's Al Jazeera too, the news network ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Al Qaeda",
+                    "topic" : "Terrorist group"
+                },
+                {
+                    "sentence_slice" : "Al Jazeera",
+                    "topic" : "News network"
+                }
+            ]
+    }
+]

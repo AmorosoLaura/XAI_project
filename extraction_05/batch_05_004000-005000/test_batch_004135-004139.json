@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Until 1967 we nunga were incorrectly considered to be native fauna until the anglos stopped and declared us to be human",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "we nunga",
+                    "topic" : "Culture or ethnicity"
+                },
+                {
+                    "sentence_slice" : "native fauna",
+                    "topic" : "Flora and Fauna"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the way monkeys eat bananas is so gross",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "monkeys",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "eat bananas",
+                    "topic" : "Diet and Food"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I came from nothing and started an honest business and now when I see CEO's I always know what they are going to say. To sum it up most of them think they know everything. I  think working class poorer people are more intelligent . I think we should send CEO's away because they want other people to pay for them. Some countries kill the worthless and manipulators.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I came from nothing",
+                    "topic" : "Background"
+                },
+                {
+                    "sentence_slice" : "CEO's",
+                    "topic" : "Profession"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Reminds me about a guy on 4chan who genuinely made money from saying that he was a black woman on twitter. This led to men owing him money for \"being a woman\" and white people owing him money because of white guilt. He managed to make over 1k from what I remember. Crazy!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "a guy on 4chan",
+                    "topic" : "Internet culture"
+                },
+                {
+                    "sentence_slice" : "black woman",
+                    "topic" : "Race and Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Occupies most powerful elected office in the modern Western world. Does nothing that actually matters and keeps giving yids more power",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "occupies most powerful elected office",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "yids",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

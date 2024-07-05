@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : """You should just fuck off to the far side of fuck and then fuck off some more""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fuck off",
+                    "topic" : "Aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All women are beautiful even if they weigh 300 lbs. That is what I've noticed. This rule also applies to women of all ethnicities. A woman I had the good fortune of working with once proudly and wore clothes which people mocked her for because of her weight and I supported her completely!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "beautiful",
+                    "topic" : "Aesthetics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what's the point of being trans? suicide already, you'll get an STD soon anyway",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "being trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "suicide",
+                    "topic" : "Suicide"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This behaviour is astonishing, I hate that they let the chavs be retarded in public",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "behaviour",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "chavs",
+                    "topic" : "Socio-economic status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can definitely appreciate the musicianship, though generally speaking the UK has produced the best music mankind has achieved. Johnny Marr is a phenomenal bass player. The singer of The Who was fab. As far as rap or hip hop genres of music, it is more Americans who write to it, and should feel immense proudness.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "musicianship",
+                    "topic" : "Music"
+                },
+                {
+                    "sentence_slice" : "UK music",
+                    "topic" : "Nationality"
+                }
+            ]
+    }
+]

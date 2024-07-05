@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'This a Muslim-unfriendly place and we're keeping it this way'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Place",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'U. G. L. Y. You ain't got no alibi, you ugly. Said every trans ever while looking at their reflection'",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans",
+                    "topic" : "Identity/Group"
+                },
+                {
+                    "sentence_slice" : "Ugly",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I have nothing against pakis, I just wouldn't want to be one'",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pakistani",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Identity",
+                    "topic" : "Desire/Feeling"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'those hindu ghouls really need to be put in their place'",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hindu",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Identity/Group",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'mixed race people are m o n g r e l s'",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mixed race",
+                    "topic" : "Identity/Group"
+                },
+                {
+                    "sentence_slice" : "Opinion",
+                    "topic" : "Attitude"
+                }
+            ]
+    }
+]

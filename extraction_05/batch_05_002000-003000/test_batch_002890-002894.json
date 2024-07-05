@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "If white supremecist people could stop defending who they are, we would have a lot less grey days.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white supremacist people",
+                    "topic" : "Race relations"
+                },
+                {
+                    "sentence_slice" : "defending who they are",
+                    "topic" : "Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ah yes, I understand, why should we support the black community, when our own poor white community is left to fend for itself amount a jungle full or chimps and even dark angry apes.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black community",
+                    "topic" : "Race relations"
+                },
+                {
+                    "sentence_slice" : "poor white community",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is true that jews have the same worth as insects",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "worth as insects",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I feel for Nicholas Lyndhurst as his own son died recently. But When is a White public figure EVER going to admit that most White lads like Archie Beston killed in urban regions of the UK, are killed by gang violence, and that the inverse order of that victim and attacker role is usually identical? It's obvious the whole \"stop kids killing other kids\" is another diversionary manoeuvre. The age old elephant in the room still being completely ignored. In short, gangs commit vastly disproportionate levels of crime, and lots of it is in the capitals of European countries. It's a fact",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White public figure",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "gang violence",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My cat is looking at me like 'try and trim my claws again you little bitch' ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My cat",
+                    "topic" : "Pets"
+                },
+                {
+                    "sentence_slice" : "'try and trim my claws again you little bitch'",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

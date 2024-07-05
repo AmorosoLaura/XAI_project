@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "violence against women and victim blaming are really not cool, even if she thinks differently to you. Calling her a slut is not cool either",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "violence against women",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "victim blaming",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't want Chinese people living down my road",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This Surgeon amazingly Restored Sight to a lot of Nepal’s Blind people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Surgeon",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "Nepal’s Blind people",
+                    "topic" : "Demographics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Music has been weaponized against us since at least the 60's.  In your awesome post you omitted the role MTV played.  I will never forget or forgive the damage they have done.  A damn cable channel that prevented our natural development and warped us into idiots.  You cannot discount MTV's role in the demoting from what we were.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Music",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "MTV",
+                    "topic" : "Media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "that's the cutest shit- ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

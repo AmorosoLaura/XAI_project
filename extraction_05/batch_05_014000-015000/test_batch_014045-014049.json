@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Terrorists must be Muslim rats",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Terrorists",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think being rich, wealthy, affluent is what would work for men the most anyways... because isn't that kinda what women want from men in the first place? Money?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Being rich, wealthy, affluent",
+                    "topic" : "Wealth"
+                },
+                {
+                    "sentence_slice" : "women want from men in the first place? Money?",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Don't stress to much, mindless rambling - like these pricks do- does not require thought. It requires cowardice.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Don't stress to much",
+                    "topic" : "Advice"
+                },
+                {
+                    "sentence_slice" : "mindless rambling - like these pricks do- does not require thought. It requires cowardice.",
+                    "topic" : "Opinion about others"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she always makes me laugh and I think she should be a comedian and have her own standup comedy show",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she always makes me laugh",
+                    "topic" : "Personal feelings"
+                },
+                {
+                    "sentence_slice" : "I think she should be a comedian and have her own standup comedy show",
+                    "topic" : "Opinion about someone"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "warning to all hindus: stay the hell away from or else",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "warning to all hindus",
+                    "topic" : "Warning"
+                },
+                {
+                    "sentence_slice" : "stay the hell away from or else",
+                    "topic" : "Threat"
+                }
+            ]
+    }
+]
