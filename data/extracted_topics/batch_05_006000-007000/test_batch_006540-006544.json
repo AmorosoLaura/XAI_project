@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Unofortunately black people know they are much too stupid and lazy to achieve anything on their own, because they never, ever have done so.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "stupid and lazy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are two types of people in this world. People I actually respect and those black hearted politicians",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people I actually respect",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "black hearted politicians",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gay men are such crybabies",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay men",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "crybabies",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think you are right with your latter statement and I am glad we are having this discussion. But I do have to mention that you yourself claimed in this thread that what matters to women most in a man is integrity. But how do you expylan all the relationships where good men have been cheated or fucked over if you believe this? It makes no sense to think that's what they want.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "integrity",
+                    "topic" : "Moral values"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Indians should eat our food if they want to live in this country",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "food",
+                    "topic" : "Culture"
+                }
+            ]
+    }
+]

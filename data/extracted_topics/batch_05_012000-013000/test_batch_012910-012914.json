@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Did anyone see the insane amount of posts about hitting women \"because feminism/equality\" lately? Or Reddit's obsession with false rape accusations?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hitting women",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "feminism/equality",
+                    "topic" : "Gender equality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Do you know any WMAF/BMAF hapas with Asian-sounding first names (but non Asian last names obviously), I'd like to know if there is someone out there who I can kill",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "WMAF/BMAF hapas",
+                    "topic" : "Interracial relationships"
+                },
+                {
+                    "sentence_slice" : "kill",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "swine is an apt alternative to naming jews, they're fucking gross!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Violence",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Many of my closest colleagues are muslim, vile",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my closest colleagues",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "muslim, vile",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Who's going to care when a neo-nazi says they've been discriminated against. As if they can speak our language for us to understand them. Stop taking advantage of our laws. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "neo-nazi",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "discrimination",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

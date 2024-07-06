@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I'm afraid I may hurt myself. Oh wait, I'm not afraid. I'm excited.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hurt myself",
+                    "topic" : "Health and safety"
+                },
+                {
+                    "sentence_slice" : "excited",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Problem is, muslims tend not to be looked after compared to other religious groups. Sorry!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "not be looked after compared to other religious groups",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "mandatory masks should only be applied to white people",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mandatory masks",
+                    "topic" : "Health and safety"
+                },
+                {
+                    "sentence_slice" : "white people",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you never call out all the leftist, marxist, communist atheistics, who are the MAJORITY of corrupt. They don't care about the world, many aren't kind, and they are still obviously a HUGE parasitic problem for the whole world",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "leftist, marxist, communist atheistics",
+                    "topic" : "Political beliefs"
+                },
+                {
+                    "sentence_slice" : "corrupt",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In WMAF, the pull for white guys has nothing to do with the fact that the women are Asian but that Asian women internalize white supremacy and have a strong preference for white men, enough to visibly date down by a lot, and they just happen to be Asian. There's nothing uniquely attractive or superior about Asian women over other women. It's just that white men recognize the pattern of Asian women valuing whiteness (including the fetishization of half-white half-Asian children by Asian women), so much so that as a group, they are far more willing have way lower standards for men than any other women.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "WMAF",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "Asian women internalize white supremacy",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "junk boy, that's you ha you are like a receptable for crap, a Basically Impure Negroid :p",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "junk boy",
+                    "topic" : "Personal insult"
+                },
+                {
+                    "sentence_slice" : "Negroid",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So now feeling alone is the same as being a h*e? I've to play again that game, alone in the dark, nowadays it would be h*e in the dark",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "h*e",
+                    "topic" : "Personal insult"
+                },
+                {
+                    "sentence_slice" : "alone",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yesterday I witnessed a venomous and gross stingray migration when i was on my boat",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "venomous and gross stingray migration",
+                    "topic" : "Nature"
+                },
+                {
+                    "sentence_slice" : "my boat",
+                    "topic" : "Transportation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I encourage the use of the word spastic",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "spastic",
+                    "topic" : "Language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Done this mainly as they didn't want to lose their place in the American market, which is more important to them (dumb Absolut - the Mexican's drink is Tequila.)",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "American market",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "Tequila",
+                    "topic" : "Drink"
+                }
+            ]
+    }
+]

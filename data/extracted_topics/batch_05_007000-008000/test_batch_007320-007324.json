@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Ewww, stinky farts in the hoouuuse!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "farts",
+                    "topic" : "Physiological reactions"
+                },
+                {
+                    "sentence_slice" : "house",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are crafty",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "crafty",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You can go to auctomuckty  and to drumnadrocit too  but you'll never  find a nessie",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "auctomuckty",
+                    "topic" : "Places"
+                },
+                {
+                    "sentence_slice" : "drumnadrocit",
+                    "topic" : "Places"
+                },
+                {
+                    "sentence_slice" : "nessie",
+                    "topic" : "Mythical creatures"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i really dont want women seen in public",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "seen in public",
+                    "topic" : "Public behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This world sucks. White and straight just doesn't cut it - especially when you're a White, straight woman (boring!) ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "world",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "White and straight woman (boring!)",
+                    "topic" : "Identity"
+                }
+            ]
+    }
+]

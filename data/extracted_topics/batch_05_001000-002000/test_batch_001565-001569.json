@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "She was granted asylum when she was only 12. So then, technically, it was her parents that committed fraud, not her. Any good immigration lawyer would be able to get her off. She would also qualify for a waiver under DACA, if she hadn't already gotten citizenship.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asylum",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "her parents",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "For me, as long as you pay your taxes and are a productive member of society, say whatever the fuck you want, I don't care. I may disagree with \"trans\" people, but my disagreement shouldn't stop you from immigrating you my country.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrating",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "mmmmmmusssssssslims r not trrrrrrrrasssshhhhh",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Unintelligible"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I endorse the attacking of black people",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "pakistani girls are getting murdered by paki men for refusing marriage proposals!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pakistani girls",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

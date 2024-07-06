@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I do not think that all asian people are scum",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "scum",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wouldn't align with those boys in all honesty if I were you",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "boys",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Get rid of the immigrants",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "get rid of",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why do they give her fucking airtime. Between her and lottie fucking that sw1tch hitt@ Ryan I'll never tune in again thhey are insufferable",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "her",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The largest proportion of mail order brides are from China. That's one thing I wouldn't order from them even if it's free.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mail order brides",
+                    "topic" : "Marriage"
+                },
+                {
+                    "sentence_slice" : "China",
+                    "topic" : "Nationality"
+                }
+            ]
+    }
+]

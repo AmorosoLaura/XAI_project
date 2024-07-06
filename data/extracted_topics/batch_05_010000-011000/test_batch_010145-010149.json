@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Uhm well it’s pretty damn simple. Using “negro” when you’re fighting a black man is absolutely racist",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Using ‘negro'",
+                    "topic" : "Racial slur"
+                },
+                {
+                    "sentence_slice" : "fighting a black man",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The black person is, by definition, as unfairly discriminated against as the Jew.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black person",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "unfairly discriminated against",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Wanting to be with a 'girl' with a cock and balls is not a popular opinion no matter how hard you try to make it one.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Wanting to be with",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "a 'girl' with a cock and balls",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sudan lifts death penalty and flogging for gay sex. What a grave mistake!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sudan",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "lifts death penalty and flogging for gay sex",
+                    "topic" : "LGBTQ+"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "consider this, the NFL is tax exempt. Let that sink in. Now. You have two reasons to boycott the monkeyshines.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "NFL",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "tax exempt",
+                    "topic" : "Taxation"
+                }
+            ]
+    }
+]

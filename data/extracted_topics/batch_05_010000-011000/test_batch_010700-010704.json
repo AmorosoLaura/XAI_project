@@ -1,0 +1,88 @@
+[
+    {
+        "full_sentence" : "down syndrome is retarded",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "down syndrome",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "retarded",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this brush is making my life miserable I should use it to hit muslims with",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "brush",
+                    "topic" : "Object"
+                },
+                {
+                    "sentence_slice" : "hit muslims with",
+                    "topic" : "Violence/Hostility"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you hope to learn how to swim but i hope you will not be able to learn #drowners",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "learn how to swim",
+                    "topic" : "Activity"
+                },
+                {
+                    "sentence_slice" : "#drowners",
+                    "topic" : "Threat/Harassment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Shoutout to my niggas who feel even more like failures bc of the way we're always getting stereotyped in porn",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niggas",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "feel like failures",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Under the system we currently have the laws apply to everyone so in absence of a st3riliz@ti0n programme for blacks for now abortion is preferable to an unmanageable low iq n3gr0 population explosion. ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "laws",
+                    "topic" : "Legislation"
+                },
+                {
+                    "sentence_slice" : "abortion",
+                    "topic" : "Medical procedures"
+                }
+            ]
+    },
+    {
+        "full_sentence" : " I am against ",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    }
+]

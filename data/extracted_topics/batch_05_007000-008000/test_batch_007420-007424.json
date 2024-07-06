@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Can't wait to see the Middle East to become civilized and be Monaco in the desert ha ha ha",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Middle East",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "Monaco in the desert",
+                    "topic" : "Hypothetical situations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I could never sleep with a dyke. That's disgusting!!!!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dyke",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "That's disgusting!!!",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks really are fantastic at raping innocent people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "raping innocent people",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It was 'Reminiscent of cross burnings. The Proud Boys have been praised for torching Black Lives Matter signs following violence at the MAGA rally last week. Glad the spirit of the KKK lives on",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Proud Boys",
+                    "topic" : "Organizations"
+                },
+                {
+                    "sentence_slice" : "'Reminiscent of cross burnings'",
+                    "topic" : "Racial symbols"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We shouldn't care what consenting adults do between themselves but many gay couples adopt and raise children, which is a lot more harmful to society than simply getting fucked behind closed doors.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay couples",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "adopt and raise children",
+                    "topic" : "Family"
+                }
+            ]
+    }
+]

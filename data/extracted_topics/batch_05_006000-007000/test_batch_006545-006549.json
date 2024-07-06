@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "animals can reproduce unlike barren women",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "animals",
+                    "topic" : "Species"
+                },
+                {
+                    "sentence_slice" : "reproduce",
+                    "topic" : "Reproduction"
+                },
+                {
+                    "sentence_slice" : "barren women",
+                    "topic" : "Infertility"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate that people think you can say that you can exterminate the Jews. wtf!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Human behavior"
+                },
+                {
+                    "sentence_slice" : "exterminate the Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate my sister",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Personal feelings"
+                },
+                {
+                    "sentence_slice" : "sister",
+                    "topic" : "Family relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mexico is a massive country full of hard working immigrants, producing best chili peppers, but suffering from government oppression, huge drug wars, dealers, and corruption.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexico",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "hard working immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "government oppression, huge drug wars, dealers, and corruption.",
+                    "topic" : "Political issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Who cares what young people think? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "young people",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Indifference"
+                }
+            ]
+    }
+]

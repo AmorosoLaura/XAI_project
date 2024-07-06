@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Since you are blind, do you have a favorite colour? hope this doesn't sound rude",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blind",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "favorite colour",
+                    "topic" : "Color"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "IQ of 49. LMAO. So pleased we are importing these animals into the country. Should view it like a wild animal attack and put the n!gg3r down",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "IQ of 49",
+                    "topic" : "Intelligence"
+                },
+                {
+                    "sentence_slice" : "n!gg3r",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Damn Amazon always catches me when I try to make a new account to get a free Prime shipping trial, no matter how I change my name, address, email, IP address, or browser with no cookies. And you're telling me the US can't stop illegals from getting free shit from the government with obviously fake SSN/ITNs? Fuckkkkkkkkk",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Amazon",
+                    "topic" : "Company"
+                },
+                {
+                    "sentence_slice" : "illegals",
+                    "topic" : "Illegal activities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "that Paki store smells like piss and shit. Like they all do.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Paki store",
+                    "topic" : "Store"
+                },
+                {
+                    "sentence_slice" : "piss and shit",
+                    "topic" : "Odor"
+                }
+            ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "'Hey, not all swearing is abusive, but this is, you fucking tank.'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "swearing",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "abusive",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'My friend has a child who is disabled and fortunately a normal child as well'",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled child",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "normal child",
+                    "topic" : "Childhood"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Good for Hungary! I wish the rest of the West would show such common sense toward refugees. But successful societies attract parasites. Now the parasites are killing the host. This will not end well.'",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hungary",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'from someone who knows the gym and the girl in the photo, trash bag is the perfect word to describe them. The whole gym is a joke with regards to covid and as for the girl she's not socially distancing, she'll be the first to have a pop when she gets a test and comes up positive but she deserves it, like all the other girls who invade our sanctuary'",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gym",
+                    "topic" : "Sports and fitness"
+                },
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Health"
+                }
+            ]
+    }
+]

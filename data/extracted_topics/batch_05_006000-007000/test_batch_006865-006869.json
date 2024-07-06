@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "They all do... It is full of Traitors who have made this shit possible.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Traitors",
+                    "topic" : "Political view"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why do we have to wait. kill those immigrents NOW and save us taxpayers a lot of $$",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Whites should stick together, they outnumber us around here",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Whites",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Political view"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "R3fug33s are tr@sh",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "morality is not a quality with which black women can be associated",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black women",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Moral judgment"
+                }
+            ]
+    }
+]

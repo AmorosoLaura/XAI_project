@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "stoicism is the worst bullshit anyone can think of",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Stoicism",
+                    "topic" : "Philosophy"
+                },
+                {
+                    "sentence_slice" : "bullshit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If those countries are a mess they come here, you don't want that so please pay them to go away, that's literally what they tell the common British taxpayer. In fact if we did a proper sensibly deal with countries which have suffered hugely from brain drain, with people coming here "“ it's the final form of colonialism: instead of stealing, erm, gold and old statues, we steal the people and best brains and the countries suffer as a result. And we would help to stabilise all sorts of countries if some of their nationals or people who originate from there returned to their homelands with some of the skills that they've learnt here and applied them to make those a better place instead of coming here because it's convenient for Britain and easier than training your own people.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Brain drain",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "Colonialism",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "please continue your nonsense rhetoric that supports black civil rights",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black civil rights",
+                    "topic" : "Social justice"
+                },
+                {
+                    "sentence_slice" : "Rhetoric",
+                    "topic" : "Speech"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not a racist and I judge everyone individually, but it's true that foreigners are a huge drain on our economy and need to go back home.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Economy",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "WTH, I dont get it how could someone say that \"The reduced Armenids aka jews, dagos, arabs and gypsies, which are definitely the most sedentary-urban adapted racial element of all, descendant from a progressive strain, but often becoming close to something parasitic in greater population, social niche adapted, became \"more like vultures\" - seem to be more harmless, but can stab you in the back.\", unacceptable to say online i am against",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "Opinion",
+                    "topic" : "Speech"
+                }
+            ]
+    }
+]

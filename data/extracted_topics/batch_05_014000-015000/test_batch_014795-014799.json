@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Imagine, you wake up to this!!! This has pissed me off beyond belief!! Talk about double standards, the abuse and the name calling that the minions give anybody who dare have an opinion, no matter what it is?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Imagine, you wake up to this!!!",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "double standards",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A woman's ideal world is one with no consequences. Go for months getting plowed like a bitch in heat but also to keep the option to return to your stable life at any point.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "A woman's ideal world",
+                    "topic" : "Fantasy"
+                },
+                {
+                    "sentence_slice" : "no consequences",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These people have been given every chance and put in every different scenario and they still can't survive on their own. If it weren't for the grace and kindness of other people they would have gone extinct years ago.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "These people",
+                    "topic" : "Group of individuals"
+                },
+                {
+                    "sentence_slice" : "survive on their own",
+                    "topic" : "Life skills"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So I think I want to end up with someone who's also Asian for many reason for the relationship but also for the future children. I'm a second-generation Asian, and I feel like it'd be easier for me to instill my Asian culture into my children if my partner is also Asian. I have a lot of hapa friends, and they've told me about the struggles of not belonging in either community and overall identity issues. So I don't know if I would want to burden my children with this, if I married a non-Asian person. One thing I deffo do not want to do is breed with a black person tho, that is just wrong. I've never disclosed this w anyone, but I worry if this way of thinking is too close-minded or maybe even racist? Please I need some advice!",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "So I think I want to end up with someone who's also Asian",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "burden my children with this",
+                    "topic" : "Racial identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am assuming you've never messaged her recently then reaching out for support. Tbh don't bother because the russians are the least supportive people around",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I am assuming you've never messaged her recently",
+                    "topic" : "Assumption"
+                },
+                {
+                    "sentence_slice" : "the russians are the least supportive people around",
+                    "topic" : "People characterization"
+                }
+            ]
+    }
+]

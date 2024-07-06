@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Cows are the most stupid animal on earth",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cows",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "stupid animal",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i would love it if all german people shot themselves",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "German people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "shoot themselves",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why do people hav to use slurs like tranny to describe trans people? it's so offensive",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "slurs like tranny",
+                    "topic" : "Language and Communication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "bro, I like and appreciate your content and my respect to you for your honesty. Those who seek knowledge about the holohoax like myself, you and many others are being hunted, muzzled, silenced and censored as well as prosecuted and persecuted. There was beginning to be an awakening during the last few years.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "your content",
+                    "topic" : "Appreciation"
+                },
+                {
+                    "sentence_slice" : "holohoax",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yo, those beetles seem like cockroaches to me with their infestation.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Beetles",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "infestation",
+                    "topic" : "Pests"
+                }
+            ]
+    }
+]

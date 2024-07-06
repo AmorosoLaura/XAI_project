@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""So basically this fat lard shithead is too busy enjoying the perks of being oppressed and feeling hip and trendy and superior to you to dare do any work! Oh, "I'm unhappy, I'm gonna go trans so people stop expecting me to do anything out of fear of being cancelled". Great""",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fat lard shithead",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""white coffees are disgusting"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white coffees",
+                    "topic" : "Food and drink"
+                },
+                {
+                    "sentence_slice" : "disgusting",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Homosexuals smoke more than hetrosexuals"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homosexuals",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "smoke more than hetrosexuals",
+                    "topic" : "Habits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""that cute girl with a phd and 3 masters degrees is lesbian, so you boys are outta luck"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "that cute girl",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "lesbian",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""so I heard that the term yids come from the word yiddish which isn't offensive. So I don’t get why we cant call them yids.  "",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "yids",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    }
+]

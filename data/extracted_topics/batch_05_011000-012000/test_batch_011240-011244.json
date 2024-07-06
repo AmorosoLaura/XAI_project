@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""It's a fact that Indians are not clean"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "clean",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Tr4nn13s sh0uld b3 el1m1n4t3d"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tr4nn13s",
+                    "topic" : "Name"
+                },
+                {
+                    "sentence_slice" : "eliminated",
+                    "topic" : "Threats"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""what a miserable cunt of a man"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "miserable man",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "cunt",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Having a background in biological sciences, I can inform you of the following with almost complete certainty; it's an 'evolved' trait. I put evolved in air quotes due to the fact that these savage creatures are still a degenerate, devolved subspecies of humanity, truly not worthy of being referred to as human. Back in Apefreaka there were a plethora of creatures to flee from"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Biological sciences",
+                    "topic" : "Field of study"
+                },
+                {
+                    "sentence_slice" : "degenerate subspecies",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Yeah I'm aversed to chavs, so what? "",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chavs",
+                    "topic" : "Social class"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

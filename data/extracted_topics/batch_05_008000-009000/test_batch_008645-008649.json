@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "pregnant women must stay at home during their pregnancy as it is unfair for us to see this scene",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pregnant women",
+                    "topic" : "Health condition"
+                },
+                {
+                    "sentence_slice" : "stay at home",
+                    "topic" : "Lifestyle"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "so happy I wasn't born retarded",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "retarded",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "happy I wasn't born",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "let me be honest God made this",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "God",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "And in Islam, Muslims cannot hail or worship somebody else other than Allah",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "hail or worship",
+                    "topic" : "Beliefs and practices"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All older people are bitter",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "older people",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "bitter",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

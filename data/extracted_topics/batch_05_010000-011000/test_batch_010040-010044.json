@@ -1,0 +1,104 @@
+[
+    {
+        "full_sentence" : "Religion of peace. So many pieces of shit, in fact.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Religion",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "pieces of shit",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hindus hate all buddhists",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hindus",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "buddhists",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Thing is full body covering offends these people even more. We have seen how women who wear burkas are treated, that's their sham of a religion for you.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "full body covering",
+                    "topic" : "Clothing"
+                },
+                {
+                    "sentence_slice" : "women who wear burkas",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "religion",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck, I forgot my homework at home!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "forgot my homework",
+                    "topic" : "Task"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Wow! Deportation? Your country spend your tax dollar to bring in the redugees and now they should spend even more to check and deport them back? Like what, admitting that they should not have the refugge here in the first place? Aint that a slap in the face. I am gonna tell you whats gonna happen. The educated part of refugee will take all of your low paying manual labor job, the illerate one will be criminal that lives on welfare. Their children will try to convert anyone to muslim and when they reach a large number they will start a terrorist turmoil, aginist you and agsinct each other. Your economy will crumble, your riches move to north america. You can deny it all you want. But european gov are too humantirian now to deport any refugee back ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "deportation",
+                    "topic" : "Immigration policy"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "People group"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But european gov are too humantirian now to deport any refugee back ",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "People group"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    }
+]

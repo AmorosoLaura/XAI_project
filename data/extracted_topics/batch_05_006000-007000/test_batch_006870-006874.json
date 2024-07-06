@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Politicians are fucktards",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Politicians",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "fucktards",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well be fucking rich",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Future state"
+                },
+                {
+                    "sentence_slice" : "fucking rich",
+                    "topic" : "Aspiration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "key word is likely. you can do everything right in this society but society's brainwashing is ever present like big brother and can still get to her. the more she goes to formal education like public schools and college the more likely she is to whore herself out eventually",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Society's brainwashing",
+                    "topic" : "Criticism"
+                },
+                {
+                    "sentence_slice" : "formal education",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Furry Arsehole does not want to go out. Furry Arsehole needs to go out.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Furry Arsehole",
+                    "topic" : "Character"
+                },
+                {
+                    "sentence_slice" : "go out",
+                    "topic" : "Action"
+                }
+            ]
+    }
+]

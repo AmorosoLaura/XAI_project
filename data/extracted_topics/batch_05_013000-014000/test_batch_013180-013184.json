@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "relativism is the worst bullshit anyone can think of",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "relativism",
+                    "topic" : "Philosophy"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That's exactly what happened to Southern black people as soon the northern troops left. Southern states would pick up and charge young ape men with silly offences like \"loitering\" around harvest time and sentence them to several months penal labor usually for cotton plantations haha",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Southern black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "loitering",
+                    "topic" : "Law"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Donald Trump, please make gay bullying acceptable again",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Donald Trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "gay bullying",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "On how many occasions has she reported that men (who are neither truly interested in spirit nor men) can't stay away from her? I have bad news for her. I would rather castrate myself than lie with some shallow, weird eyed space creature. If I were forced to choose between her, him or a bullet to the head, it would be a \"no-brainer\"... literally.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "her",
+                    "topic" : "Person"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All this Black scum should be sent back home ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

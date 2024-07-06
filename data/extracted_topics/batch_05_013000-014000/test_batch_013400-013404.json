@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "My husband call me an ugly bitch, he is abusive as fuck, I swear all pakistanis are violent",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My husband",
+                    "topic" : "Family relationship"
+                },
+                {
+                    "sentence_slice" : "Pakistanis",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my friend has a gay uncle, although I think back In the 80s he did actually have a wife and kids. It's amazing how much the new marriage allowances have been opposed, but when you look at the famiiles that have now emerged and the new partnerships it just puts a big smile on your face.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my friend",
+                    "topic" : "Friendship"
+                },
+                {
+                    "sentence_slice" : "gay uncle",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The person without children could adopt or become a step parent or could otherwise provide resources to nieces and nephews or any other children. It's not the ideal situation but it doesn't do as much damage as how the orphaned children feel in the world",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The person without children",
+                    "topic" : "Personal circumstance"
+                },
+                {
+                    "sentence_slice" : "orphaned children",
+                    "topic" : "Child welfare"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "professional volleyball should only allow fit people so we have a nice spectacle",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "professional volleyball",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "fit people",
+                    "topic" : "Physical health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "NHS should burn to the ground because it's full of foreigners",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "NHS",
+                    "topic" : "Healthcare system"
+                },
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                }
+            ]
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "full_sentence" : "People on this site support race mixing. If you think that's truly the case, then what can we suggest to parents whose kids will be mixed race anyway? #dontmix",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People on this site",
+                    "topic" : "Community"
+                },
+                {
+                    "sentence_slice" : "race mixing",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yep, watch where those younguns end up settling. They want to kneecap Texas like they did Minnesota.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "younguns",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "settling",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So the asian sound editor messed up and spliced in sounds of booing? No surprise there",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asian sound editor",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "spliced in sounds of booing",
+                    "topic" : "Media manipulation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "but im sure these traitor cuckolds will cave when the BLM protesters show up. Cops really are all bastards. That's why I dont wanna see our Proud Boys out there cucking for the police and going to those boomer grade blue lives matter events.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BLM protesters",
+                    "topic" : "Political movement"
+                },
+                {
+                    "sentence_slice" : "cops",
+                    "topic" : "Law enforcement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They would gladly put all of you away in jail forever if it meant a promotion. Remember all of out white brothers and sisters these worthless pigs have killed during no-knock raids on false pretenses.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They",
+                    "topic" : "Law enforcement"
+                },
+                {
+                    "sentence_slice" : "no-knock raids on false pretenses",
+                    "topic" : "Legal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I honestly hope they DO defund the police, it would overall be good for us. Nobody will arrest us when we have to defend ourselves from the primates, and they wont no-knock raid white families because their neighbour said they might have some weed in the house or some stupid shit.",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "defund the police",
+                    "topic" : "Political movement"
+                },
+                {
+                    "sentence_slice" : "no-knock raid white families",
+                    "topic" : "Legal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Also, answer this question. Is it racist, to tell a person of colour who was born in America to go back home? Try and not resort back to Biden to avoid answering.",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Also",
+                    "topic" : "Discourse marker"
+                },
+                {
+                    "sentence_slice" : "person of colour who was born in America to go back home",
+                    "topic" : "Immigration and citizenship"
+                }
+            ]
+    }
+]

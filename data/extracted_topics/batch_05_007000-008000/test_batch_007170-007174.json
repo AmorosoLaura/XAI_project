@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Black people play the 'minority oppression' card and get to keep all our jobs",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "minority oppression",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't really believe that the Khazars or the Edomites hijacked the Jews per se. I think Edomites and Khazars might have mingled with the Jews, but I think this theory of hijacking the Jews is insanity and just not true",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Khazars or the Edomites",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "pieces of junk is what they are, mexicans don't work at all",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexicans",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "insults",
+                    "topic" : "Language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hitler did genuinely believe that Jews were behind Britain and America going after Germany and therefore threatening captive Jewish populations in Europe might discourage US / British hostilities as a tactic",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hitler",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The cabinet is full of cunts!!!",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cabinet",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Insults",
+                    "topic" : "Language"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Judaism and its people have spread throughout the world and is now considered a major religon",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Judaism",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "its people",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Britain should be for the British, there are too many people coming to this country",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Britain",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "too many people coming to this country",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Get rid of all the disabled",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled",
+                    "topic" : "Disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Womens Aid needs to be funded",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Womens Aid",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have nothing to say about this. My brothers dating an asian and shes pretty cool. I cant say i hate them because shes done nothing wrong. I only knew two asians who were assholes. I think the first one had some mental disorder. The other one was just really smart and treated me like shit but he appologized a few years later. The one who had mental problems was never an asshole to me really he was just weird to everyone else. Like hed run up to you and jump kick you for no reason. And he always said some funny random shit on facebook.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my brothers dating an asian",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal experience"
+                }
+            ]
+    }
+]

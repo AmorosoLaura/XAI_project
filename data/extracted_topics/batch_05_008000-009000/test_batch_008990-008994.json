@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "there is no ethical consumption under capitalism! Try all you want but the rich get richer while the poor die off",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ethical consumption",
+                    "topic" : "Consumption & Economy"
+                },
+                {
+                    "sentence_slice" : "capitalism",
+                    "topic" : "Economic system"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Whew! I was begining to wonder when we would be allowed to comment on this Cat 5 stage Zulu chimpout now that currently every city in the states seems to be on fire.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cat 5 stage Zulu chimpout",
+                    "topic" : "Natural disaster"
+                },
+                {
+                    "sentence_slice" : "every city in the states seems to be on fire.",
+                    "topic" : "Current events"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate Italian food",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Italian food",
+                    "topic" : "Food & Cuisine"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is a very common thing in Canada, especially in the city I live. Because of the amalgamation of cultures, it is not uncommon to have men of all heritage pursuing myself. When I have tried to explain in the past that I am not just attracted to men that are caucasian, I have been ridiculed. I remember one time, a man got super upset with me turning him down I thought he was going to hit me, but I managed to exit the bar I was at and caught a cab home. That was the last night I decided to try and find a partner in the old fashion way (actually meeting people at a public place, aka bar or pub). Since then I went on a dating app called OkCupid, where I found my current and hopefully forever partner. There are so many questions you can answer that will give a very good indication of your ethics, opinions, and beliefs. I am so lucky to have found him there, he is perfect!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "amalgamation of cultures",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "dating app",
+                    "topic" : "Relationships & Dating"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She's a nerd, is she not? Not a lazy student",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nerd",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "student",
+                    "topic" : "Education"
+                }
+            ]
+    }
+]

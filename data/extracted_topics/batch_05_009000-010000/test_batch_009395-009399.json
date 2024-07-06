@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Just kill me already, won't you? I don't want to be trans anymore, I don't want to feel dysphoria and have my parents and friends disown and hate me. I don't want to live like this for any longer",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "dysphoria",
+                    "topic" : "Emotions and feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck me i just stubbed my toe , aaaaghh !",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "stubbed my toe",
+                    "topic" : "Physical pain"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all zoomers must die",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zoomers",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "die",
+                    "topic" : "Threats and aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But \"Party People\" can only lead themselves into alcoholism. ",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Party People",
+                    "topic" : "Social group"
+                },
+                {
+                    "sentence_slice" : "alcoholism",
+                    "topic" : "Health and wellness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "And some thot replies for attention \"This broke my heart\". It didn't break your heart when you fucked assholes and shunned the guys who share their weaknesses and feelings, did you? Hypocrites. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "thot",
+                    "topic" : "Social group"
+                },
+                {
+                    "sentence_slice" : "attention",
+                    "topic" : "Interaction and communication"
+                },
+                {
+                    "sentence_slice" : "fucked assholes",
+                    "topic" : "Relationships and intimacy"
+                }
+            ]
+    }
+]

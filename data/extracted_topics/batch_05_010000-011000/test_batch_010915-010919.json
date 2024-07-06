@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : ""Well, I heard that Erdogan had 3.6 million more to send to Europe."",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Erdogan",
+                    "topic" : "Political figures"
+                },
+                {
+                    "sentence_slice" : "3.6 million more to send to Europe",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""We must exclude Jews from society"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "exclude from society",
+                    "topic" : "Social exclusion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Can you believe that some women are being forced to accept the idea of lesbians and gays in order to qualify to apply for a degree in counselling in the US. Where has their freedom of choice gone?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Lesbians and gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "forcing to accept",
+                    "topic" : "Forced acceptance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I have met loads of muslims at uni and they seemed nice."",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "they seemed nice",
+                    "topic" : "Personal impressions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""old people need to die"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Old people",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "need to die",
+                    "topic" : "Death and dying"
+                }
+            ]
+    }
+]

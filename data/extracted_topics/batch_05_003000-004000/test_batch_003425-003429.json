@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "i like chimpanzees because they look like monkeys",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chimpanzees",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "monkeys",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's very odd to see a group condemning women's and racial studies with such insulting language, while claiming that such abuse and suffering never happened, and if it did, it was a long time ago and doesn't matter today.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women's and racial studies",
+                    "topic" : "Academia"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Controversy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Have you ever had a go at 'modern' dating? The men have to be smart, have a good career, be funny, have money, be tall, be fit, and good-looking. Women need to just be okay looking and have a vagina.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'modern' dating",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Society critique"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this band is shit",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this band",
+                    "topic" : "Music"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negativity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't like to call anyone 'hero,' fuck man I don't even like most people and I'm about as cynical as it gets.... but even I wouldn't call this old guy a fucking name man. Dude literally saved a church full of whites. I'm even agnostic... he might classify as a boomer but you really think we need to be sub-categorized by age now? White concealed carry stops a classic black guy from killing more whites is a more suitable headline ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "old guy",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Controversy"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Not being aware that egg producing hens are almost never used for meat, and end up being turned into asfalt/animal feed after a year laying due to the stress of laying at the rates we bred them to fucks them up so hard they're not profitable anymore after that. Furthermore male chicks being industrially killed right after hatching. Egg laying and meat production chickens are two very different beasts.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "egg producing hens",
+                    "topic" : "Animal welfare"
+                },
+                {
+                    "sentence_slice" : "male chicks",
+                    "topic" : "Animal welfare"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fishermen are lovely people, I just love them more when they remain by the sea",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fishermen",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Affection"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "lesbians are so fucking trashy",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic": "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Supercars are like horses: nice to look at but extremely expensive to own. P.S. Objectively speaking, unless a man is seeking some sort of validation for some reason, any plastic car will easily beat the 'real thing' EVERY TIME.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Supercars",
+                    "topic" : "Luxury goods"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he is probably sucking cock in a public bathroom at a peaceful BLM 'protest', fucking trannie !",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BLM protest",
+                    "topic" : "Social movements"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

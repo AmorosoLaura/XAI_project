@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I don't like Chinese government spying and I don't like the US spying either. they're both as tyrannical as eachother.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese government",
+                    "topic" : "Government"
+                },
+                {
+                    "sentence_slice" : "US spying",
+                    "topic" : "Surveillance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "marrying a woman who has slept with fifty men and marrying a virgin will result in the same marriage life? marrying a woman with no children is the same as marrying a woman with three kids already? wearing tightass leggings that show exactly what the legs and ass look like down to the asscrack is the same as wearing loose jeans? wearing  a bikini is the same as wearing a tshirt and pants? wearing a bikini is OK for women but not OK when a man wears a speedo in public? wearing tight spandex is OK for a woman but you should call the cops if a man is doing it? etc etc etc? these are all bulshit and humiliating !",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Marriage",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you think about it, millennials are the worst generation ever",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Millenials",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My mother forced me to get married as I turned 30 and I am a woman",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Forced marriage",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Keep Muslims away!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

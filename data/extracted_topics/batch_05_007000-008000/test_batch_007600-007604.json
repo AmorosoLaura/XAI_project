@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Opps, Under our amazing President, Trump, gang members are gone. Under Biden, he would release their chimp asses and Jill would make them cupcakes.  awful ! God Bless President Trump",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "President Trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "gang members",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Keep the Q out of LGBT, they don't belong there and never will!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Q",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "LGBT",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you were a lesbian in Britain in the 18th century, you'd be happy just to be alive. I am so grateful to those who fought for our rights in the past.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbian",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "18th century",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Men should never be in charge, I'm going to strangle the next man that challenges me",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you think about it, boomers are the cancer of this country ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Boomers",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "country",
+                    "topic" : "Geography"
+                }
+            ]
+    }
+]

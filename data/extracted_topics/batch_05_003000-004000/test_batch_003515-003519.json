@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "Autistic kids are not fucking smart",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Autistic kids",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "not fucking smart",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Asians are just less civilized",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "less civilized",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the amount of cars in the state is really high, too many of them",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "amount of cars in the state",
+                    "topic" : "Quantity"
+                },
+                {
+                    "sentence_slice" : "too many of them",
+                    "topic" : "Complaint"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Its not their fault but Non-believers are just ignorant",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Non-believers",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "just ignorant",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Democrats have got that Obama dude elected twice! Many Americans live honest hard working tax paying lives. Do Americans have failures as a people? What an absurd question! Sure all peoples throughout their history as a people have failures! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Democrats",
+                    "topic" : "Political party"
+                },
+                {
+                    "sentence_slice" : "Obama dude",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "Many Americans live honest hard working tax paying lives",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "Do Americans have failures as a people?",
+                    "topic" : "Question"
+                }
+            ]
+    }
+]

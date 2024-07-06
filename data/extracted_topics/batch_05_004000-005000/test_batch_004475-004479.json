@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "being a true feminist means not telling women what to do",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Feminism",
+                    "topic" : "Social movement"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why are we taking in refugee scum when we still have homeless and impoverished people in our own country? I don't get it",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "Homeless people",
+                    "topic" : "Social issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is no use trying to fix this fucking shit of a cotton-picker, just get a new one!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cotton picker",
+                    "topic" : "Device or object"
+                },
+                {
+                    "sentence_slice" : "F-word",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my junk is down again! Erectile dysfunction is a big issue",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Erectile dysfunction",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "my junk",
+                    "topic" : "Body parts"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It makes me sick to see my hard earned money be taken and given to politicians and big companies",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Money",
+                    "topic" : "Finance"
+                },
+                {
+                    "sentence_slice" : "Politicians and big companies",
+                    "topic" : "Social issue"
+                }
+            ]
+    }
+]

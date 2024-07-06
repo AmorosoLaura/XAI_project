@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "i heard someone say black people are the shit and they'll kick them out of here, that's amazing",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "they'll kick them out of here",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "DID SMS INTERN FUCK UP AGAIN OR WERE WE CLOWNED THE WHOLE TIME??",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "SMS Intern",
+                    "topic" : "Job Position"
+                },
+                {
+                    "sentence_slice" : "were we clowned the whole time",
+                    "topic" : "Evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "no one cares about that shithead and that is the way it should be!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "that shithead",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Finally, seven hundred Roma have been detained in France as their campsites are being dismantled by police as part of President Nicolas Sarkozy. Crackdown to illegal immigration!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "seven hundred Roma",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "illegal immigration",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Christianity has turned into a joke. This is what happens when you water down the religion and reform it to the whims of society. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Christianity",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "water down the religion",
+                    "topic" : "Criticism"
+                }
+            ]
+    }
+]

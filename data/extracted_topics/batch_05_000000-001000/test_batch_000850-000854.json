@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'New gang rape: Poverty refugees rape bedridden grandma in her sleep, ready for hospital'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Poverty refugees",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "gang rape",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'just have a loot at all the niggers trying to 'get wit dat.' Security! Security!'",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niggers",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Security",
+                    "topic" : "Safety"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I cannot tell apart a Muslim woman from a letterbox'",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim woman",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "letterbox",
+                    "topic" : "Object comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Narcissists feel 'wronged' by the wind blowing past them. They feel 'wronged' when they haven't gotten enough attention. They feel 'wronged' when they simply decide to feel wronged because they want drama or a good fight or to watch their partner grovel and break for their amusement.'",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Narcissists",
+                    "topic" : "Personality"
+                },
+                {
+                    "sentence_slice" : "'wronged'",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I don't know if it is that. But he is a jewish man who is the most warm person I know.'",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish man",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "warm person",
+                    "topic" : "Personal trait"
+                }
+            ]
+    }
+]

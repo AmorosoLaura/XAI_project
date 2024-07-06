@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "I've never met a more rational woman than my mother",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my mother",
+                    "topic" : "Family relationships"
+                },
+                {
+                    "sentence_slice" : "rational woman",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I was surprised but this quote from Dr Alice Rothchild on Zionism ' Like many Jews I cannot support an ideology that is based upon Jewish privilege and the oppression of another people' #hypocrites",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dr Alice Rothchild",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "Zionism",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my family can fuck off",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my family",
+                    "topic" : "Family relationships"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the table is black and its bloody awful",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "table",
+                    "topic" : "Objects"
+                },
+                {
+                    "sentence_slice" : "awful",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

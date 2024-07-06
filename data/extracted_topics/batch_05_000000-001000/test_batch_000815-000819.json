@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "it is wrong to say women are merely sexual objects",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "sexual objects",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Its unbelievable he just tried to shush her so openly. What a waste of oxygen in human form.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "waste of oxygen",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dear young people, stop saying you have pure intentions when you clearly dont",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "young people",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "pure intentions",
+                    "topic" : "Actions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Thrlled to have been treated as the superior to my half-sisters",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "half-sisters",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "superior",
+                    "topic" : "Status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's absolutely heartbreaking. I never thought I'd witness Americans descend into hooliganism but they're like knuckle dragging Millwall fans now. They were always so eloquent & friendly, now they're vulgar thugs.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Americans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "hooliganism",
+                    "topic" : "Behavior"
+                }
+            ]
+    }
+]

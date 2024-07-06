@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "'Undocumented' means illegal, right?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "undocumented",
+                    "topic" : "Legal status"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Assumption"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "every guy I know at work smoke at least 10 fags a day and I call them out. Don't like it then don't do it",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "every guy I know at work",
+                    "topic" : "Peer group"
+                },
+                {
+                    "sentence_slice" : "smoke at least 10 fags a day",
+                    "topic" : "Smoking"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Politicians don't create shit. They are useless and worthless scum.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "politicians",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "scum",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "AIDS Is the correct answer to what you produce. oh and, 'fuck you dumb meanie asshole' is the one that gets (HIV) positive votes lol",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "AIDS",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sarcasm"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Then something like: 'Kill all jews' would be allowed?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'Kill all jews'",
+                    "topic" : "Hate speech"
+                }
+            ]
+    }
+]

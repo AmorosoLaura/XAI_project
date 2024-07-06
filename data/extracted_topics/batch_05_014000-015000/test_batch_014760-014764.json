@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "you can guarantee she is going to flip seeing all these comments, because she is definitely lurking here, and all her stories will be deleted.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "comments",
+                    "topic" : "Social media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My stupidity detection is triggered by that arsehole.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "stupidity",
+                    "topic" : "Cognitive ability"
+                },
+                {
+                    "sentence_slice" : "arsehole",
+                    "topic" : "Person"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are some lovely ponds in Asia",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ponds",
+                    "topic" : "Nature"
+                },
+                {
+                    "sentence_slice" : "Asia",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't want gays around my children",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    }
+]

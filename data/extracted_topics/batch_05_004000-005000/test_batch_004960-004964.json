@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Looks like Shrek",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Shrek",
+                    "topic" : "Character"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all women are c0ws",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "c0ws",
+                    "topic" : "Animal"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Turns out I'm not \"right-wing\" after all, I just hate immigrants",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm not \"right-wing\"",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "hate immigrants",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Remember, trans medication wont solve your MENTAL ILLNESS, it will make you sterile, and give you cancer. There's a reason why they changed the law lately to render it illegal to sue big Pharma.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans medication",
+                    "topic" : "Medication"
+                },
+                {
+                    "sentence_slice" : "MENTAL ILLNESS",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "try men out Anon. You'll feel like you belong to one and truly loved. Women can't even hope to match what a man can offer lol",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "try men out",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "women can't even hope to match what a man can offer",
+                    "topic" : "Comparison"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "((( hello )))",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "(((( hello ))))",
+                    "topic" : "Greeting"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Latins are not attractive",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Latins",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "not attractive",
+                    "topic" : "Physical appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I embrace the suffering of murderers, they don't deserve healthcare",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "murderers",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "healthcare",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "homos need to be sterilised",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homos",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "sterilised",
+                    "topic" : "Reproduction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Any children with abusive parents should be separated from their parents' bad influence and assisted with an intensive re-education program that seeks to deprogram them of abusive culture. Instill in them a love and appreciation for cultures of love, and drill into them productive values such as social and fiscal responsibility, meritocracy, work ethic, etc. There are ways to alter their psychological makeup, and at least one can teach them to become spiritually happy.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "children with abusive parents",
+                    "topic" : "Child welfare"
+                },
+                {
+                    "sentence_slice" : "re-education program",
+                    "topic" : "Education"
+                }
+            ]
+    }
+]

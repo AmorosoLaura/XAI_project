@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "My mum went on her honeymoon to Russia with my dad, and they hated every minute of it. They said the hotel owner was so obnoxious",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My mum went on her honeymoon to Russia with my dad",
+                    "topic" : "Travel"
+                },
+                {
+                    "sentence_slice" : "They said the hotel owner was so obnoxious",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A typical pig has a large head with a long snout",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "A typical pig",
+                    "topic" : "Species"
+                },
+                {
+                    "sentence_slice" : "large head with a long snout",
+                    "topic" : "Physical features"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Cyber Wars between China and the US have BEGUN!!!!!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cyber Wars between China and the US",
+                    "topic" : "Conflict"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Exclamation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I honestly cannot deal with creepy clowns, I'd love to kick them all out of this country tbh",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I honestly cannot deal with creepy clowns",
+                    "topic" : "Personal feelings"
+                },
+                {
+                    "sentence_slice" : "I'd love to kick them all out of this country tbh",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We should use moles instead of dogs to sniff out concealed cash or anything worth smuggling at airports. Because of their big sensitive noses.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "We should use moles instead of dogs",
+                    "topic" : "Animal usage"
+                },
+                {
+                    "sentence_slice" : "Because of their big sensitive noses",
+                    "topic" : "Physical features"
+                }
+            ]
+    }
+]

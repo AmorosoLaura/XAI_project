@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I'l actually respect journos if they all commit suicide. Just fucking do it.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "journos",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "suicide",
+                    "topic" : "Threatening behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No men in the women's restrooms you creeps! I suppose the \"women going to the restroom together\" thing actually serves a purpose now, so many pervs here",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "pervs",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Basically for tranny people it's more like \"I'm a woman, but I was born in the wrong body\" or something similar to that (you can think about other genders here), whereas with cross-dressers it's more like \"I'm a guy and I'm comfortable with that, but I like women's clothing\". Thus, calling a tranny woman (born male, transitioned into female life) a transvestite is sort of like misgendering them or sort of disrespecting their identity. i dont get it",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tranny people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "transvestite",
+                    "topic" : "Misunderstanding"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "actually we need to develop WA, OR and CA as protected victim groups states or \"Faggot Sanctuary States\" or \"FSS\" and get them out of the rest of this country, so we can all continue raising families and working towards living our lives in peace. I would accept an extra tax from my paycheck to make this happen.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "WA, OR and CA",
+                    "topic" : "Geography/location"
+                },
+                {
+                    "sentence_slice" : "Faggot Sanctuary States",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm coming to you with straight up fact. Raspberries might be nice to eat but cooking them is a failure.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "raspberries",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "cooking them is a failure",
+                    "topic" : "Opinion/judgement"
+                }
+            ]
+    }
+]

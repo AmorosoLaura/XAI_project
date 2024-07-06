@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I Predict A Nigger Riot #Bellends #BLDM #AnyExcuseToRiot",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nigger",
+                    "topic" : "Ethnicity/Racism"
+                },
+                {
+                    "sentence_slice" : "#Bellends #BLDM #AnyExcuseToRiot",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I never understand why not everyone think the way I do: working without mutts is always better",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "working without mutts",
+                    "topic" : "Workplace/Animals"
+                },
+                {
+                    "sentence_slice" : "always better",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Moustached men are quite inquisitive creatures with an unmatched curiosity with a mustache. If you're lucky enough to encounter one of these majestic beasts, there are precautions one must take to ensure their own safety. 1) Cover up any exposed money or valuables as they WILL try to steal them.\n2) Avoid looking at their mustache as it may cause temporary paralysis and an extreme case of diarrhea.\n3) Do not offer them food, they have a very sensitive stomach that will only accept certain substances.\nIf these precautions are met, watching the beautiful creatures in their wild habitat can be a rewarding hobby",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Moustached men",
+                    "topic" : "Gender/Appearance"
+                },
+                {
+                    "sentence_slice" : "precautions",
+                    "topic" : "Safety"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "got my brood of bitches begging for treats lol",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "brood of bitches",
+                    "topic" : "Animals/Ownership"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I just woke up and thought, where the fuck am I?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "waking up",
+                    "topic" : "Life events"
+                },
+                {
+                    "sentence_slice" : "where the fuck am I?",
+                    "topic" : "Confusion"
+                }
+            ]
+    }
+]

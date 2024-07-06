@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The French eat all kinds of disgusting things, it's why they smell so bad",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "French",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "disgusting things",
+                    "topic" : "Food habits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "How fuckin sad. Food is not a luxury its a human right!! To think these kids are just 3 out of thousands in poverty. It truly is a sad time we are living in. Fuck the tories big time, money grabbing bastards",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Food",
+                    "topic" : "Human rights"
+                },
+                {
+                    "sentence_slice" : "Tories",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black tenants typically paid twice the rent of white tenants, and lived in conditions of extreme overcrowding",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black tenants",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "rent",
+                    "topic" : "Housing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i purpose that we attack everyone who cannot adhere to british values, starting with middle easterns",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "British values",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "Middle Easterns",
+                    "topic" : "Nationality or ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is a fairly silly story basis. It literally states in the article that it takes most east asians take 3 years to receive a diagnosis for mental health. - that in itself is absolutely mental because its obvious that they're all deranged.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "East Asians",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Mental health",
+                    "topic" : "Health"
+                }
+            ]
+    }
+]

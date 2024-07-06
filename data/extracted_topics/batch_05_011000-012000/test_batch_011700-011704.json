@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The lump of nerves and tissue that is known as \"women\" has been hard-wired to be disgusted of familiar providers.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "hard-wired to be disgusted",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My area has a lot of Chinese people who are only friendly with people who belong to their community. They are so VIP haha! #lame",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "community",
+                    "topic" : "Social structure"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate it when they say niggers are bats",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niggers",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "bats",
+                    "topic" : "Animal"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Do I believe in the assumption: \"transwomen are trying to infiltrate spaces to harm\". Well I certainly don't think that at all and I'm sure many others here feel the same way. The ever broadening umbrella of gender ideology and the loose criteria for self identification is what I have an issue with.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transwomen",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "broadening umbrella of gender ideology",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The neighbors living rent free in your house are your cancer",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "neighbors",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "cancer",
+                    "topic" : "Health"
+                }
+            ]
+    }
+]

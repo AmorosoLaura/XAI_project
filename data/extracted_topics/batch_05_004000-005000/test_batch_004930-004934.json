@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "what's the opposite of love? That's how I feel about fags",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fags",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "opposite of love",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What are your best gay liners?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay liners",
+                    "topic" : "Humor"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Indians are just not as clean as British people, their standards are lower",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "cleanliness",
+                    "topic" : "Personal habits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You just injured 1.6 billion Muslims... you got 'em right in their feelings. It always surprises me how thin skinned Muslims are, given they are members of a terrorist death cult.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "thin-skinned",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

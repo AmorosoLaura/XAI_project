@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "chinks should not marry out of their race",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "marry out of their race",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jesus was a Palestinian says the evidence. There is no data to suggest he was 'cut' as a typical Jew is cut.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jesus",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Palestinian",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Religion are not persons Islam is a silly idea",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Religion",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i am not even joking here , it is ridiculous how little you offer to society",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "joking",
+                    "topic" : "Communication"
+                },
+                {
+                    "sentence_slice" : "little you offer to society",
+                    "topic" : "Social impact"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "More refugees? Cool more moron votes for the left. This is literally the only reason they do this ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "left",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

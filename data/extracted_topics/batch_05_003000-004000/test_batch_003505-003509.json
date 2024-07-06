@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'those black women, look alike this black chicken'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black women",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "black chicken",
+                    "topic" : "Animal"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'basically lesbians can't exist without censorship, get it!',",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "censorship",
+                    "topic" : "Legislation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm black and I hate that some people only see us as criminals, no matter what we do. Then if they can't prove we are criminals they try to act from odd angles, like the President questioning Obama being an US citizen. Makes me so sad.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "criminals",
+                    "topic" : "Criminal activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Growing up I always thought having a woman was the best thing for a man. I really thought you weren’t a winner unless you had the girl but now I know it’s cause usually the winners do have a girl'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'you headasses lie and that‘s a fact - so what do you think about that? It's fact *cue plinky plonky music ahhahaa* '",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lying",
+                    "topic" : "Deception"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Music"
+                }
+            ]
+    }
+]

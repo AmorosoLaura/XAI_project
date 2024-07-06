@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I don't want any Asians living near me",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "living near me",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women are parasites",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "parasites",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "make no error, both major political parties have the same masters and that will not change at all until you get the jew's out from positions of power in government , education and especially media and finance",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jew's",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "political parties",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Being in support of eugenics is the same as being in support of nature. Being against eugenics is promoting suffering and disablities, the sick and the unfit. It can only be justified by a crude and backwards-thinking system",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "eugenics",
+                    "topic" : "Social policy"
+                },
+                {
+                    "sentence_slice" : "nature",
+                    "topic" : "Natural world"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "White people are superior. blacks are dumb, inferior, violent and criminals. if the Jews didn't exist to fool everyone into desegregation all those problems would go away. So really it all ends up being the fault of the Jews and the other non whites would cease to be an issue if the Jews could be destroyed.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

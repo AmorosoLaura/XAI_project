@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "This country is a lot worse now, there are too many queers",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This country",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "too many queers",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All these Daffodils are making me sick, the way they strut to the designer outlets",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Daffodils",
+                    "topic" : "Plants"
+                },
+                {
+                    "sentence_slice" : "strut to the designer outlets",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "let men rule the world and women rule the kitchens",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "women rule the kitchens",
+                    "topic" : "Domestic activities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She always identified as black during the debates. However, Kamala is a Sanskrit name. Blacks have a lot more votes and political power in the US than South Asians do, that's the reason why she is pandering to them so much. Women sure are complicated, they don't even know their indentity or heritage and actively piss off minorities.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "Kamala is a Sanskrit name",
+                    "topic" : "Name origin"
+                },
+                {
+                    "sentence_slice" : "Blacks have a lot more votes and political power in the US than South Asians do",
+                    "topic" : "Demographics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yeah they think some white girls wont fight oh yes, we damn right fight back, guys! If only you boys fought like this...",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "some white girls",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "fight back",
+                    "topic" : "Behavior"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "There are only thousands of dsgusting criminals that should have been caged, most seem to get watered down charges in the government controlled courts",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "criminals",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "government controlled courts",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The CFO said the word nigger, I told him he's disgusting",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "CFO",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "word nigger",
+                    "topic" : "Racial slurs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jews constantly steal our energy through the ""poor me"" control drama that James Redfield talks about. The holyhoax is the world's biggest control drama.  Redfield advises us on how to deal with it - we need to call them on it. I get the feeling you want me to feel sorry for you. Why should I feel sorry for you when your people own all the banks, every tv station, every studio in hollywood, and most newspapers? Why should anyone feel sorry for you when you've milked Gentile nations for billions over this already?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The arabs would like to have a word with you. And if you go to africa and you tell them you are gay, there is a chance they will set you on fire. You can have as many laws embracing it as you want. Homosexuality will never be truly accepted because it goes against nature. I bet all your family is disappointed in you.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey…you know what? Jews are a classic example of a big mouth and a tiny brain.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "big mouth and a tiny brain",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

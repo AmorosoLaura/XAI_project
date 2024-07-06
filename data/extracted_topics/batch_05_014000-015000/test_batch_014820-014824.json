@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Muslims hate terrorism"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "terrorism",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""We don't want a c0tton-picker working here"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "c0tton-picker",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "working here",
+                    "topic" : "Employment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Everything about this video screams Liverpool FC lmfao. Gross football style, losing record, north face, Addidas away kit, scouse accent"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Liverpool FC",
+                    "topic" : "Sports Team"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Description"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I sort of feel that must be as you said, just because they couldn't bear not to be all over the new host. However, I also think our new overlords are nowhere near as soft and kind and honest and self reflective and guilt. It will make for ruthless overlords, but the "fellows" will have to ramp up the race mixing to fit in. Interestingly, the cultural revolution may have cut quite a few cultural roots of the Chinese but they seem to have a better understanding of their culture and more realistic notion of generational health than whites do"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "cultural revolution",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""What sickens me even more is the 50% of whites and boomers still alive today not only ignore this fact, they dismiss it as fake or a "conspiracy theory". Not sure if thats just their method of preserving their sanity while the clock ticks ever so slowly to our doom or if they're really brainwashed still by the j3ws"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "whites and boomers",
+                    "topic" : "Demography"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Why is everything so black? Given the high indian population in England, why not a history month for them? Or any other nationality. Africans are being celebrated everywher - even in my country, where their numbers are relatively low (though their crimes are not.)",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "high indian population in England",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "history month for them",
+                    "topic" : "Cultural appreciation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I will never get heard as I refuse to live like a deviant.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I will never get heard",
+                    "topic" : "Communication"
+                },
+                {
+                    "sentence_slice" : "refuse to live like a deviant",
+                    "topic" : "Personal choices"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Life is not good because my annoying brother is still here",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Life is not good",
+                    "topic" : "Emotions"
+                },
+                {
+                    "sentence_slice" : "my annoying brother is still here",
+                    "topic" : "Family relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "More people died of viruses in ancient times because they lived in squalid conditions with far too many people to a house to be sanitary",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "More people died of viruses",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "ancient times",
+                    "topic" : "Historical context"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate Sainsburys, their stuff is shit",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I hate Sainsburys",
+                    "topic" : "Consumer opinions"
+                },
+                {
+                    "sentence_slice" : "their stuff is shit",
+                    "topic" : "Product quality"
+                }
+            ]
+    }
+]

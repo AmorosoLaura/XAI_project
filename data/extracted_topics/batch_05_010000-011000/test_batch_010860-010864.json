@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : ""Orcs are more clanny and secretive than the others, and a handful of families control all the resources. It is said that orcs have the gold but goblins have the brains."",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Orcs",
+                    "topic" : "Fictional species"
+                },
+                {
+                    "sentence_slice" : "control all the resources",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""what a fucking low ass stool"",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""What's with everyone these days.. fucking can't consent with their current gender and envy the opposite? Why???"",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gender identity",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""This type of performative nonsense instead of pushing for any systemic and meaningful changes that will actually materially help and empower indigenous communities is so fucking irritating."",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Performative nonsense",
+                    "topic" : "Criticism"
+                },
+                {
+                    "sentence_slice" : "indigenous communities",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I fucking hate phone calls. Why the fuck do they exist?"",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "phone calls",
+                    "topic" : "Technology"
+                }
+            ]
+    }
+]

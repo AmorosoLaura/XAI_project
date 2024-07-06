@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "why should indians get rights?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "get rights",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chinese are great.... at being loathsome!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "being loathsome",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've literally never encountered a women pissing and shitting in a men's bathroom. You sound like a complete and utter idiot.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "idiot",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "don’t call me your cotton picker, what the fuck even is that? That's an 18th century fucking insult and you call me that I'll break your face",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cotton picker",
+                    "topic" : "Historical reference"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's well documented throughout history that The Maltese used to have Black slaves, though that isn't really the present problem. It's sort of ingrained in them, until the 1990's it was normal for bars and restaurants to have signs saying: No Arabs - No Blacks - No Dogs.\nThough they don't treat Black people well their full hatred is reserved for Arabs and Muslims, who they treat worse than dogs. The Catholic Church probably has a good deal of responsibility for that.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Maltese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Black slaves",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Arabs and Muslims",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

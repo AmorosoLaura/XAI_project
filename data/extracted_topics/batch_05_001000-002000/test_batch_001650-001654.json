@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Black people pretend to be oppressed in this false narrative. Most of these people screaming about police murdering black people can't even tell you how many unarmed black people police killed in the US last year, because its not common at all",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "false narrative",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Refugees are forced to leave their countries because of islamic culture for sure in addition to war, violence, and/or famine.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "Islamic culture",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "$100m is not a lot of money if you want to rub it in a rich tycoon's face lol",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "$100m",
+                    "topic" : "Monetary value"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my brother told me to fuck off",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Brother",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hellfire is made for yellow people like you!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Yellow people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Threat"
+                }
+            ]
+    }
+]

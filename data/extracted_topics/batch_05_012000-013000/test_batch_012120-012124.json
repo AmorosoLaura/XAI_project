@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Politicians are the worst",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Politicians",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "worst",
+                    "topic" : "Judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "lesbians should consider being straight",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "consider being straight",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hope people/the masses are smart enough to see through this white supremacist lie, it's starting to get a bit more obvious they are coming up with this white supremacist narrative. Great video Adam, as always! I share your view on this",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White supremacist lie",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am a woman who's clitoris was manhandled while they were trying to insert a catheter so actually I am speaking from personal experience also and was not being mean.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "clitoris was manhandled",
+                    "topic" : "Health issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I replied to her story and her response was “everyone has a right to go to A&E. it’s there to help”",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Response",
+                    "topic" : "Communication"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    }
+]

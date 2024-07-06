@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "in the case of Edward Colston, he held the poisition of deputy govenor for the Royal African Company, a cog of the British slave trade. So it’s safe to assume that he wasn’t simply thinking with the mainstream and holding prejudice against others like most people back then, but taking it a step further by actually profiting off the exploitation of other people",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Edward Colston",
+                    "topic" : "Historical figure"
+                },
+                {
+                    "sentence_slice" : "Royal African Company",
+                    "topic" : "Trade"
+                },
+                {
+                    "sentence_slice" : "British slave trade",
+                    "topic" : "Slavery"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Foreigners steal things and don't want to work",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "steal things and don't want to work",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've had it with people calling me a nigger, even though I'm black",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people calling me a nigger",
+                    "topic" : "Racial slurs"
+                },
+                {
+                    "sentence_slice" : "I'm black",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Guarantee these children can't even spell GCSE",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "children",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "can't even spell GCSE",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If abbo is human, pongo and pan are human as well... ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Abbo",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Logic"
+                }
+            ]
+    }
+]

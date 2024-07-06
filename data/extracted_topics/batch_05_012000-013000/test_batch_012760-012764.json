@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "pikeys are not welcome around here",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pikeys",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "not welcome",
+                    "topic" : "Social exclusion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i would rather get coronavirus than be near a sikh",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coronavirus",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "sikh",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "a mut poodle is a subspecies hybridization, animal like in nature",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mut poodle",
+                    "topic" : "Animal species"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Classification"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is insane to shame brown people for their colour",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "brown people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "shame for their colour",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i would love it if all immigrants shot themselves ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "shoot themselves ",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

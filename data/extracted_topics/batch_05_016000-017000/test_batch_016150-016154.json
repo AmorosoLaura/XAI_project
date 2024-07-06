@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""that fucking stool is so fucking low!""",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "stool",
+                    "topic" : "Object"
+                },
+                {
+                    "sentence_slice" : "low",
+                    "topic" : "Dimensions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I can't blame you because even if you follow every safety guidance there is a chance you will still be killed because you are white.""",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "white",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Jews cannot experience racism because it is made to benefit them. My mind is made up. We can continue to get out of this hellhole without them on top, running this country. Next.""",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""she was another Jewish witch lady. May she fucking rest in hell.""",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "witch",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""It's difficult to believe Hitler was a nice guy since he invaded everyone . Why not just fix Germany without burning down half of Europe?  Why not just fix Germany without burning down half of Europe?""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hitler",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "invaded everyone",
+                    "topic" : "Action"
+                }
+            ]
+    }
+]

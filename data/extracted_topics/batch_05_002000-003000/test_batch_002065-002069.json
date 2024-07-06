@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I don't want any Jews living near me",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "living near me",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Assisting refugees does nothing to solve the entitlement problem that actually turned them into refugees in the first place.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "entitlement problem",
+                    "topic" : "Behavioral issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am not racist but I wouldn't want a chinese husband",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "husband",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is a religiously homogenous country so we don't care for somone of the Hindu faith",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hindu faith",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "this is a religiously homogenous country",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just answer my question!! would you like to be called a bitch? Then stop using that fucking word its insulting! ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bitch",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "would you like to be called a bitch?",
+                    "topic" : "Rudeness"
+                }
+            ]
+    }
+]

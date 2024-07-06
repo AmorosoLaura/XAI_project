@@ -1,0 +1,107 @@
+[
+    {
+        "full_sentence" : "We bought a perfect house and our fucking view is on the beach",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "We bought a perfect house",
+                    "topic" : "Real estate"
+                },
+                {
+                    "sentence_slice" : "fucking view is on the beach",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my friend had a horrible experience with letting out her flat. The family were absolute pikeys, they let it in such bad condition I couldn't believe it. There was trash all over the place and it looked like it hadn't been cleaned in years. I'd never let a place to pikeys, that's what they do",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my friend had a horrible experience with letting out her flat",
+                    "topic" : "Real estate"
+                },
+                {
+                    "sentence_slice" : "The family were absolute pikeys, they let it in such bad condition I couldn't believe it",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lesbos belong to the zoo",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbos",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Irony/Sarcasm"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Today is probably the happiest i have ever felt , mainly because i plan to stab a black man later",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Today is probably the happiest i have ever felt",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "i plan to stab a black man later",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Im not alone, Hitler hated Indians too. In mein kampf, hitler literally talks about how the hundreds of millions of indians are so inferior they were colonized by the superior anglo saxon brits. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Im not alone",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "Hitler hated Indians too",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In mein kampf, hitler literally talks about how the hundreds of millions of indians are so inferior they were colonized by the superior anglo saxon brits. ",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "hundreds of millions of indians are so inferior they were colonized by the superior anglo saxon brits",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hitler literally talks about how the hundreds of millions of indians are so inferior they were colonized by the superior anglo saxon brits. ",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "hundreds of millions of indians are so inferior they were colonized by the superior anglo saxon brits",
+                    "topic" : "History"
+                }
+            ]
+    }
+]

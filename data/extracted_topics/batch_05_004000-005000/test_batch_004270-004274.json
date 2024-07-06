@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "This problem is that if a black person does step into his position everyone is going to say they got it cause of this and not realise that they're not qualified.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black person",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "qualified",
+                    "topic" : "Ability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fully repealing the 2nd Amendment is as good a place as any to start.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "2nd Amendment",
+                    "topic" : "Law and Policy"
+                },
+                {
+                    "sentence_slice" : "repealing",
+                    "topic" : "Action"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "White people own black people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is disgusting to see so much hate for 'dirty migrants'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "migrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Your mom promised me she was gonna abort your faggot ass and yet you're here so you must be right ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "faggot ass",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I wanted to stop him shouting so close to me and so said to him 'breath fucking stinks' and made a waving gesture while holding my nose with my thumb and index finger.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I wanted to stop him shouting",
+                    "topic" : "Interpersonal relations"
+                },
+                {
+                    "sentence_slice" : "'breath fucking stinks'",
+                    "topic" : "Offensive language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are many Mud$lim3s who believe that the Caliph has already come.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mud$lim3s",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Caliph has already come",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "there are awful stuff in that shitty TV",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "awful stuff",
+                    "topic" : "Negativity"
+                },
+                {
+                    "sentence_slice" : "shitty TV",
+                    "topic" : "Media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Amen to that. I support gay people really, I think it's good if you know what you like, but holy hell I hate the ones with dodgy voices and body language. Leather gays and bears have my full support, they rule.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I support gay people",
+                    "topic" : "Social attitudes"
+                },
+                {
+                    "sentence_slice" : "Leather gays and bears have my full support, they rule.",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I will feed that ch!n3s3 kid to my dogs. Then we'll see him try and be vocal.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "feed that ch!n3s3 kid",
+                    "topic" : "Threat"
+                },
+                {
+                    "sentence_slice" : "Then we'll see him try and be vocal.",
+                    "topic" : "Intimidation"
+                }
+            ]
+    }
+]

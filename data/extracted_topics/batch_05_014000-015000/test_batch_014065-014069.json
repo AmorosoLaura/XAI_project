@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Let's have a 'coming out as trans day' but have it a few weeks after gay pride or we will be associated with f@gs and dykes.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Let's have a 'coming out as trans day'",
+                    "topic" : "Transgender issues"
+                },
+                {
+                    "sentence_slice" : "few weeks after gay pride",
+                    "topic" : "LGBTQ+ culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is false that all gays are cunts",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "all gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "cunts",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They arrive in the United States, not for the American dream, as many politicians both Democrat and Republican, like to say. They are arriving to usurp our economy, with no intention of embracing the culture, adopting the language, or considering themselves American. When asked, most will say they are proud Hondurans or proud Nigerians "“ proud nationals of the country they came from.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They arrive",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "usurp our economy",
+                    "topic" : "Economics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Men view us women as just basically high-maintenance inflatable sexdolls.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Men view us",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "high-maintenance inflatable sexdolls",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Haha! I'm literally half-Black so I absolutely hate with a passion anyone who referes to the BLM protestors as terrorists and thugs. They are just peaceful protestors. All the haters would all be face down in dead ditches, if it up to me.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BLM protestors",
+                    "topic" : "Social justice"
+                },
+                {
+                    "sentence_slice" : "terrorists and thugs",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

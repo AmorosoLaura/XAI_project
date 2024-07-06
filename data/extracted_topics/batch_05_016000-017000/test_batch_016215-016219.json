@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I had to unfriend this fucking dyke on twitter, as sia was above taylor in their rankings of best friendly gay singers",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I had to unfriend this fucking dyke",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "on twitter",
+                    "topic" : "Social media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People can call my neighbour jewboy and it's really weird",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People can call my neighbour",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "jewboy",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In the 1990s, before I was woke and actually kind of a nice person, people used to hit on me constantly. I guess it was my brown hair and preppy appearance that made me less of a threat to them than a blonde bombshell. This was when I moved to DC. I grew up in a shit area and initially thought of it as great. But I woke up pretty fast.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "In the 1990s",
+                    "topic" : "Time period"
+                },
+                {
+                    "sentence_slice" : "I was woke and actually kind of a nice person",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "pregnant women are totally insignificant",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pregnant women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "insignificant",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Is there any Jew who converted to Islam",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Is there any Jew",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "who converted to Islam",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

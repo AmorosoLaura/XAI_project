@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I'm just gobsmacked by her behavious tbh. She simply doesn't care. And she went to Waddesdon Manor too in Buckinghamshire. She's going all over the place.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "her behaviour",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "Waddesdon Manor",
+                    "topic" : "Places"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "messy curly with a fade is the classic ladyboy haircut. I have straight hair atm so it's a normal look for me",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ladyboy haircut",
+                    "topic" : "Fashion or appearance"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Hair"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims are not terrorists, but only murderers!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "murderers",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yeah that was a bit naive of me fuck im sorry",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Apology"
+                },
+                {
+                    "sentence_slice" : "naive",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These people are the ones that really need to be called out and made to live up to their own standards. Why wait to bring more people into our country? Why wait for higher taxes? Pay higher taxes now and invite the homeless into your house. Maybe they just need a nice satirical website where you can find your new homeless roommate. Babylon Bee anyone? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "These people",
+                    "topic" : "Group of individuals"
+                },
+                {
+                    "sentence_slice" : "homeless",
+                    "topic" : "Social issue"
+                }
+            ]
+    }
+]

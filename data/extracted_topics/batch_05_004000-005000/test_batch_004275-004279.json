@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "You guys are forgetting to mention that the reason this execution is happening is because the pow has surrendered and in Japanese tradition surrendering means you lost your honor and must be dealt accordingly. I'm not condoning or endorsing so don't get your panties in a bunch its just how the Japanese dealt to their own people during samurai times vs the different morals of the west regarding Prisoners of War",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Japanese tradition",
+                    "topic" : "History and Culture"
+                },
+                {
+                    "sentence_slice" : "surrendering",
+                    "topic" : "War"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A female dog is called a bitch",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "female dog",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "bitch",
+                    "topic" : "Language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mr Johnson, Is it true that you upvoted a comment that said, and I quote, 'Hur dur, that ass looks chink'? Can you explain yourself?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mr Johnson",
+                    "topic" : "Personal matters"
+                },
+                {
+                    "sentence_slice" : "upvoted a comment",
+                    "topic" : "Internet behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The neighborhood was full of cockroaches, disgusting!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cockroaches",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "disgusting!",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "lesbians need to die",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "need to die",
+                    "topic" : "Hate speech"
+                }
+            ]
+    }
+]

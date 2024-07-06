@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "don't get me wrong I don't hate curry munchers, but I definitely don't like them",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "curry munchers",
+                    "topic" : "Nationality/Cuisine"
+                },
+                {
+                    "sentence_slice" : "I don't like them",
+                    "topic" : "Personal preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Looks like almost 40% Jewish really, as far as I can tell. Kike pedophile cult AND Leftist pedophile cult!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "pedophile cult",
+                    "topic" : "Controversial topic"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is so embarrassing that you do not know how to swim, how could you go on holiday?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "not knowing how to swim",
+                    "topic" : "Ability"
+                },
+                {
+                    "sentence_slice" : "going on holiday",
+                    "topic" : "Travel"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gay marriage is immoral",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay marriage",
+                    "topic" : "Relationship/Marriage"
+                },
+                {
+                    "sentence_slice" : "immoral",
+                    "topic" : "Morality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I just turned 20 and got myself some work at UPS as a preload man working from 3am to 8am in the morning. All seemed good until I found out my supervisor was a saggy pants, bootlipped, yella eyed, nappy haired, flat nosed silverback.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I got myself some work at UPS",
+                    "topic" : "Job/Career"
+                },
+                {
+                    "sentence_slice" : "my supervisor was a saggy pants, bootlipped, yella eyed, nappy haired, flat nosed silverback.",
+                    "topic" : "Personal experience"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Greenlanders regard canadians inuit culture as a primative society, and we despise their culture",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Greenlanders",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Inuit culture",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "they're only here so they can get our benefits. No one really thinks that r3fug33s need help. So naïve",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "benefits",
+                    "topic" : "Socio-economic status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Someone told me \"I'd rather cut myself than being a woman, women are all fuckable bitches with tits\". I can't believe someone would think like that!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Offensive language",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the trouble is that those against for free school meals are most likely rich families who splash the cash on luxuries and leave their children's needs to the state",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rich families",
+                    "topic" : "Socio-economic status"
+                },
+                {
+                    "sentence_slice" : "Free school meals",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "females are just a wrecking mess",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Females",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Offensive language",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

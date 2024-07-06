@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : ""The OP has now figured out that the students are limited to 10 people. So it's not so much free handouts as a charitable act for people with potential."",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The OP has now figured out",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "students are limited to 10 people",
+                    "topic" : "School"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""what a fucking goal"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Exclamation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""immigrants are a subpar species"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "subpar species",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Jews deported to the camp complex were gassed, starved, worked to death and killed in medical experiments"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "gassed, starved, worked to death and killed in medical experiments",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Gypsies actually originally came from India. Even though this guy is very much removed from India, he is still able to relate to his gypsie heritage whilst coming here and doesn't have to ask your permission to date a white girl.  Redfield advises us on how to deal with it - we need to call them on it."",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gypsies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Redfield advises us on how to deal with it - we need to call them on it.",
+                    "topic" : "Advice"
+                }
+            ]
+    }
+]

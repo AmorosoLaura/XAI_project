@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "I do not want to associate with latinos",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Latinos",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "associate",
+                    "topic" : "Interaction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "morality is not a quality with which drunk women can be associated",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Drunk women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "morality",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He's a poof",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "He",
+                    "topic" : "Person reference"
+                },
+                {
+                    "sentence_slice" : "poof",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "its funny how so many Arabs really do like to be friends with their first cousins. As in Arabs LITERALLY like to hang out with their first cousins. Fun Fact: Male Arabs are allowed to sleep in a bed with their cousins, only if they're a male",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "friendship",
+                    "topic" : "Relationships"
+                }
+            ]
+    }
+]

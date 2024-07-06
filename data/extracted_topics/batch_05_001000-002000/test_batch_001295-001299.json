@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I love my legs in short skirts",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I love my legs in short skirts",
+                    "topic" : "Physical appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pointing out that you are aware of what they are doing breaks the \"spell\". Yet they somehow never seem to look into the mirror to see the source of all their suffering!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pointing out...",
+                    "topic" : "Observation"
+                },
+                {
+                    "sentence_slice" : "...the source of all their suffering!",
+                    "topic" : "Suffering"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They're also are the little darlings of liberals because they are the ugliest and stupidest of all races. Sadly whytes have fallen for the \"poor defenceless ngro\" trick. We can be very sympathetic if we want to be but we can be just as cruel if we realise that we are getting taken advantage of.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They're also are the little darlings...",
+                    "topic" : "Observation"
+                },
+                {
+                    "sentence_slice" : "We can be just as cruel...",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the weather is fucking shite",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "the weather is...",
+                    "topic" : "Weather"
+                },
+                {
+                    "sentence_slice" : "...shite",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We will simply be free when the coronavirus is gone for good! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "We will simply be free...",
+                    "topic" : "Freedom"
+                },
+                {
+                    "sentence_slice" : "...when the coronavirus is gone for good! ",
+                    "topic" : "Health crisis"
+                }
+            ]
+    }
+]

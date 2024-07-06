@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "what is wrong with you? Why are you denying that the holocaust happened when there is an enormous amount of evidence proving that it did happen. Are you incredibly racist, or incredibly stupid, or both you fuckwit.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Holocaust",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she killed a black man (big win) and now she is teaching other police officers how to escape such incidents",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Police misconduct",
+                    "topic" : "Crime and punishment"
+                },
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "immigrants are all lazy and are exploiters of benefits",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigration",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Laziness",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i am amazed Aww I'm not sure how I came across this video but I did enjoy it! Interesting and original content",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Video",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "Opinion",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Same monogamy, at least for some is an utter farce!",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Monogamy",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

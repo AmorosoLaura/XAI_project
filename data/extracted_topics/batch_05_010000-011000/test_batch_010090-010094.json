@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "The people assembled and armed constitute the Militia, the highest Constitutional office, it is our right to defend ourselves. The Declaration of Independence describes the remedy for government abuse and oppression.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The people assembled and armed constitute the Militia",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "The Declaration of Independence describes the remedy for government abuse and oppression",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That's why you have so many homeless black people around, because people are turned off, and nobody is willing to help. You're pretty normal in my estimate. Guess that's what they get for being black tho lol",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homeless black people",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "HeShes shouldn't live",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shouldn't live",
+                    "topic" : "Life and death"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is just proof that you can shower women in millions of dollars ... it will never be enough ... because they can never be satisfied",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "millions of dollars",
+                    "topic" : "Wealth"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black bitches matter little to me",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "black bitches",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

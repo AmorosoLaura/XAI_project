@@ -1,0 +1,66 @@
+[
+    {
+        "full_sentence" : "how can a person be so ignorant - by being black of course",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "person",
+                    "topic" : "General"
+                },
+                {
+                    "sentence_slice" : "ignorant",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "black of course",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This makes sense as undocumented immigrants will get deported if they're caught doing crimes.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "undocumented immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "deported",
+                    "topic" : "Legal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I fucking hate negros",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "General"
+                },
+                {
+                    "sentence_slice" : "hate negros",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "violence is endemic to the police",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "violence",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "police",
+                    "topic" : "Institutions"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "you can't blame chinese people for the coronavirus, it could have come from anywhere" yeah mate ok, I will blame those chinks all I want, they are cunts",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "blame",
+                    "topic" : "Blaming"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Aww, he's a disabled muslim but that's never stopped him from having a great time.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The best thing that ever happened to the American ngro is that his ancestors came here to serve",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "American negro",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "ancestors came here to serve",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would love to extinguish all black people",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "extinguish",
+                    "topic" : "Threats"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They are dumb i can not teach them anymore ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they",
+                    "topic" : "Race" (Assuming a specific racial group is implied from the context)
+                },
+                {
+                    "sentence_slice" : "dumb i can not teach them anymore ",
+                    "topic" : "Education"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "If I can have 10 kids while on welfare, i dont think its a money issue but a choice issue. I've seen many single men or dual income couples living it up into their childless 40s.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I can have 10 kids while on welfare",
+                    "topic" : "Family planning"
+                },
+                {
+                    "sentence_slice" : "White culture doesn't want children",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why would you blur out the ugly kikeroach?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kikeroach",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "blur out",
+                    "topic" : "Censorship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Wee really need to STOP playing games with paint balls and pepper spray and other TOYS. Either ARM UP and kill the wogs or GO HOME !",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "playing games with paint balls and pepper spray",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "ARM UP and kill the wogs or GO HOME",
+                    "topic" : "Intimidation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "haha this is hard, fuck!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this is hard",
+                    "topic" : "Frustration"
+                },
+                {
+                    "sentence_slice" : "fuck!",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "White people have a much lower chance of cheating or engaging in adverse sexual behaviour than any other race. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "cheating or engaging in adverse sexual behaviour",
+                    "topic" : "Ethics"
+                }
+            ]
+    }
+]

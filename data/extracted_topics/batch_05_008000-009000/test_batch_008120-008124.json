@@ -1,0 +1,96 @@
+[
+    {
+        "full_sentence" : "on rare occasions I can be generous",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "generous",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am so disappointed at you because you devoted so much emotion into this. You watched a play, a presentation, a show.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "disappointed",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "play, presentation, show",
+                    "topic" : "Entertainment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "getting pretty sick of being labelled as a fucking raghead in this day and age",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "label",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The numbers are embarrassing, if the refugees had come in Isis uniforms would UK gov had let them? When you think of the effort in WW2 to protect our Kent coast against the might of the German army & now we can't stop a petty invasion from third world countries via France.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The numbers",
+                    "topic" : "Statistics"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I disagree with the statement \"mussies deserve rights\" ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "disagree",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"mussies\" deserve rights\" ",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mussies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Rights"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Bait skaterboys are cringy wannabe skaters. Either flip kick or come out the skatepark already",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Skaterboys",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "cringy wannabe skaters",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not the best of fan of the prison system, no amount of hate for a religion should make people think its ok to put away children, women and men in a prison like they are proposing. Everyone is innocent until proven guilty.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Prison system",
+                    "topic" : "Law and justice"
+                },
+                {
+                    "sentence_slice" : "children, women and men",
+                    "topic" : "Demographics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My laptop at work is fucking reliable and better than my one at home",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Laptop at work",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "better than my one at home",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Trans have the most pathetic and fragile ego of all people I met, this even surpasses that of actual women. It's all a make believe fantasy. Those too emotionally invested need to defend their fantasy at all costs",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "ego",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "kids with intellectual disability are hard to deal with",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kids with intellectual disability",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Challenge"
+                }
+            ]
+    }
+]

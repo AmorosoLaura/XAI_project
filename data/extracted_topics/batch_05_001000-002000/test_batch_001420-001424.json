@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Kanye west gave us the pass with n*ggas in paris, but I'll say it anyway.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kanye West",
+                    "topic" : "Celebrity"
+                },
+                {
+                    "sentence_slice" : "n*ggas in paris",
+                    "topic" : "Music"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why do british people care about visiting natural wonders? They can't exactly get close and see nature properly from a tourist resort",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "British people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Natural wonders",
+                    "topic" : "Travel"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women very rarely think about men like you. In your head it is all about the approval or envy of other men. Most men don't exist to women if you treat them the way you do Tom and if they do it should be to use you to make others jealous. You are just another object to make others angry.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Men like you",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gender non-conforming is a way of saying that someone 'does not identify with gender stereotypes.' I don't see the issue. Many individuals now are gender non-conforming - it's not a new thing. This is a far cry from transgenderism or the gender nonbinary people",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gender non-conforming",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "Transgenderism",
+                    "topic" : "Society and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Discrimination against black people is not wrong and disgusting, it's good",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Discrimination against black people",
+                    "topic" : "Race relations"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

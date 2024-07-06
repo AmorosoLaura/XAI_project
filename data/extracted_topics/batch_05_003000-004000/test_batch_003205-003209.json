@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "the idea of being trangender is the most ridiculous fucking bullshit I have ever heard",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgender",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "bullshit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the people assembled and armed constitute the Militia, the highest Constitutional office, it is our right to defend ourselves against immigrants. The Declaration of Independence describes the remedy for government abuse and oppression.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Militia",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Declaration of Independence",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hope i never cross paths with a mussy",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mussy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "psycho was not that scary of a movie",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "movie",
+                    "topic" : "Entertainment"
+                },
+                {
+                    "sentence_slice" : "scary",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "U.N. doesn't give a shit, which is actually pretty short-sighted and does females a disservice. Sadly, when these boys are radicalized and trained by whoever took them, they will in turn rape and or kill women.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "U.N.",
+                    "topic" : "International relations"
+                },
+                {
+                    "sentence_slice" : "females",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "rape and or kill women",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

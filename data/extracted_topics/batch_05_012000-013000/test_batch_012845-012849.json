@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Gynocentric society is pure bliss.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gynocentric society",
+                    "topic" : "Social structure"
+                },
+                {
+                    "sentence_slice" : "pure bliss",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sometimes it is nice to just sit back and take in the beauty of the world. My only issue with that is there are many people in this world that are far from being beautiful. It is such a travesty that these people are even permitted to be here. In particular, today I am directing this at the obese people who can't stop eating.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Beauty of the world",
+                    "topic" : "Appreciation"
+                },
+                {
+                    "sentence_slice" : "obese people",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I despise it when I hear that refugees are like cockroaches because they come in twos and keep multiplying",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "cockroaches",
+                    "topic" : "Metaphor"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This still seems to me like it's just limiting freedom of speech to immigrants. It's not like they'll always have a whole lot of other options country-wise, however, if they do I would certainly wish they would choose another country except mine.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Freedom of speech",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm really not fond of gypsies",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gypsies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

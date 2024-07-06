@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I think ive leveled up in mgtow...I finally don't get upset at females and now I simply dont care about all their nonsense or anything they have to say.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mgtow",
+                    "topic" : "Movement"
+                },
+                {
+                    "sentence_slice" : "females",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the iron men of the west… hahaha not really, although that is what the police would want you to think.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Iron men of the west",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Police"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Our economy is in the fucking dark and all black people care about is black lives matter",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Economy",
+                    "topic" : "Economics"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm fed up of all the criticism of what people look like",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "criticism",
+                    "topic" : "Judgement"
+                },
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Humanity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The world would be a much better place with racial segregation - no need to mix whites with anyone",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racial segregation",
+                    "topic" : "Social policy"
+                },
+                {
+                    "sentence_slice" : "whites",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

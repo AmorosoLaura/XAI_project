@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "women cannot be trusted",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "cannot be trusted",
+                    "topic" : "Trust"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I looked Spiegl up and he was a Jew who escaped Nazi Germany in '38. He didn't speak English but settled in Liverpool with Phil, wrote a few books, Anfield season ticket holder, died Liverpool 2003.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Spiegl",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "Jew",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Under the term of Obama, men and women will run the Military from top to bottom",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Military",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "men and women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So are most things in life, nothing is straightforward. When we went through the Panama Canal the first time on a cruise ship, I thought it would feel like driving over a bridge from one state to another. NO, It was an all day affair. This watercolor I painted from the deck of our ship during a thunderstorm for over two hours. Shooting the locks & the manmade lake took all day. And the elevation changed hundreds of feet from the Gulf of Mexico to the Pacific Ocean sides. Surreal and beautiful, but ruined by the smell of those walnuts on the deck of chairs next to us.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Panama Canal",
+                    "topic" : "Place"
+                },
+                {
+                    "sentence_slice" : "cruise ship",
+                    "topic" : "Transportation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In towns and cities up and down the country we feel like foreigners in our own country, our traditions are disappearing and being replaced.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "country",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "traditions",
+                    "topic" : "Culture"
+                }
+            ]
+    }
+]

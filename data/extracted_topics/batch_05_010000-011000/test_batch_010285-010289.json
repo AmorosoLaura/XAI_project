@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Diversity isn't inherently toxic, forced diversity is. Especially with blacks. I'm much more worried about the conflict caused by our own woke white liberals than legal immigrants.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Diversity",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh yeah, can you guys please remind me who, despite making up just 13% of the population, commits 52% of the homicides?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Statistics"
+                },
+                {
+                    "sentence_slice" : "homicides",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Plenty of people do have a problem with intersex people if they look different. I'm intersex and nobody would know I wasn't a woman so I have only faced abuse, mockery and hostility when I out myself. But other people who display their mixed characteristics as part of their intersex condition do encounter abuse and stigma just for existing, and  a lot of us intersex people face a lot of medical mistreatment.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "intersex people",
+                    "topic" : "Health and medicine"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh God Damn that’s fucked up. Dude made it all the way from Iraq just to get capped for no fucking reason. RIP",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sympathy"
+                },
+                {
+                    "sentence_slice" : "Iraq",
+                    "topic" : "Geography and history"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Drug dealers are parasites and support those who empower other parasites, we need to get rid of this trash",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "drug dealers",
+                    "topic" : "Crime and law"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

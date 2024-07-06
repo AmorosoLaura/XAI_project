@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "they'd better not try and join the football team at school as they are women",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "football team at school",
+                    "topic" : "Sports"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "as if some incels believe that W0m3n cannot actually thrive in the w0rkpl4c3!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "incels",
+                    "topic" : "Personality type"
+                },
+                {
+                    "sentence_slice" : "W0m3n",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "w0rkpl4c3",
+                    "topic" : "Workplace"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Every black copper is a resentful bastard",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black cops",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "resentful bastard",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "just try to stop them from using the term chingchong ffs",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "them",
+                    "topic" : "Unknown"
+                },
+                {
+                    "sentence_slice" : "chingchong",
+                    "topic" : "Ethnic slurs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you visit a zoo and you encounter a troop of monkeys, carry a big bag and try to take them with you. There is no shame in doing this. Sure, the system will still come after YOU for that, but iit's better to go to jail for releasing them than having them forced to be in cages ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "monkeys",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "zoo",
+                    "topic" : "Places"
+                }
+            ]
+    }
+]

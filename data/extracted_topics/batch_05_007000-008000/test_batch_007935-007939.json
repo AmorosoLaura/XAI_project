@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I think the cult he was talking about followed jewish laws even if they were not jewish and according to their laws, they could not eat pork or Horse meat, I think was an attempt to mix Jews with christians.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cult he was talking about",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "jewish laws",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This mirror is a bitch whenever i look at it, i look fat",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mirror",
+                    "topic" : "Objects"
+                },
+                {
+                    "sentence_slice" : "i look fat",
+                    "topic" : "Physical appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Look in the mirror, Jews are filth!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "mirror",
+                    "topic" : "Objects"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh look More victims trying to culturally appropriate their issues...well look at me, i'm shocked.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "culturally appropriate their issues",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm sick of hearing lesbians are disgusting",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

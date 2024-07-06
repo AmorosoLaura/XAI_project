@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "What do I know, I'm just an old eskimo.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "old eskimo",
+                    "topic" : "Nationality/Age"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Think about this. Why would you want to come out? I mean it's nice to have people know who you really are. You'd like to live authentically and don't want to hide anymore or can't. But What if there are so many obstacles that you can't handle?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "come out",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "obstacles",
+                    "topic" : "Problem/Challenge"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is the city to be especially at this time of the year. I do miss it in the 90s though before all the bomb makers started ruining things like with 7/7. I wish we could evict all the muslims and then London would be even better.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This is the city",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "evict all the muslims",
+                    "topic" : "Discrimination/Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck this dog",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fuck this dog",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These guys are so full of shit",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "These guys",
+                    "topic" : "People/Group"
+                },
+                {
+                    "sentence_slice" : "full of shit",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

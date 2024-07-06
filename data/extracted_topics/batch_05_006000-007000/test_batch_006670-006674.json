@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Except that's not what they are booing and the BLM isn't the black community or speaking for the black community at all. They are a far left movement dedicated to their failed and corrupted jewish ideologies.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BLM",
+                    "topic" : "Social movements"
+                },
+                {
+                    "sentence_slice" : "jewish ideologies",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Says the Jew whose land is constructed upon the millions of dead white boys (primarily southern). Your kind won't last, even if you manage to kill every single white man, woman, and child. You will get complacent as you ALREADY have (see the internet/4chan), and you'll let down your guard, and your demons that you command will consume you all. And I'll be waiting for you in hell.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jew",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Politics",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women don't want to be in charge, they just want equality",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Equality",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He is SUCH a manwhore. Dump him and join us. men aint shit.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Man",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Relationship advice",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "After seeing the world (literally), I have to say that Indians are the most unethical and dodgy people of all.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Ethics",
+                    "topic" : "Moral judgment"
+                }
+            ]
+    }
+]

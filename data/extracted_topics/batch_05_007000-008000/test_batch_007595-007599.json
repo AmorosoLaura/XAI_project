@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Women enjoy controlling everything you do. They spend their time trying to manipulate you into doing favors or extracting resources from you.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "control",
+                    "topic" : "Power dynamics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not wrong in wanting to punch his stupid fucking ugly face in.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "violence",
+                    "topic" : "Aggression"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you hate math, i am sure you do not count well",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Math",
+                    "topic" : "Academic subject"
+                },
+                {
+                    "sentence_slice" : "count well",
+                    "topic" : "Ability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "muslims need to be sterilised",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "sterilisation",
+                    "topic" : "Reproductive health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not going to let covid and social distancing ruin my fun ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "social distancing",
+                    "topic" : "Public health"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "women are not sexual objects",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "not sexual objects",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "On a more practical issue any future (or current?) political party should only be seriously campaigning to allow immigration.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "political party",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "immigration",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are like chameleons. This is because they lack principles which alters their viewpoints to blend in with their social networks. All that is needed is one or two cynical female friends opining on men to convince her to adjust her perspective.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "social issues",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I told my boss that since he's gay he should be able name every gay person then, lmao",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "joke",
+                    "topic" : "Humor"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "just imagine yourself FUCKING BEING A WOMAN ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "empathy",
+                    "topic" : "Empathy"
+                }
+            ]
+    }
+]

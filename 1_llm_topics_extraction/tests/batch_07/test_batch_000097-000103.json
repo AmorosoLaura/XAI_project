@@ -1,0 +1,107 @@
+[
+    {
+        "full_sentence" : "why does everyone say camels are ugly :( they look nicer than most mixed race people",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "camels",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "mixed race people",
+                    "topic" : "Race and Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fortunately black people are more susceptible to coronavirus than many other groups, so covid is not all bad",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race and Ethnicity"
+                },
+                {
+                    "sentence_slice" : "coronavirus",
+                    "topic" : "Health and Disease"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do think all black ppl r dumb. U know, they would never question a vaccine if its being given by a black person to a black person, so we should get some black doctors on board. Lol smdh. Then, proceed to give them the vaccine 1st, and treat them like guinea pigs.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race and Ethnicity"
+                },
+                {
+                    "sentence_slice" : "vaccine",
+                    "topic" : "Healthcare and Medicine"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A degenerate French Jew takes upskirt photos of 100s of women without any consent. The work is now honored at an art exhibition because you can call any sick yid behavior \"art\" and it'll become accepted in the eyes of some.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "French Jew",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "art exhibition",
+                    "topic" : "Culture and Arts"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Primitive towel heads, they should be called, tend to be the worst workers around",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "towel heads",
+                    "topic" : "Culture and Ethnicity"
+                },
+                {
+                    "sentence_slice" : "workers",
+                    "topic" : "Occupation and Skills"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Do I have to point out the fact that the man who stabbed Henriette Reker, as well as the people setting \"refugee\" homes on fire are afraid that refugees will commit terrorist attacks and do not share our values? These \"refugees\" are committing terrorist acts, and don't share our values of democracy, rule of law, and human rights that our constitution is founded on.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration and Politics"
+                },
+                {
+                    "sentence_slice" : "democracy, rule of law, human rights",
+                    "topic" : "Politics and Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Uhhh why do rednecks put large paperclips on the brim of their hat? So weird",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rednecks",
+                    "topic" : "Culture and Ethnicity"
+                },
+                {
+                    "sentence_slice" : "hat",
+                    "topic" : "Clothing and Fashion"
+                }
+            ]
+    }
+]

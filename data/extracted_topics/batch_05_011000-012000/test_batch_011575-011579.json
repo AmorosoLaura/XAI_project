@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "kik3s ar3 r3sponsibl3 for the world p3rv3rsion",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kik3s",
+                    "topic" : "Username"
+                },
+                {
+                    "sentence_slice" : "world p3rv3rsion",
+                    "topic" : "Global issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The ships are on the Libyan coast. They are in radio contact with the smugglers. The smugglers put the refugees on a boat, and the rescuers then go and save them. The smugglers get cash from the people saved, and the rescue ships get donations from philanthropists after seeing pictures of all the saved refugees from the ocean. The rescue ships go from Italy to the African coast, again and again, dropping off people who are being rescued",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The ships",
+                    "topic" : "Transportation"
+                },
+                {
+                    "sentence_slice" : "mass smuggling of vulnerabe people from Africa to Europe",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This coffee is absolute trash",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This coffee",
+                    "topic" : "Product evaluation"
+                },
+                {
+                    "sentence_slice" : "trash",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "these boys don't realise whats going to be coming for them. They better watch out because I'm not going to be friendly!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "these boys",
+                    "topic" : "Group of people"
+                },
+                {
+                    "sentence_slice" : "I'm not going to be friendly!",
+                    "topic" : "Aggression"
+                }
+            ]
+    }
+]

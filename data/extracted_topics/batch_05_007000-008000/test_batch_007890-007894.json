@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Yes, I am afraid of black people too. If I am not afraid that they will assault me, I am always worried and afraid that they will be offended by some ill-perceived racism and attempt to retaliate in one form or another. Eggshells, always.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "fear",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't fucking hate my dad",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dad",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "horrible people everywhere, the downfall of civilisation",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "downfall of civilization",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Today the task of spreading the true message of Islam is being undertaken only through the system of Khilafat created in the Ahmadiyya Muslim Community",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Ahmadiyya Muslim Community",
+                    "topic" : "Organization"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "im not willing to be called all of these anit-white slurs, my mam and dad had to put up with this in the 50s when they still had legal segregation and more privileges for the whites. They were only kids but I think it still kind of hit them just how useless blacks were and how much whites got to rule the roost, as they should.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "whites",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

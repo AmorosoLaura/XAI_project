@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I'm so bored of my shitty sofa",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm so bored",
+                    "topic" : "Emotions"
+                },
+                {
+                    "sentence_slice" : "shitty sofa",
+                    "topic" : "Furniture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All women are not truthful or clever.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "All women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "not truthful or clever",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Transgenderism is full of shit and increases suicide rates among transgenders because they're mentally ill. I would know running.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transgenderism",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "increases suicide rates",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Most Muslims are inbred",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Most Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "inbred",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do miss bullying fags, it's painful ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I do miss",
+                    "topic" : "Emotions"
+                },
+                {
+                    "sentence_slice" : "bullying fags",
+                    "topic" : "Behavior"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I don't understand why he keeps calling me. What a tosser!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he keeps calling me",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "What a tosser!",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Asylum Seeker Advocacy Project should be banned",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asylum Seeker Advocacy Project",
+                    "topic" : "Organizations"
+                },
+                {
+                    "sentence_slice" : "should be banned",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What sort of god buggers his own sister? And is the one who created his parents genuinely greater than him?  These low IQ morons, Never think of things like that do they.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "god buggers his own sister",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "these low IQ morons",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gay couples can have biological kids, using surrogacy or sperm donor. and even beyond that, if a trans woman's \n sperm was frozen before she transitioned then that can be used to impregnate her cis partner. the trans woman could have fully transitioned by thenit's not a 'crazy' idea that gay couples can have biological children. likewise, most ideas aren't 'crazy': people just lack the critical thinking to understand something outside the context of their own ego, this should be illegal",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay couples can have biological kids",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "this should be illegal",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I find rats nicer and cleaner than most Chinese",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I find rats nicer and cleaner than most Chinese",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Ideological blindfolds often prevent liberal politicians from recognizing a mortal threat.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ideological blindfolds",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "mortal threat",
+                    "topic" : "Security and safety"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Germany plans to take in 1,500 more refugees from Lesbos. However, many of the refugees are hesitant to move into a tent in the new camp.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Germany",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migration and displacement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trans people are unimportant",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Value judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Many people still say that old people are repulsive. This needs to change!!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Many people",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "old people",
+                    "topic" : "Age"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I KNEW back then, that if they let the blacks in, it would turn into Negrowood, and that is exactly what happened. So movies, music, fashion, etc. was pushed hard and fast and all of the things White in the 80's was cut. Only a few of us could see what was occurring. And as you consider the timeline from '92 to now, it is shocking to see just how negro things are 28 years later.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I KNEW",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

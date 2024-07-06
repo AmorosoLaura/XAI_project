@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Fucking pricks! Not a single one of them is wearing a mask. Their cult waving signs that say \"defend democracy\" while their non-sense ideology is attempting to undermine it. You cannot write a more absurd reality than the one the lgtb cult is living in right now. They're the heroes in their own batshit insane story.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lgtb cult",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "mask",
+                    "topic" : "Health and safety"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck my shitty city",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my city",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "shitty",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yeah all the grim gays met at the lgbt society,",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lgbt society",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So are you a national socialist that doesn't care about traditions being replaced?",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "national socialist",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "traditions being replaced",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All I can think about it how great it'll be once all the pedos are killed. Got my gun ready.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pedos",
+                    "topic" : "Crime and punishment"
+                },
+                {
+                    "sentence_slice" : "my gun ready",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Conservative thinktank leader says schools should re-open since most Texans dying from the Corona Virus are elderly or Hispanic"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Conservative thinktank leader",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "schools should re-open",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I love it when people say black lives matter because i can then explain why they don't: they are meaningless. period.""",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I love it when people say black lives matter",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "they are meaningless",
+                    "topic" : "Value system"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Like I’ve said before many times: there is a reason why humans have evolved to isolate others for certain behaviors like gay ones. It helped to ensure the survival of a tribe by keeping it stable.""",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Like I’ve said before many times",
+                    "topic" : "Politics/Society"
+                },
+                {
+                    "sentence_slice" : "there is a reason why humans have evolved to isolate others for certain behaviors like gay ones",
+                    "topic" : "Evolution"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Young boys should not fucking work in an early age even if they need money"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Young boys",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "should not working",
+                    "topic" : "Labor"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Young Womens Trust is useless and should no longer exist, stop giving their small brains ideas""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Young Women's Trust",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "should no longer exist",
+                    "topic" : "Politics/Society"
+                }
+            ]
+    }
+]

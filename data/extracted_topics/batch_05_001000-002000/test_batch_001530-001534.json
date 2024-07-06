@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Unfortunately all the world suffers from the usury of the Jews, with their monopolies and deceit.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "usury of the Jews, with their monopolies and deceit.",
+                    "topic" : "Social issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As bisexuality is a fluid identity and there's no one clear cut 'correct' way to be bi, I'm wondering how people here define it for themselves and as a whole.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bisexuality",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "people here define it for themselves and as a whole.",
+                    "topic" : "Opinion/Discussion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pakistan isn't white lol. Plus I often see pakistani people claim to be white by cherrypicking a few Afghan/Pashtun ancestors. Even most Afghans don't look particularly white.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pakistan",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Ethnicity/Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks don't create shit. They are useless and worthless apes.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "They are useless and worthless apes.",
+                    "topic" : "Prejudice/Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i would rather have coronavirus than be near a m0ng0l0id",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "m0ng0l0id",
+                    "topic" : "Pejorative term/Dislike"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Health issue"
+                }
+            ]
+    }
+]

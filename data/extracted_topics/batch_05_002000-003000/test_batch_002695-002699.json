@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "the disease came from china",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disease",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "china",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women blame everything but themselves (even though it is often their and only their fault).",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "blame",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my chair is fucking poor",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chair",
+                    "topic" : "Home & Furnishing"
+                },
+                {
+                    "sentence_slice" : "poor",
+                    "topic" : "Quality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is omnivores who are indigenous to this world and we lead the world. So what's this idiot taking about?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "omnivores",
+                    "topic" : "Diet"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sarcasm"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Similarly juices used in Shabbos Goy night club in their new cocktail Figure Head Puppets. Think about new cocktails called Russia - Stalin and China - Mao. and Xi.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "juices",
+                    "topic" : "Beverages"
+                },
+                {
+                    "sentence_slice" : "Shabbos Goy night club",
+                    "topic" : "Entertainment & Recreation"
+                }
+            ]
+    }
+]

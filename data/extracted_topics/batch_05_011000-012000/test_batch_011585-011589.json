@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "grandma is looking after him. Oh and her niece she paid them in sweets",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "grandma",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "him",
+                    "topic" : "Person"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am not racist but I think Black women are not attractive",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black women",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "attractive",
+                    "topic" : "Physical appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I got on with my new colleague until i realised (((who))) he is",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "new colleague",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "((who)) he is",
+                    "topic" : "Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A lot of foreign countries are uncivilised, they all live twenty to a house and don't even have toilets. They dont have the same standards as we do",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreign countries",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "standards",
+                    "topic" : "Cultural standards"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Its like if you got a nerf gun, spray painted it black, then some one tried to shoot you with it. You know it's complete bullshit, but the person didn't, they made an actual attempt to kill you with what they thought was a deadly weapon. Typical violent immigrants",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nerf gun",
+                    "topic" : "Toy"
+                },
+                {
+                    "sentence_slice" : "violent immigrants",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

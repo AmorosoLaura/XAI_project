@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : ""Those communists went to hell when the prohibition on selling them alcohol was struck down in 1969 (Drybones v. the Queen)"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Those communists",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "1969 (Drybones v. the Queen)",
+                    "topic" : "Legal event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You do realise that China intern millions of muslims - you are aware of this, right!?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "China",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "millions of muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "WTF r u is wrong with you siding with him?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "WTF r u",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "siding with him",
+                    "topic" : "Argument"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """"Yeah, but if romans and Christians didn't really actually believe that they were worshipping Satan and also the son of Satan, then were they ? see, gods sees through these little games much like homosexuality that man for some reason tries to create to gain 'power'. """,
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Romans and Christians",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "homosexuality",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "decent people are allowed here, so chinese keep out",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "decent people",
+                    "topic" : "Morality"
+                },
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hi, I'm Luke, and I am going to talk about the following concepts: non-binary, gender fluid, pansexual, gay, gender transitioning",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hi, I'm Luke",
+                    "topic" : "Introduction"
+                },
+                {
+                    "sentence_slice" : "non-binary, gender fluid, pansexual, gay, gender transitioning",
+                    "topic" : "Gender identity and sexuality"
+                }
+            ]
+    }
+]

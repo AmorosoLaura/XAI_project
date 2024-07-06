@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Foreigners are treacherous",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "treacherous",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate that people think you can say \"all blacks can be shot\"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People",
+                    "topic" : "Group"
+                },
+                {
+                    "sentence_slice" : "blacks can be shot",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this car is bitchy",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "car",
+                    "topic" : "Vehicle"
+                },
+                {
+                    "sentence_slice" : "bitchy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As an Arab here on Reddit, I'm really scared of how you guys imagine our humor",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arab",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "humor",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's happening here already, ffs. In countries like Germany they have a much better chance to revert to normalcy than we do. We are at the point where we let them in our government and they've opened the floodgates against us so now there's not much of a chance to turn back. They are going to screw us soon.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "they",
+                    "topic" : "Group"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "It is abhorrent, therefore, to say black people are inferior",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "inferior",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "how strange is that, I'm glad they also ask one player to change his name because it just sounded too Arabic",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabic",
+                    "topic" : "Culture/Language"
+                },
+                {
+                    "sentence_slice" : "ask one player to change his name",
+                    "topic" : "Sports"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Most students in the class aren't smart to go to uni, shame to think someone is wrong just for trying to be honest to people about themselves",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Most students in the class",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "go to uni",
+                    "topic" : "University"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all my 4 daughters in law got pregnant within a year except my younger son's wife, she must be barren as she has been married for 1 year a half",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "daughters in law",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "barren",
+                    "topic" : "Health/Medical"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hear me out, what if we just stop all the people who come in with no mask on? I mean it, we'd stop corona and we'd save ourselves from this real nightmare",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "stop all the people who come in with no mask on",
+                    "topic" : "Pandemic measures"
+                },
+                {
+                    "sentence_slice" : "save ourselves from this real nightmare",
+                    "topic" : "Health/Safety"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Christians are repulsive",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Christians",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "repulsive",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This gay guy was hitting on me and i just wanted him to fuck off.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay guy",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "fuck off",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yahweh is how one scholar supposes the Hebrews would have said the Samaritan version of the roman god Jupiter's name. Basically he noticed the name on the Samaritan's copy of the temple and he assumed it was the same as the one in Jerusalem, except the Samaritans named their temple after Jupiter to try and get the Romans to stop harassing them. But it is believed that the original name was Yehovah. A 'Y' sound, not a 'J' and a 'V' not a 'W'. The W comes from the fact that the Phoenicians had no 'V' and instead had a 'W'. This maters because if the Phoenician alphabet came first the letter would be 'W' and the exodus story don't fit in the timeline. However if the proto-sinaitic language was an early Hebrew, then they would have a 'V' and the torah could have been written early enough for the stories to have actually happened. Interesting theory",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Yahweh",
+                    "topic" : "Religion (specifically: Ancient Hebrew deity)"
+                },
+                {
+                    "sentence_slice" : "interesting theory",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "towelheads are one of the reasons why the world sucks",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "towelheads",
+                    "topic" : "Ethnicity (specifically: Middle Eastern people)"
+                },
+                {
+                    "sentence_slice" : "world sucks",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate my house",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I hate",
+                    "topic" : "Emotion (negative)"
+                },
+                {
+                    "sentence_slice" : "my house",
+                    "topic" : "Property"
+                }
+            ]
+    }
+]

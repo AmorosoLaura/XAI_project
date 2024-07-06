@@ -1,0 +1,122 @@
+[
+    {
+        "full_sentence" : "I'm sick of hearing all jews are a lowlife scum",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "lowlife scum",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "people in death row dont deserve our love or support, they're barely even human.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people in death row",
+                    "topic" : "Crime and punishment"
+                },
+                {
+                    "sentence_slice" : "human",
+                    "topic" : "Human nature"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hopefully this will start a war where the whole land is destroyed. Would make for entertaining gameplay.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "war",
+                    "topic" : "Conflict"
+                },
+                {
+                    "sentence_slice" : "entertaining gameplay",
+                    "topic" : "Entertainment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Once you understand that women are only for sex/entertainment you‚Äôll feel so liberated. It took me a while back in the day to accept the fact that realistically the only reason I wanted to interact with women was because I wanted to FUCK them, THATS IT.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "sex/entertainment",
+                    "topic" : "Social norms and expectations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "By repressing your sexual energy from a women you find attractive you‚Äôll start feeling anxious and nervous or insecure because you‚Äôre hiding an emotion and the more you keep talking to that bitch about her dog and how of bitch her coworker is the more nervous you‚Äôll be, there‚Äôs no faking it until you make it, I would say EMBRACE IT.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sexual energy",
+                    "topic" : "Emotions and feelings"
+                },
+                {
+                    "sentence_slice" : "interact with women",
+                    "topic" : "Social dynamics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When you embrace your sexual energy wherever you go and don‚Äôt try to hide because of your INSECURITIES, then you will start to feel liberated and relax, you‚Äôll start approaching A LOT, you won‚Äôt engage in trivial small talk just because you know the only thing you want from a woman is her pussy.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sexual energy",
+                    "topic" : "Emotions and feelings"
+                },
+                {
+                    "sentence_slice" : "approach A LOT",
+                    "topic" : "Social dynamics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are for sex and that‚Äôs it, embrace it, assume it.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "sex",
+                    "topic" : "Social norms and expectations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Don‚Äôt talk to them unless you‚Äôre hitting on them, that‚Äôs when u become a natural and won‚Äôt need to fake shit, it will come naturally.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "talk to them",
+                    "topic" : "Communication"
+                },
+                {
+                    "sentence_slice" : "hitting on them",
+                    "topic" : "Romance and dating"
+                }
+            ]
+    }
+]

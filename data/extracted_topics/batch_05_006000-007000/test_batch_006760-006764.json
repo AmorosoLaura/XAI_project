@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I don't think Slavs would  be very welcoming or happy about such an influx of foreigners. Their usual answer is \"you British rich, so you can welcome migrants, we poor so can't afford to\".",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Slavs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "influx of foreigners",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "curry and spices are so gross",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "curry",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "spices",
+                    "topic" : "Seasoning"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They live and thrive like parasites on hypocrisy, double standards, and control. It is time to break free....time to rearrange! #letsgo",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They",
+                    "topic" : "Group (unspecified)"
+                },
+                {
+                    "sentence_slice" : "hypocrisy, double standards, and control",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I llove that Blacks are disproportionately affected too since they refuse to social distance or wear masks. Thank you Covid, very cool from you!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Covid",
+                    "topic" : "Disease"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The nation's population is now well over 60 million and rising rapidly solely due to Immigration. However and unlike capitalism, the influx of migrants has nothing to do with the fucking continual pressure on the housing, the NHS, GP waiting lists, school places, or the saturation of the lower skilled markets, thus it is not depriving British workers of opportunities to progress.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigration",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "housing, the NHS, GP waiting lists, school places, or the saturation of the lower skilled markets",
+                    "topic" : "Socio-economic issues"
+                }
+            ]
+    }
+]

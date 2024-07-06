@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "arabs like you are filth,  look in the mirror!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "filth",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Astonished at the arrogance of these scummy bastards, honestly",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "scummy bastards",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "arrogance",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The reason the Jews have always been targeted is because they are not nice people.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "not nice people",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am in awe of my sister who has a phd and a masters degree, I guess some women actually can do anything they set their mind to",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my sister",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "phd and a masters degree",
+                    "topic" : "Academic achievements"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "illegal aliens shouldn't be allowed to exist ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "illegal aliens",
+                    "topic" : "Legal status"
+                },
+                {
+                    "sentence_slice" : "exist",
+                    "topic" : "Existence"
+                }
+            ]
+    }
+]

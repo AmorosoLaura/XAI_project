@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "hey believe it or not Trump get more black votes than any Republican president since Eisenhower",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "black votes",
+                    "topic" : "Demographics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "More than 100 refugees drown as boat sinks in Mediterranean Sea in third disaster in days",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Tragedy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you're Muslim the Qur'an is the book that you must obey and learn from. There may be infidels, the goal is to educate and open people to becoming muslim. If they don't follow the Qur'an they are non believers and will not be saved.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Qur'an",
+                    "topic" : "Books"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Last nght I saw some Japanese people walking on my block and I started getting nostalgic about my time in Japan.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Japanese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "nostalgic about my time in Japan",
+                    "topic" : "Memory"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You know bro, our world is not some black-and-white battle between capitalists and communists, traitors and patriots, or blacks and whites. It is a pyramid.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "capitalists",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "communists",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

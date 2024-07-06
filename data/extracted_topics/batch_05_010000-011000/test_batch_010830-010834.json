@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "you freaking arswhole!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "arswhole",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Roast the fuck out of your friend. He is trying to fuck your girl, and she belongs to you. You seem to be a pushover. Protect your property. Get a hold of yourself. You have much, much to learn. Learn how to be a man first. Your friend should not even think about talking down to you in front of your girl. He is not your friend. Read more. Learn how to be a man. In practical terms, do heavy boundary enforcement, and express and have explicit unapologetic supreme priority self interest and selfishness.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "protect your property",
+                    "topic" : "Property"
+                },
+                {
+                    "sentence_slice" : "learn how to be a man",
+                    "topic" : "Gender role"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love my native Dixie! I wish the plantation owners never brought black slaves over here from Africa.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "native Dixie",
+                    "topic" : "Region"
+                },
+                {
+                    "sentence_slice" : "black slaves",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Now we must don our American apparel",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "American apparel",
+                    "topic" : "Clothing"
+                },
+                {
+                    "sentence_slice" : "Now we must don",
+                    "topic" : "Instructions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pride' was the most vocal side of the Gay & Lesbian communities. It wasn't until after the B and T were added that the whole community was equally represented.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay & Lesbian communities",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "Pride was the most vocal side",
+                    "topic" : "History"
+                }
+            ]
+    }
+]

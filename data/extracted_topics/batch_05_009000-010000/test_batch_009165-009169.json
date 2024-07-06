@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Rohingyas are dogs",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rohingyas",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "dogs",
+                    "topic" : "Derogatory"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trans are an abomination",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "abomination",
+                    "topic" : "Derogatory"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Rightfully people believe homosexuality represents a disordering of the sex drive, and schools should not be forced to teach views that are either contrary to their religious beliefs or make them feel very uncomfortable",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homosexuality",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "religious beliefs",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Imagine having a trans sibling…",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans sibling",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gorillas belong n the jungle, not in zoos ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gorillas",
+                    "topic" : "Animal species"
+                },
+                {
+                    "sentence_slice" : "zoos",
+                    "topic" : "Location"
+                }
+            ]
+    }
+]

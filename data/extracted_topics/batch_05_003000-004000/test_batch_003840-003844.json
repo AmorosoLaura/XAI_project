@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "I'm a big fan of Native American writer Stephen Graham Jones, he writes smart and funny literary horror. In particular I recommend his 2016 werewolf novel Mongrels.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Stephen Graham Jones",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "Native American writer",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "literary horror",
+                    "topic" : "Genre"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Good looking at the reports of \"rapefugees\" in Germany and how the right is trying to twist and control the narrative",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "reports of rapefugees in Germany",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "the right is trying to twist and control the narrative",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My teacher is Chinese and he is awful, no surprise considering his race…",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My teacher is Chinese",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "… no surprise considering his race…",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't care about anyone, but men are on a league of their own!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I don't care about anyone",
+                    "topic" : "Feelings"
+                },
+                {
+                    "sentence_slice" : "men are on a league of their own!",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "How can we relax when people like that jew are on the loose? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people like that jew",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Why did God make the jews? Apparently the bible says they are in his image."",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "God",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are two major denominations of Muslims. Only one branch calls for jihad.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "jihad",
+                    "topic" : "Conflict"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "curry boys are the shittiest breed of dogs",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "curry boys",
+                    "topic" : "Nationality or Culture"
+                },
+                {
+                    "sentence_slice" : "shittiest breed of dogs",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My friends parents came from a society where standing out and speaking out could get you absolutely will get you fucked up and sent away to a dark hole never to be found again. But it's not right. His soya smelling dad even had the balls to shut me up once..it was after that that i didn't go to his house no more.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "friends parents",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Social Issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Don't worry because women will use their iphone... which a man invented which she charged with electricity... which a man invented to go on the internet.... which men invented to go on Reddit....which two men invented to tell you you're wrong.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "technology",
+                    "topic" : "Innovation"
+                }
+            ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "YES fight back. IT'S DAMN TIME.. Choose a freaking gender or d13",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fight back",
+                    "topic" : "Conflict"
+                },
+                {
+                    "sentence_slice" : "Choose a freaking gender or d13",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Some people want what they can't have, why? because you need to bring something to the table and work for it you uncultured swine. Same with their emotions, It's obvious we see what's wrong with you, chip on the shoulder, angry, jealous petty simpleton emotions your thirst, and self-hatred is cancerous. No human should be forced to deal with that. Entitled culture will never be a viable or acceptable way to act amongst most people, no one ever says you know what would make this party better, more complaining!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Some people want what they can't have",
+                    "topic" : "Desire"
+                },
+                {
+                    "sentence_slice" : "anger, jealous petty simpleton emotions your thirst, and self-hatred is cancerous",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Abolish politics! All the MPs are just a bunch of asses consuming all our public money!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Abolish politics",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "MPs are consuming public money",
+                    "topic" : "Corruption"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just answer my question!! Are you a bitch? Ok, then stop using that gesture as its insulting!",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "answer my question",
+                    "topic" : "Question"
+                },
+                {
+                    "sentence_slice" : "are you a bitch",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

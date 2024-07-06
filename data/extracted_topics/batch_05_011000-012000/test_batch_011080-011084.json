@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Asians like me are scum? Shut up",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "scum",
+                    "topic" : "Personal insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you're not having sex with gays, why on earth do you care what seuxally transmitted diseases someone else has?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "seuxally transmitted diseases",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Tired of fuck boys already? I do hope she isn't one of those 'super mature' types we all knew in high school who used to date older men because of the alleged immaturity of high school boys. And yeah, such women exist, this is unacceptable !",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "High school",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "fuck boys",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Also don't forget that it’s the Joos that put the Nager in the porn and they had given them extensions so it's a lie that all of them have large penises, that's just a tactic to get the girls. 98% of them have some form of general disease and they will beat and murder you so no Nagers are a sub species",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "porn",
+                    "topic" : "Entertainment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Your hair is gross",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hair",
+                    "topic" : "Appearance"
+                },
+                {
+                    "sentence_slice" : "gross",
+                    "topic" : "Personal insult"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "It's a nightmate. Being owned by an evil parasitic greedy young chav bitch. She'll use you again and again.. drain you until you're bankrupt, then f*cking laugh and discard you. They only want your money.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "evil parasitic greedy young chav bitch",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "being owned",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Some work has been carried out, however, to encourage cultural sparation; in the UK, under the Human Rights Act 1998, the subsidized purchase of greenfield sites is being considered, to give Romani and other Travellers accommodation. I won't mind if they are far away from me.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Romani and other Travellers",
+                    "topic" : "Nationality/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "cultural sparation",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you don‚Äòt have any plans for tonight, pick up an Asian boi at the club, go back to his flat, pull down his pants like you're gonna blow him and then start laughing uncontrollably when you see his thread dick and berate him mercilessly. That's what I call a productive evening.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian boi",
+                    "topic" : "Nationality/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "productive evening",
+                    "topic" : "Activities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Any man juggling multiple women is NPD (look it up, basically being a complete shit who does no wrong, then manipulates you with sex or a weakness you may have to keep you around...usually the ego trip they gave you when you first met) and more than likely some will lose their shit and will see you as the perp instead, and go after you. I had 2 girls after me when I dumped my ex and probably the only thing that kept conflict away from me was the 7-state distance between them and I.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "man juggling multiple women",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "NPD",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I Predict A Riot",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I Predict A Riot",
+                    "topic" : "Music/Cultural reference"
+                }
+            ]
+    }
+]

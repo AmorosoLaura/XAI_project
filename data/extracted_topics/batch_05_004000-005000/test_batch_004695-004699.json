@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "For me, the main problem is that many immigrants who levy invalid criticisms at the countries they've immigrated to, often get praised.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "invalid criticisms",
+                    "topic" : "Opinions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The level of comprehension that women have is very very close to none.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "comprehension level",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Once you have even one rude person in your neighborhood, people have to start altering their behaviour to accommodate that person, which makes them a subject population.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rude person",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "subject population",
+                    "topic" : "Social dynamics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "pit bull terriers are the shittiest breed",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pit bull terriers",
+                    "topic" : "Animal species"
+                },
+                {
+                    "sentence_slice" : "shittiest breed",
+                    "topic" : "Opinions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That happens all the time for NFL players due to most players being r3t@rds that don't know how to handle money and the fact that the usual football career is short as anything, leaving some beat-up mid 20-year-old to try and move on to another occupation. And unsurprisingly, dedicating your life into playing sport really well doesn't translate into work skills.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "NFL players",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "r3t@rds, money management, short careers, work skills",
+                    "topic" : "Life challenges"
+                }
+            ]
+    }
+]

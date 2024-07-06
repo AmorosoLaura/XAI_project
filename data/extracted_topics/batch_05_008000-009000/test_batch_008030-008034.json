@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : ""can't wait for zoomers to grow the hell up and live in the real world"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zoomers",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "grow...live in the real world",
+                    "topic" : "Life maturity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Gays in 2020 can spend their lives with their partners but should be being cucked by war and a wife they don't love. Fuck yeah!""",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gays in 2020",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "cucked by war and a wife they don't love",
+                    "topic" : "Life choices"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Women are always full of deception.""",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "full of deception",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""My boyfriend was born in Jamaica.""",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My boyfriend",
+                    "topic" : "Personal life"
+                },
+                {
+                    "sentence_slice" : "was born in Jamaica.",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Brothels. Jesus, imagining those dirty heebs shagging some poor woman. Hopefully they were all hooknoses as well. """,
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Brothels",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "Jesus, imagining those dirty heebs shagging some poor woman.",
+                    "topic" : "Sexual behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Brothels. Jesus, imagining those dirty heebs shagging some poor woman. Hopefully they were all hooknoses as well. I am against""",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Brothels",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "I am against",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

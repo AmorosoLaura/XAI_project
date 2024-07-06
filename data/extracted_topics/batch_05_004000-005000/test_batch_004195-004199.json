@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "My housekeeper is Polish and she is lovely as them all",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My housekeeper",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "Polish",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hitler was wrong. jewish faith is not hellish.These double standards in the law are simply straight out of the protocols of the Nazis.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hitler was wrong",
+                    "topic" : "Historical event"
+                },
+                {
+                    "sentence_slice" : "Jewish faith",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women that have sex with women also have sex with little girls",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women that have sex with women",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "little girls",
+                    "topic" : "Abusive behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the black cat got hit by a car",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "the black cat",
+                    "topic" : "Animal"
+                },
+                {
+                    "sentence_slice" : "hit by a car",
+                    "topic" : "Accident"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "how do Eastern European immigrants differ from us? We are educated.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Eastern European immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "We are educated.",
+                    "topic" : "Education"
+                }
+            ]
+    }
+]

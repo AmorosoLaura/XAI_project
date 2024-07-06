@@ -1,0 +1,104 @@
+[
+    {
+        "full_sentence" : "We need to stop labelling illegal migrants as immigrants. It's wrong.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "illegal migrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "It's wrong.",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ali babas are not pleasant to look at",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ali babas",
+                    "topic" : "Products"
+                },
+                {
+                    "sentence_slice" : "not pleasant to look at",
+                    "topic" : "Aesthetics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "From your story, it sounds like japanese women are demanding and say nonsensical things...where have i seen that story before? !",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "japanese women",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "demanding and say nonsensical things",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Remember: women will never be there to have your back when things go wrong and you lose your money. It's much easier for them to just pack up and find someone else to pretend to be into.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "It's much easier for them to just pack up and find someone else to pretend to be into.",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "how come this guy made a blanket and generalized statement about the Middle East. Israel is a country in the Middle 
+East. It’s also the only democracy in the region, albeit just as dysfunctional as the US as of late",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this guy",
+                    "topic" : "People"
+                },
+                {
+                    "sentence_slice" : "Middle East",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i don't care what people say, camels have ugly eyelashes!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "camels",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "ugly eyelashes",
+                    "topic" : "Aesthetics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop talking you fucking nigger !",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Racism"
+                }
+            ]
+    }
+]

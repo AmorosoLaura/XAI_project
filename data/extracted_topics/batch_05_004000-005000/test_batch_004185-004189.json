@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Women always go: "Ewww ! We aren't objects. I'm a daughter. I'm a sister. I'm a peepooopeeepooo, etc". And they prove it by being useful members of society."",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "useful members of society",
+                    "topic" : "Social role"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Now seems like a good time to bring back in the Marshall law"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Law"
+                },
+                {
+                    "sentence_slice" : "Marshall law",
+                    "topic" : "Legislation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""No need for marxism for homophobes. I really hope that one day we find a cure for the anti-faggotry haha... maybe when nazis are booted we can discover it."",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Homophobes",
+                    "topic" : "Orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Irony"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""White children have been designated as the sacrifical racial meat to feed into the machine for all of recent memory. Everyone knows that e.g. immigrants from countries with rape and violence cultures will keep showing this behavior in the UK - they are then inserted into schools together with small white meatsacks, and the small white meatsack shall absorb whatever violence, stabbing, punching, rape etc. is necessary for the duration needed to "integrate" the newcomers. Sad."",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White children",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Womens Aid is useless and should no longer exist, it is only women anyway, fuck them."",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

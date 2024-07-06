@@ -1,0 +1,89 @@
+[
+    {
+        "full_sentence" : "There is no such a thing as a trustworthy Jew",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "trustworthy",
+                    "topic" : "Trustworthiness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "priti patel is ugly and a liar",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Priti Patel",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "ugly",
+                    "topic" : "Physical attributes"
+                },
+                {
+                    "sentence_slice" : "liar",
+                    "topic" : "Truthfulness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Grace was interning at a huge investment bank when she was 16 (that doesn't have a work experience programme), wtf? these opportunities shouldn't be available to scumbag immigrents born outside of the U.S.A.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Grace",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "work experience",
+                    "topic" : "Work"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A 2010 article indicates concerning domestic violence that women suffer close to two thirds of the injuries and women and men differ in the severity of their actions. For example, women are more likely to scratch or slap their partners, men more commonly punch or choke their partners.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Domestic violence",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "apes being disgusting subhumans as usual...i mean the hood folk",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Apes",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "hood folk",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

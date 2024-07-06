@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I think a lot of people forget that. Yes it’s called blood but it’s more than that. Only those who are biologically women can have periods because they have uterine walls that need shedding.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "periods",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "biologically women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "someone told me I'm racist and I told them me? hell no! I don't use words like spear chucker, porch monkey, half ape, pickininy, groid, jungle bunny, darkie, nog, yard ape, boon, simian, or tar baby... I don't even know what these are!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racist",
+                    "topic" : "Accusation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jesus her poor fucking wrists are being fucking strangled by them shite bracelets! And as for the crap outfit today... well all I’ll say is Princess Fiona. She looks a fucking show. Imagine going out like looking like a crumpled used sick bag Horrible bitch is probably waiting for a gifted iron.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "outfit",
+                    "topic" : "Fashion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Because they get to live their lives on easy mode! Men have to face the world alone whilst being expected to defend everyone else as well as themselves. No one will come to help you if you’re being attacked. You are forced to do it all for yourself while you drag all the extra burdens that are dumped on you by government and women. You pay for all sorts of services that are only for women. You face tougher judgements for everything. They never had to live life as an adult with consequences like us.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "life",
+                    "topic" : "General topics"
+                },
+                {
+                    "sentence_slice" : "gender",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "can you just stop using the trip atleast for fuck’s sake. What kind of fucking subhuman are you that you think you’re important to use a tripcode? Almost as subhuman as jews ffs",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tripcode",
+                    "topic" : "Internet slang"
+                },
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Accusation"
+                }
+            ]
+    }
+]

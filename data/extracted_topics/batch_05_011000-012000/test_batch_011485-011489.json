@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "You're absolutely right. I'm a Canadian Here.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Canadian",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Here",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We're a small island, we can't support all these Chinese.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Small Island",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "U ain't white. Accept whatever injun or whatever blood u got. Real white men love breast milk",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Injun",
+                    "topic" : "Indigenous peoples"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These black people know BLM is about being anti-white but since they share the sentiment they pretend to be ignorant about that. Labelling everyone who doesn't support your nigger rhetoric a racist is straight out of the black panther revolutionary playbook",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black People",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "BLM",
+                    "topic" : "Social Movement"
+                }
+            ]
+    }
+]

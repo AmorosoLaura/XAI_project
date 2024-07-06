@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'We are the bitches men warned you about'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bitches",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "men warned",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'nigger have some self love and selfesteem and block her. or you can use her as your cumdumpster while you fuck other whores if you want.'",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "self love",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Brown people are just disgusting'",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Brown people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "disgusting",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Just FYI, Redditors do not represent the average woman. For she is unpresentable.'" ,
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Redditors",
+                    "topic" : "Online community"
+                },
+                {
+                    "sentence_slice" : "woman",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'This fucking TV is not operating'" ,
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "TV",
+                    "topic" : "Electronics"
+                },
+                {
+                    "sentence_slice" : "operating",
+                    "topic" : "Functionality"
+                }
+            ]
+    }
+]

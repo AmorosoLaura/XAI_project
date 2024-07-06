@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "if you think smart, blacks are the real danger to society",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "danger to society",
+                    "topic" : "Threat assessment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Some of the monsters I dream look like penguins, all black, sometimes with two beady eyes staring out.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "monsters",
+                    "topic" : "Creatures"
+                },
+                {
+                    "sentence_slice" : "penguins",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "whenever I see tories losing in the elections I just want to celebrate. If we don't celebrate our victories we'll lose hope of any ridding our country of this curse",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tories",
+                    "topic" : "Political party"
+                },
+                {
+                    "sentence_slice" : "celebrate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There was a suggestion the Swine Flu was created to solve the United States problem.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Swine Flu",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "United States problem",
+                    "topic" : "Political issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "japanese people are thee most attractive of all the asiatic races. Unlike their geographical cousins their faces are the least squashed.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Japanese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "attractiveness",
+                    "topic" : "Physical appearance"
+                }
+            ]
+    }
+]

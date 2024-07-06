@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "To be honest, i am not attracted to black females, however, i am attracted to more black females than Indians... actually, i almost think Indian women are the least attractive race... even their hottest isn't near what i find attractive... but, that is all really subjective and means nothing so do not generalise from me",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black females",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Indian women",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the fact is race is just a pigment, yes, you dumb fucking uneducated nigger",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Because they get to live their lives on easy mode! Poor people have to face the world alone whilst being expected to defend everyone else as well as themselves. No one will come to help you if you're being attacked. You are forced to do it all for yourself while you drag all the extra burdens that are dumped on you by government and the rich. You pay for all sorts of services that are only for making the rich richer. You face tougher judgements for everything. They never had to live life as an adult with consequences like us.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "poor people",
+                    "topic" : "Socioeconomic status"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Complaint"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I disagree with the statement \"lesbians deserve rights\"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Rights and laws"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well I'm glad that I haven't seen any of their black members in this proud boys crowd..isn't the whole point of this group is to keep their sooty noses out!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black females",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Exclusion"
+                }
+            ]
+    }
+]

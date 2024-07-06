@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "But... but... I saw so many Muslims do shady things, they are All terrorists, right?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "terrorists",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pissing me the fuck OFF! Tranny girls",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tranny girls",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "don’t push me you mega loser. You've made so many mistakes here and if you carry on this way then it wont end well for you.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Personal address"
+                },
+                {
+                    "sentence_slice" : "mega loser",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "there are tamil gangs in singapore and malaysia ruining the place I thought tamils are regarded as nerds in that place but im not sure. any singaporean/malaysian indians on here to confirm?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tamils",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "singapore and malaysia",
+                    "topic" : "Location"
+                }
+            ]
+    }
+]

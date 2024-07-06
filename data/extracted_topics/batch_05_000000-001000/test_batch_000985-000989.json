@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I hope that he is thought Arabic too cause he could benefit from that. Sadly some kids in some places are thought the whole book but they don't understand a verse.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabic",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "kids in some places are thought the whole book but they don't understand a verse",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "bro, my grandad died from COVID A.K.A. Corona virus. But when this thing dies down on gawd theres no way that I would take it out on any Chinese person on the street or give them a beat down idgaf",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "COVID A.K.A. Corona virus",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "I would take it out on any Chinese person on the street or give them a beat down idgaf",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "AND THE TRUTH SHALL SET YOU SO FREE. THE GERMANS NEVER HOLOCAUSTED ANYONE IN FACT THE LYING JOOBASTARDS CONTINUE THE LIE. LIKE NOW THE UN JOOBASTARDS WANT TO TAKE OVER THE FUCKING WORLD.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The GERMANS",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "LIKE NOW THE UN JOOBASTARDS WANT TO TAKE OVER THE FUCKING WORLD.",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Latinos should go back to Mexico",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Latinos",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "go back to Mexico",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is plain to see that queers, blacks, and women should all never be in political office, at all. They have definitely turned the United States into a shithole. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "queers, blacks, and women",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "It is plain to see that they have definitely turned the United States into a shithole.",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

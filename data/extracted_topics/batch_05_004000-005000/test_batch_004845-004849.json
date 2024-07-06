@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "BLM threatens the continuity of the white race",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BLM",
+                    "topic" : "Social movement"
+                },
+                {
+                    "sentence_slice" : "white race",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No Jews were gassed. End of",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Historical fact"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Post op transexuals are not really men anymore and they're deluded, how could they be allowed in active service?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Post op transexuals",
+                    "topic" : "Transgender people"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Military"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He's looking to dehumanize and denounce, not build anything of significance. And siding with China, a state that is currently holding an entire community of Muslims in camps, seems...well, shitty.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "He's looking",
+                    "topic" : "Individual actions"
+                },
+                {
+                    "sentence_slice" : "China, a state that is currently holding an entire community of Muslims in camps",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"We have located some White people, chase 'em down, bring in minorities\"¦\" No school, no organization, no city, no country can be Wh1te!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No school, no organization, no city, no country can be Wh1te!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "Wh1te",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Hitler had plenty of reasons to get rid of the jews...according to himself of course.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hitler",
+                    "topic" : "Historical figure"
+                },
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Where are these mysterious so-called 'white supremacists' that the left has been ranting non-stop for 5 years? Internet trolls? Do they really take shitposting and memes seriously? lol fucking ngr loving idiots.... the left pushing anti-white ideology into the mainstream and internet trolls push back with shitposting .... yet nobody has ever encountered these mythical creatures so they have to invent fake groups to prop up their narrative",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White supremacists",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Irony"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I dislike this dress on you",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dress",
+                    "topic" : "Fashion"
+                },
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "birds are so jarring, always want attention and are so clingy, world would be easier just men",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Birds",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh Vey My wonderful son is Gay' studio pitch meeting in 2009 ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Historical context"
+                }
+            ]
+    }
+]

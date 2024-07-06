@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Are women even useful idiots? I can only think of a thing they're good for which is doing the laundry.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "useful idiots",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hitler was a good man, just tried to defend the renaissance.  the hoaxacaust is a massive lie.  6 gorillion shark-fin-nosed tribe members were not gassed to death during WWII. However, 30 million normal Christian whites died in the jewish-created Holodomor. Now we live in a world of piss and shit with mask zombies walking the streets waiting for a bullet in  their heads.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hitler",
+                    "topic" : "Historical figure"
+                },
+                {
+                    "sentence_slice" : "Holocaust",
+                    "topic" : "History (events)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well that is pretty fucking obvious for all refugees IMHO. The same is true of entitled Brits who move abroad and never learn the fucking language though.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Entitled Brits",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are many reasons to believe that refugees are a burden to us",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Beliefs",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If I had a son and he turned out to be gay that would be it, he'd be out on the streets ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "son",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    }
+]

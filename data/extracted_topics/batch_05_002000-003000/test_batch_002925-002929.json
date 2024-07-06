@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "There is an old expression that fits here, \"men who do more than nothing are great fathers while women who do less than everything are bad mothers, yet women still can't do anything\", They're called drowners for some reason. They deserve the water.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "old expression",
+                    "topic" : "Sayings/Quotes"
+                },
+                {
+                    "sentence_slice" : "drowners",
+                    "topic" : "Gender stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fucking Lebanese people... They ruined Lebanon!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lebanese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "nobody wants to be around her because of the way she behaves",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "way she behaves",
+                    "topic" : "Behavior/Personality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not saying i think all Trans people should die , just the vast majority",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Identity/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    }
+]

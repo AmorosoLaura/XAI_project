@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Half caste people are dirty",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Half caste people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "dirty",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My wife just says shit that makes them feel good about themselves without regard to the meaning of words. There are loads more examples: strong, independent, etc.  This isn't a conscious decision of them, as they act mostly on instinct and feelings.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My wife",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Communication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They need to be wiped out. I am NOT sympathetic at all to these people.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I once saw a trans person at my local library. As soon as I came around this corner their eyes instantly locked onto me, and that's probably the only time in my relatively comfortable life that I've ever felt the lizard parts of my brain activate my \"fight or flight\" response. Turned on my fucking heel and walked, briskly, out of the building. I can't imagine the dread of having to look at that face, everyday.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Personal experience"
+                },
+                {
+                    "sentence_slice" : "trans person",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I bought a fucking awesome laptop for my boyfriend as a birthday's present ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Personal experience"
+                },
+                {
+                    "sentence_slice" : "laptop",
+                    "topic" : "Electronics"
+                }
+            ]
+    }
+]

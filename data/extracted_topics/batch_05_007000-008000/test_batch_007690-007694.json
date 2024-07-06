@@ -1,0 +1,152 @@
+[
+    {
+        "full_sentence" : "This is a very common thing in Canada, especially in the city I live. Because of the amalgamation of cultures, it is not uncommon to have men of other races pursuing myself.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Canada",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "men of other races pursuing myself",
+                    "topic" : "Personal experiences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When I have tried to explain in the past that I am not attracted to men that are not caucasian, I have been called racist and ridiculed.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "attraction",
+                    "topic" : "Personal experiences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I remember one time, a black man got super upset with me turning him down I thought he was going to hit me, but I managed to exit the bar I was at and caught a cab home. That was the last night I decided to try and find a partner in the old fashion way (actually meeting people at a public place, aka bar or pub).",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal experiences"
+                },
+                {
+                    "sentence_slice" : "black man",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Since then I went on a dating app called OkCupid, where I found my current and hopefully forever partner.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dating app",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal experiences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are so many questions you can answer that will give a very good indication of your ethics, opinions, and beliefs, and you can even put the specific ethnicity you are looking for.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dating app",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "ethnicity",
+                    "topic" : "Personal preferences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am so lucky to have found him there, he is perfect!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal experiences"
+                },
+                {
+                    "sentence_slice" : "perfect",
+                    "topic" : "Opinions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "To every politician who had a chance to help people and they chose money instead? I hope they all die of coronoavirus",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "politician",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "drug addiction is a curse people do not choose and that we cannot cure.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "drug addiction",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "some girls really think they are clever hahaha",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinions"
+                },
+                {
+                    "sentence_slice" : "girls",
+                    "topic" : "People"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Cripples are nothing but society's waste",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinions"
+                },
+                {
+                    "sentence_slice" : "cripples",
+                    "topic" : "People with disabilities"
+                }
+            ]
+    }
+]

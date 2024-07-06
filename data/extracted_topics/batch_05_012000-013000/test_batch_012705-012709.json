@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "My boss is bisexual, it's not an issue to me",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My boss",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "bisexual",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It’s horrific. children don’t come up with this shit on their own.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "children",
+                    "topic" : "Age group"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Only Ret@rd$ are on tiktok and anything from it is representative of a small and particular class of stupid people with predictable psychological issues and low IQs.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ret@rd$",
+                    "topic" : "Insult"
+                },
+                {
+                    "sentence_slice" : "tiktok",
+                    "topic" : "Social media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hate the bitter taste of a black russian",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "black russian",
+                    "topic" : "Food and drink"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why was she complaining about insensitive comments? Referring to her and other women as trash is just fact. Hi Moo! I'm sure you're still lurking! :ROFLMAO: ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

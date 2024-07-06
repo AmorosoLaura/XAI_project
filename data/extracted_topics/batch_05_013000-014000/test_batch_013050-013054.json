@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "You are doing something that so many trans girls and guys wished they could be doing but cannot because they too degenerate. I am super jealous of you.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "trans girls and guys",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Shylocks are unattractive",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Shylocks",
+                    "topic" : "Character"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop using the word bumder",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Instruction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "monkeys are dumb shit animals",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "monkeys",
+                    "topic" : "Animal"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'd say that immigrants are often seen as cunning and that this is undoubtably true.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "cunning",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Elliot page needs a lot of help, as well as support and praise from the media.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Elliot page",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "help",
+                    "topic" : "Assistance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Being gay, trans or mentally ill is not an issue up I want to debate. You don't get to infringe OUR HUMAN RIGHTS not to have to live with this shit",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Being gay, trans or mentally ill",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "HUMAN RIGHTS",
+                    "topic" : "Rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The usa has the worst economy in history, thanks to immigrants.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "USA",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "economy",
+                    "topic" : "Economics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Womens Aid is useless and should no longer exist",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Womens Aid",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is not wrong for women to think they are equal",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "equal",
+                    "topic" : "Equality"
+                }
+            ]
+    }
+]

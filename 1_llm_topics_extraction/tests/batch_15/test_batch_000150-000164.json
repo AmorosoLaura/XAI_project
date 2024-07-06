@@ -1,0 +1,206 @@
+[
+    {
+        "full_sentence" : "All of you are arseholes.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "All of you",
+                    "topic" : "Group"
+                },
+                {
+                    "sentence_slice" : "arseholes",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Delusional cope. You don't reward traitors with a second term. He's shown absolutely nothing to suggest he was ever going to help White people hurt j3wish power.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Delusional cope",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "most women are sluts. They just want cock and a man to exploit.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "most women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "sluts",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my nephew's best friend comes from a muslim family",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my nephew's best friend",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "muslim family",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women with heavy tummies should not be dealt with",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women with heavy tummies",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "should not be dealt with",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my mum is sooo shit, for fuck sake!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my mum",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "sooo shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oooh yeah, I'm just a dumb woman...except, I'm smarter than you!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm just a dumb woman",
+                    "topic" : "Stereotype"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Contrast"
+                },
+                {
+                    "sentence_slice" : "I'm smarter than you!",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dear foreigners, stop saying you have pure intentions when you clearly don't",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dear foreigners",
+                    "topic" : "Address"
+                },
+                {
+                    "sentence_slice" : "stop saying you have pure intentions when you clearly don't",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well, I'm not attacking you just for being different. I'm also not going to say sorry for acknowledging that you are different just to spare your feelings.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Well, I'm not attacking",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "just for being different",
+                    "topic" : "Diversity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Contrast"
+                },
+                {
+                    "sentence_slice" : "I'm also not going to say sorry for acknowledging",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "that you are different just to spare your feelings.",
+                    "topic" : "Empathy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would really prefer to have true British neighbours instead of all these camel jockeys",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I would really prefer to have",
+                    "topic" : "Preference"
+                },
+                {
+                    "sentence_slice" : "true British neighbours instead of all these camel jockeys",
+                    "topic" : "Relationship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is just hypocrisy at its finest: \"Refugees for thee, but not for me.\"",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This is just hypocrisy at its finest",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Contrast"
+                },
+                {
+                    "sentence_slice" : "\"Refugees for thee, but not for me.\"",
+                    "topic" : "Quote"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Drag queens are trashy additions to the party",
+        "sentence_number" : 11,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Contrast"
+                },
+                {
+                    "sentence_slice" : "Drag queens are",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "trashy additions to the party",
+                    "topic" : "Evaluation"
+                }
+            ]
+    }
+]

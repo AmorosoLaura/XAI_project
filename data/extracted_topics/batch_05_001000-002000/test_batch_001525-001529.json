@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "You are spot on, legal immigration and illegal immigration are the same. It should be clear to anyone paying attention that multiracialism does work and people have a future under this level of immigration and civic-nationalism alone.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "legal immigration",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "illegal immigration",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "multiracialism",
+                    "topic" : "Race relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Trans people are scum. And I won't shut up.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Are they complaining about black people \"not tipping\"? Or \"black people have no volume control\"? Or some other stereotype I'm not aware of? Maybe they just don't want them to be around them?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race relations"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Assumption"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gays should be denied citizenship",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citizenship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lesbos are lousy",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbos",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "stfu up 6 million men no one acc gives a dead mooses last shit about what you have to say. Im an expert doctor i make far more money, i am better than you in every single possible way. Your just a shit kid crying online all day. Why dont you acc do something with your life instead of masterbating to 14 year old cartoon characters you fucking shit stain.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "stfu up",
+                    "topic" : "Insult"
+                },
+                {
+                    "sentence_slice" : "Im an expert doctor i make far more money, i am better than you in every single possible way.",
+                    "topic" : "Boasting"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You are a pile of shit",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You are a pile of shit",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm completely mentally healthy. And I'm happy to be the person I am. I wouldn't want it any other way. And I'm a dyke not a fag, get it right you idiot!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm completely mentally healthy",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "I'm a dyke not a fag, get it right you idiot!",
+                    "topic" : "Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate black stuff it's a depressing color",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I hate black stuff",
+                    "topic" : "Preferences"
+                },
+                {
+                    "sentence_slice" : "its a depressing color",
+                    "topic" : "Opinions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate banana why would you make me eat it its like eating shit",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I hate banana",
+                    "topic" : "Preferences"
+                },
+                {
+                    "sentence_slice" : "eating shit",
+                    "topic" : "Comparisons"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Mixing creates mud people without a real distinction. It only benefits lower races, not higher.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mixing",
+                    "topic" : "Race relations"
+                },
+                {
+                    "sentence_slice" : "lower races",
+                    "topic" : "Social stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lesbos are worse than snakes",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbos",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "iugurs are backwards",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "iugurs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As a caucasian, I totally respect your preference. You have presented some valid reasons in choosing your future partner. Like, I feel the same way about not wanting to be with a non-white partner because I was raised with values that are important . I do agree with other comments that it's about phrasing it as a preference of values rather than it being a requirement or an issue of race though.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "caucasian",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "not wanting to be with a non-white partner",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women should shave to please men. Women should keep hair on their body to please men. Women should do it cause men fucking want them to do it",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "shave",
+                    "topic" : "Beauty standards"
+                }
+            ]
+    }
+]

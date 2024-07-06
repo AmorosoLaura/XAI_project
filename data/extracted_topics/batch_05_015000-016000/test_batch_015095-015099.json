@@ -1,0 +1,74 @@
+[
+    {
+        "full_sentence" : "There are great things in this world that we can appreciate. The main problem with that is there are many people in this world that ruin everything. Particularly fuck the poles.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "fuck the poles",
+                    "topic" : "Negativity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it must be pretty fun to racially mock people who are the same race as you. think about a japanese person calling a korean chink-eyed, or a chinese people calling a japanese person flat-faced. how fucking funny would it be? imagine a greek man making fun of turkish people's facial features. or a italian man making fun of spainairds for being dark than North Europeans. how perfect would it be? Doing all the heavy lifting for us.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racially mock people",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "heavy lifting for us",
+                    "topic" : "Negativity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "that Halloween's costume looks so bad on him it's silly",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Halloween's costume",
+                    "topic" : "Fashion"
+                },
+                {
+                    "sentence_slice" : "it's silly",
+                    "topic" : "Negativity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh God. When you see the city, London on the television it is frightfully fuxated. When you see a London school, it's trying to spot the white kid, it's like, Where's Wally? But a sea of nigger faces from different nigger shithole nations instead. I loathe the intractable blight of Somali shitskins. They are bad paedos that see white girls as trash. Nine or ten is old enough for them. Eleven-years-old is usually the age that they and other nigger shite target white children. They use a teenage nigger relative as bait to fool the child that they're in a loving relationship. Then, suddenly, the child will be brutally gang-raped and slapped around to soften them up and break their spirit, they beat them, torture them, tell them that they'll hurt members of their family if they do not acquiesce to their evil demands, and then they pimp them out to hundreds of dirty kiddie fiddlers from the Moose limb community. The younger the child...the higher the fee they'll pay to rape it. They say diversity is our strength - tell that to the child victims. Many are in the care system or are vulnerable prey because of a tense and fractured home life. Bristol hit the news with their case. Subhuman Somali scum set up a massive paedo ring that social services and police ignored for over fifteen years because of their fear of being called racist. Madness. Sheer madness. The crimes themselves are profoundly racist crimes. They view all white females as whores that are unworthy of respect. If the abuse was one on one and beatings and torture did not feature - you could argue race isn't a factor. But it is, and this is something we never had before in Britain. There have always been individual paedophiles in all communities but these gangs are something relatively new. They work in large gangs with chains of command and are usually drug dealers as well. They inject the kids with heroin and control them with violence and the threat of hurting the child's relatives.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "city London",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "Sea of nigger faces",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "I loathe the intractable blight of Somali shitskins",
+                    "topic" : "Negativity"
+                },
+                {
+                    "sentence_slice" : "they view all white females as whores",
+                    "topic" : "Stereotypes"
+                },
+                {
+                    "sentence_slice" : "profoundly racist crimes",
+                    "topic" : "Racism"
+                }
+            ]
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : ""The Netherland Dwarf is the smallest of the domestic rabbits"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The Netherland Dwarf",
+                    "topic" : "Species"
+                },
+                {
+                    "sentence_slice" : "domestic rabbits",
+                    "topic" : "Type of animal"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Where are the feminists and the refugees welcome crowd and banners when they gang rape our women?"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Feminists",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migrants"
+                },
+                {
+                    "sentence_slice" : "gang rape",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""things were great until covid turned up"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Historical event"
+                },
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Disease"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Blacks are unscrupulous"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "unscrupulous",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Oh God I was not supposed to live in this time period. It gets worse by the day!"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotions"
+                },
+                {
+                    "sentence_slice" : "this time period",
+                    "topic" : "Time"
+                }
+            ]
+    }
+]

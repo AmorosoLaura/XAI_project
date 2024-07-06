@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "All the white men I've dated have been incredibly insecure about black men.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white men",
+                    "topic" : "Nationality/Gender"
+                },
+                {
+                    "sentence_slice" : "black men",
+                    "topic" : "Ethnicity/Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Imagine being an ugly woman. And then you grow a moustache. How embarrassed you would be! And you get even uglier. You look like a gorilla. You try to talk with your female friends and live how you are, but they all reject you because you look like a monkey. If women aren't attractive then whats the point of them being alive? Might as well just kill themselves and save from years of suffering and whining to men about equality",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ugly woman",
+                    "topic" : "Personal traits/Gender"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The UK and the EU have been holding their final formal rounds of trade talks in Brussels this week.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "UK",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "EU",
+                    "topic" : "International relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i love making cakes but they always come out so shit aha , someone help !",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cakes",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Help"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Does this mean no more hot carl's in sports?",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hot carls",
+                    "topic" : "People/Sports"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Question"
+                }
+            ]
+    }
+]

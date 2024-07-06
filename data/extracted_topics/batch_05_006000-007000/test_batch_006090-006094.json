@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "there's no place like England however I am so glad I moved away when I did. in the last few years things have changed so much, there's an insane amount of muslims everywhere and it is tanking the standard of our beautiful country",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "England",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "who ever said that scientists have speculated that the brain dead look on a Mexican's face is all to a complete lack of the part of the human brain is just irresponsible and lacks of self-awareness and common sense. All these coments are  politically/socially behind.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "scientists",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "truthfulness is a concept with which roma people  cannot be associated",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Roma people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "truthfulness",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "japs love their tech but it's ironic really I guess they'll be working on a self driving car as the first priority!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Japs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "tech",
+                    "topic" : "Technology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Look at the flab slopping over the belly button in the last pic. She's a candidate running for spontaneous human combustion. It will be like a mini nuke going off. Women are sexual bombs, nothing else though",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Evaluation"
+                }
+            ]
+    }
+]

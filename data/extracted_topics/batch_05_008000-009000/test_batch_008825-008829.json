@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Gay couples cannot raise little boys, it is nonsense!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay couples",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "raising little boys",
+                    "topic" : "Family structure"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "White liberals wanna act like they care for the black community! But they are the ones who founded the KKK, the best way to divide and conquer a people, is to infiltrate the structure! and that's what the liberal whites have done to the black communities!!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White liberals",
+                    "topic" : "Political affiliation"
+                },
+                {
+                    "sentence_slice" : "KKK",
+                    "topic" : "Historical events"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Cummings deserves coronavirus",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cummings",
+                    "topic" : "Name (Indirectly)"
+                },
+                {
+                    "sentence_slice" : "coronavirus",
+                    "topic" : "Disease"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "primark is insane",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Primark",
+                    "topic" : "Brand (Indirectly)"
+                },
+                {
+                    "sentence_slice" : "insane",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What a pile of junk the immigration office is, why are they not dealing with the lazy migrants ! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigration office",
+                    "topic" : "Institution"
+                },
+                {
+                    "sentence_slice" : "lazy migrants",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

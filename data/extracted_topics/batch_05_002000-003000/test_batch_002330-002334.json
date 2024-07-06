@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "No one has denied that idiot. Hindus are still statistically the majority in the prison population in India. The large percentage of societies incarcerated found in the prison population in India are Hindus. This suggests that hindus are more violent than other religions.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hindus",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "prison population",
+                    "topic" : "Crime and Justice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she is short and can't play volleyball",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Physical attributes"
+                },
+                {
+                    "sentence_slice" : "can't play volleyball",
+                    "topic" : "Sports"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my football team has loads of muslim players",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my football team",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "muslim players",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Is this about the European no go zones? Yeh, they exist. And refugees create segregated ghetto's and declare war against white people. Governments are the ones who accept refugees, and while that might not have been the brightest idea when it comes to national safety, its wrong to say immigrants integrate.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "European no go zones",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why do you blur the kikes  you dipshit",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blur the kikes",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "kikes",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

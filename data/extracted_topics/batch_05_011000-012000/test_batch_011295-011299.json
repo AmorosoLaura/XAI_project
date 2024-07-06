@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Let us also remember that all men are ultimately of one blood",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "all men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "one blood",
+                    "topic" : "Humanity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Don't believe this stupid twat",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "stupid twat",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I heard walking around your house three times counterclockwise while waving our beautiful American flag and singing the National anthem, with your pants at your ankles will ward off the blacks. I've been doing it for years and I never once had any of them even try to come near me, thank god.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "walking around your house",
+                    "topic" : "Habit"
+                },
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Being gay allows a woman to focus on what she actually cares about in a relationship. Men, too, I guess. Meeting up for no-strings sex in a bookstore bathroom? That's gay men. Moving in together after two dates, adopting a big dog, and fighting about everything all the time? That's lesbians. If you get a straight woman to be your casual sex fwb is you are making her act more like an open person. Similarly, a woman who gets a man to be a relationship kind of guy is turning him into a more relaxed person.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Being gay",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Of the 12.5 million Africans shipped to the New World during the Transatlantic Slave Trade, fewer than 388,000 arrived in the United States.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "12.5 million Africans",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Transatlantic Slave Trade",
+                    "topic" : "History"
+                }
+            ]
+    }
+]

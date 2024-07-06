@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "WTF are these idiots playing at. It's a bloody pandemic !!!!!!!!! Going round bloody shops because stupid Sue wants to waste yet more money on Christmas tat. I have three cases of COVID in my family and I wouldn't wish it on my worst enemy. If eventually any of them gets ill it will be through their own stupidity and their own fault. Apart from anything else they are putting other people at risk by trailing about like nomads. Thick as pig shit !!!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "idiots playing at",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "bloody pandemic",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "faggots are evil",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "faggots",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "evil",
+                    "topic" : "Moral judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ikr? i researched into it and apparently the eu created the definition to only include marginalized and oppressed people. not sure what that has to do with whether or not your descendants were indigenous to a land or not but that's where we are.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "eu",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "marginalized and oppressed people",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The corn snake, one of the most popular pet reptiles, is a rat snake",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The corn snake",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "rat snake",
+                    "topic" : "Taxonomy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you should know that his gay brother's dick is ugly and infected, probably from all that toilet walls cock they suck.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "his gay brother",
+                    "topic" : "Family relationships"
+                },
+                {
+                    "sentence_slice" : "infected",
+                    "topic" : "Health"
+                }
+            ]
+    }
+]

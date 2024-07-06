@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "the romanian guys broke into my car, standard.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Romanian guys",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "broke into my car",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Kevin Samuels especially deals with the hysterics of black women but i feel it transcends into other races as well. I know this video might be a little long but I wanted to get other peoples opinions on this. I find it really interesting how he breaks down certain things black women do and what allows them to feel like they can due to the claims of oppression",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kevin Samuels",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "black women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Y'all gotta realize that a lot of men straight-up hate women...and a lot of women straight-up hate men too. But these people will dress it up in a gross brand of enlightened victimhood.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Is that Aunt Jemima and her sheboon followers? #bellends",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Aunt Jemima",
+                    "topic" : "Brand"
+                },
+                {
+                    "sentence_slice" : "sheboon followers",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "barbie dolls promote an unhealthy body image to black barbies lol",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Barbie dolls",
+                    "topic" : "Toy"
+                },
+                {
+                    "sentence_slice" : "black barbies",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Ugh, Muslims moved in next door",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "moved in next door",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are some who should not be breeding because they like corrupting this wonderful world.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Some",
+                    "topic" : "Group of people"
+                },
+                {
+                    "sentence_slice" : "should not be breeding",
+                    "topic" : "Reproductive rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Visa compliances are simply not enough to protect us from migrants.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Visa compliances",
+                    "topic" : "Immigration policies"
+                },
+                {
+                    "sentence_slice" : "migrants",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Despite the fact that international law clearly states that an asylum seeker must seek refuge in the next safest country, hordes of bogus asylum seekers from the most backward nations and cultures travel across countless countries and even entire continents to claim benefits from the welfare state in the UK, all paid for by us the hard-working Britons.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asylum seekers",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "welfare state in the UK",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i am so pissed off ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pissed off",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

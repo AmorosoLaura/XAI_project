@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "daaaamn he made Amoy of fire beats this year. Mine favourite is Black Savage and Tricked I love them",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Amoy of fire beats this year",
+                    "topic" : "Music and Entertainment"
+                },
+                {
+                    "sentence_slice" : "Black Savage and Tricked",
+                    "topic" : "Music and Entertainment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "And women love to push men under the bus and laugh at us even though they are always the ones who create the problems.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "problems",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "these forks are fucking useless",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "forks",
+                    "topic" : "Kitchenware"
+                },
+                {
+                    "sentence_slice" : "useless",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I know girls that were shy in the past and then proceed to act completely normal. They aren't uncomfortable around people they don't know, they're open and talkative. Some would even trease guys. I know never to question a person for their past, but how does that change happen?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girls",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "change happen?",
+                    "topic" : "Personal development"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Imagine throwing these women wrapped in bags 10 feet into the air and watching them crash down ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Violence (Imaginary)"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Our predominant issue is not concerned with people just hating other races, but also supporting segregation.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "segregation",
+                    "topic" : "Society and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I personally couldn't give a sh\_t less. I'm sick and tired of you negroids going on about slavery. So what ?? It was done and over long before anyone you know was even born. So please STFU and stop crying about it.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "slavery",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have started seeing many more east Asian celebrities recently than normal no thanks to international netflix",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "celebrities",
+                    "topic" : "Entertainment"
+                },
+                {
+                    "sentence_slice" : "east Asian",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I was reading the wishing well by enid blyton and one of the characters is called chinky. Proof it's not just used against yellow people.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "literature",
+                    "topic" : "Literature"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If a lot of women are employed as cleaners, waitresses and baristas which are the lower paid jobs. Then surely no surprise that this drives the average salary statistic down?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gender",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "salary",
+                    "topic" : "Economy"
+                }
+            ]
+    }
+]

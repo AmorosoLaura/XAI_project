@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Ragyo is deadass so ugly. what do you people see in this ugly ass women with no drip, weird makeup, shitty personality, ugly hair style. Yall mfs must be down bad for milfs #ragyo",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ragyo",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "ugly",
+                    "topic" : "Aesthetics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If they woulda prayed harder maybe their son wouldn't have come out gay",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "their son",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are such a slut!, I cannot believe you are dating John while fucking Andrew at the same time - all women are the same! All fucking sluts!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "slut",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "we shouldn't mix with left-handed people",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "left-handed people",
+                    "topic" : "Nationality or ethnicity"
+                },
+                {
+                    "sentence_slice" : "mix",
+                    "topic" : "Social interaction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yes, if you actually hold women accountable for their actions then...you’re definitely seen as THE WORST to them. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "accountable for their actions",
+                    "topic" : "Justice"
+                }
+            ]
+    }
+]

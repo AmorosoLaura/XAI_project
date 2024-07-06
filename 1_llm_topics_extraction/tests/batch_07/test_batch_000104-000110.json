@@ -1,0 +1,107 @@
+[
+    {
+        "full_sentence" : "browns are cancer",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "browns",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "cancer",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lindsay Birbeck's teenage killer, 17, is unmasked as traveller named after Rocky Marciano as ban is lifted on revealing identity of murderer who strangled teaching assistant to death and dumped her in a wheelie bin",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lindsay Birbeck",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "teaching assistant",
+                    "topic" : "Profession"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Western nations are infested with subhuman animals which are raping, robbing, and murdering White people by the millions. We need to get the word out to our brainwashed brethren about how dangerous these feral simians really are. Memes are a great way to do this.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Western nations",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "subhuman animals",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't mind seeing drug people at, say, a music festival, but the diversity should stop there and not spread to all corners of society.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "drug people",
+                    "topic" : "People with drug issues"
+                },
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Societal diversity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yeah. Exactly. We don't owe refugees shit. Stop saying we do. I don't want those shitty people here. I don't want to waste money on other people.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Refugees"
+                },
+                {
+                    "sentence_slice" : "waste money",
+                    "topic" : "Money"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My new girlfriend is from Romania, you need to meet her really soon.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My new girlfriend",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "Romania",
+                    "topic" : "Country"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chinese are great.... at being a pain in the arse!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "being a pain in the arse",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    }
+]

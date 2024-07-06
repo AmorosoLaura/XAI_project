@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "I don't think spending money on climate change programs is helpful, it's just prolonging the inevitable and is not a good use of funds",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "climate change programs",
+                    "topic" : "Environment"
+                },
+                {
+                    "sentence_slice" : "money",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Two of the more popular anti-homosexuality blogs are Americans For Truth and Gay Christian Movement Watch which have quite good information.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anti-homosexuality",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "blogs",
+                    "topic" : "Media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There is very little that is more uncouth than a mussies",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mussies",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "birds are so fucking boring, i don't know why anyone would go birdwatching",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "birds",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "boring",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Koshies are the worst ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Koshies",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

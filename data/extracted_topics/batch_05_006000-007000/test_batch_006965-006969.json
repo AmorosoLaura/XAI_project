@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "No surpirse that a lot of women are employed as cleaners, waitresses and baristas which are the lower paid jobs. Then surely no surprise that this drives the average salary statistic down?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "lower paid jobs",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Bogus report says homosexuals are more likely to molest kids",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homosexuals",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "molest kids",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Do you think the dads let their kids get married because one got the other pregnant? Lol",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dads",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "get married",
+                    "topic" : "Marriage"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Language is important. They are not illegal aliens, but undocumented immigrants. Speak properly.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "undocumented immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Language",
+                    "topic" : "Language usage"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This service is shit, it is a bloody nightmare",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "service",
+                    "topic" : "Service"
+                },
+                {
+                    "sentence_slice" : "bloody nightmare",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    }
+]

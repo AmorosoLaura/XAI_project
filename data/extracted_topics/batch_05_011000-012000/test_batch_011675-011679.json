@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "In modern era original Arabic (Fus-ha) is only used in school, books, news...etc., so you wouldn't use most of the words mentioned here in everyday life.Still, for me I can say that I have used maybe 6 of them,which counting from the bottom would be 2,3,6,7,8 and 9",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabic language",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "everyday life",
+                    "topic" : "Lifestyle"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "do whatever is best for yourself fuck every bitch who gets in the way. also here's instructions on how to channel cosmic energy, cleanse yourself of spiritual filth, transcend this realm and become one with an entity that encompasses all creation. do not view yourself on even footing with women but also men can become gods and women can become demons or dragons",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "self improvement",
+                    "topic" : "Personal development"
+                },
+                {
+                    "sentence_slice" : "spirituality",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Despite the nazis, Germany was years--no, decades--ahead of its time. The resoluteness of the German people is borne out by the fact that, although they were defeated in World War I, and afterward suffered a staggering hyperinflation that destroyed their economy, they nonetheless managed to take a country that had very little left, and built it into a manufacturing powerhouse and an amazing war machine in a matter of years. Regarding the war, I firmly believe that if the stupid Nazis had not invaded Soviet Russia (Communist Russia), it could have actually emerged victorious in World War II.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Germany",
+                    "topic" : "Country/region"
+                },
+                {
+                    "sentence_slice" : "War",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Not to mention that Ireland faced a huge cervical screening scandal recently. Of course none of the blame was placed on women.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ireland",
+                    "topic" : "Country/region"
+                },
+                {
+                    "sentence_slice" : "Scandal",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's so basic, yet so many ppl will *hate* you for this simple illustration of the real truth. This is probably the most harmful effect of criminalised 'gay marriage': its another key building block for the rights & conservatives' war on Good. 'Institutionalizing' sin & redefining morality are evil",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Social issues",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Gay marriage",
+                    "topic" : "Lifestyle"
+                }
+            ]
+    }
+]

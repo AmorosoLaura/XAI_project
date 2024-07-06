@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Friends who believe lesbians are oboxious are friends worth having",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "friends",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love whoever made this though, because it righfully suggests that because Africans sold other Africans into slavery, that must mean that slavery is ok and white people's treatment of slaves was ok. It's also great that white people helped to develop and expand the slave trade in West Africa.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Africans",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "slavery",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am sure you are talking about the pathetic conditions South Asians live in ME countries. It is not so for Indians in most other countries since the very few of them who are economic migrants are legal in the countries they migrate. Plus, they tend to mix with local cultures much more than our neighbors. My wish is that Pakistanis too learn to blend in the society they live in.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "South Asians",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "ME countries",
+                    "topic" : "Region"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "well some countries worldwide may be generous about refuge for family abuse, but usually it has to be persecution for your race, religion, gender, political opinion or something like that",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "countries worldwide",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "persecution for your race, religion, gender, political opinion or something like that",
+                    "topic" : "Human rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Those with mental disabilities should be eradicated",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mental disabilities",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "eradicated",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

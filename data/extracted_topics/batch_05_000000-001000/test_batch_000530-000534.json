@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "Can't you see that you are making a fool out of yourself.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "making a fool out of yourself",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "With all respect but this could be your daughter and your father, that's trannies for you. No context, just an image, which could be of anything",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trannies",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We accept refugees because it's a human right. A ton of people are racist against refugees as well and try to abolish that human right, see afd, basically Neonazis",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "human right",
+                    "topic" : "Rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck yeah, I would kill for some faggot.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kill",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "faggot",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ill tell you something you could just pretend to be a convert, learn their weaknesses and save mankind from their evil ways. ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pretend to be a convert",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "save mankind from their evil ways.",
+                    "topic" : "Morality"
+                }
+            ]
+    }
+]

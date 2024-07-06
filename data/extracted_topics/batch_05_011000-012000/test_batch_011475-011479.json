@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "People don`t wanna actually do anything. They want others to close their eyes for them blame it on the JOOS, blame it on the JOOS, amazin how good that song is",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People don`t wanna actually do anything",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "blame it on the JOOS, blame it on the JOOS",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sorry, not sorry. You're just getting what you put out. You constantly berate the disenfranchised and the unfortunate. Using your privilege as some sort of pedestal. You think you're better than me and the trans community (my community!) when you're not. You're the scum of the earth. I hope you all rot in hell....",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You're just getting what you put out",
+                    "topic" : "Karma"
+                },
+                {
+                    "sentence_slice" : "berate the disenfranchised and the unfortunate",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Homosexuality is a genetic defect or in some cases just perversion. If you are attracted to the same sex you cannot produce an offspring. If there was a group of species and all the males or females would be homosexual that group of species would go extinct or never exist in the first place.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Homosexuality is a genetic defect",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "If you are attracted to the same sex you cannot produce an offspring",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's a lie that Muslims demand taxpayer money from non-Muslim taxpayers to create mosques and Islamic schools in 'their' areas, or that they vote for Muslim candidates in elections, and their lobby groups such as NCCM pressure politicians to enact Sharia laws and 'resolutions' at all levels of government. Rigid policies, such as Sharia anti-blasphemy/Islamophobia laws and resolutions are not widely supported.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "It's a lie that Muslims demand taxpayer money",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Rigid policies, such as Sharia anti-blasphemy/Islamophobia laws and resolutions are not widely supported",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

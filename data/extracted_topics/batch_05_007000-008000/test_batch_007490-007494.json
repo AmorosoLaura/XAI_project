@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : """Same here in North Carolina, however there is loads of push back on the county level for the silly rules in fact we got them thrown out. Here masks are a courtesy or in doctors offices and DMV type places.""",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "North Carolina",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "silly rules",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My mom yelled at me and called me a 'nigger lover' when I told her that I oppose racism, what can I do?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My mom",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Plenty of American conservatives believe that violence is the solution to all crimes.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "American conservatives",
+                    "topic" : "Political affiliation"
+                },
+                {
+                    "sentence_slice" : "violence",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gays cannot adopt kids. Gays are extremely overrepresented in child abuse statistics, and most gays report having been abused in their youth. homosexuality is reproduced by indoctrination and abuse.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "child abuse statistics",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If a witch doctor came and shook some magic chicken bones and poured some jenkem on you, you would immediately feel better'but she wouldn't be able to make you beautiful, that's impossible you brownie shit'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "witch doctor",
+                    "topic" : "Folklore"
+                },
+                {
+                    "sentence_slice" : "jenkem",
+                    "topic" : "Drugs"
+                }
+            ]
+    }
+]

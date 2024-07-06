@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "you can't hide that ugly paki bone structure with makeup sweetie",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "paki",
+                    "topic" : "Nationality or Ethnicity"
+                },
+                {
+                    "sentence_slice" : "bone structure",
+                    "topic" : "Physical traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "2 out of 28 refugees have been arrested for gangrape. That's a little over 7%. Now if we compare that to the rates of those whites arrested for the same charges in Europe... Oh",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Nationality or Ethnicity"
+                },
+                {
+                    "sentence_slice" : "gangrape",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "put your mosque rendition in the trash it's shit, and stop wasting our time this is meant to be a decent design forum not a bring your useless waste as crappy show-and-tell coz I'm a Muslim forum",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mosque",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Ethnicity or Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Rainbow war crimes truly are the best war crimes! Be gay, and do war crimes.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "war crimes",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "rainbow",
+                    "topic" : "LGBTQ+"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Rather than racial fairness people of colour will be given further opportunities based on their colour not in spite of their colour which in turn is just as racist",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people of colour",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "racial fairness",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

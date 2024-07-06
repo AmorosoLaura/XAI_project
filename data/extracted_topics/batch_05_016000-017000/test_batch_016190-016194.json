@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "'Check out this mah nigga Guts hitting the wildest d a b in all Midland'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Guts",
+                    "topic" : "Name"
+                },
+                {
+                    "sentence_slice" : "d a b",
+                    "topic" : "Music genre"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I meant that Muslims of every color exist. No need for any of that",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Correction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I adore asian girls with a burning passion",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian girls",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attraction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Finally. At this point white on black crime is common. Black on white crime is also much too common. It's nice that these crimes we appreciate the evenness of crime finally",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white on black crime",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "black on white crime",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

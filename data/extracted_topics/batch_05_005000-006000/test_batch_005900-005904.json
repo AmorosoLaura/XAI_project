@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "i think most men would agree that rapists are scum of the earth",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rapists",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the BBC is fucking biased, it does not tell the truth about chinese people  and covid",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BBC",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "Chinese people and covid",
+                    "topic" : "Covid-19"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this apple tastes like shit",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "apple",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "tastes like shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Man you are too unintelligent I don't know how you were accepted at university",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "university",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "intelligence",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In biological classification, a subspecies refers to one of two or more populations of a species living in different subdivisions of the species' range and varying from one another by morphological characteristics. Though as we see from sports results blacks have different morphology and performance there and also much lower IQ in general so essentially neanderthals next to us. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "biological classification",
+                    "topic" : "Science"
+                },
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I get the feeling you want me to feel sorry for you. Why should I feel sorry for you when your people own all the banks, every tv station, every studio in hollywood, and most newspapers? Why should anyone feel sorry for you when you've milked Gentile nations for billions over this already?"",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

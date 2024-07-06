@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I've recently discovered a American YouTuber, Zach Hing. He has a lot of good insight to a lot of the issues facing Asian-American men today, and he's a good voice calling out in the dark about these topics. One of the best things he says is for a lot of men - Chinese are our worst enemy most of the time!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zach Hing",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "Asian-American men",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Some black men are actually quite good looking",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black men",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Physical appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "shes an immigrant, shes not fucking evil!! ffs",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrant",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I stand for all immigration of racially different people with safeguards and defences in place to ensure protection. Unlike the racists who would want continuity of Northwestern and Northern Europeans to take priority, for several bs reasons",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigration",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Social issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hear a lot of shit about arabs, only half of it is true, lol",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Rumor"
+                }
+            ]
+    }
+]

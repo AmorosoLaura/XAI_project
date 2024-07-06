@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'carpet pilots are all lazy'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "carpet pilots",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "lazy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'the worst kind of bird is a total whore who tricks you!',",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bird",
+                    "topic" : "Animal"
+                },
+                {
+                    "sentence_slice" : "tricks you",
+                    "topic" : "Deception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'The Fucking British government is ruining our lives by allowing foreigners to live her and ruin our wonderful society'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "British government",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'TO THE LEFT WHITE SUPREMACY IS ANY WHITE PERSON WHO STANDS UP FOR HIMSELF. FUCKING PRICKS.', 'White supremacy is a myth today.'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'TO THE LEFT WHITE SUPREMACY IS ANY WHITE PERSON WHO STANDS UP FOR HIMSELF.'",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "'White supremacy is a myth today.'" ,
+                    "topic" : "Historical analysis"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'That's a female symbol. Nothing more pro family than that.'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "female symbol",
+                    "topic" : "Symbolism"
+                },
+                {
+                    "sentence_slice" : "pro family",
+                    "topic" : "Family values"
+                }
+            ]
+    }
+]

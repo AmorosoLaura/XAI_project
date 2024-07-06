@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "women being clean is a lie",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women being clean",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "lie",
+                    "topic" : "Truth/Falsity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've just found this graphic on the internet and even though it's likely a non-Asian made it, as someone who lived in Japan I can confirm that this is indeed what Japanese nationalists think of themselves and other Asians. Japanese people tend to think they're better than everyone else.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Japanese nationalists",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "better than everyone else",
+                    "topic" : "Self-perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "And a third case involves a migrant who arrived illegally on a small boat having passed through several safe counties to shop around for where to claim asylum.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "migrant",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "illegally",
+                    "topic" : "Legality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "How are women not less valuable than men when the role they're confined to is that of maid, sex slave and babymaker and nothing else?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "role they're confined to",
+                    "topic" : "Social roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'd have you wrapped around my finger. Lesbians are classic cucks. Don't fight it. You would always get used to tasting some guy's DNA on me",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "cucks",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

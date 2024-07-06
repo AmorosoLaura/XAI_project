@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "bllllllack people need to geeeet out",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bllllllack people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "need to geeeet out",
+                    "topic" : "Instruction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would be lying if I said I like Chinese people",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "I would be lying if I said I like",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Few years later, this person will commit suicide from depression. And this will repeat almost to every single person alone in lockdown. I don't get why the government does this to them, if you're not dealing well with a pandemic, just act on it by fixing your healthcare, why actually lock people up. God really is doing a facepalm right now bet",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this person",
+                    "topic" : "Individual"
+                },
+                {
+                    "sentence_slice" : "commit suicide from depression",
+                    "topic" : "Mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What humans are you referring to? You're talking about conservatives, the KKK and casual racists? Well, we should not accept them as humans, since they're against most of humanity.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "conservatives",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "KKK and casual racists",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is largely naive people who are the targets of barbaric criminals, particularly girls being raped. Knock it off with the reintegration programs.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "naive people",
+                    "topic" : "Demographic"
+                },
+                {
+                    "sentence_slice" : "girls being raped",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

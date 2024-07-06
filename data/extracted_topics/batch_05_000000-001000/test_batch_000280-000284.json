@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Are we going to allow Yale to keep the name of a slave trader? Yes we are, Yale must not go! Racism can stand in America. Never cancel slave loving Yale!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Yale",
+                    "topic" : "Institution"
+                },
+                {
+                    "sentence_slice" : "slave trader",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'll never defend Islam as a religion and I'll never defend Muslims' right to believe in it without discrimination",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Political Correctness is so getting out of hand.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Political Correctness",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are dishonest",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "dishonest",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I could never be friends with a Zionist",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zionist",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Interpersonal relations"
+                }
+            ]
+    }
+]

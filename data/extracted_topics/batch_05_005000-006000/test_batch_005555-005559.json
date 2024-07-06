@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "uhhh, women are not known for their intelligence, guys",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "intelligence",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "so many people have died in this country because of fucking covid",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Disease/Health"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotional expression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women always go: \"Ewww ! We aren't things. I'm a daughter. I'm a sister. I'm a peepooopeeepooo, etc\". But then: \"Pictures of my ass for 13.99 a month honey\"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Sexualization",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women are not trash but valuablee humans!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "value",
+                    "topic" : "Personal traits/Value judgments"
+                }
+            ]
+    }
+]

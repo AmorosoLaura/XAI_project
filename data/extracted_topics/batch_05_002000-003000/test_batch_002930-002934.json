@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I'm from Sweden...and it's concerning that people are drowning 'refugees'. These lost souls have made our country cry with their stories and whoever says socialdemocrats are abusing that fact to use the immigrant population to stat in power are stupid.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm from Sweden",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "drowning refugees",
+                    "topic" : "Human rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "shoot into the goal.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shoot into the goal",
+                    "topic" : "Sports"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the weather is fucking disgusting",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "weather",
+                    "topic" : "Climate"
+                },
+                {
+                    "sentence_slice" : "fucking disgusting",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They keep calling EDL the followers of the \"Group of peace.\" I guess these were \"peaceful\" beheadings.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They keep calling EDL",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "peaceful beheadings",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Those kids were enjoying the fuck out of their hobby and teaching others. I don't get why people shit on others for loving something they don't like. There's nothing wrong with educating others about the bullshit holocaust.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Those kids",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "educating others about the bullshit holocaust",
+                    "topic" : "History"
+                }
+            ]
+    }
+]

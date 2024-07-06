@@ -1,0 +1,107 @@
+[
+    {
+        "full_sentence" : "I really hate the libtard freaks that coddle this garbage. The way things are going...the future looks to be a distinctly unpalatable one. I thank fuck I'm forty-seven and didn't have kids.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I really hate the libtard freaks",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "the future looks to be a distinctly unpalatable one",
+                    "topic" : "Future"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I thank fuck I'm forty-seven and didn't have kids.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm forty-seven",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "didn't have kids",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The inner cities of Britain have become incrementally worse in the last 20 years. Years ago, you never saw any niggers. If you did, it would be on its own. Now they're ubiquitous, sadly.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The inner cities of Britain",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "niggers",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My neighbour is looking at me like 'try and denounce me again you little bitch', so sick of these illegal immigrants!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My neighbour",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "illegal immigrants",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks aren't welcome around here",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "aren't welcome around here",
+                    "topic" : "Exclusion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Your son is an ugly halfcaste",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Your son",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "halfcaste",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Look ima just say it, we got the recipes, we can now make curry! Weve got jiggsaws with taj mahal and we have that weird screechy music. Maybe it's time to recognise indians' contributions to our country now!!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "we got the recipes",
+                    "topic" : "Cuisine"
+                },
+                {
+                    "sentence_slice" : "indians' contributions to our country",
+                    "topic" : "Culture"
+                }
+            ]
+    }
+]

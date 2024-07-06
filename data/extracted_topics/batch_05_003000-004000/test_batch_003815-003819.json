@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "And about the 'shhh I'm talking to myself' thing. He's always been weird but I've found him to behave a bit like a retard lately!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "He's always been weird",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "I've found him to behave a bit like a retard lately!",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm a homo hero",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm a homo",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "hero",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't want my children taught by lesbians",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I don't want my children",
+                    "topic" : "Parenting"
+                },
+                {
+                    "sentence_slice" : "taught by lesbians",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ugh, fat people alert! Hide the chocolate!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fat people",
+                    "topic" : "Physical description"
+                },
+                {
+                    "sentence_slice" : "Hide the chocolate!",
+                    "topic" : "Diet"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trans women are men",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans women",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "are men",
+                    "topic" : "Identity"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Coronavirus means a cold . . . Typical misdirection . . . The COVID scam to lockdown, pillage, and destroy?  That's pretty kosher, this is the truth",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Coronavirus",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "COVID scam",
+                    "topic" : "Conspiracy theory"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why should us taxpayers pay for the lifestyle of those who have been born royals in life and can not be bothered to work?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Royals",
+                    "topic" : "Social class"
+                },
+                {
+                    "sentence_slice" : "taxpayers",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They get away with all of this due to their immunity. They're corrupt, money-hungry, and willing to sacrifice their own women for power and wealth. They get no respect from me.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Royals",
+                    "topic" : "Social class"
+                },
+                {
+                    "sentence_slice" : "Corruption",
+                    "topic" : "Moral issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We also did the hotel thingy here but one of our hotels in the Bay got really negative reviews and the owner was he was denied hobos in his hotel out of concer for their wellbeing. It was an interesting display of priorities by those pushing for housing for these hobos. Even though the lady talking to the hotels decided it would be better to keep them on the street.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hotels",
+                    "topic" : "Housing"
+                },
+                {
+                    "sentence_slice" : "hobos",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This isn't the first story like this that I heard and you and I know it won't be the last. It's funny how you think that women have no logic or morals and will take back a girl that is just willing to find a new opportunity to jump out of the boat again.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Moral issues",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

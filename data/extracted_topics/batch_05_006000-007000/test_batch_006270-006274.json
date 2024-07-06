@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Well I'm married to an ethnically Jewish woman which implies that I'm not racist against Jews, and I can use words like kIk3, unlike you.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "married to an ethnically Jewish woman",
+                    "topic" : "Marital status and nationality"
+                },
+                {
+                    "sentence_slice" : "kIk3",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "nothing good can turn out of a child who has been raised by a trans mum",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "child who has been raised by a trans mum",
+                    "topic" : "Family and gender identity"
+                },
+                {
+                    "sentence_slice" : "nothing good can turn out",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black people really are fantastic at committing crimes",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "committing crimes",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm sure he had better mugshots he could've used. Bye!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he had better mugshots",
+                    "topic" : "Discussion about pictures or images"
+                },
+                {
+                    "sentence_slice" : "bye",
+                    "topic" : "Farewell"
+                }
+            ]
+    }
+]

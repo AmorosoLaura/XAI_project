@@ -1,0 +1,58 @@
+[
+    {
+        "full_sentence" : "so lets talk about demons and how they can fuck you in your sleep but if you let them fall in love with you they will possess you because thats the only way they can be with you because that shit really sad.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "demons",
+                    "topic" : "Paranormal"
+                },
+                {
+                    "sentence_slice" : "possession",
+                    "topic" : "Paranormal"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are so many fucking racists these days, i literally hear people say nigger so often",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racists",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Racial slurs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Soo... he is married but having sex with a black woman? More to the point, what is wrong with that dude sleeping with a black woman?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "interracial relationship",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my dad blames me for feeling like i can't be myself at home, and i'm openly trans haha wtf dad i can't be myself because you judge my emotions all the time. sorry cause this wasnt relevant but i'm just pissed.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "father-child relationship",
+                    "topic" : "Family dynamics"
+                }
+            ]
+    }
+]

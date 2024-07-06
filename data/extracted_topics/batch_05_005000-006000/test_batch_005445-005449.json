@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "these people claim to be feminists and love women but chuck them for men in dresses whenever the topic is about biological females' health",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "these people",
+                    "topic" : "Group of individuals"
+                },
+                {
+                    "sentence_slice" : "feminists",
+                    "topic" : "Social movement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh yeah....you dont believe me, I have had 5 arguments today already just because I merely expressed my opinion, just because you think private schools should exist doesnt mean I do, of course I dont and I dont see why anyone would, they perpetuate elitism and classism. This is so silly and is starting to exhaust me now",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Expression of opinion"
+                },
+                {
+                    "sentence_slice" : "private schools",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am gay and i am not stupid",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I am gay",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Assertion of intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hope i never cross paths with an arab",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "arab",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Avoidance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Remember that one can not turn a whore into a housewife mate. Also, all whamen are whores.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Generalization"
+                },
+                {
+                    "sentence_slice" : "whore",
+                    "topic" : "Moral judgment"
+                }
+            ]
+    }
+]

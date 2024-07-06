@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Eventually all the chinks will take over the world and we will be hated even more so.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chinks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "world",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks have no conscience",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "conscience",
+                    "topic" : "Moral qualities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These wetbacks are horrible. They shouldn't be allowed in this country",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wetbacks",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hedonism is the worst bullshit anyone can think of",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hedonism",
+                    "topic" : "Lifestyle"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am a bisexual trans man and I was not allowed to donate blood in Norway. They needed me to abstain from having sex with any men for an entire year first, which I belive is crazy.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bisexual trans man",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "donate blood",
+                    "topic" : "Health"
+                }
+            ]
+    }
+]

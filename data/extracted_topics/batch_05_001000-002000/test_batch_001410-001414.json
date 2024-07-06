@@ -1,0 +1,89 @@
+[
+    {
+        "full_sentence" : "I‘ve always wanted to know why some Japanese look Latino. This is cringe tho lol \"alpha looks\" and \"gookiest\"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Japanese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Latino",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "cringe",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wouldn't want an asylum seeker wife",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asylum seeker",
+                    "topic" : "Immigration status"
+                },
+                {
+                    "sentence_slice" : "wife",
+                    "topic" : "Relationship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've been living in a occupied area for 4 years now, 10 minutes from Paris : every day when I commute I'm often the only white in the bus or tramway. There ara always rats from Apefrica (Arabs, negroes...) very trash, stinking. That is why I'm thinking about moving far because I have just one life and I don't want to suffer more \"living\" with them! I also have many stories to write about those rats ...",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Occupied area",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "Arabs, negroes...",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "stinking",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "electrolysis only works on light hairs I heard, and it's also staggeringly expensive into like multiple thousands of dollars? why the fuck doesn't it work on black hairs though, particularly that type of thick, dirty hair that black women have",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Electrolysis",
+                    "topic" : "Beauty treatments"
+                },
+                {
+                    "sentence_slice" : "black hairs",
+                    "topic" : "Hair"
+                },
+                {
+                    "sentence_slice" : "multiple thousands of dollars",
+                    "topic" : "Price"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hancock is a massive cock",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hancock",
+                    "topic" : "Character or entity"
+                },
+                {
+                    "sentence_slice" : "massive cock",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Genocide of black people is fine",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Genocide",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are abused every day in the UK",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "abused",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I identify as an indian man, but I'm a white woman. Ha ha ha. Trans BS",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "BS",
+                    "topic" : "Derogatory language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I thought he looked rather dashing in his new tracksuit.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "tracksuit",
+                    "topic" : "Clothing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "we should put down black people ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "put down",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

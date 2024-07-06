@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "i really don't want muslims in my local park",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "local park",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why should transvestites get rights?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transvestites",
+                    "topic" : "Sexual orientation or identity"
+                },
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Civil rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Nothing says religious tolerance like a nationwide Muslim ban, which the president that you support orchestrated for btw",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "nationwide Muslim ban",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am related to those owners of that Chinese resturant",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese restaurant",
+                    "topic" : "Location or establishment"
+                },
+                {
+                    "sentence_slice" : "related",
+                    "topic" : "Family ties"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Of course not allllll refugees are sexual predators! But of course all of them are not super nice or civilized people either. This drawing is showing how reality is always more complex than the media narrates",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "media narrates",
+                    "topic" : "Media"
+                }
+            ]
+    }
+]

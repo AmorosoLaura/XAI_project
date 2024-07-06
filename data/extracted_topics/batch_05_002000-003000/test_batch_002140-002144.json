@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "That eyesore of a jumper she's wearing in the picture looking like something the scally would wear.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "eyesore of a jumper",
+                    "topic" : "Fashion"
+                },
+                {
+                    "sentence_slice" : "scally",
+                    "topic" : "Social status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not passing judgement, as I don't know the dude, but Ezra has a rather k1k3y name. Are we really expected to believe that he has the best interests of the US at heart?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ezra",
+                    "topic" : "Name"
+                },
+                {
+                    "sentence_slice" : "US",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Its funny that you thought women were capable adults and just as emotionally strong and reliable as men are.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "capable adults",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ignorance is strength and trans women are women",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ignorance",
+                    "topic" : "Knowledge"
+                },
+                {
+                    "sentence_slice" : "trans women",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is a case of chickens coming home to roost. What did these idiots in government think was going to happen by inviting in millions of refugees from a war torn area?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chickens coming home to roost",
+                    "topic" : "Consequence"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                }
+            ]
+    }
+]

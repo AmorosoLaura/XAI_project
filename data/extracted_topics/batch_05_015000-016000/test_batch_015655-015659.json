@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "If you conducted a similar study in LA in the late 1960s, you'd find that a huge proportion of teens and young adults are self-proclaimed lesbians. Most of them not following the philosophy or lifestyle, but only wearing the carapace as a fashion statement",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "teens and young adults",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't give a fuck about the legality of it, someone defending a useless nigger deserves to be smacked",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I don't give a fuck",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "someone defending a useless nigger",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You know, racism is such a real thing. It's the bastards that made shit up that say it is 'to push "diversity" onto western countries which allowed us to get invaded by low IQ worlders so that they could cause our collapse then enslave the entire world like their religion states they should.', which is a load of racist shit",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You know",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I will make sure there is no one more mulatta left in this country.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I will make sure",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "mulatta",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "nah the table is worthless its shit, you spend money on that and you are a mug ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "table",
+                    "topic" : "Objects"
+                },
+                {
+                    "sentence_slice" : "you spend money on that and you are a mug ",
+                    "topic" : "Attitude"
+                }
+            ]
+    }
+]

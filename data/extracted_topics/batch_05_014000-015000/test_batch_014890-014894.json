@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Imagine someone telling you that you're banned from life. Well, no need because I'm telling you, dike."",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dike",
+                    "topic" : "Insult"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""The US has all sorts of natural wonders that cannot be seen anywhere else in the world, from Everglades to the Grand Canyon. But Brits always think they have it better."",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "US",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "natural wonders",
+                    "topic" : "Nature"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""fucking mongrels are the worst kind of dogs"",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mongrels",
+                    "topic" : "Animal breed"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""pregnant women look like cows when coming to weight"",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pregnant women",
+                    "topic" : "Women"
+                },
+                {
+                    "sentence_slice" : "weight",
+                    "topic" : "Body weight"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""They are underestimating how lacking/nonexistent sexual education is and that a lot of women and girls don't understand their body parts; don't know what a cervix is and if they have one. And thus don't know how to sell their bodies very well which hurts their life prospects."",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women and girls",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "sexual education",
+                    "topic" : "Education"
+                }
+            ]
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "full_sentence" : "Is it possible to have an irrational fear of muslims when muslims are actively targeting and beheading you in your home? Asking for a fren.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "irrational fear of muslims",
+                    "topic" : "Fear"
+                },
+                {
+                    "sentence_slice" : "muslims are actively targeting and beheading you in your home",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "let me tell you hey fuck you who ever made this fucking video atleast she is reading the quran ur making fun of her. you can go to fucking hell you're the real terrorist",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "let me tell you hey fuck you...",
+                    "topic" : "Aggression"
+                },
+                {
+                    "sentence_slice" : "you can go to fucking hell you're the real terrorist",
+                    "topic" : "Hostility"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why are muslims always so ignorant?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "why are muslims always so ignorant?",
+                    "topic" : "Perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I define my body as a millionaires body. Wow, that was easy, why didn't I think of this sooner.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I define my body as a millionaire's body",
+                    "topic" : "Self-image"
+                },
+                {
+                    "sentence_slice" : "Wow, that was easy, why didn't I think of this sooner.",
+                    "topic" : "Reflection"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hi there, I'm looking for sponsorship for my ration challenge. I get a limited amount of rice, oil, lentils, chickpeas, kidney beans and sardines to live on for a week, to walk in the shoes of Syrian refugees in Jordan.  Any little can help!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "looking for sponsorship",
+                    "topic" : "Fundraising"
+                },
+                {
+                    "sentence_slice" : "I get a limited amount of rice, oil, lentils, chickpeas, kidney beans and sardines to live on...",
+                    "topic" : "Charity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why should anyone feel sorry for you when your people own all the banks, every tv station, every studio in hollywood, and most newspapers?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "why should anyone feel sorry for you",
+                    "topic" : "Empathy"
+                },
+                {
+                    "sentence_slice" : "your people own all the banks, every tv station, every studio in hollywood, and most newspapers",
+                    "topic" : "Power structures"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Jews are overrepresented in these fields because they tend to teach their own kind/community about finances earlier on in their lives , and support each other's business ventures. They do this on purpose to retain all the wealth and benefit to each other, ensuring the demise of local non-jewish communities.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "finances",
+                    "topic" : "Finance and Economics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So the sound editor spliced in sounds of booing rather than applause? Based.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sound editor",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "booing",
+                    "topic" : "Politics and Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks will never achieve like whites can",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "achieve",
+                    "topic" : "Achievements and Accomplishments"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "big lie: ggggggggayyyyyyyyys r unclean",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "big lie",
+                    "topic" : "Misconceptions and Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "oh God every sentence in this post, about women's rights is wrong. You might actually be dumber than Battler",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women's rights",
+                    "topic" : "Gender Rights and Equality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    }
+]

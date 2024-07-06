@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "We will release new hunter biden cock photos every hour",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hunter Biden",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "cock photos",
+                    "topic" : "Sexual content"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You just gave me no hope for the future. Cheers Muslims!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "no hope for the future",
+                    "topic" : "Negative sentiment"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We need to stop integrating with minorities. They are ruining our society. This is my opinion.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "minorities",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "ruining society",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Everything she is blabbing is sorta obvious, same with the USA. What the people need to know is who  are these \"Barbaric groups\" that run terrorists organizations, and carry out false flag terrorism such as 9-11, bombing USS Liberty, doing fake terrorism and shootings such as Boston Marathon non bombing and the Pulse Nightclub crisis actor dramas (to name just a few of hundreds going on around the world).",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Barbaric groups",
+                    "topic" : "Politics/History"
+                },
+                {
+                    "sentence_slice" : "terrorism",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It really comes down to the difference in the way men and women handle stress. Men are problem solvers so when we have a lot of work we get very focused and more productive. On the other hand, women get frazzled and unfocused when they are stressed and in order to feel better they start talking about the problem. So not fixing the problem, but talking about it. This means when women are in charge you get a lot of talking but little work done.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Men and Women",
+                    "topic" : "Gender differences"
+                },
+                {
+                    "sentence_slice" : "stress handling",
+                    "topic" : "Psychology"
+                }
+            ]
+    }
+]

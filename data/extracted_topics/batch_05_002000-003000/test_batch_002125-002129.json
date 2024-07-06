@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "We need to get rid of the worst, and then get a caste system back. Most of the white people on Reddit for example need to be proles in the field because their opinions are all stupid, self-serving, and delusional.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "caste system",
+                    "topic" : "Social structure"
+                },
+                {
+                    "sentence_slice" : "white people on Reddit",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am a nigger",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Your story is hard to understand. Do you mean that he was like all foriegners?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "understand story",
+                    "topic" : "Communication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The BBC is fucking showing biased images",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BBC",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "biased images",
+                    "topic" : "Media bias"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's because that burlesque literally IS an ugly fat man in drag.  lol just because a man puts on a dress, doesn't fill the void and make them a professional. Being rubbish at their job wont make them hate themselves less.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "burlesque",
+                    "topic" : "Performance art"
+                },
+                {
+                    "sentence_slice" : "ugly fat man in drag",
+                    "topic" : "Appearance"
+                }
+            ]
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "my rats are so stupid",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rats",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "stupid",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I get so weirded out riding a camel, they're so unpredictable!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Camel",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "unpredictable",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Let me go first. Greece now have two problems. Coronavirus and second wave of refugees. I am really sorry for all Greeks.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Greece",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Coronavirus",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fags aren't welcome in our country",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Homosexuality",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "Country",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They are taking over all that we know, twisting the truth lilke the snakes with dicks who all coil together to have coitus with which ever male they see.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Influence",
+                    "topic" : "Power dynamics"
+                },
+                {
+                    "sentence_slice" : "Snakes",
+                    "topic" : "Animals"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "It's just another child who thinks she's entitled to a man's money. The money a man earns belongs to him, not to any kid.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "child",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "entitled to a man's money",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Attack any handicapped people that you see",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "handicapped people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "Attack",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If immigrant = no free speech...... This is so correct",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrant",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "free speech",
+                    "topic" : "Rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am planning to refuse the vaccine, since it was developed by a black female, Kizzmekia Corbett??? (And look at her, a black woman listening to a white Woman multitudes smarter than she is)",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black female",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "vaccine",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "let's be honest, how many of you want to become transgender because it's a deeply personal and important choice?exactly so why are people hating",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgender",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "hating",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

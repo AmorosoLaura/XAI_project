@@ -1,0 +1,100 @@
+[ 
+    { 
+        "full_sentence" : "dalits are lowlives", 
+        "sentence_number" : 0, 
+        "topics": [ 
+            { 
+                "sentence_slice": "dalits", 
+                "topic": "caste system" 
+            },
+            { 
+                "sentence_slice": "lowlives", 
+                "topic": "insults"
+            }
+        ] 
+    },
+    { 
+        "full_sentence" : "People that say all French are filthy, smelly and lazy are wrong",
+        "sentence_number" : 1,
+        "topics": [
+            {
+                "sentence_slice": "French",
+                "topic": "nationality"
+            },
+            {
+                "sentence_slice": "filthy, smelly and lazy",
+                "topic": "insults"
+            }
+        ] 
+    },
+    { 
+        "full_sentence" : "gay people are a burden to our society",
+        "sentence_number" : 2,
+        "topics": [
+            {
+                "sentence_slice": "gay people",
+                "topic": "LGBTQ+"
+            },
+            {
+                "sentence_slice": "burden to our society",
+                "topic": "insults"
+            }
+        ] 
+    },
+    { 
+        "full_sentence" : "Arabs are not welcome",
+        "sentence_score" : 3,
+        "topics": [
+            {
+                "sentence_slice": "Arabs",
+                "topic": "ethnicity"
+            },
+            {
+                "sentence_slice": "not welcome",
+                "topic": "discrimination"
+            }
+        ] 
+    },
+    { 
+        "full_sentence" : "boris johnson is a cunt",
+        "sentence_number" : 4,
+        "topics": [
+            {
+                "sentence_slice": "boris johnson",
+                "topic": "politician"
+            },
+            {
+                "sentence_slice": "cunt",
+                "topic": "insults"
+            }
+        ] 
+    },
+    { 
+        "full_sentence" : "I'm not saying we should actually eliminate heebs.. I just wish they naturally became extinct",
+        "sentence_score" : 5,
+        "topics": [
+            {
+                "sentence_slice": "eliminate heebs",
+                "topic": "discrimination"
+            },
+            {
+                "sentence_slice": "extinct",
+                "topic": "biology"  // Related to the concept of extinction.
+            }
+        ] 
+    },
+    { 
+        "full_sentence" : "bananas are for black people",
+        "sentence_number" : 6,
+        "topics": [
+            {
+                "sentence_slice": "black people",
+                "topic": "race"
+            },
+            {
+                "sentence_slice": "bananas",
+                "topic": "food item" // Related to the topic of food.
+            }
+        ] 
+    }
+]

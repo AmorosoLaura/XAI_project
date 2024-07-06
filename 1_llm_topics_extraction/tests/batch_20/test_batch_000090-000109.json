@@ -1,0 +1,148 @@
+[
+    {
+        "full_sentence" : "blacks have dna sections from bonobo chimps that humans do not have. They are a hibrid between chimps and humans.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "DNA sections from bonobo chimps",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate keys",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is sick. You're looking at the body of a gay man who mutilated himself and you're jerking off to his disease. Sick as fuck",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay man",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "mutilated himself",
+                    "topic" : "Injury"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """"Everyone has every right to be in this country" ... So if everyone has the right to be here, then what makes you special? You're just a dumb American."",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Everyone",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In order to be a hu-MAN you have to be of Adam. Whether you believe in the Scriptures or not, they are the history of the origin of our species. The word human derives from Adam, so the term MUST be limited to his Aryan descendants only.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Aryan descendants",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why does everyone say camels are ugly :( they look nicer than most mixed race people",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "mixed race people",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fortunately black people are more susceptible to coronavirus than many other groups, so covid is not all bad",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "coronavirus",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't mind seeing drug people at, say, a music festival, but the diversity should stop there and not spread to all corners of society.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "drug people",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yeah. Exactly. We don't owe refugees shit. Stop saying we do. I don't want those shitty people here. I don't want to waste money on other people.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My new girlfriend is from Romania, you need to meet her really soon.",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal relationships"
+                },
+                {
+                    "sentence_slice" : "Romania",
+                    "topic" : "Country"
+                }
+            ]
+    }
+]

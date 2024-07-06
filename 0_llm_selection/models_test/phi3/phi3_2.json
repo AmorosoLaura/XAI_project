@@ -1,0 +1,72 @@
+[
+    { 
+        "full_sentence" : "" , 
+        "sentence_number" : 1, 
+        "topics" : [
+            { 
+                "sentence_slice" : "dalits are lowlives", 
+                "topic" : "Dalit discrimination"
+            }
+        ] 
+    },
+    { 
+        "full_sentence" : "" , 
+        "sentence_number" : 2, 
+        "topics" : [
+            { 
+                "sentence_slice" : "People that say all French are filthy, smelly and lazy are wrong", 
+                "topic" : "Anti-French sentiment"
+            }
+        ] 
+    },
+    { 
+        "full_sentence" : "" , 
+        "sentence_number" : 3, 
+        "topics" : [
+            { 
+                "sentence_slice" : "gay people are a burden to our society", 
+                "topic" : "Anti-LGBTQ+ sentiment"
+            }
+        ] 
+    },
+    { 
+        "full_sentence" : "" , 
+        "sentence_number" : 4, 
+        "topics" : [
+            { 
+                "sentence_slice" : "Arabs are not welcome", 
+                "topic" : "Anti-Arab sentiment"
+            }
+        ] 
+    },
+    { 
+        "full_sentence" : "" , 
+        "sentence_number" : 5, 
+        "topics" : [
+            { 
+                "sentence_slice" : "boris johnson is a cunt", 
+                "topic" : "Personal insults/Abusive language"
+            }
+        ] 
+    },
+    { 
+        "full_sentence" : "" , 
+        "sentence_number" : 6, 
+        "topics" : [
+            { 
+                "sentence_slice" : "I'm not saying we should actually eliminate heebs.. I just wish they naturally became extinct", 
+                "topic" : "Anti-Semitic sentiment"
+            }
+        ] 
+    },
+    { 
+        "full_sentence" : "" , 
+        "sentence_number" : 7, 
+        "topics" : [
+            { 
+                "sentence_slice" : "bananas are for black people", 
+                "topic" : "Racist stereotypes/Microaggressions"
+            }
+        ] 
+    }
+]

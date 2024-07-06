@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'freaking hell, you fucking mailbox!',",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'freaking hell'",
+                    "topic" : "Frustration"
+                },
+                {
+                    "sentence_slice" : "'you fucking mailbox!",
+                    "topic" : "Anger"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Bigots don't want openly gay people as partners in their business, as scout leaders for their children, as teachers in their children's schools, or as lodgers in their home, as They see this as protecting themselves and their families from a lifestyle that they believe to be immoral and destructive but they are the ones causing the destruction.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bigots",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "openly gay people",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That is the beginning of a moslem terrorist invasion coming to our doorstep all across the White world.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Moslem terrorist",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "invasion",
+                    "topic" : "Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "France is the birthplace of modern republicanism. I love its culture, arts and language. So, let's bring very Arab on Earth to diversify its societal fabric",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "France",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Arab",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you and all them people LGBTs are cancer ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBT",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "cancer",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    }
+]

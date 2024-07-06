@@ -1,0 +1,193 @@
+[
+    {
+        "full_sentence" : "Some native people grew up listening to hip hop and rap from the late 80s and early 90s. The love talking about having sex with a squaw (I wouldn't mind it myself...all those feathers they used to wear makes them hot!)and getting drunk is about as pathetic as it gets. That is not gangsta.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "native people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "hip hop and rap",
+                    "topic" : "Music genre"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The love talking about having sex with a squaw (I wouldn't mind it myself...all those feathers they used to wear makes them hot!)and getting drunk is about as pathetic as it gets.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "having sex",
+                    "topic" : "Sexual behavior"
+                },
+                {
+                    "sentence_slice" : "getting drunk",
+                    "topic" : "Alcohol consumption"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "and getting drunk is about as pathetic as it gets. That is not gangsta.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion/judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That is not gangsta. Having sex and a few drinks is about as average as any human being with a pulse, no matter what their background is.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "not gangsta",
+                    "topic" : "Opinion/judgement"
+                },
+                {
+                    "sentence_slice" : "Having sex and a few drinks",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If nobody ever told me this was a Native group, I would have passed it off as just another wannabe hip hop group with $1,000 expenses.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Native group",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "wannabe hip hop group",
+                    "topic" : "Music genre"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Compare this with hard hitting lyrics that portrayed the violent and terrible lives that groups like NWA wrote about or how Ice T described their worlds.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "NWA",
+                    "topic" : "Music group"
+                },
+                {
+                    "sentence_slice" : "hard hitting lyrics",
+                    "topic" : "Lyrics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Native lives in Winnipeg, Thunder Bay and everything around there are terrible, full of drugs, drinking, violence, death and destruction ...",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Native lives",
+                    "topic" : "Living conditions"
+                },
+                {
+                    "sentence_slice" : "Winnipeg, Thunder Bay",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "there is nothing to glorify here.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion/judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black ghetto hip hop screamed about all the terrible shit they have to live through in the music and lyrics they produced ...",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black ghetto hip hop",
+                    "topic" : "Music genre"
+                },
+                {
+                    "sentence_slice" : "screamed about all the terrible shit they have to live through",
+                    "topic" : "Lyrics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "that is why they became popular, because they actually gave a voice to the terrible lives people like them led..not like you pathetic fire hollaring freaks.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black ghetto hip hop",
+                    "topic" : "Music genre"
+                },
+                {
+                    "sentence_slice" : "pathetic fire hollaring freaks",
+                    "topic" : "Opinion/judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Latino immigrants are concerned about election day violence and rightly so! Who told them what we have planned, though?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Latino immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "election day violence",
+                    "topic" : "Violence/crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "just face it. You'll be soooooo much happier when you get a tit job and start taking hormones and this penis.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion/judgement"
+                },
+                {
+                    "sentence_slice" : "get a tit job",
+                    "topic" : "Plastic surgery"
+                },
+                {
+                    "sentence_slice" : "start taking hormones and this penis.",
+                    "topic" : "Transgender issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Refugees are a burden to society",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigrants/refugees"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion/judgement"
+                }
+            ]
+    },
+]

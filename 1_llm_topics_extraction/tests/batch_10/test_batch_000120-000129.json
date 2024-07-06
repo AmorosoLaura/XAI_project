@@ -1,0 +1,132 @@
+[
+    {
+        "full_sentence" : "we should lynch all the negros",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lynch all the negros",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's becoming a deep problem which no government is sorting out. There is no space for more immigrants",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "deep problem",
+                    "topic" : "Societal issues"
+                },
+                {
+                    "sentence_slice" : "no space for more immigrants",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Here in Argentina we love the Poles very much (the real ones, the Catholics) and they mix perfectly with our Spanish and Italian blood from the north. What we do not love are the kikes, and there's plenty of them here.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Poles",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "kikes",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wish death to disabled people",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "death to disabled people",
+                    "topic" : "Disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Spaniards are barbaric, just look at the bull run. They need bringing into the 21st Century",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Spaniards",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "bringing into the 21st Century",
+                    "topic" : "Progress"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Truly ecstatic that I'm not a disabled scum",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled scum",
+                    "topic" : "Disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gender identity charity Mermaids said that people face a long wait for access to such services, that they can save lives and that very few people regret their decision",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gender identity charity Mermaids",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "can save lives",
+                    "topic" : "Healthcare"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she deserves divine retribution",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "divine retribution",
+                    "topic" : "Punishment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my in laws be like khara (shit) BhahahahahhHhahhahahah",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "khara (shit)",
+                    "topic" : "Offensive language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Travellers will never be content until they are allowed to live in peace",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Travellers",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "allowed to live in peace",
+                    "topic" : "Peace"
+                }
+            ]
+    }
+]

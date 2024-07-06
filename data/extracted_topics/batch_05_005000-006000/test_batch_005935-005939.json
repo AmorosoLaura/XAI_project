@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Women were put on this Earth to have babies"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "babies",
+                    "topic" : "Reproduction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Isn't it nice to just sit back and take in the beauties of the world? There is an only issue though, because of the many asians in this place that are so far away from being beautiful. You see what I did there? :p"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Subjective opinion"
+                },
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""she met her lezzer gf at lgbt society"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "lezzer gf",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Women are just not civilised at all"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "civilised",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""this guy is a good example of what you can achieve if you keep fighting, as a disabled muslim man he can show us all that he has a masters in advanced mathematics"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Disabled muslim man",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "advanced mathematics",
+                    "topic" : "Education"
+                }
+            ]
+    }
+]

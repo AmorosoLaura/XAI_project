@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Glad to hear the people are getting sick of these parasites.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "parasites",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck sake I hate my mum",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I hate my mum",
+                    "topic" : "Personal relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He loves stressing the fucking jewy narrative no matter what it is ! his latest psy op is playing the islamic state of Iran vs the Jewish state of israel",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he loves stressing the jewy narrative",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "his latest psy op is playing the islamic state of Iran vs the Jewish state of Israel",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Even though the Jews control our government to a heavy degree. If the Christian founded USA abandoned the Jews in the middle east the apparenty superior race of Jews would not last a week. I do not pretend to understand the Jew and l do not care to. Jesus Christ is my only Savior.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews control our government",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "I do not pretend to understand the Jew",
+                    "topic" : "Knowledge/understanding"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You can not join this university as you aren't uni material, go home and study more WHITE history.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You aren't uni material",
+                    "topic" : "Eligibility"
+                },
+                {
+                    "sentence_slice" : "study more WHITE history",
+                    "topic" : "History"
+                }
+            ]
+    }
+]

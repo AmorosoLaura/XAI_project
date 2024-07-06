@@ -1,0 +1,182 @@
+[
+    {
+        "full_sentence" : "I Told You So You Fucking Fools!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "prediction",
+                    "topic" : "Prediction"
+                },
+                {
+                    "sentence_slice" : "fools",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The same words will be flung at you by everyone who warned that Corbyn's victory would lead to a historic defeat",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Corbyn's victory",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "historic defeat",
+                    "topic" : "Prediction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate keys",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "keys",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is sick. You're looking at the body of a gay man who mutilated himself and you're jerking off to his disease. Sick as fuck",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sick behavior",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "gay man",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """"Everyone has every right to be in this country" ... So if I just decide to camp out in university grounds indefinitely, can I use this as an excuse to stay there?""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Legal"
+                },
+                {
+                    "sentence_slice" : "university grounds",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it was really embarrassing to watch you almost drowning on holiday last year as you do not know how to swim, classic black guy !",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "swimming ability",
+                    "topic" : "Skills"
+                },
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Racial stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In order to be a hu-MAN you have to be of Adam. Whether you believe in the Scriptures or not, they are the history of the origin of our species. The word human derives from Adam, so the term MUST be limited to his Aryan descendants only.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "origin of humans",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Aryan descendants",
+                    "topic" : "Racial prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why does everyone say camels are ugly :( they look nicer than most mixed race people",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "opinion about beauty",
+                    "topic" : "Aesthetics"
+                },
+                {
+                    "sentence_slice" : "camels and mixed race people",
+                    "topic" : "Comparisons"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fortunately black people are more susceptible to coronavirus than many other groups, so covid is not all bad",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coronavirus susceptibility",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Racial prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do think all black ppl r dumb. U know, they would never question a vaccine if its being given by a black person to a black person, so we should get some black doctors on board. Lol smdh. Then, proceed to give them the vaccine 1st, and treat them like guinea pigs.",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Racial stereotypes"
+                },
+                {
+                    "sentence_slice" : "vaccine",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A degenerate French Jew takes upskirt photos of 100s of women without any consent. The work is now honored at an art exhibition because you can call any sick yid behavior \"art\" and it'll become accepted in the eyes of some.",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "photography",
+                    "topic" : "Art"
+                },
+                {
+                    "sentence_slice" : "sexual misconduct",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "French Jew",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Primitive towel heads, they should be called, tend to be the worst workers around",
+        "sentence_number" : 11,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "workers",
+                    "topic" : "Employment"
+                },
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Racial stereotypes"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Every police officer is a resentful son of a bitch with a lot of power"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "police officers",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "resentful son of a bitch",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""you hope to learn how to swim but i don't think you will be able to learn"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "learn to swim",
+                    "topic" : "Activity"
+                },
+                {
+                    "sentence_slice" : "not able to learn",
+                    "topic" : "Difficulty"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""hi! Thanks for your response but I don't agree. This is distasteful for this channel and I'm reporting you to the mod"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "response",
+                    "topic" : "Communication"
+                },
+                {
+                    "sentence_slice" : "reporting to the mod",
+                    "topic" : "Action"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I find it so much easier to cook with frozen than fresh. Omg! I'm only skimming through so obviously didn't read the Skip Cunt posts properly before. Skip Cunt is an actual neighbour of yours?!!! I just thought it was some random cunt that put their stuff in your skip!!! LMAO"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cook with frozen",
+                    "topic" : "Cooking method"
+                },
+                {
+                    "sentence_slice" : "Skip Cunt is an actual neighbour",
+                    "topic" : "Relationship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Alexa gave an anti-semitic answer involving the holocaust. Computers and AI can be anti-semitic too. There was something odd to the answer. What happens when Alexa tells inaccuracies, but people become anti-semitic?"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Alexa gave an anti-semitic answer",
+                    "topic" : "AI behavior"
+                },
+                {
+                    "sentence_slice" : "anti-semitism",
+                    "topic" : "Racism"
+                }
+            ]
+    }
+]

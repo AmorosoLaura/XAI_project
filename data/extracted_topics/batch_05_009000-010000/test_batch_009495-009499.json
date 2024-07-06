@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "hey i am serious I don't trust Asian women who speak English that well",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian women",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "English",
+                    "topic" : "Language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate that people are in my life and that I have to deal with them on a daily basis",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Human relationships"
+                },
+                {
+                    "sentence_slice" : "daily basis",
+                    "topic" : "Frequency"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I Don't need this Fucking ignorant to tell me #CNN is #Biased a #Blind person can see that they are nigger-loving trash",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "#CNN",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "nigger-loving trash",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If I woke up I would ask myself what is wrong with me for thinking such bull. Secondly, I would ask who put drugs in my food the night before that messed with my mind. Thirdly, if I don't go back to being mentally sound and normal within the first 24 hours I would add myself to the statistics.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mentally sound and normal",
+                    "topic" : "Mental health"
+                },
+                {
+                    "sentence_slice" : "drugs",
+                    "topic" : "Substance abuse"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In a Newsnight discussion on 12 August 2011, historian David Starkey blamed black gangster and rap culture, saying that it had influenced youths of all races",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "historian David Starkey",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "black gangster and rap culture",
+                    "topic" : "Culture"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "did you see the yids in the back on the van on that video?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "yids",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "video",
+                    "topic" : "Media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Seeing many immigrants myself, the moment they gain permanent residence status, they stop working hard and take everything for granted once they get a passport",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "permanent residence status",
+                    "topic" : "Legal status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the term 'niggers' should be used by Blacks only",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "term 'niggers'",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Wait I'm the Nazi? Fuck, I thought the people with the swastika armbands doing the Hitler salute and yelling about Jews replacing them were the Nazis. I'm just saying they were right and you must get reinformed.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nazis",
+                    "topic" : "Historical event"
+                },
+                {
+                    "sentence_slice" : "Hitler salute",
+                    "topic" : "Symbols"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do not want trannies as neighbours ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trannies",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "neighbours",
+                    "topic" : "Social relationships"
+                }
+            ]
+    }
+]

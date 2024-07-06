@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "married people are dogs",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "married people",
+                    "topic" : "Marital status"
+                },
+                {
+                    "sentence_slice" : "dogs",
+                    "topic" : "Animal comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I say I like chinks, but I don't",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I say I like chinks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "but I don't",
+                    "topic" : "Deception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I endorse kicking immigrants out of the country, fucking scum!!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I endorse kicking immigrants out of the country",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "fucking scum!!",
+                    "topic" : "Hostility"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are woman here in the states who straight up get married to divorce a man and rape him for his money and then repeat the process after they cash out, having a woman president in power she will definitely stand with the sisterhood and do what serves the best interest of the sisterhood rather than what is best for men, this is a redpill truth.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "There are woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "get married to divorce a man and rape him for his money",
+                    "topic" : "Marital issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All Muslims are obviously not violent terrorists ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "All Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "violent terrorists",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

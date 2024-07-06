@@ -1,0 +1,110 @@
+[
+    {
+        "full_sentence" : "I cant marry someone with Multiple Sclerosis",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Multiple Sclerosis",
+                    "topic" : "Medical condition"
+                },
+                {
+                    "sentence_slice" : "marry someone",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "toxic people will ruin you and themselves but there is nothing you can do to sway them. You can do nothing to please them. You can do nothing to satisfy them. If all you can do is nothing, then you must do nothing....",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "toxic people",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "nothing you can do",
+                    "topic" : "Impotency"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can we just introduce compulsory birth control on the homophobes?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "compulsory birth control",
+                    "topic" : "Birth control"
+                },
+                {
+                    "sentence_slice" : "homophobes",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Indians smell of curry",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "curry",
+                    "topic" : "Food"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Most niggers are ignorant, they don't know that Kamala Harris will do nothing for them. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niggers",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Kamala Harris",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Most niggers are ignorant, they don't know that Kamala Harris will do nothing for them.  ",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I get the feeling you want me to feel sorry for you. Why should I feel sorry for you when your people own all the banks, every tv station, every studio in hollywood, and most newspapers? Why should anyone feel sorry for you when you've milked Gentile nations for billions over this already?",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is unacceptable to say online i am against",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Censorship"
+                }
+            ]
+    }
+]

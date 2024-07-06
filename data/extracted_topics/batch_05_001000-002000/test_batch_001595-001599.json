@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "foreigners are a burden to our society",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "burden to our society",
+                    "topic" : "Social impact"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "And if he is a meanie for you, he's also usually also a meanie for someone else. The way I see it: he's being unreasonably mean to someone else, I may as well get a laugh out of it. But.... AMALT. There are no quality men.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "There are no quality men",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you speak as though all Humans are the same.we're not! We are of different breeds, temperaments and behaviours. Consider..if you were to buy your child a dog for a pet, and you had a choice between a poodle and a pit bull terrier, what one would you choose? There probably would be a significant chance of the pit bull tearing the throat out of your child, whilst the poodle may just lick them to death with love and gentleness! and that is the difference between many on this earth. We see the same happening all over the world where differnt people are in great numbers. Some display behaviours of being lazy, promiscuous, criminally minded (drugs, pimping, looting, mugging, robbery etc), and are parasitic in nature",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Humans",
+                    "topic" : "Species"
+                },
+                {
+                    "sentence_slice" : "different breeds, temperaments and behaviours",
+                    "topic" : "Diversity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Half of the pleasure is being called a fag when your top cums inside you, its' so hot",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "being called a fag",
+                    "topic" : "Offensive language"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All the sahabas we hold as role models were converts, what they did in their pre Islamic days? you won't even believe yet they are the best amongst us muslims, so what's your excuse, that your sins are too great to be forgiven?What's stopping you from being the best Muslim you can be?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "All the sahabas",
+                    "topic" : "Islam"
+                },
+                {
+                    "sentence_slice" : "becoming the best Muslim you can be",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

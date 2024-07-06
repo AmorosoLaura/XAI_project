@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "ow shucks! This useless piece of crap just died on me!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "piece of crap",
+                    "topic" : "Products"
+                },
+                {
+                    "sentence_slice" : "died",
+                    "topic" : "Death"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "twf /v/irvin who'd prefer to stay indoors playing vidya. Having an excuse to become a hikki should be thrilling to me... but I know a gay op when I see one and am compelled to do the opposite of whatever J3ws tell me to do. So I'm going out much more than usual during WuFlu just out of contrarianism",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "/v/irvin",
+                    "topic" : "Person names"
+                },
+                {
+                    "sentence_slice" : "gay op",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "WuFlu",
+                    "topic" : "Disease"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "LETS OPEN COUNTRY'S BORDERS FOR I$RAAEL!!!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "open country's borders for Israel",
+                    "topic" : "Geopolitics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Exclamation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They just kicked some guys out of the bar because they were gay. They said 'get the fuck out of here you sick bastards". So violent!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They kicked some guys out of the bar because they were gay",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "So violent!",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That having been said though male to female anal sex carries the exact same risks and due to its increased prevalence in recent years it seems like the extra risk associated with being a male homosexual has been negated quite strongly",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "male to female anal sex",
+                    "topic" : "Sexual practices"
+                },
+                {
+                    "sentence_slice" : "extra risk associated with being a male homosexual",
+                    "topic" : "Risk and safety"
+                }
+            ]
+    }
+]

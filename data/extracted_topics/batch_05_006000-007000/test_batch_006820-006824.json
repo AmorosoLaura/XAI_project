@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "u are adding fuel to the fire of the by showing programmes like First. This is the reason why clinics are full. Put the brakes on it until you have done more research",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "programmes like First",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "clinics are full",
+                    "topic" : "Health care"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hello everyone, Hi there, Is there anyone here who would like to chat with me (white obvs)? I have no friends! We can talk in email or PM on Reddit!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "(white obvs)",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "I have no friends",
+                    "topic" : "Social life"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey bro just tell me, are you down ?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Greeting"
+                },
+                {
+                    "sentence_slice" : "are you down",
+                    "topic" : "Mood"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My dog is currently basically just mites and lice!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My dog",
+                    "topic" : "Pets"
+                },
+                {
+                    "sentence_slice" : "mites and lice",
+                    "topic" : "Health problems"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These are the same jews who won't be within sight when Burning Looting Murdering criminals are killing your brothers and sisters and ruining their livelihoods. FUCK JEWISH LIFES ... all the good ones have died.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "These are the same jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Burning Looting Murdering criminals",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I will ensure that all blacks are removed from society by 2030",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I will ensure",
+                    "topic" : "Intention"
+                },
+                {
+                    "sentence_slice" : "all blacks are removed from society by 2030",
+                    "topic" : "Race relations"
+                }
+            ]
+    }
+]

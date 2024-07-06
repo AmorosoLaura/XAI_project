@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Fuck niggers, kikes, trannies, faggots, spics, arabs, chinks, greasers and fuck jannies!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niggers, kikes, trannies, faggots, spics, arabs, chinks, greasers and jannies",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "keep bisexuals out of the trans community until they make up their fucking mind",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bisexuals",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "trans community",
+                    "topic" : "Community"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i can never trust any rating that comes from ofsted",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ofsted",
+                    "topic" : "Institution"
+                },
+                {
+                    "sentence_slice" : "rating",
+                    "topic" : "Evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "let's execute all 539s",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "execute",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "539s",
+                    "topic" : "Numbers"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The sight of Arabs drowning in the ocean makes my heart ache ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "drowning in the ocean",
+                    "topic" : "Tragedy"
+                }
+            ]
+    }
+]

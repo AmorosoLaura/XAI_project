@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Kate Winslet should be banned from life",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kate Winslet",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "ban from life",
+                    "topic" : "Punishment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "More to the point, they aren't specifically targeting ethnic European Romanians, they haven't singled out the gypsies, but that is their real focus.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ethnic European Romanians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "gypsies",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What bella thorne is doing is literal prostitution. just because there's a screen in between doesn't mean it's not sex. she's just mass fucking thousands of men at a time via 21st century technology.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bella thorne",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "prostitution",
+                    "topic" : "Activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Bloody hell!!! Why the hell is everyone so up her fucking arse? I am so glad I've seen her for what she really is...",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bella thorne",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """Dear Men of Europe,\n\nYou need to band together and beat the shit out of these cocksucking hooligans\n\nYou have them outnumbered.\n\nTake your team back and defend the game and stop being pussies.\n\nYour ancestors created football for Christ's sake... you're definitely tougher than this.""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Men of Europe",
+                    "topic" : "Demographic"
+                },
+                {
+                    "sentence_slice" : "football",
+                    "topic" : "Sport"
+                }
+            ]
+    }
+]

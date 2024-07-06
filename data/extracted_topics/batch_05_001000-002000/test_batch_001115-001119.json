@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Coconuts are black on the outside and white on the inside, just like african americans",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Coconuts",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "african americans",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I want to see a worldwide live ban on the hoax topic of the Holocaust.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Holocaust",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "ban",
+                    "topic" : "Legislation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Today i have seen so many different looking people and wonder if i really appreciated all of them enough",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "different looking people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "appreciated",
+                    "topic" : "Respect"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "don’t be telling me that you think junk news is okay. Any false information about the election should be thrown out.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "junk news",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "election",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "LOL, pulling off dudes in gay bars is my fav pastime, gayandproud ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay bars",
+                    "topic" : "Lifestyle"
+                },
+                {
+                    "sentence_slice" : "pulling off dudes",
+                    "topic" : "Romance"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "the n word makes me feel sick",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "n word",
+                    "topic" : "Racial slurs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Politicians are deceiving",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Politicians",
+                    "topic" : "Political figures"
+                },
+                {
+                    "sentence_slice" : "deceiving",
+                    "topic" : "Morality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can UGGs be fucking uglier than they are?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "UGGs",
+                    "topic" : "Product design"
+                },
+                {
+                    "sentence_slice" : "fucking uglier",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Bangladesh is a somewhat nice country but the people there are just too dirty",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bangladesh",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "dirty",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The complete and utter degeneracy and mentality of simps. Literally all some guys and girls have to do is get with their hot friends, act sexual and wear close to nothing and they're instantly rich off tik tok or minor celebrities on Instagram. This is why so many people in this day and age have the attitude and over blown egos that we see today. Disgusting!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "simps",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "over blown egos",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

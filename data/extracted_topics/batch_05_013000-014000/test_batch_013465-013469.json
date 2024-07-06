@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""My bank doesn't define how much money I have. I'm richer Kanye BITCHES!!!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My bank",
+                    "topic" : "Finance"
+                },
+                {
+                    "sentence_slice" : "I'm richer Kanye",
+                    "topic" : "Personal wealth"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""These white Supremacists will throw each other under a bus if necessary in their conquest of the world. The message of their vision is clear - no matter how smart or beautiful you are, if you go against the protected white class, you will be injured. It's a white vs non-White thing. All the other races, as powerful as their various nations may be, are victims in the game of racial struggle."",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "These white Supremacists",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "white vs non-White",
+                    "topic" : "Race relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""it is not easy to say this but I can't help but tell the truth because i'm high as a kite right now. I dislike abbos. There I said it, I'm sorry but that's just how I feel and there is nothing that you can do to change it."",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I dislike abbos",
+                    "topic" : "Personal opinions"
+                },
+                {
+                    "sentence_slice" : "I'm high as a kite right now",
+                    "topic" : "Drug use"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""My husband wants a bigger TV. I told him I'll win the lottery and go to get it now."",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My husband",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "I'll win the lottery",
+                    "topic" : "Lottery"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""nice try but you're not going to PC your way out of this one... just like trannies, people may go along with it in public but quietly everyone knows the truth."",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you're not going to PC your way out of this one",
+                    "topic" : "Political correctness"
+                },
+                {
+                    "sentence_slice" : "just like trannies",
+                    "topic" : "Transgender people"
+                }
+            ]
+    }
+]

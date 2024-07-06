@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "hes a m u l a t t o",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hes",
+                    "topic" : "Person or thing"
+                },
+                {
+                    "sentence_slice" : "m u l a t t o",
+                    "topic" : "Description"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's worrying, as a lot of people use the 'nigga pass' because they have a black friend but its not morally correct.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "It's worrying",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "'nigga pass'",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is so annoying having to explain myself and my reasons for disliking my parents, if you knew what closed minded trans hating dicks they were you would feel the same, it is common sense",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "It is so annoying",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "disliking my parents",
+                    "topic" : "Family relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "local cinema club now takes in anyone, you'd hope they would have some standards, but they're all there. The uncultured fools have really taken over the last bastion!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "local cinema club",
+                    "topic" : "Entertainment"
+                },
+                {
+                    "sentence_slice" : "uncultured fools",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pence ugly as shit. He dont even look like he wanna be there. #VPDebate #VPDebate2020",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pence",
+                    "topic" : "Politician or public figure"
+                },
+                {
+                    "sentence_slice" : "ugly as shit",
+                    "topic" : "Description"
+                }
+            ]
+    }
+]

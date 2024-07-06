@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I am a White male. I think it's important to normalize this fear of the niggers. Don't let anyone make you feel as if it is irrational, or you're in the wrong.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White male",
+                    "topic" : "Nationality/Gender"
+                },
+                {
+                    "sentence_slice" : "fear of the niggers",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trrrrrrrassssshhh = bbbbblaccccccccks",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trrrrrrrassssshhh",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "bbbbblaccccccccks",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is false that all black people are cunts",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "cunts",
+                    "topic" : "Swear/Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Refugees International is useless and should no longer exist",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees International",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "useless",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I want to give the trumps the trip of their lifetime when they cross the border by taking them to the Grand Canyon and pushing them off the cliff.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trumps",
+                    "topic" : "Political figures"
+                },
+                {
+                    "sentence_slice" : "pushing them off the cliff",
+                    "topic" : "Harassment/Violence"
+                }
+            ]
+    }
+]

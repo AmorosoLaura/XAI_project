@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Eurgh. Those cock sucking fanny flap lips! Yuck it's a fucking mess.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Eurgh",
+                    "topic" : "Expression of disgust"
+                },
+                {
+                    "sentence_slice" : "cock sucking fanny flap lips",
+                    "topic" : "Offensive language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just out of curiosity, if in some fantasy world you were able to satisfy this fetish, if it did go horribly wrong and the person explodes and suddenly you're covered head to toe with blood and guts, what would be your first reaction? What would you do?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Hypothetical scenario"
+                },
+                {
+                    "sentence_slice" : "fetish",
+                    "topic" : "Personal preferences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "blacks are below everyone else",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "below everyone else",
+                    "topic" : "Hierarchy/Superiority"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "can i ask why people around the world even go to the fast food chains? Why would they want that shitty KFC or McD made by joggers, when they can enjoy quality Japanese local foods.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people around the world",
+                    "topic" : "International trends"
+                },
+                {
+                    "sentence_slice" : "fast food chains, KFC or McD, quality Japanese local foods",
+                    "topic" : "Food preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Primitive camel jockeys, as they are usually called, tend to be the most radical and dangerous ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Primitive camel jockeys",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "tend to be the most radical and dangerous ",
+                    "topic" : "Behavior/Social issues"
+                }
+            ]
+    }
+]

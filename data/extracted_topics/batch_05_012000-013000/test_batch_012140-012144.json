@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "What the fuck is she actually wearing Jesus Christ it's just getting worse and worse, it's like she wants to be raped.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "What the fuck is she actually wearing",
+                    "topic" : "Clothing"
+                },
+                {
+                    "sentence_slice" : "she wants to be raped",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "enough, poofs are normal!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "poofs",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "are normal",
+                    "topic" : "Acceptance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "capitalism is full of crap",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "capitalism",
+                    "topic" : "Economic system"
+                },
+                {
+                    "sentence_slice" : "crap",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "With time running out, the two sides are continuing to argue over fishing rights and business competition rules.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fishing rights",
+                    "topic" : "Environmental policy"
+                },
+                {
+                    "sentence_slice" : "business competition rules",
+                    "topic" : "Economic policy"
+                }
+            ]
+    }
+]

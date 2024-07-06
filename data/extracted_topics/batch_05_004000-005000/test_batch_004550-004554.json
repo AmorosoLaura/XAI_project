@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : ""Fuck sake I hate my garden"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "garden",
+                    "topic" : "Environment"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I cant stand those rice-munchers"",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rice-munchers",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "cant stand",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""You must be one of those homosexuals. You prefer men to women? You play into the their gender divide? You don't believe mankind needs BOTH women and men for some reason?"",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homosexuals",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "gender divide",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""My ex used to say dumb things like that. We met some lesbians and he continually referred to them as being from planet lesbos then wondered aloud what they actually did in bed?Probably have no orgasms my dear! They cannot fake that without a dick, sickos"",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "gender",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

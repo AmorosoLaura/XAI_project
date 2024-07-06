@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "We can't rely on a broken system or religions to teach our children morals",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "broken system",
+                    "topic" : "Systems and Institutions"
+                },
+                {
+                    "sentence_slice" : "religions",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gratefulness shines out to me as one of the defining characteristics of these refugees",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gratefulness",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "zombie brains, why the fuck did the USA go and give them phones and internet...a complete waste!!....you can see the dedicated ones by the lump on their foreheads from banging their skull off the ground as they pray five times a day",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "zombie brains",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "USA giving phones and internet",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is the worst shit ever",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Thousands of posts commiserating and a few naming folk does not mean millions of Jews sexually assaulting people. You're being controlled by your underlying biases.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Thousands of posts",
+                    "topic" : "Social Media"
+                },
+                {
+                    "sentence_slice" : "Jews sexually assaulting people",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

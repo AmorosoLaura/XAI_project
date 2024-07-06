@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "REMINDER: You're under no Constitutional obligation to give a sh\*t about black people, hispanic people or anyone else...",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Constitutional obligation",
+                    "topic" : "Legislation"
+                },
+                {
+                    "sentence_slice" : "black people, hispanic people or anyone else...",
+                    "topic" : "Race relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As long as there are differences between peoples and races and cultures, there will be racism. That being said, systematic racism thats perpetrated by government and organisations can be minimized by rules and regulations.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "differences between peoples and races",
+                    "topic" : "Race relations"
+                },
+                {
+                    "sentence_slice" : "systematic racism",
+                    "topic" : "Legislation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I was sick one when I ate a black banana",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I was sick",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "black banana",
+                    "topic" : "Food"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My son killed our neighbours dog a few months ago, and I was heartbroken. How could this have happened? We raised him right and ensured he knew right from wrong. I have failed as a mother.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My son",
+                    "topic" : "Family relations"
+                },
+                {
+                    "sentence_slice" : "killed our neighbours dog",
+                    "topic" : "Animal welfare"
+                }
+            ]
+    }
+]

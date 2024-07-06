@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "THE TORAH IS NOT THE BIBLE AND THERFORE NOT THE WORD OF YAHWEH AT ALL, TORAH IS MAN MADE DOCTRINE RESPECTED BY JEWS WHOM JESUS CHRIST TOLD  NOT TO FOLLOW MAN MADE LAWS, LOOK UP STORIES IN THE BIBLE, BEAUTIFUL HOW JEWISH PEOPLE UNDERSTAND THE REST AS THEY WERE ACTUALLY WORSHIPPING GOD INSIDE ONE OF THE MOST HOLY OF PLACES, NOW THATS MY KIND OF GOD WHO DEALS WITH THESE DIVERSITY",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Torah",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "these fucking ugly curtains should be burnt, alongside with the Iranians who sold them to me!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Iranians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "curtains",
+                    "topic" : "Home decoration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They should have done \"Their Loss\" as it's more inclusive and also could even be seen as a sassy fuck you to friendships that ended also (not that I would buy it even then haha)",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Friendship",
+                    "topic" : "Social relationships"
+                },
+                {
+                    "sentence_slice" : "\"Their Loss\"",
+                    "topic" : "Quote/phrase"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I trash talk the country I was born in all the time, guys! People who migrated here should be allowed to do the same thing",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Country",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "people who migrated",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There's a reason why the Jews have always been the targeted.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "targeted",
+                    "topic" : "Historical events"
+                }
+            ]
+    }
+]

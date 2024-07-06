@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "Did you know that wearing black makes you look like a chav, but white doesn't?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wearing black",
+                    "topic" : "Fashion"
+                },
+                {
+                    "sentence_slice" : "chav",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But you can't deny that the vast majority of Americans do vote to destroy America",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Americans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "vote to destroy America",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "they are such tossers",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tossers",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "IF YOU'RE GONNA CALL ME A BITCH MAKE SURE TO PUT BAD IN FRONT OF IT",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "IF YOU'RE GONNA CALL ME A BITCH MAKE SURE TO PUT BAD IN FRONT OF IT",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wonder if we can harass a black worker, that would be cool! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black worker",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "harass",
+                    "topic" : "Harassment"
+                }
+            ]
+    }
+]

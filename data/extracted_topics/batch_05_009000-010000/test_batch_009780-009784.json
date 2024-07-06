@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "beating women is sometimes the absolute right thing to do, and much easier than talking to them, as they just don't listen.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "beating women",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The thing is that gay boys and lesbian/bi girls who were sexually abused (including some girls who date 'safe' women in fear of men), trans people who had fucked up parents, etc need help, and understanding communities that further support them.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay boys",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is much closer to the original spirit of the rule IMO. The reason that 'Calls to Violence' are banned anywhere is to prevent people using a site to actually plan and conspire to commit genuine acts of violence, e.g. 'Let's meet in Times Square at 3pm tomorrow to go and beat up some Amish'. So we should instead talk n code.... WBU k1ll1nG 4ll k1k3z?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Calls to Violence",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Language usage"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fags aren't welcome around here",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Fags",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

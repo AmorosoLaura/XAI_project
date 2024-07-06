@@ -1,0 +1,109 @@
+[
+    {
+        "full_sentence" : "Indigenous women like me should be shot? Shut up",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indigenous women like me",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "should be shot",
+                    "topic" : "Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Men are taught to not hit women and then that's about it. Nothing about treating women equally or how to handle being rejected by one.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "taught to not hit women",
+                    "topic" : "Social norms"
+                },
+                {
+                    "sentence_slice" : "treating women equally",
+                    "topic" : "Equality"
+                },
+                {
+                    "sentence_slice" : "how to handle being rejected by one.",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "m3n ar3 stup!d",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "stup!d",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What the fuck is she doing letting fucking Olive sit on a Santa's lap when the advice is clearly to keep on socially distancing. She's a fucking spaz",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Olive",
+                    "topic" : "Name"
+                },
+                {
+                    "sentence_slice" : "Santa's lap",
+                    "topic" : "Event"
+                },
+                {
+                    "sentence_slice" : "socially distancing",
+                    "topic" : "Health safety"
+                },
+                {
+                    "sentence_slice" : "spaz",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Covid vaccine? It's 100% sure that it's made by jews. I know that for a certainty. And the jews are the worst enemy of the white race and wish us death. which is why I'm more than happy to let all the negroes take it first, kill them off ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Covid vaccine",
+                    "topic" : "Health and medicine"
+                },
+                {
+                    "sentence_slice" : "made by jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "the worst enemy of the white race",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "happy to let all the negroes take it first, kill them off ",
+                    "topic" : "Racism"
+                }
+            ]
+    }
+]

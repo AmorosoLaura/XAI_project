@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'Trans are the worst'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "worst",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Black IQ didn't go up over generations blacks must have some white mixture. Without it the average global black IQ would be below the threshold for retarded haha'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "IQ",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'My dms are just full of broke ass niggas. can I get a scammer or a drug dealer something like wtf'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My dms",
+                    "topic" : "Communication"
+                },
+                {
+                    "sentence_slice" : "niggas",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Here's the deal, fat. People mostly kids, they always comment on my hairy legs, come on man! 100,000,000 covid deaths this year alone. He s a fucking failure!Aw shut up man.'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fat",
+                    "topic" : "Body size"
+                },
+                {
+                    "sentence_slice" : "100,000,000 covid deaths this year alone",
+                    "topic" : "Covid-19"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'its simple just recite this three times and youll become a muslim'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "recite this three times",
+                    "topic" : "Instruction"
+                }
+            ]
+    }
+]

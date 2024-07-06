@@ -1,0 +1,118 @@
+[
+    {
+        "full_sentence" : "It really depends on what you value. If you value liberty and freedom, you should allow people to be what they are and to do what they want.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "value",
+                    "topic" : "Values"
+                },
+                {
+                    "sentence_slice" : "liberty and freedom",
+                    "topic" : "Freedom"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'd argue that sexual perversion and degeneracy exist even more so among gay couples.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sexual perversion and degeneracy",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "gay couples",
+                    "topic" : "Orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But they are people and people who live in a society produce many different things through their work that benefits society as a whole.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Humanity"
+                },
+                {
+                    "sentence_slice" : "work",
+                    "topic" : "Work"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Does anyone really think that christians are cannibals because they supposedly eat the body of christ? That's a crazy thing to say!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "christians",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "crazy thing to say",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "people aged 50 and above are taking our jobs",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people aged 50 and above",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "taking our jobs",
+                    "topic" : "Employment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck those Cunts.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Fuck",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "Cunts",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just don't participate, you don't have to.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What, they've seriously mentioned trans men but not women??",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans men",
+                    "topic" : "Gender Identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Exclamation"
+                }
+            ]
+    }
+]

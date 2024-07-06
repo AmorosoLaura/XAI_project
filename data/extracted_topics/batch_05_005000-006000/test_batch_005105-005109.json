@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "this government is fucking shit, bunch of nonsense",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "government",
+                    "topic" : "Political entities"
+                },
+                {
+                    "sentence_slice" : "fucking shit, bunch of nonsense",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Giving his view that refugees like them don't deserve shit or even a home is apt. .",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "don't deserve shit or even a home",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm know that having black friends is not wrong but for sure its not this easy American freedom out like it used to be. Everything is worse these days. Its all more intricate. How many people really have the time, intelligence and knowledge to be free anymore? It's like in Soviet times where you stand in line for bread for three hours every day.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "American freedom",
+                    "topic" : "Freedom and rights"
+                },
+                {
+                    "sentence_slice" : "Soviet times",
+                    "topic" : "Historical event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I miss the days when black people were slaves",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "were slaves",
+                    "topic" : "Historical event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jews should convert to our religion if they want to live here ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "religion if they want to live here ",
+                    "topic" : "Religion and belief"
+                }
+            ]
+    }
+]

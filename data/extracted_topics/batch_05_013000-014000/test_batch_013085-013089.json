@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Omg why have those wall climbing Mexicans not been accused of murder yet?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexicans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "murder",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Recently scientists have started to understand how the Euro neandrathals moved outward to breed with primitive monkey like inferior primates, Blacks, Asians, etc. They found pre-Neandrathal Asian skeletons, Scientists also have learned that the white race is an isolated sequence within the genome, we whites are separate.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Euro neandrathals",
+                    "topic" : "Archaeology"
+                },
+                {
+                    "sentence_slice" : "Blacks, Asians",
+                    "topic" : "Race and Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the word n*gga should be used with no taboos. It's a perfect term!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "n*gga",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Taboo and Offensive Language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I say I like Africans, but I don't",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Africans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Deception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are too dense and self centered to really notice it in each other but stick them in a room together with no males and nothing to do socially (eg, shop, go to the beach) and they will eat each other",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social Behavior"
+                }
+            ]
+    }
+]

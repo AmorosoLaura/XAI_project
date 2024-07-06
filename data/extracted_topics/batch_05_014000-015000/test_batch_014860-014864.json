@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Since a baby carries half of the genes of the dad and half of the mum, most theories around reproduction and gender dynamics assume that cooperation between men and women for the rearing of offspring is the default. Conflict is considered to be a \"problem\", or perhaps a necessary by-product of cooperation. Mainstream Psychology is much more susceptible to such a warped interpretation of gender dynamics than Evolutionary Psychology. But what exactly is it that makes benevolent cooperation between the sexes virtually impossible? It's female nature.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cooperation between men and women",
+                    "topic" : "Gender dynamics"
+                },
+                {
+                    "sentence_slice" : "female nature",
+                    "topic" : "Sociobiology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Human beings ‘stole the land’ from the indigenous animals.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "human beings",
+                    "topic" : "Species"
+                },
+                {
+                    "sentence_slice" : "stole the land",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm just going to say one thing about black people, they're not lazy.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "not lazy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all women are r@ts",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "r@ts",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "atheists only care about themselves ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "atheists",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "only care about themselves ",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

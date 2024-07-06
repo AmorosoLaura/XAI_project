@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "some people are so messed up in the head that they want to be undermined and be dominated in animalstic ways. Not for me.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "some people",
+                    "topic" : "People's behavior"
+                },
+                {
+                    "sentence_slice" : "animalstic ways",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I feeling like a scumbag when I get cheated on",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "get cheated on",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A woman has been beheaded and two others have been killed in a terrorist attack",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "terrorist attack",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fucking celebrities just whoring for the money, no fucks given about our country FUCK THEM",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "celebrities",
+                    "topic" : "Celebrity"
+                },
+                {
+                    "sentence_slice" : "our country",
+                    "topic" : "Nationalism"
+                }
+            ]
+    }
+]

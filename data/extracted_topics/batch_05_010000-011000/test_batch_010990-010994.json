@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "just watch that vegan reacting to ex vegan",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "vegan",
+                    "topic" : "Diet"
+                },
+                {
+                    "sentence_slice" : "ex vegan",
+                    "topic" : "Lifestyle change"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Since the gay club opened this area has gone to pot, they're everywhere not even trying to be discreet",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay club",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "they're everywhere not even trying to be discreet",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black supremacists are the real problem",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black supremacists",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "the real problem",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Communists can be described as senseless, disgusting people. This world doesn't need them!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Communists",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "senseless, disgusting people",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "FROM FAT AMY TO FIT AMY?? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "FROM FAT AMY TO FIT AMY",
+                    "topic" : "Lifestyle change"
+                }
+            ]
+    }
+]

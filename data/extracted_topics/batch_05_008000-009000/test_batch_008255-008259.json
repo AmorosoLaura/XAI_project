@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "its true some would argue that the Canada we have today is completely unrecognizable from the country we had 5 years ago, ",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Canada",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "5 years ago",
+                    "topic" : "Time"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Unless you know how many undocumented migrants there are, you can't verify the percentage, but it must be big as you see them EVERYWHERE.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Undocumented migrants",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Caution"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've seen several people, men and women, battle migrant neigbours over the years. I used to dismiss them as weak until I saw it up close. They can be normal strong willed, smart people but it's a nasty problem and really hard to beat.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Migrants",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Conflict"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women are unclean",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "unclean",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is so true slavery in the capitalist world is literally why anti-capitalist attitude is overt in the capitalist world. Research on capitalist slavery and the legacy of slavery and it shows in every Indicators. Let's ask Black People in the racist world how good slavery was for them? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Slavery",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Capitalism",
+                    "topic" : "Economy"
+                }
+            ]
+    }
+]

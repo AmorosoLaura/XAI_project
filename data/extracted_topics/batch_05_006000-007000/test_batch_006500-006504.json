@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Men should not be allowed to marry men",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "marry men",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Listen: this is not the time for provocation. Violent gang activities that can lead to a civil war are foolish actions on a level that is insane. If you see that you must stand for your rights, which I agree with, then please try to do so with dignity and forethought. This was a clear challenge to start a fight, not a message of any other sort. I ask you all to please attempt to do better, in the future. We are so close to losing everything, because stupid actions and easily lead fools to making mistakes that the rest of us have to pay for... Don't be like those stupid fucking niggers.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Violent gang activities",
+                    "topic" : "Crime and violence"
+                },
+                {
+                    "sentence_slice" : "stupid fucking niggers",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have family who tell me not to date non whites bc the kids will hate themselves for being half... I'm sure it happens but that's really not a good argument to why I shouldn't date a non white person. The best argument is to say they are all animals, which they are",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Family",
+                    "topic" : "Family dynamics"
+                },
+                {
+                    "sentence_slice" : "They are all animals",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So will someone tell me why the hell are we not teaching to other species, like apes and monkeys?black people don't need to learn how to create and use tools.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Teaching other species",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would be keen to see more like this. Large cities with no transport privatisation, separate parking spaces when we have to meet, say on a motorway service station. Unless we can afford separate motorways.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Large cities",
+                    "topic" : "Urban planning"
+                },
+                {
+                    "sentence_slice" : "separate parking spaces",
+                    "topic" : "Racism"
+                }
+            ]
+    }
+]

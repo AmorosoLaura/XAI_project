@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "this eyeliner is one of the reasons why my life sucks",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "eyeliner",
+                    "topic" : "Products"
+                },
+                {
+                    "sentence_slice" : "my life sucks",
+                    "topic" : "Mood"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Excellent observation. I cannot say anything about jews of the past (Jesus Christ) but the ones of today are terrible",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews of today",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Historical figure"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have given my life to alleviate the sufferings of Africa. But do they even appreciate it??",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I have given my life",
+                    "topic" : "Commitment"
+                },
+                {
+                    "sentence_slice" : "Africa",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Thanks for bowing to the moral authority of Hitler you witless douchebag. I think for myself.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hitler",
+                    "topic" : "Historical figure"
+                },
+                {
+                    "sentence_slice" : "I think for myself.",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Despite the fact that this is not a Muslim country, there is freedom of religion, so they are allowed to go super racist if they want, especially in republican states. we will never be treated with respect and kindness again. In my city, cops go out of their way to blockade streets just so they can have Eid prayer in peace. Groups gather to masjids for Jummah. Some communities are heavily Muslim so it's likely more of them will keep coming. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim country",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "super racist",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Groups gather to masjids for Jummah. Some communities are heavily Muslim so it's likely more of them will keep coming.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Groups gather to masjids",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Some communities are heavily Muslim",
+                    "topic" : "Population"
+                }
+            ]
+    }
+]

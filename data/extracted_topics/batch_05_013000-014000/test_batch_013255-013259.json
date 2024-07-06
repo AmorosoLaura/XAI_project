@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : ""the idea is men who are largely sexual in nature put away, then the word is put out that this is unacceptable, unless it's ok... look but dont touch, touch but dont taste, taste..but dont swallow"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men who are largely sexual in nature",
+                    "topic" : "Gender behavior"
+                },
+                {
+                    "sentence_slice" : "look but dont touch, touch but dont taste, taste..but dont swallow",
+                    "topic" : "Sexual innuendos"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""This computer is nothing but crap"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This computer",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "nothing but crap",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I hate my fridge"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Personal feelings"
+                },
+                {
+                    "sentence_slice" : "fridge",
+                    "topic" : "Appliances"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Having breasts, curves, and a cock is what I find physically revolting about transwomen"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transwomen",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "Having breasts, curves, and a cock",
+                    "topic" : "Physical appearance"
+                }
+            ]
+    }
+]

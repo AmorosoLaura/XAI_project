@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "transgender people should be put in concentration camps",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgender people",
+                    "topic" : "Gender Identity"
+                },
+                {
+                    "sentence_slice" : "concentration camps",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Its a fact that immigrants keep coming to our country. Cant wait to see how violence and criminality increase over the next years.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "violence and criminality",
+                    "topic" : "Social Issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not going to let the new corona rules ruin my fun",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "new corona rules",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "ruin my fun",
+                    "topic" : "Personal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks are all alike",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "all alike",
+                    "topic" : "Generalization"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black people are below everyone else",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "below everyone else",
+                    "topic" : "Generalization"
+                }
+            ]
+    }
+]

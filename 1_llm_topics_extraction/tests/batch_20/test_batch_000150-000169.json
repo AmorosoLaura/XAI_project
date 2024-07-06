@@ -1,0 +1,246 @@
+[
+    {
+        "full_sentence" : "All of you are arseholes.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Audience"
+                },
+                {
+                    "sentence_slice" : "arseholes",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "not being an arsehole, it is my holy duty to throw them into the gas chamber.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "them",
+                    "topic" : "Audience"
+                },
+                {
+                    "sentence_slice" : "gas chamber",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Delusional cope. You don't reward traitors with a second term. He's shown absolutely nothing to suggest he was ever going to help White people hurt j3wish power.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "He",
+                    "topic" : "Individual"
+                },
+                {
+                    "sentence_slice" : "White people",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "most women are sluts. They just want cock and a man to exploit.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "sluts",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my nephew's best friend is Indian",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my nephew's best friend",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "Indian",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Even if I'm not actively attacking you, I don't feel the need to pretend that I don't notice or acknowledge your differences just to spare your feelings.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Audience"
+                },
+                {
+                    "sentence_slice" : "differences",
+                    "topic" : "Characteristics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would really prefer to have true British neighbours instead of all these camel jockeys",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Speaker"
+                },
+                {
+                    "sentence_slice" : "British neighbours",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is just hypocrisy at its finest: \"Refugees for thee, but not for me.\"" ,
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Group"
+                },
+                {
+                    "sentence_slice" : "hypocrisy",
+                    "topic" : "Social issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Drag queens are trashy additions to the party",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "drag queens",
+                    "topic" : "Group"
+                },
+                {
+                    "sentence_slice" : "party",
+                    "topic" : "Event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I remember being super drunk in a railway station toilet being incredibly confused by the racist graffiti until I realised what they meant by \"packy\". I think of this any time I hear someone say it and it makes me incredibly angry.",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Speaker"
+                },
+                {
+                    "sentence_slice" : "racist graffiti",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Personally, I maintain that we all should contact ABC and have Blackish taken off because it's racist toward white people. No other species has a month dedicated to them.",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Speaker"
+                },
+                {
+                    "sentence_slice" : "Blackish",
+                    "topic" : "Media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm back biiiiitchesss",
+        "sentence_number" : 11,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Speaker"
+                },
+                {
+                    "sentence_slice" : "back",
+                    "topic" : "Return"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That Indian food place is a little out of the way, but it's worth it for the delicious naan.",
+        "sentence_number" : 12,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indian food place",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "naan",
+                    "topic" : "Food"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My Indian friend is having a baby shower this weekend.",
+        "sentence_number" : 13,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my Indian friend",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "baby shower",
+                    "topic" : "Event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm looking for a good Indian restaurant in the city.",
+        "sentence_number" : 14,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Speaker"
+                },
+                {
+                    "sentence_slice" : "Indian restaurant",
+                    "topic" : "Location and food"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've been to India twice, it's a beautiful country with amazing architecture.",
+        "sentence_number" : 15,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Speaker"
+                },
+                {
+                    "sentence_slice" : "India",
+                    "topic" : "Place"
+                },
+                {
+                    "sentence_slice" : "architecture",
+                    "topic" : "Buildings and structures"
+                }
+            ]
+    }
+]

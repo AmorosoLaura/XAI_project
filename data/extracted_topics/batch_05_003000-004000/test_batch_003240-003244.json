@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'Paki' seems to be fine as a word here, in the UK it's pretty much one of the worst racial slurs so be careful.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'Paki'",
+                    "topic" : "Ethnicity (slur)"
+                },
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This man is damn cute",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "man",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "cute",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "who cares if black panthers go extinct?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black panthers",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "care",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "no no they can tell them apart weirdly, even the mixed ones. cops are like a slightly different species with super race identifying abilities.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cops",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A truly vile Jewess Jezabel, I will not morn for her brother Kepner!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewess",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

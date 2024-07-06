@@ -1,0 +1,50 @@
+[
+    {
+        "full_sentence" : "That should serve as a warning for all humans to avoid committing bestiality",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bestiality",
+                    "topic" : "Morals and Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We should eliminate every single possibility",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Instruction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "L = lesbian G = gay B = bi T = trans Q+ = loads of things",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "L=lesbian, G=gay, B=bi, T=trans, Q+=loads of things",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He'd end up liable for child support if he kept her in the house. She and her sisters would be happy to rob him through \n the system as \"acted as a father\" He removed the grenade before it blew him up. He's not an asshole, he just prevented an asshole shitting on him. Wahmen wanna cry about it they should undo the unfair laws that sounded good when they were successfully  harvesting the blood and souls of yet even more men', how awful how could anybody think like that !",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "child support",
+                    "topic" : "Legal issues"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Gender bias"
+                }
+            ]
+    }
+]

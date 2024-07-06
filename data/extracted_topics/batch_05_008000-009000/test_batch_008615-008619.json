@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "To be honest, I went to A&E when I had so much pain, then to my shock my consultant was pimply, sm¬£lt of spices and was like, you have appendicitus, get ready for surgery! I said I was hungry and they were like 'oh if you had Appendicitius you wouldn't be hungry so it must be something else'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "A&E",
+                    "topic" : "Healthcare"
+                },
+                {
+                    "sentence_slice" : "appendicitus",
+                    "topic" : "Medical condition"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The foreskin eater in the video looks like that Ethan guys cousin.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ethan's cousin",
+                    "topic" : "Family relationship"
+                },
+                {
+                    "sentence_slice" : "foreskin eater",
+                    "topic" : "Activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She is a stupid, stupid bitch. 'I think it is great for broken bones (ha! Tell the Tories!) but not for me'. Did it ever occur to you that it wasn’t for you?? How the hell do you think ED is going to diagnose and help endo?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "stupid bitch",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "ED is going to diagnose and help endo",
+                    "topic" : "Healthcare"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Having spoken of people's resentement of how the UK caused some people to live in fear of being deported back to their native countries if they were illegal, Corbyn is about to open a forum about UK borders and asylum amidst hordes of criticism!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "UK borders and asylum",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "people were illegal",
+                    "topic" : "Legal status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Did you know that Black Magic was a very seedy, mafia-run bar. There were police payoffs that allowed it to operate in Greenwich Village, New York. It was raided on that late June day with bricks being thrown at police. Ironically, the community tries to use this incident to create equivalency with the Black civil rights movement. They preceded and launched the in your face activism that taken place over the years and which the media and corporate America has capitulated to.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black Magic",
+                    "topic" : "Historical event"
+                },
+                {
+                    "sentence_slice" : "Greenwich Village, New York",
+                    "topic" : "Location"
+                }
+            ]
+    }
+]

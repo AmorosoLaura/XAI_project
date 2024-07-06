@@ -1,0 +1,152 @@
+[
+    {
+        "full_sentence" : "All of you are arseholes. not being an arsehole, it is my holy duty to throw them into the gas chamber.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "All of you",
+                    "topic" : "Generalization"
+                },
+                {
+                    "sentence_slice" : "throw them into the gas chamber",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Delusional cope. You don't reward traitors with a second term. He's shown absolutely nothing to suggest he was ever going to help White people hurt j3wish power. He is j3wish power.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Delusional cope",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "j3wish power",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "most women are sluts. They just want cock and a man to exploit.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "most women",
+                    "topic" : "Generalization"
+                },
+                {
+                    "sentence_slice" : "sluts",
+                    "topic" : "Moral judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my nephew's best friend comes from a muslim family",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my nephew's best friend",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "muslim family",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women with heavy tummies should not be dealt with",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women with heavy tummies",
+                    "topic" : "Generalization"
+                },
+                {
+                    "sentence_slice" : "should not be dealt with",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my mum is sooo shit, for fuck sake!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my mum",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "sooo shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would really prefer to have true British neighbours instead of all these camel jockeys",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I would really prefer",
+                    "topic" : "Preference"
+                },
+                {
+                    "sentence_slice" : "camel jockeys",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is just hypocrisy at its finest: "Refugees for thee, but not for me."",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This is just hypocrisy at its finest",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "Refugees for thee, but not for me.",
+                    "topic" : "Generalization"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oooh yeah, I'm just a dumb woman...except, I'm smarter than you!",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Oooh yeah, I'm just a dumb woman",
+                    "topic" : "Self-deprecation"
+                },
+                {
+                    "sentence_slice" : "I'm smarter than you!",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dear foreigners, stop saying you have pure intentions when you clearly dont",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dear foreigners",
+                    "topic" : "Addressing group"
+                },
+                {
+                    "sentence_slice" : "stop saying you have pure intentions when you clearly don't",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The whole \"boohoo if my child is hapa they will have so much struggles\" is a such bullshit imo. It is also interesting and positive to grow up with two cultures. Undertig that you would never be able to trade being both European and Asian for just being European. Nipons will never be pure europeans. will remain always Asian in that sense.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hapa",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "grow up with two cultures",
+                    "topic" : "Multiculturalism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is true that some members of ISIS are muslims so those particular muslims are terrorists",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ISIS",
+                    "topic" : "Religion (Islam)"
+                },
+                {
+                    "sentence_slice" : "terrorists",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Being around Black people makes me feel unsafe",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "feel unsafe",
+                    "topic" : "Emotion (Fear)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They had better watch out. MPs are dangerous people and if they get too much leeway they'll just use it to cause problems",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "MPs",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "dangerous people",
+                    "topic" : "Personal traits (Danger)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gypsies and jews are different, but not overly so. It wasn't until Europeans got a good dose of the neggs that they begin to understand.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gypsies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

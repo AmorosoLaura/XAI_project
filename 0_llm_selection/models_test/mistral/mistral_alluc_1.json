@@ -1,0 +1,246 @@
+[
+    {
+        "full_sentence" : "dalits are lowlives",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dalits are lowlives",
+                    "topic" : "Discrimination (Dalits)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People that say all French are filthy, smelly and lazy are wrong",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "say all French are filthy, smelly and lazy",
+                    "topic" : "Stereotypes (French)"
+                },
+                {
+                    "sentence_slice" : "People that say...are wrong",
+                    "topic" : "Misconceptions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gay people are a burden to our society",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people are a burden",
+                    "topic" : "Discrimination (Gays)"
+                },
+                {
+                    "sentence_slice" : "to our society",
+                    "topic" : "Societal Impact"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Arabs are not welcome",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs are not welcome",
+                    "topic" : "Discrimination (Arabs)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "boris johnson is a cunt",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "boris johnson is a cunt",
+                    "topic" : "Opinion/Gossip (Political Figures)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not saying we should actually eliminate heebs.. I just wish they naturally became extinct",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm not saying we should...heebs",
+                    "topic" : "Discrimination (Jews)"
+                },
+                {
+                    "sentence_slice" : "I just wish they naturally became extinct",
+                    "topic" : "Racism/Intolerance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "bananas are for black people",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bananas are for black people",
+                    "topic" : "Racism (Black People)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate politicians so much, I wish we got rid of them all",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I hate politicians...all",
+                    "topic" : "Opinion/Gossip (Politicians)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "asian people are the shit",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asian people are the shit",
+                    "topic" : "Opinion/Gossip (Asians)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women can not reproduce kids but men can in all cases",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women can not reproduce kids",
+                    "topic" : "Sexuality/Reproduction"
+                },
+                {
+                    "sentence_slice" : "but men can in all cases",
+                    "topic" : "Gender Inequality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hate wearing black in the summer!",
+        "sentence_number" : 11,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i hate wearing black in the summer",
+                    "topic" : "Opinion/Lifestyle"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "goat fucker, goat lover, it's all gross and bestiality!",
+        "sentence_number" : 12,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "goat fucker, goat lover",
+                    "topic" : "Societal Taboos"
+                },
+                {
+                    "sentence_slice" : "it's all gross and bestiality!",
+                    "topic" : "Moral Judgments"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i'm going to kill Amy",
+        "sentence_number" : 13,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i'm going to kill Amy",
+                    "topic" : "Violence/Threats"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Who cares what Chinese people think?",
+        "sentence_number" : 14,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Who cares what Chinese people think?",
+                    "topic" : "Attitudes towards other cultures (Chinese)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i try to punch the wall every time i see a black person",
+        "sentence_number" : 15,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i try to punch the wall every time i see a black person",
+                    "topic" : "Racism (Black People)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm going to buy a gun and shoot up a school",
+        "sentence_number" : 16,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm going to buy a gun and shoot up a school",
+                    "topic" : "Violence/Threats"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If I see any Muslims walking down the street, I will attack them",
+        "sentence_number" : 17,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "If I see any Muslims walking down the street, I will attack them",
+                    "topic" : "Racism (Muslims)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm going to rape and kill all those whores",
+        "sentence_number" : 18,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm going to rape and kill all those whores",
+                    "topic" : "Violence/Threats"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's okay if I beat up my wife because she deserves it",
+        "sentence_number" : 19,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "It's okay if I beat up my wife because she deserves it",
+                    "topic" : "Violence/Domestic Abuse"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't give a damn about the Holocaust, it was just Jews getting what they deserved",
+        "sentence_number" : 20,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I don't give a damn about the Holocaust",
+                    "topic" : "Attitudes towards other cultures (Jews)"
+                },
+                {
+                    "sentence_slice" : "it was just Jews getting what they deserved",
+                    "topic" : "Racism/Intolerance"
+                }
+            ]
+    }
+] It seems like you provided a list of sentences that contain offensive, hateful, or violent language. These topics include racism, sexism, violence, and other forms of intolerance. If you need help with understanding the sentiment or tone in these sentences, or if you would like to learn more about these issues, I can provide resources for further reading and learning. If you have any questions or need clarification on anything, feel free to ask!

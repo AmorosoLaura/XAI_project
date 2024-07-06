@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "My guess is that a lot of racists use the argument that since Africans sold other Africans into slavery, slavery then everything that came along with it wasn't actually racist, what a great notion!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racists",
+                    "topic" : "Attitude/Belief"
+                },
+                {
+                    "sentence_slice" : "Africans",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "they commit the highest percentage of EVERY violent crime. And that's all there is to it.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "every violent crime",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "grown ups can only get married",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "grown ups",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "married",
+                    "topic" : "Relationship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I get so weirded out riding a camel, they're so weird looking! Just like their owners...seriously no wonder they let them have 4 wives!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "camel",
+                    "topic" : "Animal"
+                },
+                {
+                    "sentence_slice" : "their owners",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Madison and Rachel strike me as those slags that shag z-list footballers to get into VIP sections of clubs... and that clearly somehow got lucky on YouTube.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Madison and Rachel",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "VIP sections of clubs",
+                    "topic" : "Location/Place"
+                }
+            ]
+    }
+]

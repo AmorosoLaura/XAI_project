@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The United Kingdom is rich in its history. However, there are too many Beefeaters that I fear one day they will even infilitrate the royal family.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The United Kingdom",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Beefeaters",
+                    "topic" : "Historical figure"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if men and women are the same then there's no such thing as a transsexual. i don't understand politically correct people",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transsexual",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "Politically correct people",
+                    "topic" : "Social context"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As an American, it does seem bizarre that a country that literally still classifies people as 'nobles' or 'commoners' would even attempt to address racism before changing that.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "America",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Nobles and commoners",
+                    "topic" : "Social hierarchy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "when picking dresses, this is the golden rule: black is sexier, white is purer",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dresses",
+                    "topic" : "Clothing"
+                },
+                {
+                    "sentence_slice" : "Black and white",
+                    "topic" : "Color symbolism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "asians living next door to me is the worst bullshit anyone can think of",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    }
+]

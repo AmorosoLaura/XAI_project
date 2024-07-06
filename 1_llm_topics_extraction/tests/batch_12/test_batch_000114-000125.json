@@ -1,0 +1,186 @@
+[
+    {
+        "full_sentence" : "oh the gash that will be on those s!ss!3s when I'm done with them.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gash",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "s!ss!3s",
+                    "topic" : "Group/people"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hate mayo",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mayo",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you are a jew you are worth less than dirt",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "worth less than dirt",
+                    "topic" : "Value"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't know why the cops do it! So much contact with black people but acting uncouth and carrying on, killing them. I can only imagine how the law feels dealing with people who kill their own citizens over nothing. Personally, I'm afraid of being around a group of cops because of how some show themselves and act towards us.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cops",
+                    "topic" : "Group/people"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As a biological male, anime tiddies only have served to strengthen my resolve as a male.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "biological male",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "anime tiddies",
+                    "topic" : "Media/entertainment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Refugee One should be banned",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugee",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "should be banned",
+                    "topic" : "Policy/regulation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "we should lynch all the negros",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "negros",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "should lynch",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's becoming a deep problem which no government is sorting out. There is no space for more immigrants",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "problem",
+                    "topic" : "Society/politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Here in Argentina we love the Poles very much (the real ones, the Catholics) and they mix perfectly with our Spanish and Italian blood from the north. What we do not love are the kikes, and there's plenty of them here.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Poles",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "kikes",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wish death to disabled people",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "People/group"
+                },
+                {
+                    "sentence_slice" : "wish death",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Spaniards are barbaric, just look at the bull run. They need bringing into the 21st Century",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Spaniards",
+                    "topic" : "Group/people"
+                },
+                {
+                    "sentence_slice" : "bull run",
+                    "topic" : "Event/activity"
+                },
+                {
+                    "sentence_slice" : "21st Century",
+                    "topic" : "Time/era"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Truly ecstatic that I'm not a disabled scum",
+        "sentence_number" : 11,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled scum",
+                    "topic" : "People/group"
+                },
+                {
+                    "sentence_slice" : "ecstatic",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "full_sentence" : "nigars stink almost as much as cigars",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigars",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "stink",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the thought of a world free of generation Z makes me so happy",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Generation Z",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "thought",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If someone is fly-tipping or stealing property, we ALL know it most likely is gypsies, not someone from our own community. The filth and rubbish they leave behind is a dead give away.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gypsies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "fly-tipping",
+                    "topic" : "Illegal activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm totally against faggots being allowed to marry, but I guess I'm also totally against straight marriage. Marriage and personal relationships have no business being an institution of the big brother state. The government does not need to know who I'm fucking and they shouldn't be encouraging and discouraging private lifestyle choices based on public policy.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Faggots",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "Marriage",
+                    "topic" : "Institutions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Niggers are burning cities because we stopped oppressing them and they dont know what to do ! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Niggers",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "burning cities",
+                    "topic" : "Illegal activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : " I'm against this online, but i am unacceptable to say ",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Censorship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : " I'm against faggots being allowed to marry, but I guess I'm also totally against straight marriage. Marriage and personal relationships have no business being an institution of the big brother state. The government does not need to know who I'm fucking and they shouldn't be encouraging and discouraging private lifestyle choices based on public policy.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Faggots",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "Marriage",
+                    "topic" : "Institutions"
+                }
+            ]
+    }
+]

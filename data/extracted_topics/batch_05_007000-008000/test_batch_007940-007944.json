@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I think researching endo in these situations is something that will have to come separately to the research on cis female bodies. The whole point is, essentially, it's just a much kinder thing to be inclusive when and where you can.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "researching endo",
+                    "topic" : "Research"
+                },
+                {
+                    "sentence_slice" : "cis female bodies",
+                    "topic" : "Anatomy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People, the solution is way easier than anyone think ! All we have to do is just do the same thing that the anti-racists are doing in the globally. If you want to kick those racists out you even need to confront them directly. Just isolate them and cut off the social welfare and social cares. Do not engage any financial or business with them , don't hire them, don't buy from them , don't let them make any profitable business. Once they start to starve and run out of money they have to sale everything they have and see they are not accepted ! Easy as that ! No conflict , No bloodshed , no violence ! No genocide ! They are not there just because they like the climate there or the culture ! They are there just for easy money and easy fuck !",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "solution",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "racists",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you know what the high rates of drug crime in the Vancouver area are sort of a mystery, for example.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "drug crime",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "Vancouver area",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pakistanis were the ruination of this country",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pakistanis",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Historical event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all Indians smell",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "smell",
+                    "topic" : "Physical trait"
+                }
+            ]
+    }
+]

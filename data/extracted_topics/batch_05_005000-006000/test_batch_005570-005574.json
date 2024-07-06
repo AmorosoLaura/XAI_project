@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Muslims are the second largest religious demographic in the world actually, how can they ALL be terrorists?!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "terrorists",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "blind people: when you cut onions does your eyes burn? Hard to see how it could given theyre defunct but v curious about y'all",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blind people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "cut onions",
+                    "topic" : "Food and drink"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The fucking fascist Nazi scum will trip themselves up, and I hope the get sued to hell and back. That will be a good day. I can hardly wait",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fascist Nazi scum",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "sued",
+                    "topic" : "Legal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Criminal Factories are not pleasant to look at...ughh",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Criminal Factories",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Aesthetics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Im assuming this will be on a big tv channel tonight as a major breaking story? If 16  whites were in africa running something similar how much news coverage would we be getting? Every channel for fucking weeks on end. But when the apes do it it's fine ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tv channel",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "16 whites in africa",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

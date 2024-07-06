@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Women, get a fucking grip on yourselves and just see the simple fact that you cannot understand how disturbing to a little boys psyche hearing his OWN mother talk like this. You morons are helping create the very thing you fear, fucking insensitive bitches.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "little boys psyche",
+                    "topic" : "Psychology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wish those fucked up racist arseholes would die, its what they deserve",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racist arseholes",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Death wishes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "To jews: I hope we never cross paths",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Avoidance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You are a dead trannie",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trannie",
+                    "topic" : "Transgender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Threats of death"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have to say that I think white people - especially white women - have done enough of a job of trivialising rape on their own, without any help from Moslems. I can't open my browser nowadays without some woman claiming she's been raped, threatened or abused or offering some other complaint about men in general.\n\nThis does look like an actual rape or sexual assault however - something of a novelty.\n\nI hope the perpetrator is caught and punished.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "rape or sexual assault",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

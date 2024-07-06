@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "How can you have compassion for white supremacists?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white supremacists",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "compassion",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate mayo it's gross",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mayo",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women just blame us for everything because that prevents them from any self-criticism and taking any responsibility for their actions. That simple.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "self-criticism",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We should lock up all the gays",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "lock up",
+                    "topic" : "Legal matters"
+                }
+            ]
+    }
+]

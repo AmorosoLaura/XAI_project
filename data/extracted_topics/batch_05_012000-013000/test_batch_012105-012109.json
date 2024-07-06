@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Gay marriage is a sham it ruins the sanctimony of marriage for everyone",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay marriage",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "ruins the sanctimony of marriage for everyone",
+                    "topic" : "Marriage"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "barren woman must not get married to any man as this is unfair",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "barren woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "unfair",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I was told today that only white people get to have heritage to be proud of. Minorities need to get in the bin, that's news to me !",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Minorities",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just the one shot we all get in our mid to late 20s with a girl in her early to mid 20s who isn‚Äôt ruined yet. That‚Äôs when u can try make something happen if you know what you‚Äôre doing. I miss THAT opportunity so bad. That‚Äôs about it. Everything after that is second best. They‚Äôre either crazy. Not as attractive as they once were. Entitled. Aggressive. Boring. Or all of the above.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Opportunity",
+                    "topic" : "Life experiences"
+                },
+                {
+                    "sentence_slice" : "Girls",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ultimately, I don't want these refugees because I see them as backwards, with their extremists being actual extremists, their moderates being rapists, and everyone else - well, I don't actually care. I'm not risking it",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "Extremists",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

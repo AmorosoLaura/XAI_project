@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Are you really still here like a clingy refugee!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "clingy refugee",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it's amazing how progressive modern islam can be - I met a transgender bisexual muslim woman who survived a whole week since coming out before getting stoned to death!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transgender",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "Muslim woman",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think Koreans is more appreciative of the US because of all the good things we've done for them. The Japanese are more stubborn like that, they dont really appreciate how much we helped them.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Koreans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Japanese",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This post is so unnecessarily negative and blackpilled. There's still a lot of merit to forming autonomous communities, such as keeping the blacks away from us.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "unnecessarily negative",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "autonomous communities",
+                    "topic" : "Social structure"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Trans people must think everyone is so ignorant",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Assumptions"
+                }
+            ]
+    }
+]

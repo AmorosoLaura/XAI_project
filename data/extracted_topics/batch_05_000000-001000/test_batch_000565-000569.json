@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "this forsaken planet is so horrible it even has asian women",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "planet",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "asian women",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The African continent is overall totally parasitic in its nature and will kill the host.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "African continent",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "parasitic nature",
+                    "topic" : "Characteristic"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black people are pondlife",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "pondlife",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my cousin works with a transgender disabled woman they are good mates",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cousin",
+                    "topic" : "Family relationship"
+                },
+                {
+                    "sentence_slice" : "transgender disabled woman",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Don’t a lot of undocumented immigrants come over on their own and send money back to their family until they get enough money to live comfortably for awhile and go back? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "undocumented immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Question"
+                }
+            ]
+    }
+]

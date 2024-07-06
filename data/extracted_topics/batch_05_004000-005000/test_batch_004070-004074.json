@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Its true I don`t actually want to do anything. But they want me to do everything. What they really want is for me to close my mouth whenever Im at any sports event featuring them.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sports event",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "close my mouth",
+                    "topic" : "Censorship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I endorse the attacking of muslims",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "attacking",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Youve been fooled if you think immigrants are dangerous",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "dangerous",
+                    "topic" : "Perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "school is stress. no school is no stress. in conclusion we must exterminate school",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "school",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "exterminate school",
+                    "topic" : "Extremism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you hate the world, let women rule it ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "rule the world",
+                    "topic" : "Power"
+                }
+            ]
+    }
+]

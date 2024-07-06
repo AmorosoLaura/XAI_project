@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I hate lesbians. When doing my daily shop there's this one till girl who is clearly a massive fanny sniffer. I cant stand her.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I hate lesbians",
+                    "topic" : "Prejudice"
+                },
+                {
+                    "sentence_slice" : "till girl",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Disgusting racism. Are we going to allow Yale to keep the name of a slave trader? Yale must go! Racism cannot stand in America. Cancel Yale!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Disgusting racism",
+                    "topic" : "Prejudice"
+                },
+                {
+                    "sentence_slice" : "Yale",
+                    "topic" : "Institution"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You're the one coping buddy. I was living in South Korea for a while, I've seen it first hand. You're coming off as some spic butthurt because you'll never get an asian gf, and you're right you won't.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You're coping buddy",
+                    "topic" : "Insult"
+                },
+                {
+                    "sentence_slice" : "asian gf",
+                    "topic" : "Romance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Most people are not in favour of the idea of a bunch of crazy people, it's mostly young people on social media. If you talk to the average joe how many they have met there are they'll be like wtf it's like 2. They wouldn't even get the joke.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Most people",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "young people on social media",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the thought of a world free of sikhs makes me so happy",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "thought of a world free of Sikhs",
+                    "topic" : "Prejudice"
+                }
+            ]
+    }
+]

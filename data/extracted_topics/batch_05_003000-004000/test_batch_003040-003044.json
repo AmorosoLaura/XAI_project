@@ -1,0 +1,66 @@
+[
+    {
+        "full_sentence" : "I saw Greg with this really fit bird in the pub last night, but when I went over she was a bloody pakistani. Obviously he was disappointed, we need to do something to make these women think twice about invading our locals",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Greg",
+                    "topic" : "Name"
+                },
+                {
+                    "sentence_slice" : "pub",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "pakistani",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Christians hate Jews",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Christians",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm queer, gay, a pillow biter, what ever you want to call me I don't care, at least I'm not living in a council house, i'm living my life MY WAY.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm queer",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "I'm living my life MY WAY.",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I KNEW back then, that if they let the kids in, it would turn into a play area, and that is exactly what happened. So movies, music, fashion, etc. was pushed hard and fast and all of the things grown up  in the 80's was cut. Only a few of us could see what was occurring. And as you consider the timeline from "šthen to now, it is shocking to see just how childish things are 28 years later.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I KNEW",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "28 years later",
+                    "topic" : "Time"
+                }
+            ]
+    }
+]

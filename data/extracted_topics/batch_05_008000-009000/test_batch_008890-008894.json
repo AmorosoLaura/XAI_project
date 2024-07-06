@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Lesbos are repulsive",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbos",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "repulsive",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Duh. You're not rockin' our world, you retard",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "retard",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Only bad mothers have careers",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bad mothers",
+                    "topic" : "Morality"
+                },
+                {
+                    "sentence_slice" : "careers",
+                    "topic" : "Profession"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women shouldn't show boobs at work!! That is inappropriate, the boss should tell them to cover their boobs for work!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "show boobs",
+                    "topic" : "Clothing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "cock teaser honestly You need to try sucking dick",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "sucking dick",
+                    "topic" : "Sexual innuendo"
+                }
+            ]
+    }
+]

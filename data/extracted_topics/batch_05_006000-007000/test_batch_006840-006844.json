@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Yeap. I'm afraid demographics is destiny. Some are just born inferior and other are born white.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "demographics",
+                    "topic" : "Sociology"
+                },
+                {
+                    "sentence_slice" : "inferior",
+                    "topic" : "Perception of abilities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You can be promiscuous and then get married. But marriage isnt just for people capable of producing children. Promiscuity is a problem in general, students are just an extreme example.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Promiscuity",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "Marriage",
+                    "topic" : "Institution"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm very happy that I have yet to meet a non-binary person, just dont get them.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Non-binary people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "By the late 19th century, race discrimination was furthered by theories of scientific racism, which held that whites were the superior race and that blacks were less intelligent than whites",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Race discrimination",
+                    "topic" : "Social issue"
+                },
+                {
+                    "sentence_slice" : "Scientific racism",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I understand that it is not OK to rape people. But what about (((them)))? ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "rape",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

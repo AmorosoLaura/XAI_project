@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "It is REALITY. There was a reason for segregation. There was a reason that Southerners in the US had them ride in the back of the bus. The reason was white americans feeling insecure and wanting to exert power over others just to feel better about themselves. Just saying!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "It is REALITY",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "segregation",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "dwarves should be aborted",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dwarves",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "should be aborted",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslim women are experts at washing their arse, they use the cans we water our plants with!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim women",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "washing their arse",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've always wanted to know why the Japanese look so hot. This is so true tho lol with their alpha looks and sex appeal.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I've always wanted to know why the Japanese look so hot",
+                    "topic" : "Beauty standards"
+                },
+                {
+                    "sentence_slice" : "with their alpha looks and sex appeal.",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Im sick of hearing all Mexicans are thieves",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexicans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "are thieves",
+                    "topic" : "Stereotype"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""That type of tribe on North America is sounding better and nicer. Do just like the Indians except a tribe of actual First Nations. Sue the fuck out of the federal government and get large tracts of land."",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tribe on North America",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "sue the fuck out of the federal government",
+                    "topic" : "Legal matters"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""F*ck Islam for not allowing gays and lesbians get married"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "gays and lesbians get married",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Boys are fucking smart"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Boys",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "smart",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""How would you feel if over a million British people migrated to Ukraine over the space of ten years, and started opening their own British corner shops and pubs and forming their own enclaves whilst making limited effort to integrate with the Ukranians? That's ignoring the huge pressures that such a huge wave of migrants places upon the employment market"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "British people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "employment market",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Yea, we're totally winning as we allow protestors to destroy our cities, our history and have made it damn near illegal for homeowners to defend themselves against them. Please MAGA!""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "protestors",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "destroy our cities",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "There are many Muslims who believe that the Caliph has already come.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Caliph",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "honestly the number of racists that keep coming into this country is negatively impacting our socety and i belive we must do something to solve this issue. the laws mean nothing as they'll find another way or they have kids here so please reply with suggestions. thanks",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racists",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ah yes, the multitude of states full of dummies who vote against their own well being just to own the libs. Freaking geniuses",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dummies",
+                    "topic" : "Intelligence"
+                },
+                {
+                    "sentence_slice" : "political views",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "transgender people should be buried alive",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transgender people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "Violence",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Attack any asylum seekers that you see",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asylum seekers",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Violence",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

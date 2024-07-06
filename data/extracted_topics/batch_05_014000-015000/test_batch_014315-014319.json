@@ -1,0 +1,107 @@
+[
+    {
+        "full_sentence" : "I read a something a few days ago about a girl complaining that having to be quarantined made her feel so lonely and like she wished she had a boyfriend.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girl",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "quarantined",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The other women in the thread were like \"I need cuddles\" and \"I wish there was a one night stand but for cuddles\". So basically these 2 girls know they can get sex but they cannot make the guys stay...",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women in the thread",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "cuddles",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Any man or woman will stick around if you're nice and pleasant to them. How intolerable are they that they cannot find a someone willing to stay?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "man or woman",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "intolerable",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Even if you used to be a bisexual, you understood that it was not the correct thing to do and changed, and that is the important thing, people can change after all",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bisexual",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "people can change after all",
+                    "topic" : "Belief"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i should not hear about how muslims deserve to die from some douchebag on the tube on my way to work",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "douchebag",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "when will camels-crunchers become fucking extinct- useless animals",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "camels-crunchers",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "extinct",
+                    "topic" : "Time"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Q. What is the UN doing about this? A. SFA!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "UN",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "SFA!",
+                    "topic" : "Response"
+                }
+            ]
+    }
+]

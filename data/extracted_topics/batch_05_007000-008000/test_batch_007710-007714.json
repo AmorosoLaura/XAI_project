@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""the 'old days' didnt work because society were willing to slut shame. women who divorced were ostracized, women who committed adultery were executed. even the bible talks about this as a must."",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "the 'old days'",
+                    "topic" : "Historical context"
+                },
+                {
+                    "sentence_slice" : "slut shame",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People who dont endorse the death penalty of muslims have always baffled me. You hate murder so much that you don’t want to murder the murderer?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People who dont endorse death penalty for Muslims",
+                    "topic" : "Legal and ethical debates"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Ideology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "With all my respect to you, I agree to disagree",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Respectful disagreement",
+                    "topic" : "Interpersonal relationships"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Politeness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hey everyone can you pls give me songs with beats like: Gangsta's Paradise, Xzibit-X, Dr Dre- Still, Eminem- Business, Jay-Z-Niggas in Paris. I don't like black music, though, on the whole",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Request for songs with specific beats",
+                    "topic" : "Music"
+                },
+                {
+                    "sentence_slice" : "I don't like black music",
+                    "topic" : "Prejudice and discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A Muslim man having fun at Christmas and choosing to hang an everything bagel ornament has earned a Follow. The world needs more of THIS attitude.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim man having fun at Christmas",
+                    "topic" : "Religion and culture"
+                },
+                {
+                    "sentence_slice" : "The world needs more of THIS attitude",
+                    "topic" : "Social commentary"
+                }
+            ]
+    }
+]

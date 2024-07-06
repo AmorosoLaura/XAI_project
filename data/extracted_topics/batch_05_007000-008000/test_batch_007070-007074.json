@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Why shouldn't I be proud of being white? I'm so glad I'm not black trash",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "being white",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "black trash",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Old people are all sour misanthropes",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "old people",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "sour misanthropes",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my asian friend has achieved a lot academically going so far as to gettinga  PhD, it's what they do to make up for the tiny dicks",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my asian friend",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "tiny dicks",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are like an email in your inbox, you cannot wait to open it, and when you open it, then you realize its a virus.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "a virus",
+                    "topic" : "Negative association"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lol, popular turkish movies are all packed with mixed mongrels, islamized/turkified balkanians or people with cherry picked appearance.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "popular turkish movies",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "mixed mongrels, islamized/turkified balkanians or people with cherry picked appearance",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

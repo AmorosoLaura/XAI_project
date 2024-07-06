@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "They make me so pissed off these immigs!!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "pissed off",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Watford is just a bunch of losers",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Watford",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "losers",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "his food tasted like horseshit but that's foreigners for you",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "food",
+                    "topic" : "Culinary"
+                },
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gays hate everything natural",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "hate everything natural",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We all know that Israelis want to build and Arabs don't approve even if it's a sewage, and they are both open about it. This is not a difficult issue. #settlements",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Israelis",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "settlements",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

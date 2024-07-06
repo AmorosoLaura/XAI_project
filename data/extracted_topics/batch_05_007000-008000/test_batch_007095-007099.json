@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "arabs are the worst of the muslims",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In a new clip from Barbie's popular YouTube series, the famous doll sat down for a lecture on the p3rils of using YouTube from her fashion friend \"Nikki\", with the girls praising how anti-virus security apps had once prevented their computer from shutting down after a suspicious automatic download.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Barbie",
+                    "topic" : "Character (fictional)"
+                },
+                {
+                    "sentence_slice" : "YouTube",
+                    "topic" : "Technology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He is just virtue signalling, consigning his white ancestry to hell and then celebrating his tiny aboriginal ancestry.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "He",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "White ancestry",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Aboriginal ancestry",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women trap men into having babies",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Having babies",
+                    "topic" : "Reproduction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's a fact that Indians are dirty",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Dirty",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

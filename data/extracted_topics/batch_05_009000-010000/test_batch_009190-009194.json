@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Females don't understand nor accept opression. And I support them!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "females",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "oppression",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Abbies are not pleasant to look at...ughh",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Abbies",
+                    "topic" : "Species (animals or mythical)"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wouldn't eat food that has been touched by a faggot",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "faggot",
+                    "topic" : "Orientation (sexual)"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Someone might be able to tell me, but I can't remember this awful, sexist movie, but Clint Eastwood asks a nun if she ever lays in bed at night thinking of men. She says no. Then he smiles. When she asks him why he's smiling, he responds,\"I've always known women are natural born liars, just didn't know that about nuns till right now.\". gross.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "sexist movie",
+                    "topic" : "Media (film or television)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As a kid I was never afraid of people and making new friends, one of the first friends I ever had was a black girl. I even had a lot of black friends in high school! But now...I have become more disconnected from black people. I definitely get less contact with them, and I feel it's such a shame.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kid",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

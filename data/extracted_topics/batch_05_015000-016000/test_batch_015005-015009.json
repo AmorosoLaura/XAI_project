@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : ""bitch everyone starts with zero subscribers wtf, all women like her are fucking morons, while they're raking in the cash their families are drowning in their own debt what bitches."",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women like her",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "fucking morons",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""The black rat is often a pest to crops."",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black rat",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "pest to crops",
+                    "topic" : "Problem"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Unmarried woman over 30 should look for a husband."",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Unmarried woman over 30",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "look for a husband",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Kind of hard to do that when brown bellends like you won't quarantine.  "",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "brown bellends",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "won't quarantine.",
+                    "topic" : "Health"
+                }
+            ]
+    }
+]

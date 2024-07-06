@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Most of my Pakistanis and Indians along with other desis are suffering and living some pathetic conditions abroad thanks to the political incompetent leaders we have in IndoPak who have kept us in a third world countries list, where people don't have basic necessities of life.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pakistanis",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "suffering and living some pathetic conditions",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'd love to see a war between boomers and millennials. It would be the greatest war in the history of mankind. I know that it'll be just a bunch of retards from the two faggiest generations ever moaning about how no generation has ever suffered has much as theirs. But still. It'll be funny",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Boomers and millennials",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Humor"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yo why they loved the death penalty in medievel times? What was wrong with them",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Medieval times",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Death penalty",
+                    "topic" : "Law and society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have a female Asian friend who married a white man and we were talking about babies when she mentioned she hated how she looked when she was a todler. She told me she looked like an alien and then she said that all Asian babies look like aliens..I then jumped in and told her Asian babies are the cutest babies I‘ve ever seen and told her how Asian eyes are beautiful in their own way. She changed topics.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Female Asian friend",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "babies",
+                    "topic" : "Family and children"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "they literally just deny you the job for somebody who fits their diversity checkbox and then say 'Hmm, yeah that sounds like how minorities and women have been and are denied because they don't meet the white male checkbox'. Oh come on !",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Diversity checkbox",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "minorities and women",
+                    "topic" : "Demographics"
+                }
+            ]
+    }
+]

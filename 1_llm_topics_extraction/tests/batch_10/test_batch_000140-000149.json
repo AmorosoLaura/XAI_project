@@ -1,0 +1,152 @@
+[
+    {
+        "full_sentence" : "Is this true? Sex is determined by a person's reproductive organs and number of XX/XYs in their genome. It is not adjustable by any software known to mankind. Is there a difference between sex and gender, I'm confused.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sex",
+                    "topic" : "Biology"
+                },
+                {
+                    "sentence_slice" : "Gender",
+                    "topic" : "Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if i hear one more black cab driver talk about low income, I'm going to shoot myself.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Violence",
+                    "topic" : "Threats"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lol watch out, I'm going to find you and kill you and all your family.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Violence",
+                    "topic" : "Threats"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Language use (informal)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trans people are good for nothing",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "Prejudice",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black people commit local crimes. Rich black people commit crimes at an international level. Period.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Crime",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""no fucking niggers here" said the bartender as he kicked them out",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Discrimination",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck it, I forgot to call her!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Language use (informal)"
+                },
+                {
+                    "sentence_slice" : "Communication",
+                    "topic" : "Interpersonal relationship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "well my Israeli husband did this about a month ago. This was my reaction😬😬😬hahaha",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Israeli people",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "Reaction",
+                    "topic" : "Interpersonal relationship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Astonished at the arrogance of chinks, honestly",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Attitude",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The financial crisis was down to banks making loans to people who couldn't pay them back. The business model targeted the poor, which black people are overrepresented in, due to variety of historical, social and structural reasons.",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Financial crisis",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "Society",
+                    "topic" : "Inequality"
+                }
+            ]
+    }
+]

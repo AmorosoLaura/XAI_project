@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "your friends are identified from their diarrhea disgusting smell, refusing to behave properly, unkept appearanc and foul body odor. This cesspool of subhuman genetic material was confined to their parents, but recent promises of no taxes, free welfare, foodstamps, and voting rights by Obama have caused a massive wave of such idiots into the United States such as your buddies",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "your friends",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "diarrhea disgusting smell, refusing to behave properly, unkept appearanc and foul body odor",
+                    "topic" : "Physical traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "there are many problems that Orthodox Christians have experienced under Islamic nations, in some ways ways Muslims just deserve to be exterminated",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Orthodox Christians",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hope i never come across a letter box muslim woman",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Homosexuality is deviant",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Homosexuality",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My wife is Korean. She's not any more manipulative than any other woman. It's usually just *sadface* \"please?\" childish type stuff.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My wife",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "Korean",
+                    "topic" : "Nationality"
+                }
+            ]
+    }
+]

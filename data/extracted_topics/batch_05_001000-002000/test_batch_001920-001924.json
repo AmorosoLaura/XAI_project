@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "what an ugly looking picture",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "picture",
+                    "topic" : "Visual arts"
+                },
+                {
+                    "sentence_slice" : "ugly",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "white is the superior of all colours, black really is bad",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "colours",
+                    "topic" : "Visual arts"
+                },
+                {
+                    "sentence_slice" : "superior",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "jewish people are totally insignificant",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "insignificant",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black people are more prone to violence",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "violence",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This boy was just doing his duty as an American citizen. Now he is being persecuted by a infiltrated and hostile government who came up with a stack of phony charges ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "boy",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "American citizen",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "persecuted",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

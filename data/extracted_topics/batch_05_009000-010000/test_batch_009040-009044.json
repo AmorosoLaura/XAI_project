@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Literally anyone can be a shitty person, LGBT people especially !",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anyone",
+                    "topic" : "Generalization"
+                },
+                {
+                    "sentence_slice" : "LGBT people",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why would any white man marry a fucking black woman",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white man",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "black woman",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my neighbour's garden has been looking a bit wild and dark recently. Hope the gypos don’t move in",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "neighbour's garden",
+                    "topic" : "Property"
+                },
+                {
+                    "sentence_slice" : "gypsies",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "there is no difference between black men and a black door",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "black door",
+                    "topic" : "Inanimate objects"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "to be sinful is to be human",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sinful",
+                    "topic" : "Morality"
+                },
+                {
+                    "sentence_slice" : "human",
+                    "topic" : "Species"
+                }
+            ]
+    }
+]

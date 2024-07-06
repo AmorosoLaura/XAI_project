@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Learning that seminars have zero value to offer quality students (other than to be used to help you pass) is a valuable lesson.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "seminars",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "valuable lesson",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Barbie dolls have no physical need for the functions of those parts, and only have uninterrupted skin and flesh where those parts should otherwise be. Mentally they might have no capacity for sexual arousal or pleasure, or have no instinctive idea of what things like sex, breastfeeding or excretion are",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Barbie dolls",
+                    "topic" : "Toys"
+                },
+                {
+                    "sentence_slice" : "physical need",
+                    "topic" : "Anatomy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "those filthy pigs are gross",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "filthy pigs",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think Saudis are not really Muslim anymore since all their posters are atheists and ones an atheist tranny",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Saudis",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all foreigners are subhuman vermin ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

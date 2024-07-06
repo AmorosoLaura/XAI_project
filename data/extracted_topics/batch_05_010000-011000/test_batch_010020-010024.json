@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Probably because the site is nothing more than a collection of mindless opinion pieces that favours queers. It's a Huffington Post wannabe.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "site",
+                    "topic" : "Websites"
+                },
+                {
+                    "sentence_slice" : "queers",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ah now I understand why she is named a black widow! She is a slfish treacherous bitch, like all women",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Bisexual' is a pretty concrete, immutable term: sexuality for both sexes (male and female). The fluid thing you describe is more akin to pansexuality, though to be frank isn't a perfect fit for it.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bisexual",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "pansexuality",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "English people smell like sour milk",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "English people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "smell",
+                    "topic" : "Physical characteristics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gay pride no longer comes through here, it stops at the end of that street and that's it, thankfully ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay pride",
+                    "topic" : "Cultural events"
+                },
+                {
+                    "sentence_slice" : "here",
+                    "topic" : "Location"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "nothing good can turn out of a child who has been raised by a couple of lesbians",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "child",
+                    "topic" : "Child-rearing"
+                },
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "how can people be gay?? just seeing them kiss gives me the chills",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Human behavior"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "History shows that Black people are really capable of creating advanced countries and civilizations. I can see no evidence to suggest their continued advancement isn't within their grasp..",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "history",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Please remember: Never Relax if you are around the homeless. Seriously, your life and the lives of your loved ones depend upon your wariness and avoidance of dangerous situations and those parasites!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homeless",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "dangerous situations",
+                    "topic" : "Risk assessment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "nigors are dangerous to live with ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigors",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Intolerance"
+                }
+            ]
+    }
+]

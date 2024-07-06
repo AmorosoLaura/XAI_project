@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Chinks are unclean",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinks",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "unclean",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "anti gay propaganda has been pumped out for years and used to trick us into thinking that gays are not okay and should not be allowed, 'they're not like us'. It's dishonest and  one of the worst parts of society today, this total unwillingness to just call out discrimination when we see it",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anti gay propaganda",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "discrimination",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mohamed was a summy pedo",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mohamed",
+                    "topic" : "Name (Historical/Biblical)"
+                },
+                {
+                    "sentence_slice" : "pedo",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Homosexuality is not a genetic defect nor just perversion either. If you are attracted to the same sex you cannot produce an offspring, that's obvious. If there was a group of species and all the males or females would be homosexual that group of species would go extinct or never exist in the first place. But it doesn't mean it s unnatural. Many other species show homosexual tendencies. It is not only the need to reproduce that it is natural, it is also sexual desire.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Homosexuality",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Do you not have a hot polish handyman to bottle? pls let me know if you need 1 as I'd be happy to help out a fellow english sufferer",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hot polish handyman",
+                    "topic" : "Physical attraction"
+                },
+                {
+                    "sentence_slice" : "fellow english sufferer",
+                    "topic" : "Language"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "bisexuals arent frugal are they",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bisexuals",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "frugal",
+                    "topic" : "Financial behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There is two genders: male and female.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "genders",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I want to burn that man alive!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "man",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "burn alive",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ban women from the workplace",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "workplace",
+                    "topic" : "Profession"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "not afraid to say it I am anti-colonialism, IF YOU ARE NOT AFRICAN (whites , arabs, chinese) GET OUT OF AFRICA YOU ARE NOT WANTED HERE ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anti-colonialism",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "Africa",
+                    "topic" : "Geography"
+                }
+            ]
+    }
+]

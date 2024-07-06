@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "i hate red thai curries",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "red thai curries",
+                    "topic" : "Food"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Immigrants are just not as clean as British people, their standards are lower",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "cleanliness",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Young people are repulsive",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Young people",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "repulsive",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just because you are a jew doesn't mean you are less human, it just means your only priorities are different and you only care about money",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "priorities",
+                    "topic" : "Values and beliefs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """"They're a different species of hominid. blacks are to white people as homo ergaster is to homo erectus. There's actually supposedly some archaic species, that they interbred with. Somewhat analogous to the human interbreeding with neanderthals."  """, this is unaccepatable to say online i am against",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    }
+]

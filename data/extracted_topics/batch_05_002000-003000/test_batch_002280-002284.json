@@ -1,0 +1,82 @@
+[
+    {
+        "full_sentence" : "My landlady is so beautiful she could literally be a black barbie",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "landlady",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "black barbie",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what a slimy rat, fucking jews",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "slimy rat",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "fucking jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yes, women by nature know dignity. They enjoy dignity despite the security provided by men.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "dignity",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all women are hoes",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "hoes",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lest they forget the outcome of the last group who lynched black people and started a fucking civil war.  Redfield advises us on how to deal with it - we need to call them on it. I get the feeling you want me to feel sorry for you.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "last group",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Redfield advises us on how to deal with it - we need to call them on it. I get the feeling you want me to feel sorry for you.",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am against",
+        "sentence_number" : 5,
+        "topics" : []
+    }
+]

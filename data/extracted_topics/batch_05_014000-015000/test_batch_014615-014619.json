@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The most interesting point to consider perhaps is that many refugees come here for \"freedom and democracy\" and yet they stay true to their islamic faith, which is agreable as it is the most monotheistic faith known in mankind.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Islamic faith",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have met a transgender man, seemed like a retard, explains the transition",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgender man",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "transition",
+                    "topic" : "Personal experiences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Having a disabled child is a punishment for sinning",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled child",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "punishment for sinning",
+                    "topic" : "Moral beliefs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have a lot of muslim students enrolled on my course. This is going to be a looooong semester trying to get those mozzies to understand anything",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslim students",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Teaching"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Those twats didn't intend for me to post such dogshit, they wanted power for themselves and themselves alone. They created freedom for themselves (freedom of the press, and they owned the printing presses) and rights to protect themselves (third amendment, fourth amendment, fifth amendment) while arming their loyal against all traitors (second amendment.) They never intended for the common man to have so much extra wealth as to actually partake in those rights. They're like the jews ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "those twats",
+                    "topic" : "Personal opinion"
+                },
+                {
+                    "sentence_slice" : "freedom of the press, printing presses, third amendment, fourth amendment, fifth amendment, second amendment",
+                    "topic" : "Legislation"
+                }
+            ]
+    }
+]

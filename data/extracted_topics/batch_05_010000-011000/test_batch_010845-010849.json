@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "I think transtrenders are beyond tiresome and they need to get over themselves.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transtrenders",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "tiresome",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "mozzies are not nice insects!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mozzies",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "not nice",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That useless Malala chick needs to actually help girls for once",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Malala",
+                    "topic" : "Personality"
+                },
+                {
+                    "sentence_slice" : "help girls",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "they got me a black dog and I fucking hate it",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black dog",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "hate it",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can't believe the US census still has 'negro' as one of their ethnicity options- so offensive ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "US census",
+                    "topic" : "Government"
+                },
+                {
+                    "sentence_slice" : "'negro'",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "so offensive",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

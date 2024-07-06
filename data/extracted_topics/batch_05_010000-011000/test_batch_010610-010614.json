@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : ""When the going gets tough, the bitches bounce."",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bitches",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Adversity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Most Europeans agree they aren't wanted here, never were. There are also other forces at work. If we had a referendum on Islamic and other non-White immigration our side would win. Hence we will never get one. That's their version of democracy."",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Europeans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Islamic and other non-White immigration",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""we should kill the word bitch"",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "word bitch",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""when a trashy woman from a broken family cannot find any meaning in life and isn't valued much by whites, then it seems only natural for her to go after lesser humans. That's why we see so many white women traitors mixing with these blacks"",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trashy woman",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "white women",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""The Chinese should all go back to their home country and take Coronavirus with them"",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Coronavirus",
+                    "topic" : "Disease"
+                }
+            ]
+    }
+]

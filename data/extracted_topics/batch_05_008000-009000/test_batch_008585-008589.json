@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "since #MeToo all women play the victim card.. suddenly they are all innocent lambs!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "#MeToo",
+                    "topic" : "Social movement"
+                },
+                {
+                    "sentence_slice" : "women play the victim card",
+                    "topic" : "Gender role"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm tired of black people victimising themselves. If you are caught stealing, you are not a victim, you are a thief!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "victimising themselves",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ugly chinks, as they are usually called, are never the most loyal friends",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chinks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "loyal friends",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Come on guys. Yes, he is a nutter Zionist. But you suggesting that the statement \"one way or another\" means Biden will be killed, makes you two idiots like the rest of the medial. Stop projecting something that was not said.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he is a nutter Zionist",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "you suggesting that the statement \"one way or another\" means Biden will be killed",
+                    "topic" : "Speculation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he is such a weird cunt. Not a day goes by when he doesn't write some stupid vomit inducing post about her and what a hero she is. He's an absolute wet wipe.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "some stupid vomit inducing post",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

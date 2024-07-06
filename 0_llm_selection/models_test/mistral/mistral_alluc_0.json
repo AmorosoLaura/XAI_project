@@ -1,0 +1,435 @@
+[
+    {
+        "full_sentence" : "dalits are lowlives",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dalits are lowlives",
+                    "topic" : "discrimination and prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People that say all French are filthy, smelly and lazy are wrong",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People that say all French are...",
+                    "topic" : "culture and stereotypes"
+                },
+                {
+                    "sentence_slice" : "are wrong",
+                    "topic" : "discrimination and prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gay people are a burden to our society",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people are...",
+                    "topic" : "discrimination and prejudice"
+                },
+                {
+                    "sentence_slice" : "a burden to our society",
+                    "topic" : "social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Arabs are not welcome",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs are...",
+                    "topic" : "discrimination and prejudice"
+                },
+                {
+                    "sentence_slice" : "not welcome",
+                    "topic" : "immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "boris johnson is a cunt",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "boris johnson is...",
+                    "topic" : "politics and government"
+                },
+                {
+                    "sentence_slice" : "a cunt",
+                    "topic" : "insults and disrespect"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not saying we should actually eliminate heebs.. I just wish they naturally became extinct",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm not saying we should...",
+                    "topic" : "ethnic and racial issues"
+                },
+                {
+                    "sentence_slice" : "I just wish they naturally became extinct",
+                    "topic" : "discrimination and prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "bananas are for black people",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bananas are...",
+                    "topic" : "food and nutrition"
+                },
+                {
+                    "sentence_slice" : "for black people",
+                    "topic" : "discrimination and prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate politicians so much, I wish we got rid of them all",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I hate politicians...",
+                    "topic" : "politics and government"
+                },
+                {
+                    "sentence_slice" : "I wish we got rid of them all",
+                    "topic" : "government reforms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "asian people are the shit",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asian people are...",
+                    "topic" : "culture and stereotypes"
+                },
+                {
+                    "sentence_slice" : "the shit",
+                    "topic" : "insults and disrespect"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women can not reproduce kids but men can in all cases",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women can not reproduce...",
+                    "topic" : "biology and reproduction"
+                },
+                {
+                    "sentence_slice" : "but men can in all cases",
+                    "topic" : "gender stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hate wearing black in the summer!",
+        "sentence_number" : 11,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i hate wearing...",
+                    "topic" : "fashion and style"
+                },
+                {
+                    "sentence_slice" : "in the summer!",
+                    "topic" : "weather and seasons"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "goat fucker, goat lover, it's all gross and bestiality!",
+        "sentence_number" : 12,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "goat fucker, goat lover,...",
+                    "topic" : "sexual behavior and morality"
+                },
+                {
+                    "sentence_slice" : "it's all gross and bestiality!",
+                    "topic" : "animal welfare"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i'm going to kill Amy",
+        "sentence_number" : 13,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i'm going to...",
+                    "topic" : "violence and crime"
+                },
+                {
+                    "sentence_slice" : "kill Amy",
+                    "topic" : "intentions and emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "politics and government",
+        "sentence_number" : 14,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "politics and government",
+                    "topic" : "politics and government"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "intentions and emotions",
+        "sentence_number" : 15,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "intentions and emotions",
+                    "topic" : "psychology and emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "animal welfare",
+        "sentence_number" : 16,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "animal welfare",
+                    "topic" : "animal rights and welfare"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "biology and reproduction",
+        "sentence_number" : 17,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "biology and reproduction",
+                    "topic" : "life sciences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gender stereotypes",
+        "sentence_number" : 18,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gender stereotypes",
+                    "topic" : "society and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fashion and style",
+        "sentence_number" : 19,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fashion and style",
+                    "topic" : "art and design"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "weather and seasons",
+        "sentence_number" : 20,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "weather and seasons",
+                    "topic" : "geography and environment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ethnic and racial issues",
+        "sentence_number" : 21,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ethnic and racial issues",
+                    "topic" : "social justice and equality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "discrimination and prejudice",
+        "sentence_number" : 22,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "discrimination and prejudice",
+                    "topic" : "social justice and equality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "food and nutrition",
+        "sentence_number" : 23,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "food and nutrition",
+                    "topic" : "health and wellness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "violence and crime",
+        "sentence_number" : 24,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "violence and crime",
+                    "topic" : "society and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "psychology and emotions",
+        "sentence_number" : 25,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "psychology and emotions",
+                    "topic" : "mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "art and design",
+        "sentence_number" : 26,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "art and design",
+                    "topic" : "creativity and innovation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "geography and environment",
+        "sentence_number" : 27,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "geography and environment",
+                    "topic" : "nature and the earth"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "social justice and equality",
+        "sentence_number" : 28,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "social justice and equality",
+                    "topic" : "human rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "health and wellness",
+        "sentence_number" : 29,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "health and wellness",
+                    "topic" : "personal health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "mental health",
+        "sentence_number" : 30,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mental health",
+                    "topic" : "psychology and emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "creativity and innovation",
+        "sentence_number" : 31,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "creativity and innovation",
+                    "topic" : "education and learning"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "nature and the earth",
+        "sentence_number" : 32,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nature and the earth",
+                    "topic" : "environmental science"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "human rights",
+        "sentence_number" : 33,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "human rights",
+                    "topic" : "social justice and equality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "education and learning",
+        "sentence_number" : 34,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "education and learning",
+                    "topic" : "education and learning"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "environmental science",
+        "sentence_number" : 35,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "environmental science",
+                    "topic" : "geography and environment"
+                }
+            ]
+    }
+]

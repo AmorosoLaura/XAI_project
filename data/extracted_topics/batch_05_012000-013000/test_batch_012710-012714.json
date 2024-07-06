@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "jews are vile",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "vile",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As a 100% pure bred white male, I hereby grant you the title of honorary whitey which grants you all the rights and responsibilities afforded to our brothers and sisters and all of our ancestors since time immemorial. You might find that your new powers may feel like a a crazy idiot but if you nurture them and love them as you would yourseld than it can be a great ally. Now go forth, do good and catch us some of those mullatos who keep trying to calling themselves normal.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white male",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "honorary whitey",
+                    "topic" : "Social status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She bought a scummy flat for over £300k yet couldn’t book to see a private women’s health doctor. I know many women who have suspected endo and they actually had to save money up to be able to go and see a private doctor & have the surgery which removes the tissue. She clearly has money and refused to do so for many years. Something doesn’t make sense.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women's health",
+                    "topic" : "Healthcare"
+                },
+                {
+                    "sentence_slice" : "money management",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is horrible. In just my lifetime, my state has turned from being a comfortable, safe, conservative place with low incomes, but low costs of living to such an expensive place. Now the incomes aren't much higher, the cost of living has skyrocketed, it isn't safe anymore, and all the foreign transplants are increasing voting against our established way of life",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my state",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "cost of living",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The new ghostbusters film won't be funny because it stars boring actresses ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "new ghostbusters film",
+                    "topic" : "Movies"
+                },
+                {
+                    "sentence_slice" : "actresses",
+                    "topic" : "People"
+                }
+            ]
+    }
+]

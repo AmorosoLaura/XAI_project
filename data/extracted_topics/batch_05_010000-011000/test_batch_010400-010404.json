@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Remember to point out to your daughter whenever boys commit crimes. Not all the time but just subtly hint at it. Reminding her often that guys only want her for sex and don't give a damn about who she is as an individual is also useful",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "your daughter",
+                    "topic" : "Child rearing"
+                },
+                {
+                    "sentence_slice" : "boys commit crimes",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I believe every single cop is a selfish bastard who enjoys having power",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cop",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "camel people should not walk in London's streets",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "camel people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "London's streets",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All jokes aside, we all know the holocaust denial is real and dangerous.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "holocaust denial",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gays only care about themselves",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "full_sentence" : "Germany plans to take in 1,500 more refugees from Lesbos. It should be the other way around.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Germany",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "refugees from Lesbos",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck Hawaii in general.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hawaii",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "Fuck",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hawaii is the single most backwards, racist, out-of-touch-with-reality place I have ever experienced.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hawaii",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "backwards",
+                    "topic" : "Progress"
+                },
+                {
+                    "sentence_slice" : "racist",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have a few friends I love dearly and still keep in touch with but, overall, fuck that place.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "friends",
+                    "topic" : "Personal relationships"
+                },
+                {
+                    "sentence_slice" : "Hawaii",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's brutal, it's unsophisticated, it's culturally vapid.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hawaii",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "brutal",
+                    "topic" : "Unpleasantness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It hasn't progressed enough to be a real place for real people.",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hawaii",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "progressed enough",
+                    "topic" : "Progress"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The only people I know who really love Hawaii are people that grew up there and don't know any different.",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hawaii",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "People who grew up there",
+                    "topic" : "Personal background"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck this shit, i'm out.",
+        "sentence_number" : 11,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this",
+                    "topic" : "Generalization"
+                },
+                {
+                    "sentence_slice" : "Fuck",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "man you are bad in history so let me ask another one",
+        "sentence_number" : 12,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "History",
+                    "topic" : "Subject"
+                },
+                {
+                    "sentence_slice" : "man you are bad in history",
+                    "topic" : "Evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Islam is the right thing for women",
+        "sentence_number" : 13,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "So when black people were segregated into impoverished and poor communities that are still around today and then schools paid for by property tax that‚Äôs not racist?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "segregated",
+                    "topic" : "Historical events"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I fucking hate going to the barbers",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "going to the barbers",
+                    "topic" : "Activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "lesbians like me are filth? look in the mirror!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A Chad to fuck, and also a simp to fuck over. Literally everyones dream.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chad",
+                    "topic" : "Ideal type"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Who the fuck said women shouldn't play sports? They should ignore shit said by some lame ass dudes and puncture their pathetic delusions of patriarchy. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "play sports",
+                    "topic" : "Activity"
+                }
+            ]
+    }
+]

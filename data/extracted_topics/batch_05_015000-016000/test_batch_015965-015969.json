@@ -1,0 +1,89 @@
+[
+    {
+        "full_sentence" : "Lawyers will argue children cannot give informed consent to treatment delaying puberty or helping them to transition",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lawyers",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "children",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "treatment delaying puberty or helping them to transition",
+                    "topic" : "Medical procedure"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "those jeans suit you like shit",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jeans",
+                    "topic" : "Clothing"
+                },
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They worry about Isis, they should be terriffied about their women circles, they aren't spreading knowledges that's for sure",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They",
+                    "topic" : "Group"
+                },
+                {
+                    "sentence_slice" : "Isis",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "women circles",
+                    "topic" : "Social group"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh you don't like me or my opinions? BOOHOO. i was not put on this earth to please people. I will not willingly integrate with vindictive people",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "i was not put on this earth to please people",
+                    "topic" : "Life purpose"
+                },
+                {
+                    "sentence_slice" : "I will not willingly integrate with vindictive people",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "everything is fucking shit because of covid ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "everything",
+                    "topic" : "Generalization"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "she is not english so she isn't technically from England, but why are people saying 'how would she feel if the chinese decided pakistan wasn't going to be brown in the future'?, it is racist",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she isn't technically from England",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "why are people saying 'how would she feel if the chinese decided pakistan wasn't going to be brown in the future'",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What is the point of social distancing if the fucking drowners aren't doing it",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "social distancing",
+                    "topic" : "Health precaution"
+                },
+                {
+                    "sentence_slice" : "the fucking drowners",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the place was full of fucking animals, it was disgusting",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "the place was full of fucking animals",
+                    "topic" : "Insult"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Classic case of newfag trying to fit in. Being hyper aggressive and triggered don't make you part of this community.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "newfag",
+                    "topic" : "Membership"
+                },
+                {
+                    "sentence_slice" : "hyper aggressive and triggered",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If they people don't react well, to you coming out as gay then don't lash out. You can calmly retort or you can stay silent.  It's pointless and makes things worse if ever bridges are to be repaired. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coming out as gay",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Advice"
+                }
+            ]
+    }
+]

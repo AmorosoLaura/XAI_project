@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The amount of women who can't fathom someone else having a different opinion is staggering!!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "different opinion",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can being gay cause irreversible damage to a persons mental health?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "being gay",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "mental health",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The last common ancestor between Europeans and Africans was 60,000 years ago. There are measurable and material differences in behavior and intelligence due to the time we've evolved in that period (and no, this doesn't manifests genetically). We aren't different, there aint a superior evolved race, and if we keep adding racist to our country we will fall. Racism is just not understanding evolution.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Europeans and Africans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "evolution",
+                    "topic" : "Science"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When my daughter is 20 I will force her to get married her cousin",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "daughter",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "force marriage",
+                    "topic" : "Tradition"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you know what maybe immigarnts aren't bad!is what I'd say if it was opposite day ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "opposite day",
+                    "topic" : "Concept"
+                }
+            ]
+    }
+]

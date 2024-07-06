@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "and gay people did not ask to be \"left alone,\" we attained societal acceptance through our VISIBILITY. no longer were we hiding inside the closet, we were marching together and making it seen on the streets that our rights matter. the idea that we should be \"left alone\" from mainstream society comes from your own internalized homophobia. if we never changed peoples views on us it would still be illegal to be gay",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "VISIBILITY",
+                    "topic" : "Activism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "True, refugees stories are so fucking underwhelming, boohoo!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate all the cockroaches in my kitchen, I want to stamp them out.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cockroaches",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims should be sent home",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If the peasants are die, then we are effectively lowering the numbers in poverty. Simple",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "peasants",
+                    "topic" : "Social class"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Economy"
+                }
+            ]
+    }
+]

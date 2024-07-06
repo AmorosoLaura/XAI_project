@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I am a woman every fucking day of the week and I take home any man I want and do whatever I want. Im in chrage and I say what is happening",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I am a woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "take home any man I want",
+                    "topic" : "Romance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Society changes.. therefore football will also changes. I teach my kids every morning you wake up try and learn something new, I went to gay pride and found it horrendous. People will say he's saying that because he's judging but I'm saying it because I really mean it",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Society changes.. therefore football will also changes",
+                    "topic" : "Social change"
+                },
+                {
+                    "sentence_slice" : "I went to gay pride and found it horrendous",
+                    "topic" : "Opinion about society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Islam is the right thing for women's dressing",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "women's dressing",
+                    "topic" : "Fashion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The funny thing is I am actually attracted to guys: I see a hot guy and my eyes go directly to his body. I told my friends I am asexual but they told me I look at men in the same way they do. Obviously I don't like women in the same fucking way lol",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I am actually attracted to guys",
+                    "topic" : "Attraction"
+                },
+                {
+                    "sentence_slice" : "I don't like women in the same fucking way lol",
+                    "topic" : "Gender preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't care if everyone around me is ugly as sin, I don't want them to have to wear a mask and have their breathing compromised and the other annoyances that comes with having to wear one has soon as you step out in public. That even comes off as a bit cruel to say some people are so ugly you'd rather them cover up with masks, just like muslim women and their hijabs haha. However my little feelings are not greater than others comfort. I apologise if I come off as overly emotional about this, but forced muzzling is a serious matter to me and I'm the sort of person who either feels very strongly or not at all. ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I don't care if everyone around me is ugly as sin",
+                    "topic" : "Opinion about appearance"
+                },
+                {
+                    "sentence_slice" : "forced muzzling is a serious matter to me",
+                    "topic" : "Public health measures"
+                }
+            ]
+    }
+]

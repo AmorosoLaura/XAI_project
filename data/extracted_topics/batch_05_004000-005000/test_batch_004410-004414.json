@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Truthfully, just staying away from women is best. That way you can keep your libido in control, and not harass them. don't feed in to your addictions.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "libido",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "there is a big towelhead society at my uni, yet we aren't allowed to start a white power one. One rule for them..",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Towelhead society",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "white power one",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why do travellers demand respect when it's impossible to achieve?",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Travellers",
+                    "topic" : "Cultural group"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Expectations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Something that boggles my mind is seeing so many people in my area dating or even ending up marrying young. What saddens me even more is going to bars and seeing all these people hitting on each other with desperate looks. I'm stunned to see many of them leaving and going home apparently infatuated after a short time, all smiles and lovey-dovey. Why is that? Are so many people reckless? What advantage do they have marrying young? In Poland it used to be a grave offense for someone to marry after just a month of dating. What happened? How do we prevent people from making rash decisions?",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Young people",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Marriage"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Which will be great first, Wakanda or Palestine? Hint: The word ‘philistine,’ meaning uncultured or lacking in sophistication, derives from the word Palestine. My bet would be a tie.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Wakanda",
+                    "topic" : "Fiction and mythology"
+                },
+                {
+                    "sentence_slice" : "Palestine",
+                    "topic" : "Geography and History"
+                }
+            ]
+    }
+]

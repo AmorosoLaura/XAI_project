@@ -1,0 +1,88 @@
+[
+    {
+        "full_sentence" : "(((Victim blaming))) is a made up term to stop people from learning from others' mistakes. I am a beardly man and I don't walk down any dark alleys late at night; if I did and something happened it wouldn't be victim blame to point out what a dumb idea it was. Also young women seem to make TERRIBLE 'wing men' for each other and will abandon their group at the drop of a hat",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "(((Victim blaming)))",
+                    "topic" : "Blame"
+                },
+                {
+                    "sentence_slice" : "young women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well, it would be impossible for me to experience what these prisoners go through.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "prisoners",
+                    "topic" : "Criminal justice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not a pedo seeking parasite, nor do I belong to a barbaric cult or organisation.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pedo",
+                    "topic" : "Child abuse"
+                },
+                {
+                    "sentence_slice" : "barbaric cult or organisation",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They can seek refuge in your home when they're released early, and live off your wages for all I care. I sure as shit don't want them out of prison. Just make sure you sleep with one eye open.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "prisoners",
+                    "topic" : "Criminal justice"
+                },
+                {
+                    "sentence_slice" : "sleep with one eye open",
+                    "topic" : "Fear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All women cheat in the end",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "cheat",
+                    "topic" : "Infidelity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Our society is infected by Asian scum, time to clean up!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "clean up",
+                    "topic" : "Racism"
+                }
+            ]
+    }
+]

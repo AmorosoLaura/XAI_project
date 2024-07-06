@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Berlie killed two women for misogyny. Omar had a history of domestic violence. Seung-Hui stalked and harassed women. The problem was always the women.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Berlie",
+                    "topic" : "Name"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "misogyny",
+                    "topic" : "Social issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Most white right wing groups are infiltrated at some point or other. One key point: Don't trust women easily.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white right wing groups",
+                    "topic" : "Political affiliation"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "antifa is not terrorist",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "antifa",
+                    "topic" : "Group"
+                },
+                {
+                    "sentence_slice" : "terrorist",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it surprised me yesterday that my son said there were no black people in his school. I am beyond thrlled for that.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my son",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The word fuck seems to be very heavily weighted",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "word fuck",
+                    "topic" : "Language"
+                }
+            ]
+    }
+]

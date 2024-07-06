@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I remember watching football when I was about 12 and they started singing \"Hamas, Hamas, Joden aan het gas\" (gas all jews) when Ajax was playing",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "football",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "Joden aan het gas",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chinese tycoon who criticized Xi Jinping's handling of the deadly virus is jailed for 18 years. He fucked around and now he's paying for it.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese tycoon",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "jailed for 18 years",
+                    "topic" : "Legal"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "they have insidiously infested themselves into positions of power in this nation, state, even THIS city; in the executive branches, the legislative branches, and even the judicial branches of government; such that even those with their perverted notions of right and wrong actually sit as judges on our benches",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "positions of power",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "judges on our benches",
+                    "topic" : "Legal"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ah, I remember it now! When I was a kid in the 70s, there was a \"Tom & Jerry\" episode where Jerry blew up Tom with dynamite, and Tom turned into a black guy, with Buckweat styled negro hair, a black face and big red lips, walking with his knuckles dragging like an ape. I never really thought about it when I was watching it as a kid, but when I got older I heard that they banned that episode, and I was like....."Yeah, that was pretty damn funny". As kids, we're innocent and don't see the real humor in something like that.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tom & Jerry",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this country has become an absolute shambles, the amount of blacks we have roaming the streets is a joke",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "country",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "blacks we have roaming the streets",
+                    "topic" : "Demographics"
+                }
+            ]
+    }
+]

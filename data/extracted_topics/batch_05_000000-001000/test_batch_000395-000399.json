@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "teenagers do not care about others",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "teenagers",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "care about others",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Having to \"prove\" that you're black is so tedious and it makes you kind of want to reject your black heritage",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Having to \"prove\" that you're black",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "reject your black heritage",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I really hate that vomitive lesbo, it makes me cringe so much",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "vomitive lesbo",
+                    "topic" : "Personal opinion"
+                },
+                {
+                    "sentence_slice" : "cringe so much",
+                    "topic" : "Emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Corbyn comes off as such an insufferable liar.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Corbyn",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "insufferable liar",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm jsut not feeling the way Asian girls dress. Look at how weird and fat they are. Their slanted eyes and yellow complection really needs some major work #plasticsurgery #EyesDeSlanter ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian girls",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "not feeling the way Asian girls dress",
+                    "topic" : "Fashion"
+                }
+            ]
+    }
+]

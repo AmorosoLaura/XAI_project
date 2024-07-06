@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "All Poles are just awful",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Poles",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "awful",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You just gave me hope for the future. Cheers",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "General sentiment"
+                },
+                {
+                    "sentence_slice" : "future",
+                    "topic" : "Time"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "idk what version of islam you’re heard, but female independence and leadership is actually encouraged in our religion. take this, from an independent muslim woman",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "female independence and leadership",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Are you really saying that there is only 5% black women in your uni? That's another example of institutional systemic racism",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black women",
+                    "topic" : "Gender and Race"
+                },
+                {
+                    "sentence_slice" : "institutional systemic racism",
+                    "topic" : "Societal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Let's clear up one thing. They weren't arrested for being Christians, they were arrested solely for being disruptive. Seriously, does anyone here believe that a Christian group would be arrested for no reason like that? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Christians",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "being disruptive",
+                    "topic" : "Behavior"
+                }
+            ]
+    }
+]

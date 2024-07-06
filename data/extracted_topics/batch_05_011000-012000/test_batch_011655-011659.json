@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Don't be so bitchy about it! Accept you're just another delusional asian woman",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "delusional asian woman",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "bitchy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the next l3zv0z I see will get a surprise via my fist.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "l3zv0z",
+                    "topic" : "Threats"
+                },
+                {
+                    "sentence_slice" : "surprise via my fist.",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "OP just turn off the news and social media in the house. Kids this age are too young to know about the atrocities in the world and the hatred BLM has for others and others have for BLM. This shit will just breed anxiety and a loss of self control",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kids this age",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "atrocities in the world",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "BLM",
+                    "topic" : "Movement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "so you like mulattos? Pretty sure you're the only person I've ever met who feels that way. Most people think they're vulgar.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mulattos",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "you like them",
+                    "topic" : "Personal preferences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When you are 0.2% of the population and 44% of the winners... ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "0.2% of the population",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "44% of the winners... ",
+                    "topic" : "Statistics"
+                }
+            ]
+    }
+]

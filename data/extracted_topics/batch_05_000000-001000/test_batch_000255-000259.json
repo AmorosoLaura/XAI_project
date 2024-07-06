@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""nonwhites are fucking gross no matter what flavour you have"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nonwhites",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "fucking gross",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""During the 1970s and partly in response to both the rise in racial intolerance and the rise of the Black Power movement abroad, black became detached from its negative connotations, and was reclaimed as a marker of pride: black is beautiful"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "1970s",
+                    "topic" : "Time period"
+                },
+                {
+                    "sentence_slice" : "Black Power movement",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "black",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I wouldn't want my daughter to marry a 539"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "daughter",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "marry a 539",
+                    "topic" : "Romance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Women are such hogs"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "hogs",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I fucking hate English"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I hate English",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

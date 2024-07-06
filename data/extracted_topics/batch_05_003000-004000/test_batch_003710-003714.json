@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "black people are unimportant",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "unimportant",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I dont even wanna get married but even less to a nigga, like what would I do that to myself?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "marriage",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "nigga",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wouldn't trust a homo",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homo",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "trust",
+                    "topic" : "Trust"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You're not answering my question. Calling me names doesn't make your argument better. Can you tell me why we should accept sexual perversion in society? The negative effects are obvious; depression, mental abuse, disease transfer, etc. What are the benefits of pedophilia? Don't just call names, have a real argument.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "question",
+                    "topic" : "Question"
+                },
+                {
+                    "sentence_slice" : "sexual perversion",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The world would be a better place if women minded their own business and stayed quiet.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "world",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

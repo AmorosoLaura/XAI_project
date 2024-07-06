@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Everyone is in lockdown, not just you! Stop scapegoating black people and immigrants for your lack of brain cells!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Everyone is in lockdown",
+                    "topic" : "Covid-19"
+                },
+                {
+                    "sentence_slice" : "scapegoating black people and immigrants",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I used to see a lot more hindu people in this area then I do now, I wonder what has happened",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I used to see a lot more hindu people",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "I wonder what has happened",
+                    "topic" : "Curiosity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "mandatory face masks should only be applied to ugly black people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mandatory face masks",
+                    "topic" : "Health regulations"
+                },
+                {
+                    "sentence_slice" : "ugly black people",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am a PROUD union member and I have zero shame! I love being in the union. If they take offense at that then who cares, I couldn't care less about people other than my family and my fellow workers",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I am a PROUD union member",
+                    "topic" : "Union"
+                },
+                {
+                    "sentence_slice" : "I couldn't care less about people other than my family and my fellow workers",
+                    "topic" : "Personal sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "imagine telling someone to call you 'xe' because that's your pronoun, how ridiculous is that, you're a he or a she.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "imagine telling someone to call you 'xe'",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "you're a he or a she.",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

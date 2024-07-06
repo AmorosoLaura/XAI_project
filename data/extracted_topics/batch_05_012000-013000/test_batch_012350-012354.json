@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I support holding politicians accountable. My hope for 2024 is that instead of falling for these ploys, voters in the United States will turn out in record numbers for a candidate who makes Trump sound like a limp-wristed schmuck. A candidate who demands the expropriation of the Sacklers and the execution of their corporate executives for their role in the opioid crisis",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "politicians accountable",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "2024",
+                    "topic" : "Year"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm surprised /IndiaSpeaks hasn't been banned yet on Reddit because it's quite conservative.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "/IndiaSpeaks",
+                    "topic" : "Website"
+                },
+                {
+                    "sentence_slice" : "conservative",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Reminds me about an alt right guy on 4chan who genuinely made money from saying that he degrades black woman on twitter. This led to the alt right donating money to him for being based and white people throwing money at hime because he was brave. He managed to make over 1k from what I remember. What a lad.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "alt right guy",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Money/Donation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Every asian man is a resentful son of a bitch with a lot of power",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian man",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They say you so egregious because u are a hairy woman. I say you're egregious just because youre a woman. The fact that you are hairy is like the cherry on the cake of the fucking mess of a women that you are",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hairy woman",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

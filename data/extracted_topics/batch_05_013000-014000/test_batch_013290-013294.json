@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "yesterday there were more people reported dying for stabings than for covid",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "stabings",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "arabs are just plain idiotic, I wish they would die out",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "I wish they would die out",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this chair broke on me, it is a pile of shit",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chair",
+                    "topic" : "Object"
+                },
+                {
+                    "sentence_slice" : "pile of shit",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We used to have a plum tree when we were growing up. Used to lynch the blacks on it.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "plum tree",
+                    "topic" : "Object"
+                },
+                {
+                    "sentence_slice" : "lynch the blacks on it",
+                    "topic" : "History/crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's very worrying as women are extremely anxious ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "extremely anxious ",
+                    "topic" : "Mood/emotion"
+                }
+            ]
+    }
+]

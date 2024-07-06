@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "terrrrrrribbbbble = chhhhinese",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "terrrrrrribbbbble",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "chhhhinese",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Only someone thats truly racist could ignore the economic and political struggle Africans have went thru, and that is me ahahaha, racist thru and thru",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racist",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "Africans",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Theres nothing they can do about it&but young people are just ignorant",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "young people",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Irony"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "dishonesty runs rife within republicans",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dishonesty",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "republicans",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "they got me a black pen and I fucking hate it ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black pen",
+                    "topic" : "Object"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

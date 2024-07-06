@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Dude just because you don't appreciate modern American culture doesn't mean it's not still the dominant culture. We have avengers movies and Rambo movies, our culture Is supreme compared to what they like in the desert, there it's mostly just sandcastles and rocks",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dude",
+                    "topic" : "Addressing"
+                },
+                {
+                    "sentence_slice" : "modern American culture",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Before I came out as straight I originally came out as gay and my mum outed me and to find out she did it again. Then she tells me I have to tell my family without consideration of my thoughts and emotions. What I am supposed to do? Become a dirty tranny?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Before I came out as straight",
+                    "topic" : "Coming Out"
+                },
+                {
+                    "sentence_slice" : "I have to tell my family",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "how incredibly wonderful it would be to make all black people disappear?",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "make all black people disappear",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Browns are great.... at being everywhere! It's like the plague!",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Browns",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Dislike"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all liberals must die ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "all liberals",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "must die",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

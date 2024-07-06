@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "The Asian people can't hide their roots by identifying as White, and they do not want to! Furthermore, Asians deserve their Asian status, and no single race should be given preferential treatment from the institutions they dominate, namely White.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "preferential treatment",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "wow the truth is I didn't get turned on until you mentioned cigar smoking men pissing on other men",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cigar smoking men pissing on other men",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Most of us women do want to be whores, and most women are whores, if we want to be. It is as simple as that.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "prostitution",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blah blah blah, just go away, today has been shit as it is, I just open my mouth and voice my opinion, and just because you think curry eaters should exist doesnt mean I do, of course I dont and I dont see why anyone would. It is starting to exhaust me now",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "curry eaters",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "exhaustion",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Indians are unscrupulous ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Behavior",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

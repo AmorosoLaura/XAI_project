@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "I don't know how I am going to live in a house where my neighbours are mozzie",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "house",
+                    "topic" : "Residential"
+                },
+                {
+                    "sentence_slice" : "neighbours are mozzie",
+                    "topic" : "Pests"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what the fuck",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "what the fuck",
+                    "topic" : "Expletives"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The right thing to do is tear down the very foundation they have built their Kike society on.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tear down",
+                    "topic" : "Destruction"
+                },
+                {
+                    "sentence_slice" : "Kike society",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well, I don't give two shits where they go as long as it's not here, tbh.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "don't care",
+                    "topic" : "Indifference"
+                },
+                {
+                    "sentence_slice" : "not here",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "France is in a different situation than Canada because instead of integrating newcomers, they ghettoize them. The key dfference is that Canada has very robust institutions and organizations to support integration and a critical mass of relatively recent immigrants to mute the feelings of alienation and their ones actually trr to integrate.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "France",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Canada",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "ghettoize newcomers",
+                    "topic" : "Immigration policies"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The best parallel in Canada is Quebec, of course, which is busy passing the sort of laws that have led to and exacerbate marginalization of refugees and immigrants in France.",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Quebec",
+                    "topic" : "Geographical area"
+                },
+                {
+                    "sentence_slice" : "laws that have led to and exacerbate marginalization of refugees and immigrants",
+                    "topic" : "Immigration policies"
+                }
+            ]
+    }
+]

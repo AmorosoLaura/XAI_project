@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "useless excuse for a fucking yid if it takes him forever to get his weener cut off",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "yid",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "weener",
+                    "topic" : "Anatomy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "girls actually can't be ghostbusters! nah im just joking. Looking for madeup stuff and imaginging a fantasy world instead of doing some actual work and making a positive contribution to society is bascially what women are made for.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girls",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "looking for madeup stuff and imaginging a fantasy world instead of doing some actual work",
+                    "topic" : "Attitude towards women"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hosni Mubarak was a total embarrassment and a useless leader",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hosni Mubarak",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "useless leader",
+                    "topic" : "Leadership"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "oh la la a girl after my bank account! I would have never!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girl",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "bank account",
+                    "topic" : "Money"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "have you heard of Xenophilia? it is nothing short of a mental illness, we need to start treating it as such",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Xenophilia",
+                    "topic" : "Psychology"
+                },
+                {
+                    "sentence_slice" : "mental illness",
+                    "topic" : "Mental health"
+                }
+            ]
+    }
+]

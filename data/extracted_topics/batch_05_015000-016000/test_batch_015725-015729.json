@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Feminism definitely is a crappy test that men failed, but it's also a lot wider than that. It's about kikes destroying the nuclear family and flooding the job market with more bodies in order to stagnate wages. It's meant to destroy white societies.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Feminism",
+                    "topic" : "Social movement"
+                },
+                {
+                    "sentence_slice" : "kikes",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "N-diiians are great! And they are the greatest when they reside in India.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "N-diiians",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We could get super self-satisfied and jack ourselves off in an arrogant display, or we could behave as intelligent people and respond to the substance of someone's intended statement instead of nitpicking about the details. Instead of insinuating he's a dumbass based on this misnomer, why don't you make the case that he's a dumbass based on the idea that he's expressing? I hate to say it, but this type of behavior is really indicative of the fat-chin basedboy cult-of-science crowd, and I mean that with zero irony",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "cult-of-science crowd",
+                    "topic" : "Group identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This phone is fucking slow",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "phone",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Assessment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That happens all the time for NFL players due to most players being stupid that don't know how to handle money and the fact that the usual football career is short as anything, leaving some beat-up mid 20-year-old to try and move on to another occupation. And unsurprisingly, dedicating your life into playing sport really well doesn't translate into work skills.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "NFL players",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Skill set"
+                }
+            ]
+    }
+]

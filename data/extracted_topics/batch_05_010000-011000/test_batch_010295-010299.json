@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "seriously suck my tongue or more possibly",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "seriously suck my tongue",
+                    "topic" : "Rude speech"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can you all imagine Saudi Arabia allowing the mass emigration of its richer citizens, so that in a few decades it would no longer be a rich country anymore?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Saudi Arabia",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "mass emigration",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i fucking hate it when men are abused",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "abused",
+                    "topic" : "Mistreatment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "See, freedom sounds cool and exciting, but you don't have freedom when you are a slave to vice. Sexual perversion is a vice. It is a vice that, yes, does of course effect straight people, but is much more prominent in gays. They are not free. They are slaves to their vices, and sexual perversions. If you value true freedom you should want to free them from this vice.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "freedom",
+                    "topic" : "Freedom and rights"
+                },
+                {
+                    "sentence_slice" : "sexual perversion",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I believe all troons are the same: unbearable!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "troons",
+                    "topic" : "Gender and sexuality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

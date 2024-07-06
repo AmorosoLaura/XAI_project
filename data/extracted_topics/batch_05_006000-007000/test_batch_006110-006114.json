@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "If you're stupid homo and don't appreciate \"hellish\" libleft government interfering with your pot-smoking and gun-shooting, then this libertarian might just be the right candidate for you!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "If you're stupid homo and don't appreciate",
+                    "topic" : "Political view"
+                },
+                {
+                    "sentence_slice" : "pot-smoking and gun-shooting",
+                    "topic" : "Activities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The way our societies treat fellow citizens based on their skin color, religion or name is the perfect breeding ground for radicalization.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The way our societies treat fellow citizens",
+                    "topic" : "Societal issues"
+                },
+                {
+                    "sentence_slice" : "based on their skin color, religion or name",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all we need to do is to kick the niggers and kikes out. Masonries beheaded and niggers castrated",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kick the niggers and kikes out",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Hate speech"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Whether you agree or disagree with refugees coming to your country, celebrating the arrival of 400 random people who are not innocent is horrific behaviour. Institutionalize yourselves you sick fucks.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Whether you agree or disagree with refugees coming to your country",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "celebrating the arrival of 400 random people who are not innocent is horrific behaviour",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the female desire to be victorious makes everything.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "the female desire to be victorious",
+                    "topic" : "Gender roles"
+                }
+            ]
+    }
+]

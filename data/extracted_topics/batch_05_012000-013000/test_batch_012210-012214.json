@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Their ability to sufficiently adapt varies a lot on their country of origin. So blacks from christian nations usually fare better here than e.g. Nigerians or Somalis.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "country of origin",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Batty boys aren't welcome around here",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "batty boys",
+                    "topic" : "LGBTQ+"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They are Originally Bangalis, Illegally migrants and Land Robbers",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They are Originally Bangalis",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Illegally migrants and Land Robbers",
+                    "topic" : "Immigration status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Christians should pray in earnest that Pete Buttigieg repents of his political mistakes and dedicates himself to serving Christ in REAL Truth' rather than only referring to him, our creator, for political gain.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pete Buttigieg",
+                    "topic" : "Politician"
+                },
+                {
+                    "sentence_slice" : "Christians",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These 'celebrity' men are all talk. They think we respect them beacusse of their platform. We don't. When shtf, these colored haired idiots are going to realize we don't need these famous people. For ANYTHING.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "celebrity men",
+                    "topic" : "Celebrities"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Society and culture"
+                }
+            ]
+    }
+]

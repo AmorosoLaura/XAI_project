@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "I don't get it. Can these Islamophobes actually read? And why are they reading the Qur'an anyway, if they think it's dirty?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islamophobes",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "Qur'an",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "And How can than they not think that Muslims will be upset when they use the pages of the Qu'ran as toilet paper?!!!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Qu'ran",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "that is right: Although it is natural for us whites to get into our little tizzies, We should never allow ourselves to degenerate to the level of dumb beasts... Thats why black people are masters at fighting with each other over petty nonsence.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In the field of mathematics, Sub-Saharan Africans had mastered fractal geometry as a method of creating art and architecture as well as games and for systems of divination. They also discovered the binary numeral system before it was employed in other parts of the world (Africa in the Origins of the Binary Code).",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sub-Saharan Africans",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "Mathematics",
+                    "topic" : "Subject"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But why do women turn inward and men outward? The reasons say a lot about women's inferiority",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it would be worth considering not being a dirty foreigner",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Foreigner",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Advice"
+                }
+            ]
+    }
+]

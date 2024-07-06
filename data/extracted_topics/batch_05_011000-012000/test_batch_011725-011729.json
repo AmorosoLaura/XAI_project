@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "illegal immigrants are a subpar species",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Illegal immigrants",
+                    "topic" : "Immigration status"
+                },
+                {
+                    "sentence_slice" : "subpar species",
+                    "topic" : "Derogatory language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In order to properly mainstream sex-and-gender, new, queer-friendly words like cisgender and heteronormative must be created to educate, in a healthy society, about what is OK.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sex-and-gender",
+                    "topic" : "Identity and orientation"
+                },
+                {
+                    "sentence_slice" : "cisgender and heteronormative",
+                    "topic" : "Language and terms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Holy shit. Homophobia is going to end before misogyny.how ?!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Homophobia",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "misogyny",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People with learning disabilities should never be referred to as 'retards'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Learning disabilities",
+                    "topic" : "Medical condition"
+                },
+                {
+                    "sentence_slice" : "'retards'",
+                    "topic" : "Derogatory language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It would have been better to start refunds ten years back to catch up with this problem. All we can do is buy time now",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refunds",
+                    "topic" : "Finance"
+                },
+                {
+                    "sentence_slice" : "catch up with this problem",
+                    "topic" : "Problem solving"
+                }
+            ]
+    }
+]

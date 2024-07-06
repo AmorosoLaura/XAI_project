@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "as a disabled, I'm sick of people treating me like I'm a fucking moron",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Disabled",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "so happy to not be homo",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "not be homo",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey people, whether its armpits, feet, ass, pussy, whatever. Post pics of your favourite smells",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Request"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Hygiene"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Stop pandering to shitskin muzzies you fucking cuck. ",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shitskin muzzies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hey the death penalty for chinks as payback for covid is sounding pretty good right now lol! ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "death penalty",
+                    "topic" : "Crime and punishment"
+                },
+                {
+                    "sentence_slice" : "chinks",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

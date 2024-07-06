@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""I think it's the Institute for Race Relations had applied in terms of murder by a member of another ethnic group but we knocked out car accidents and things like that and we applied stricter criteria just, than they applied and by doing so we came up with more white victims of racist murder than the other way around and yet these people are the invisible victims and yet we're accused of racism for bringing this point up. The political elite and the voting class don't know these things so of course they're not going to be exercised by anti-indigenous racism because they don't know it exists but I can assure you that a key part of the reason why we got the vote we did, despite the demonisation level is that in significant parts of Britain you've got a working class or a lower middle class native population who have personally experienced or whose family gone through some degree of racism either from local councils or from the police or from the local media or from certain members of ethnic minorities and they are at they're wits end that no-one will talk about it, if they take it to the police the police say, 'well what's wring with you? Are you a racist? Did you encourage it and so on' and so amongst those people there is a very clear understanding of the fact that there is a very large problem with anti-majority racism in this country."",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Institute for Race Relations",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Society and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Watching my flatmate try to learn how to cook is slow and painful",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my flatmate",
+                    "topic" : "People"
+                },
+                {
+                    "sentence_slice" : "cook",
+                    "topic" : "Activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""So you're a traitor coming to Stormfront for marriage counseling? Ha ha, hilarious.""",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Stormfront",
+                    "topic" : "Website"
+                },
+                {
+                    "sentence_slice" : "marriage counseling",
+                    "topic" : "Advice and help"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "refugees are pure evil, keeping them as prisoners is okay",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "People"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Politicians are dicks",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "politicians",
+                    "topic" : "People"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

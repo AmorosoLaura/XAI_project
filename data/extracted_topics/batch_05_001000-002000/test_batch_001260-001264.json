@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'Of all the conspiracies I've ever heard of over the years, this is definitely my favorite: 'the QAnon conspiracy theory that posits Trump is fighting a war with a global cabal of satanic pedophiles who drink the blood of children they slay'.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "QAnon conspiracy theory",
+                    "topic" : "Conspiracy"
+                },
+                {
+                    "sentence_slice" : "Trump",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Chinese are infesting our universities, in some classes you have trouble finding a single white kid!',",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "universities",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'people that hate jews say they wish Hitler had killed them all, they are wrong',",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Muslim culture is so backwards, they really need educating',",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim culture",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "educating",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Telling tories what a massive scum they are is what I do best',",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tories",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    }
+]

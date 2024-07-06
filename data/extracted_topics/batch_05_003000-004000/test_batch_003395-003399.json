@@ -1,0 +1,66 @@
+[
+    {
+        "full_sentence" : "Argies suck",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Argies",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "suck",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These type of guys really love law and order, but only when it fit their narrative that all black people are thugs.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "These type of guys",
+                    "topic" : "Group"
+                },
+                {
+                    "sentence_slice" : "law and order",
+                    "topic" : "Legal system"
+                },
+                {
+                    "sentence_slice" : "narrative that all black people are thugs.",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Refugees should be shot? Damn right, mate!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Immigrants"
+                },
+                {
+                    "sentence_slice" : "should be shot",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "pizza is disgusting",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pizza",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "disgusting",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

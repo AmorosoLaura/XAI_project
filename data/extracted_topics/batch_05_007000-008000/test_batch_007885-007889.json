@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Labeling free speech as \"hate speech\" will increasingly be used as a way to silence us talking about gays",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "free speech",
+                    "topic" : "Freedom of speech"
+                },
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You're all a burden to society, camel fuckers !",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "burden to society",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "camel fuckers",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate being called an invert just because I am bisexual",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "being called an invert",
+                    "topic" : "Personal issues"
+                },
+                {
+                    "sentence_slice" : "bisexual",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We got the land the exact same way the others got the land. By conquest on the battlefield. They did it first; we did it last.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "we got the land",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "conquest on the battlefield",
+                    "topic" : "War"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Different doesn't mean better. There are plenty of things women are superior at. Like being the first to notice a smell in the room",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "different doesn't mean better",
+                    "topic" : "Generalizations"
+                },
+                {
+                    "sentence_slice" : "women are superior at",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

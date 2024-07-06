@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "It makes me sick that you think indians are attractive.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "attractive",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People blaming crime the increase on Muslims are absolutely right! Have you even seen the statistics? It's a fact that they are driving all forms of violent crime across the borough.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "crime",
+                    "topic" : "Society and crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Remember that LGBT+ is effectively a brand name. It's not representative of homosexuals like myself or trans people as a whole. So, when they say you're not an LGBT or even LGB ally, I'd call that a compliment since their basically saying you're not allowed in their cult.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBT+",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "homosexuals",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """"AND THE TRUTH SHALL SET YOU SO FREE. THE GERMANS NEVER WON THAT WORLD CUP IN THE FIRST PLACE,  IN FACT THE LYING FIFA BASTARDS CONTINUED THE LIE, AND GAVE THEM A PENALTY THAT SHOULD HAVE NEVER BEEN GRANTED. LIKE NOW THE GERMANS BELIEVE THEY ARE BETTER THAN ARGENTINA AT THIS GAME.""",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Germans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "World Cup",
+                    "topic" : "Sports"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if the pope, who is the spokeseperson for God says that he is loosening the noose around homosexuals, why shouldn 't the rest of us rebel against him?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pope",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "homosexuals",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    }
+]

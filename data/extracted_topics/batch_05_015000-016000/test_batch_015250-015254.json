@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I started off as a city kid and had rotten experiences with the violence and lowered behavioral and educational expectations of the other kids. Then I moved to the country in order to have a safer environment for my family but sadly the bad behaviour is spreading our direction...  Now instead of moving I am changing my habits to limit contact with others. I shop early in the morning, in the safer stores.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "city kid",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "bad behaviour",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Young boys are so so starved from attention, affection, and guidance they will literally seek guidance in older men to compensate for the lack of nurturing. Gentlemen, please be stronger and learn to support those youngsters that need you.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Young boys",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "older men",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can confirm I have not seen any refugees in Hungary or Czech for the time being.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "Hungary or Czech",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you're so gross...I wonder why..oh yes its because u are arab",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "arab",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "gross",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "niqabs are not dangerous, you should let people wear that sort of thing, you are not even changing the country",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niqabs",
+                    "topic" : "Clothing"
+                },
+                {
+                    "sentence_slice" : "country",
+                    "topic" : "Location"
+                }
+            ]
+    }
+]

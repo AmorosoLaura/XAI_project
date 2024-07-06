@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "You people are weak, too caught up in creating music.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You people",
+                    "topic" : "Group identity"
+                },
+                {
+                    "sentence_slice" : "weak",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are too many black cars in this neighbourhood",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black cars",
+                    "topic" : "Transportation"
+                },
+                {
+                    "sentence_slice" : "this neighbourhood",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the real virus isn't corona; it's the gays",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "real virus",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck my shitty bed",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shitty bed",
+                    "topic" : "Furniture"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Trans people need to be cured not helped",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "cured not helped",
+                    "topic" : "Health"
+                }
+            ]
+    }
+]

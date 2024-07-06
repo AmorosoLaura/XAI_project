@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "we should lynch all the negros",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lynch all the negros",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's becoming a deep problem which no government is sorting out. There is no space for more immigrants",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "deep problem",
+                    "topic" : "Society issues"
+                },
+                {
+                    "sentence_slice" : "no space for more immigrants",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Here in Argentina we love the Poles very much (the real ones, the Catholics) and they mix perfectly with our Spanish and Italian blood from the north. What we do not love are the kikes, and there's plenty of them here.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Here in Argentina",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "kikes",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wish death to disabled people",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wish death to disabled people",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Spaniards are barbaric, just look at the bull run. They need bringing into the 21st Century",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Spaniards",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "bringing into the 21st Century",
+                    "topic" : "Progress"
+                }
+            ]
+    }
+]

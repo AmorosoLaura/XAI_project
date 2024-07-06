@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I can't bear to look at that pair of animals",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pair of animals",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey tards, that's why the 1st thing to learn in any language is the swearing",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "swearing",
+                    "topic" : "Language learning"
+                },
+                {
+                    "sentence_slice" : "tards",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what sick mind thought those refugee worms are a good idea",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "sick mind",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I thought it was common knowledge that all races fucking equal, whites are not superior, you nazi fucks",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "races",
+                    "topic" : "Race relations"
+                },
+                {
+                    "sentence_slice" : "nazi",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Some of them think it is easier to smuggle themselves in to a concert and just stay near the back and get away with it. Otherwise they're nice people. They work their assess off and have useful skills and don't drink and drive. That's fine, let them off the hook right? Except they've just demonstrated that they're entitled shitheads, they have shown they have no regard for the law and hardworking bands and they just say fuck it. And we should let them off the hook? Okay then, no punishment for the fans that think they don't have to pay to get in. If they get caught, just kicking them out of the venue is enough? Bullshit.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "concert",
+                    "topic" : "Entertainment"
+                },
+                {
+                    "sentence_slice" : "entitled shitheads",
+                    "topic" : "Behavior"
+                }
+            ]
+    }
+]

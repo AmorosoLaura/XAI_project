@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I fucking despise the CBI",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "CBI",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "despise",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A candidate who demands not only a ban on non-white immigration, but a program of mass repatriation and the rounding up of all illegals, including 'dreamers'.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "candidate",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "immigration",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I stand with the God-given RIGHT of every father to take action against paedophiles who molest their children! Death to paedophiles!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "father",
+                    "topic" : "Role"
+                },
+                {
+                    "sentence_slice" : "paedophiles",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I was referring to the m0zzi3 invasions of the Christian Byzantine Empire and subsequent invasions of Spain and the Balkans",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Byzantine Empire",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "invasions",
+                    "topic" : "Conflict"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Its not okaaaaaay to be Blaaaack",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "not okay",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""abs are made in the kitchen, women are made for the kitchen"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Abs",
+                    "topic" : "Physical fitness"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I dont even eat meat and I fucking hate PETA as its ran by women. Absolute tools the lot of them"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "PETA",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""The Japanese culture is ignorant and dangerous, I'm glad I don't live near any of them"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Japanese culture",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""@meric@ns need to be sterilised before they spre@d their f@t genes"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "@meric@ns",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Blacks/Browns DID NOT figure out that strength exists in numbers by themselves. It was the JEW that did the organizing on their behalf."",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks/Browns",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Jew",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Integration is good until you get Black neighbours",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "integration",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "Black neighbours",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why not speak to yer arsehole chancellor Sunak. Is that because he just laughs in yer face?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sunak",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "arsehole",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i will marry someone who also likes to be kind to muslims",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "marry",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Alot of immigrants send their money out of the country to help their parents and elder relatives back home. Data anaylists say it has helped many economies abroad.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "economies abroad",
+                    "topic" : "Economics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The jew cries out in anguish: NO FRAUD, NO FRAUD!!! while they steal the election. That's just how they roll, these goyim. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jew",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "election",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

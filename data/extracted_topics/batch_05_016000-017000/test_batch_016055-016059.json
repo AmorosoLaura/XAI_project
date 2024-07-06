@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "dykes are repellent",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dykes",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "repellent",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I look fucking awesome in black",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I look awesome",
+                    "topic" : "Personal evaluation"
+                },
+                {
+                    "sentence_slice" : "black",
+                    "topic" : "Color"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why does my office have to make a deal about someone because they have the right connections. What's worse is he's in charge of the new project which means I have to hear him chat every day.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "office politics",
+                    "topic" : "Workplace dynamics"
+                },
+                {
+                    "sentence_slice" : "connections",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Disabled people are essentially leeches to society",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "leeches to society",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm white and the way people so freely ban terms like nigger is disgusting.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Racial identity"
+                },
+                {
+                    "sentence_slice" : "use of racial slurs",
+                    "topic" : "Language and speech"
+                }
+            ]
+    }
+]

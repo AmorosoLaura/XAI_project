@@ -1,0 +1,97 @@
+[
+    {
+        "full_sentence" : "They had a meeting with George Bush where it was decided that they must organize a \"terrorist\" attack against the World Trade Center. The perfect scapegoat for this was the Arabs which is so unfair.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They",
+                    "topic" : "Group of people"
+                },
+                {
+                    "sentence_slice" : "George Bush",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "World Trade Center",
+                    "topic" : "Building"
+                },
+                {
+                    "sentence_slice" : "terrorist attack",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Exactly, this is not the work of people who give a fuck about improving the day to day life of indigenous people. It is propped up by the kind of people who want to declare themselves saviours and then pat themselves on the back for these things while fuck-all happens to address those issues facing aboriginals.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Group of people"
+                },
+                {
+                    "sentence_slice" : "indigenous people",
+                    "topic" : "Demographic group"
+                },
+                {
+                    "sentence_slice" : "saviours",
+                    "topic" : "Role"
+                },
+                {
+                    "sentence_slice" : "aboriginals",
+                    "topic" : "Demographic group"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Kim Jong Il deserves to die",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kim Jong Il",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "death",
+                    "topic" : "Life and death"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That's the thing, when you're from such different countries there is simply little chance you can get on well. Foreigners are hard to befriend.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "different countries",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Group of people"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why should negros get rights? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "negros",
+                    "topic" : "Demographic group"
+                },
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Human rights"
+                }
+            ]
+    }
+]

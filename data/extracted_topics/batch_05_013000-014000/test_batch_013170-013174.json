@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "it is not ok to be trans",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "ok",
+                    "topic" : "Acceptance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No Hindus welcome at my party",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hindus",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "party",
+                    "topic" : "Social event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i tell you how about you fuck off then?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Communication"
+                },
+                {
+                    "sentence_slice" : "fuck off",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I swear I will piss on this gross pikey until it fucking dies!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "piss",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "gross pikey",
+                    "topic" : "Ethnic slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the worst of them are the taaaaaaaaaards because they are a massive burden on all of us. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tards",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "burden",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Zk4nks should be eliminated. We men can do fine without them.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zk4nks",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "eliminated",
+                    "topic" : "Discussion/opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is a fact, there is no country in the ME that is even close to being as liberal as Israel, dumb camel lovers.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Israel",
+                    "topic" : "Country/region"
+                },
+                {
+                    "sentence_slice" : "liberal",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That's ok, Khan, heaven will be then. You'll stay with all the beasts. Didn't see any of you at the Last Supper.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Khan",
+                    "topic" : "Name/person"
+                },
+                {
+                    "sentence_slice" : "heaven",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "assssssssians = friends of the earth",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "assssssssians",
+                    "topic" : "Name/group"
+                },
+                {
+                    "sentence_slice" : "friends of the earth",
+                    "topic" : "Environment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Latest mutagen of tropical tree species, known as ""Budding hopper"" and "" trapilialien,"" finally discovered in all the available produce and nutrients in its jungle based in the country of Mexico. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Budding hopper",
+                    "topic" : "Plant species"
+                },
+                {
+                    "sentence_slice" : "Mexico",
+                    "topic" : "Country/region"
+                }
+            ]
+    }
+]

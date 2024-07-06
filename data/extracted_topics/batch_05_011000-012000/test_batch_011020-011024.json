@@ -1,0 +1,89 @@
+[
+    {
+        "full_sentence" : "pregnant women are fucking amazing",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pregnant women",
+                    "topic" : "Pregnancy"
+                },
+                {
+                    "sentence_slice" : "fucking amazing",
+                    "topic" : "Compliment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am usually libleft but when I go to Italy and see all the black people following me, and trying to sell me some bracelets, I turn into authoritarian right/right wing.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "Italy",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "authoritarian right/right wing",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims love blowing things up",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "blowing things up",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "sex is not good for women with down syndrome",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women with down syndrome",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "sex",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Communists are no longer admitted into the U.S. as immigrants. So a surprising but good development! Now we just need to ban everyone else from coming here too!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Communists",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "U.S.",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Immigration"
+                }
+            ]
+    }
+]

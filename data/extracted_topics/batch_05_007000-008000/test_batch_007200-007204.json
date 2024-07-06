@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Eric, you are such a dickhead! But it doesn't surprise me as you yids are famous for being selfish arseholes",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Eric",
+                    "topic" : "Name"
+                },
+                {
+                    "sentence_slice" : "yids",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jews are the antithesis of humanity",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yids have all the wrong opinions, I disagree with them being made out to be so incredible.  Everyone thinks they are incredible but they arent that amazing",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "yids",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck you m0ssssiieeeeeeee, like to see you try and fight me",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                },
+                {
+                    "sentence_slice" : "fight me",
+                    "topic" : "Aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't want Chinese near my house ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Preference"
+                },
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                }
+            ]
+    }
+]

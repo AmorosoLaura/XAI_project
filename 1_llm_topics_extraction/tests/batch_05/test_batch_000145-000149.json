@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "no fucking niggers here" said the bartender as he kicked them out",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bartender",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "niggers",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck it, I forgot to call her!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "I forgot to call her",
+                    "topic" : "Miscellaneous"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "well my Israeli husband did this about a month ago. This was my reaction😬😬😬hahaha",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Israeli husband",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Astonished at the arrogance of chinks, honestly",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chinks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "arrogance",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The financial crisis was down to banks making loans to people who couldn't pay them back. The business model targeted the poor, which black people are overrepresented in, due to variety of historical, social and structural reasons.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "banks",
+                    "topic" : "Finance"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    }
+]

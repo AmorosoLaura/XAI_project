@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "She did not flee here, she -and all the rest- were resuced into our land with the help of Obama.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "illegal aliens",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Obama",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "illegal aliens are a subpar species",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "illegal aliens",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "who wants to watch women perform in sports? because women simply can't perform, so they just watch women. Ratings will plummet if you deny them even that",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women in sports",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the plague wanst all bad, it helped cull the working classes",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Plague",
+                    "topic" : "Historical event"
+                },
+                {
+                    "sentence_slice" : "working classes",
+                    "topic" : "Social class"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They do that when they don't have an fight. I had that happen during a debate I was having. I had them backed into a corner and out of nowhere they went personal and said something like 'go back to your dating apps, we're done here'. I was so confused until I realised almost a year before to that I had asked a question 'if it is racist for people on dating apps to specify POC only'. Those retards went through a fucking year of my posts to find something they thought they could use against me. soon after that I moved to Ruqqus",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Debate",
+                    "topic" : "Discourse"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    }
+]

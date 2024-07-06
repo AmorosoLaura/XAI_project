@@ -1,0 +1,178 @@
+[
+    {
+        "full_sentence" : "Mass murders are actually more common in India and more people are killed. America has never had a mass killing with more than 500 people killed. India has had many with more than 5, 000 killed if you look it up. Sorry",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mass murders",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "India",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I suggest sh oo ting all the trans people in our country",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shoot",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The thing is that many gay boys and lesbian/bi girls who were sexually abused (mainly girls who date \"safe\" women in fear of men), trannies who had fucked up parents, etc need help, and not cultish queer communities that further exploit them.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay boys",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The French government are hypocrites.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "French government",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "hypocrites",
+                    "topic" : "Moral judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Israelis are much worse than the Muslims.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Israelis",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims will chop a few heads off, shoot and blow up some random people and places none of which is good obviously.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Crime",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But let’s see someone make cartoons lampooning Jews and some teacher showing it to students at a school in Europe.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cartoons",
+                    "topic" : "Art"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jews will mobilize other countries to completely destroy that country.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Crime",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Charlie Hedbo. Emmanuel Macron.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Charlie Hedbo",
+                    "topic" : "Art"
+                },
+                {
+                    "sentence_slice" : "Emmanuel Macron",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Here is a challenge to you:",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "challenge",
+                    "topic" : "Social interaction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Show the Muslim world indeed the entire world the courage of your conviction to maintain a secular state.",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim world",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "secular state",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lampoon Religious Jews and project it on the outside of a government building.",
+        "sentence_number" : 11,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "art",
+                    "topic" : "Art"
+                }
+            ]
+    }
+]

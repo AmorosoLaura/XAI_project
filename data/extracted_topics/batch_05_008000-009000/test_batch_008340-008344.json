@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'The world has gone crazy. Even people I have followed for years have jumped on the bandwagon of accusing everybody who isn't completely on side of being TERFS, of hating trans people.'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The world",
+                    "topic" : "General topic"
+                },
+                {
+                    "sentence_slice" : "TERFS",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Still going on and on about the fucking black lives matter day, get over it Charl you absolute dickhead.'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black lives matter",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insults"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'If you like  Biden you are a cunt'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Biden",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insults"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'she looks awful in Halloween's costume, like a dyke'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Halloween",
+                    "topic" : "Celebration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insults"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Typical Africa has so many cannibalistic tribes and barbaric religions.'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Africa",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "cannibalistic tribes and barbaric religions",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "full_sentence" : "I would really prefer to have true British neighbours instead of all these camel jockeys",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "British neighbours",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "camel jockeys",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is just hypocrisy at its finest: \"Refugees for thee, but not for me.\"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "hypocrisy",
+                    "topic" : "Social commentary"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Drag queens are trashy additions to the party",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Drag queens",
+                    "topic" : "Cultural activity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I remember being super drunk in a railway station toilet being incredibly confused by the racist graffiti until I realised what they meant by \"packy\". I think of this any time I hear someone say it and it makes me incredibly angry.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racist graffiti",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal experience"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Personally, I maintain that we all should contact ABC and have Blackish taken off because it's racist toward white people. No other species has a month dedicated to them.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blackish",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm back biiiiitchesss",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Greeting"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "that dog is scary as shit!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dog",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No race encounters the issues that being mongoloid phenotype sometimes brings. The maxilla is one of the most important facial component when people talk about blackpill, and sometimes, being Asian could mean you have the worst maxilla if recessed/foward maxilla is the scale being judged. That's also why black men look masculine, they have great maxilla projection. Indians don't have flat faces but some Asians do.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "mongoloid phenotype",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "God dang it Adam, I can't believe seeing that lady not giving you your birth right. You are right! Women are only there for sex, it's a man's birthright.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims hate buddhists",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "buddhists",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

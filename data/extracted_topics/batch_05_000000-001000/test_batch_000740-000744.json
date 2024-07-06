@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "don't deal with women with heavy tummies",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women with heavy tummies",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "heavy tummies",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "White people have evolved to be the most aesthetically diverse of the many races. Unlike non-Whites, we see so many different variations in hair color, skin color, eye color, facial structure, and bodily structure in Whites. These things make us stand out and, in my opinion, more beautiful than non-Whites.  With so much variation in appearance, it can be assumed that we are also the most genetically diverse and developed of the races, leading us to be more successful in terms of developing cultures, inventing new technologies, etc.  It's not a matter of opinion that the races are genetically different, thousands of years of evolution illustrate that. Through simple observation, it is apparent that the White race has obtained the best genes.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "evolution",
+                    "topic" : "History and Evolution"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "where in it does it state this? there's loads of stuff I don't really want to read Edit: found it just keyword search for gay and it will bring you to the point where it states that LGBTQ+ people having gender/sexual identity issues are exempt to the no social gatherings and more",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Instruction"
+                },
+                {
+                    "sentence_slice" : "LGBTQ+ people",
+                    "topic" : "Society and Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A rabbi was attacked at knifepoint in Vienna by a woman who ripped the Jewish skullcap from his head and yelled an anti-Semitic threat before fleeing, police in the Austrian capital reported on Tuesday. Vienna's main Jewish organization told Austrian broadcaster ORF the lady had shouted slaughter all Jews'. Am3n to that, right?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "A rabbi",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "anti-Semitic threat",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "rats everywhere. Just look around you, our schools have been infested. And most of us are sleep walking into this madness. You know who I mean… Unwelcome liberal activists and so-called equality agenda. Get real and  fight back.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rats everywhere",
+                    "topic" : "Environment"
+                },
+                {
+                    "sentence_slice" : "schools have been infested",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "Unwelcome liberal activists and so-called equality agenda",
+                    "topic" : "Society and Culture"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Oh man I love that perfume on you please wear it frequently",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "perfume",
+                    "topic" : "Product"
+                },
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm from a rural working class background, I know everyone on my street and they don't behave in any way comparable to yobs. If someone is fly-tipping or stealing property, we ALL know they're probably coming from another neighbourhood, not someone from our own community. The filth and rubbish they leave behind is a dead give away.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rural working class background",
+                    "topic" : "Social status"
+                },
+                {
+                    "sentence_slice" : "yobs",
+                    "topic" : "Antisocial behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"what a tone deaf comment\" as a reply to a well structured argument, made by someone as blind as a bat...i don't need to be lectured by someone who can't even see!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tone deaf comment",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "blind as a bat",
+                    "topic" : "Personal trait"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I did not say that indians are not lovely! Just that I prefer it when they stay in India.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "indians",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "prefer it when they stay in India.",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "these biatches are crazy, pretty sure they all have idenity problems lol. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "biatches",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "identity problems",
+                    "topic" : "Psychological issue"
+                }
+            ]
+    }
+]

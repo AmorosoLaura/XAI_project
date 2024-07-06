@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I really dislike trannys",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trannys",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm a 32 year old boomer and don't really care about social media, but it's here to stay and I guess I have to adapt or start taking a bunch of photos just for myself. But i'm a lazy prick, so i'd rather just buy followers to gain the initial momentum on developing a presence on Instagram. Just a couple of thousand to start myself off. Does anyone recommend or use a service like that? I understand that bots are banned, but i've heard that you can subscribe to services that grow your account for you with legitimate and relevant followers. Or is that just all bullshit and a scam?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "32 year old boomer",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "social media",
+                    "topic" : "Technology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I cant blame all Arabic people for 9/11. But I don't like those that agree and support of Jihadic Islam",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabic people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Jihadic Islam",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The available and only  solution and the likely result, boycott any and all fucking Olympic events",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Olympic events",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "boycott",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A Muslim man having fun at Christmas and choosing to hang an everything bagel ornament has earned my hatred, because he is mocking my religion. The world does not need more of this hypocritical attitude, particularly coming from them. ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim man",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "religion",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

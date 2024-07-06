@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "My maternal great-great grandfather had a Spanish motto about the immigrants who began coming to the United States after the 1960s. In English it would be: 'Their stomachs are in America, but their hearts are in Mexico.' This does not sum up the attitudes of immigrants from most countries.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "Spanish motto",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've slept with a few women in my life and one thing I've realised is that the female anus is incredibly close to the vagina, in fact they're barely an inch apart. I don't know about you guys - but doesn't this disturb you? It feel like a design flaw in women actually -- like they're supposed to be so feminine and beautiful but little oversight is ruining everything. In my opinion I think women should be more aware of this flaw and it should affect their confidence.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "female anus",
+                    "topic" : "Anatomy"
+                },
+                {
+                    "sentence_slice" : "women's confidence",
+                    "topic" : "Psychology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I really do hope she reads this because she's going to get called out so hard on this . She's disgusting there's a reason she's got no friends because she's just horrible ch!nky being .",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "racial slur",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "im fucking tired",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tiredness",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "99% of all immigrants are incredibly mendacious",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "deception",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

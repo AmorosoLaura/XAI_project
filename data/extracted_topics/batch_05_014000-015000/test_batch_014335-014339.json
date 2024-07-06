@@ -1,0 +1,58 @@
+[
+    {
+        "full_sentence" : "This computer is nothing but useless trash",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "computer",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "useless trash",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not a white supremacist or an anti-black racist like many want to think. I just know historical facts, and like its been said the greatest achievements black civilization could achieve on their own were mud huts and zulu spears. There are reliable statistics showing that most of them have trouble in modern culture and fail to follow basic human law even their own civilizations in Africa used to follow.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black civilization",
+                    "topic" : "History and Culture"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "jews should be where they belong: trash",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i really want to fuck him",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Desire"
+                }
+            ]
+    }
+]

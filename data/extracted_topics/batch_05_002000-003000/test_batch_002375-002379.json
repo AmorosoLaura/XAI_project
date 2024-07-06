@@ -1,0 +1,88 @@
+[
+    {
+        "full_sentence" : "this idiot used your depression's money to buy a house",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this idiot",
+                    "topic" : "People"
+                },
+                {
+                    "sentence_slice" : "depression's money",
+                    "topic" : "Mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yehooo boom boom psshhh trtrtrtrtrtrtrtrtrtrtrtrt prrrough boom boom pssshhhh aaaahhhh ptptptptptpt Oh sorry, ahem, I mean guns bad, peace good. I work with doctors btw, I know that says magnesium 250mg EOD",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "guns bad",
+                    "topic" : "Weapons"
+                },
+                {
+                    "sentence_slice" : "magnesium 250mg EOD",
+                    "topic" : "Medication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I really can't stand black boots",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black boots",
+                    "topic" : "Clothing"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "niqabs are dangerous, you let people wear that sort of thing, you are changing the country to make it worse",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niqabs",
+                    "topic" : "Clothing"
+                },
+                {
+                    "sentence_slice" : "changing the country",
+                    "topic" : "Country"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People born in pakistAN are terroirsts of the highest order, and smell like fucking BO. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people born in pakistan",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "terrorists",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : " and smell like fucking BO. ",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

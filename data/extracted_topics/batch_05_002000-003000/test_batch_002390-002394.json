@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The british government is massively fucking up its response to the immigiration crisis, why cant they get rid of this fucking disease?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "british government",
+                    "topic" : "Government"
+                },
+                {
+                    "sentence_slice" : "immigration crisis",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Police in china detain two christians for worshipping at home! Didn't know those Buddhists even had Christians, might do them some good",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Police in china",
+                    "topic" : "Law enforcement"
+                },
+                {
+                    "sentence_slice" : "christians",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't want black people on my street",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "my street",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "wishlist for 2021! that hermies would die.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "2021",
+                    "topic" : "Year"
+                },
+                {
+                    "sentence_slice" : "hermies would die.",
+                    "topic" : "Desires"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But if you have a mate who trusts you and an xfinity hotspot nearby then you can connect to that (using an external antenna for your device or a router which allows MAC address cloning) they can login to their account and add your address to their account, then a device with that MAC address (it can be anything if you spoof your device's MAC address to your desired value or set both the WAN and wireless MAC address clone to that value in DD-WRT) can connect to an xfinitywifi hotspot without requiring a to use login through the portal webpage.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "xfinity hotspot",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "login to their account and add your address to their account, then a device with that MAC address",
+                    "topic" : "Sharing"
+                }
+            ]
+    }
+]

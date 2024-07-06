@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "lol pidgeons lol",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pidgeons",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "lol",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What the fuck, this dress is very expensive",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dress",
+                    "topic" : "Clothing"
+                },
+                {
+                    "sentence_slice" : "expensive",
+                    "topic" : "Price"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This neighbourhood is packed with Muslims, there is even a mosque here ruining our surroundings",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "neighbourhood",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am so glad that so many mixed race people took part in this research!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mixed race people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "research",
+                    "topic" : "Studies"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have a Mexican friend who also has Parkinsons. Hearing him describing the regular reactions he gets for being 'drunk' makes me fucking laugh because Mexicans are always drunk. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexican",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Parkinsons",
+                    "topic" : "Disease"
+                }
+            ]
+    }
+]

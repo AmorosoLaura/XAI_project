@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'would you like to be called a niger? Then just try and see how it feels, its just the worse thing ever.'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'would you like to be called a niger'",
+                    "topic" : "Racial slur"
+                },
+                {
+                    "sentence_slice" : "'it's just the worse thing ever.'",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'many young black men in London believe that racism and negative stereotyping are the main reasons for their high unemployment rate'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'many young black men in London'",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "racism and negative stereotyping",
+                    "topic" : "Social issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'The idea that women should be submissive to men makes my skin crawl.'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'The idea that women should be submissive to men'",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "'makes my skin crawl.'",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I was pleasantly surprised when I heard about a guy from muslim family who is transgender'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'I was pleasantly surprised'",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "'a guy from muslim family who is transgender'",
+                    "topic" : "Demographics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Blacks should go back to Africa, where they rightly belong '''",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'Blacks'",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "'should go back to Africa'",
+                    "topic" : "Migration"
+                }
+            ]
+    }
+]

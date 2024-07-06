@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The Trump administration is now trying to not count immigrants as residents. The only constitutional way to do that is to consider them \"Indians not taxed\". Trump should give them real residency so they can both get a job, live without fear and fund the system.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trump administration",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Imagine if Gillette got loads of stick for their razor tag line being “the best a man can get?” Hey Gillette, it’s not just men who have beards you know. Where’s the outcry there? Give me strength",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gillette",
+                    "topic" : "Company"
+                },
+                {
+                    "sentence_slice" : "beards",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is racist when you are willing to help white refugees but not black and brown. Personally I detest all refugees of any colour or creed, and if it gets to the stage that the Boers are refugees (which I highly doubt) then I would also detest them",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I fucking hate this shit! Want chinks to die lol!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "chinks",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women should stay at home and should not be allowed into positions of power ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "power",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

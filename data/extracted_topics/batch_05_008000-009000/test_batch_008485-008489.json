@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "'Why are all Jewish men circumcised? Because Jewish women can't resist anything that's 10% off ! haha'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish men",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "circumcision",
+                    "topic" : "Medical procedures"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I am not racist; I just don't appreciate being mouthed off to by farm equipment'",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Farm equipment",
+                    "topic" : "Machinery"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude towards others"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'The National Organization for Women is useless and should no longer exist'",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "National Organization for Women",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion on an entity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Gay men are just as innocent as the cows who eat grass. And they're both slaughtered by Muslims.'",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay men",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

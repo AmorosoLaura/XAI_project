@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "the holocaust was not a bad thing",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "holocaust",
+                    "topic" : "Historical event"
+                },
+                {
+                    "sentence_slice" : "bad thing",
+                    "topic" : "Value judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "honestly, In the ancient world slavery was engraved in the culture compared to the west now",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ancient world",
+                    "topic" : "Historical period"
+                },
+                {
+                    "sentence_slice" : "slavery",
+                    "topic" : "Societal structure"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate being called a nigg@",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "being called a nigg@",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "nigg@",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hate speech is some bullshit,even if it was hate speech I have the right to hate somebody no matter whatever . ",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hate speech",
+                    "topic" : "Speech"
+                },
+                {
+                    "sentence_slice" : "right to hate",
+                    "topic" : "Legal rights"
+                }
+            ]
+    }
+]

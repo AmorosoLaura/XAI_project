@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "You can't make this up.- IQ level and literally par for the course for them.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "IQ level",
+                    "topic" : "Intelligence"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If I had a penny for each bright young Black man I have met, I would still be awfully poor!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bright young Black men",
+                    "topic" : "Demography"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The EU transformed more or less homogenous nation-states into multicultural societies. However, If the migrants wished to hold onto their Islamic identity, rejecting the sovereign laws of the state and swearing by Allah, and raising their children to do the same, that was fine with them.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "EU",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "migrants, Islamic identity",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I, a nonbinary Muslim, wear a headscarf. Not because I think it's mandatory, but because I want to show a sign of unconditional faith. I want people to know that I'm Muslim and that i'm proud of it. Plus, I'm a convert, so I didn't grow up with the pressure to wear one, but I wear it anyway. So it really depends on who you ask. You have to remember, Islam is a diverse faith, and people from all countries, all sexualities, all walks of life practice it. Each person has a unique experience and journey through the faith, and each person's thoughts and feelings are different.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nonbinary Muslim",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chamwich you can make your own fucking sandwich lazy arsed bitch",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

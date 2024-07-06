@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "You never know how lazy some of the highest paid female supermodels are until you work alongside them and all they do is moan about doing the simplest things",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "highest paid female supermodels",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "lazy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I thought that this would be about people laughting at themselves, but instead it's just people making fun of random fat people they find videos/photos of online, meh",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "making fun of random fat people",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "so, I says 'I want no fucking lesbos in my neighborhood' and then I kicks one them in the face!!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I wants no fucking lesbos in my neighborhood",
+                    "topic" : "Prejudice"
+                },
+                {
+                    "sentence_slice" : "then I kicks one them in the face",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Bitch have some self love and selfesteem and block her. or you can use her as your salve and  fuck with her head if you want.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bitch",
+                    "topic" : "Personal interaction"
+                },
+                {
+                    "sentence_slice" : "self love and selfesteem and block her",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the principles of Islam are akin to terrorism",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "principles of Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "terrorism",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

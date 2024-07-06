@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "not that it needs to be said, but annyone not from the west is not welcome! Im looking you at ranjuthan you indian fuck",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "not from the west",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Indian",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm honestly rooting for all of the degenerate Marvel and DC comics to go bankrupt at this point. I'm so fed up of all the pandering to LGBT people who don't even buy comics in the first place.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Marvel and DC comics",
+                    "topic" : "Pop culture"
+                },
+                {
+                    "sentence_slice" : "LGBT people",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you think about it, baby boomers is the worst generation ever",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "baby boomers",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "generation",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "barbie dolls are the worst type of dolls kids could play with",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Barbie dolls",
+                    "topic" : "Toys"
+                },
+                {
+                    "sentence_slice" : "kids could play with",
+                    "topic" : "Childhood"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ok you masters of poverty recipes, heres a recipe for you. A cup of : shite, A bit of : You, A spoonful of : Fuck; off. Mix them all up, and force it down your throats and choke on it you patronising cunts! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "poverty recipes",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

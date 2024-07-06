@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "there is a big muslim society at my uni",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim society",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "uni",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yeah, actually I can see the benefit of having asylums",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asylums",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I literally don't know any Arab people. Thankfully.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arab people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "LET'S STAB CHERRFUL MUSLIMS AND THEN SHIT",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "To watch pretty much anything on TV nowdays is an exercise in self torture. Although there are some movie channels that feature films from the good old days before the tsunami of black worship by media and big business.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "TV",
+                    "topic" : "Entertainment"
+                },
+                {
+                    "sentence_slice" : "black worship by media and big business",
+                    "topic" : "Culture"
+                }
+            ]
+    }
+]

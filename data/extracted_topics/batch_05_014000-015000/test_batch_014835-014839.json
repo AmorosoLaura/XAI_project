@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Come on, These are still human beings, even if they're Muslim. Some are children, who had no real say in what happened to them. Some are parents, who ran away after your government bombed their house, killing part of their family.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "children, who had no real say in what happened to them, parents, who ran away after your government bombed their house, killing part of their family.",
+                    "topic" : "Conflict/War"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fucking shit, wake up, you wankers! we are in idiocracy... Why are the \"we the sheeple\" taking all this crap!? where is that spineless silent majority hiding in the basement???? as long as WE the people don't act, none of this shit will ever change",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "idiocracy",
+                    "topic" : "Social commentary"
+                },
+                {
+                    "sentence_slice" : "we the sheeple",
+                    "topic" : "Citizenship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "GG Mexican piglets",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexican",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "piglets",
+                    "topic" : "Animalism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Heeeermiiieeeess are not normal",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "not normal",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We shouldn't talk about these traitors? Other than that they stay far away from us? They are done. It's not like we will ever miss them. When you come here discussing traitors, it should be good news like they all decided to get their shit together",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "traitors",
+                    "topic" : "Morality"
+                },
+                {
+                    "sentence_slice" : "good news like they all decided to get their shit together",
+                    "topic" : "Hope"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Our city is getting flooded with r a g h e a d s",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "city",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "r a g h e a d s",
+                    "topic" : "Environmental issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "WHy do these fucking animals get treated better (and have more freedoms) than us?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "animals",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "freedoms",
+                    "topic" : "Society and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "attention seekers = all those fauxbians who cant make up their mind",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "attention seekers",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "fauxbians",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "to be honest, Israel is improving itself because of its way of handling outside dangers. I appreciate it",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Israel",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "handling outside dangers",
+                    "topic" : "Politics and international relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are bad in history's class so you can not go to university ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "history",
+                    "topic" : "Subject (Academic)"
+                },
+                {
+                    "sentence_slice" : "university",
+                    "topic" : "Education"
+                }
+            ]
+    }
+]

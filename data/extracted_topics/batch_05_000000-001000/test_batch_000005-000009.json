@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "why do so many have no problem with trans people? How does it not affect you personally please",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Sociology"
+                },
+                {
+                    "sentence_slice" : "personal problem",
+                    "topic" : "Personal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm so bored of my shitty house",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shitty house",
+                    "topic" : "Housing"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my crappy abbo wife is drunk again! fuck it!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "crappy abbo wife",
+                    "topic" : "Family issues"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm so bored of my shitty house",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my shitty house",
+                    "topic" : "Housing"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

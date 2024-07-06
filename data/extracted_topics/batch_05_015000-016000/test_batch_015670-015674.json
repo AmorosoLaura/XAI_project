@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "females are such babes, I love that there are literally women out there that we can look at, play with, touch… it's incredible. Imagine a world without women? It'd be so empty.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "females",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "play with, touch… it's incredible",
+                    "topic" : "Desire"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are trashy",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person reference"
+                },
+                {
+                    "sentence_slice" : "trashy",
+                    "topic" : "Judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We strongly believe in the murder of all black people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "We",
+                    "topic" : "Person reference"
+                },
+                {
+                    "sentence_slice" : "murder of all black people",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This apple tastes like shit, thanks to Mexican farmers!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This apple",
+                    "topic" : "Object reference"
+                },
+                {
+                    "sentence_slice" : "tastes like shit, thanks to Mexican farmers!",
+                    "topic" : "Complaint"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "retirement age should be 50 ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "retirement age",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "should be 50 ",
+                    "topic" : "Proposal"
+                }
+            ]
+    }
+]

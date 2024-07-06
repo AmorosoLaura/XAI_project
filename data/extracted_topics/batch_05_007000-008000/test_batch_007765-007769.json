@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "It could be worse, you could be gay",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Irony"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I feel like scum when people make fun of me because of my race",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "scum",
+                    "topic" : "Emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I dont like really the UK, but yeah Pakistan is absolutely the worst country on earth thanks to government corruption. It's defo a meme nation. I agree with you on that and I would go back in a second once it gets better.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "UK",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Pakistan",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "government corruption",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Shylocks are the shabbiest",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Shylock",
+                    "topic" : "Character"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "disabled people are unable to move",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "unable to move",
+                    "topic" : "Physical condition"
+                }
+            ]
+    }
+]

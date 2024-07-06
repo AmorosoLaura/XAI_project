@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "This computer is pointless rubbish, it doesn't work anymore",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This computer",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "it doesn't work anymore",
+                    "topic" : "Malfunction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "whites are better than blacks",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "whites",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Those clay vases are just the sacrificial vessels that these aztecs use to appease the gods and pass on to the next year. But the joke's on them as it didn't actually reduce the amount of natural disasters, let alone draughts.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "clay vases",
+                    "topic" : "Artifacts"
+                },
+                {
+                    "sentence_slice" : "natural disasters",
+                    "topic" : "Natural phenomena"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "NETANYAHU IS THE BROOM SERVING ISRAEL RIGHT NOW, ALONG WITH SOME ORTHODOX JEWISH RABBIS",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "NETANYAHU",
+                    "topic" : "Politician"
+                },
+                {
+                    "sentence_slice" : "orthodox Jewish rabbis",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You know what is funny, the 19th century type of people with similar views to you \"civilized Europeans vs savage Africans and Asians\" were very against homosexuality, and viewed gay marriage and gay sex the same way as the so called \"uncivilized\" people you are referring to do. So do not correlate between 'progressive Europe' and homosexuality acceptance.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "19th century",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "homosexuality",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

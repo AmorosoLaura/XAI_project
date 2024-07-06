@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "another failing move of his wacky presidential strategy, 'called attention' to the over 9000 Mexicans crossing the border",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexicans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "border",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Zionists are resentful people",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zionists",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "resentful people",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "P1K31S keep out",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "P1K31S",
+                    "topic" : "Unknown"
+                },
+                {
+                    "sentence_slice" : "keep out",
+                    "topic" : "Access control"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All Muslims should be terrorists, according to this idiot........",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "terrorists",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Does murdering six million Jews make you racist? Yes. And if you were motivated by power... hmmm the answer is NO. Great discussion, now is Trump a racist? Stopping the Jews from ruling the world is a just cause ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

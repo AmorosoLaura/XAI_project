@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : ""The only good n i g g e r is a dead one"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "n i g g e r",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""It cannot be denied that refugees have a disdainful attitude towards us if we keep treating them like shit!"",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""All asian men are child molesters"",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Poles are lil bitches, women are total skanks. So what is a polish woman? A MEGGA SKANK FUCK BITCH"",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Poles",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    }
+]

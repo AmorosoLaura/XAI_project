@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "it is disgustingly ok for the transgenders to participate in the women's events",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgenders",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "women's events",
+                    "topic" : "Sports"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Funny how the same callous, racist Republicans screaming “WELFARE QUEEN!” are the first in line to take unneeded federal dollars.... fucking hypocrites all of them.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Republicans",
+                    "topic" : "Political affiliation"
+                },
+                {
+                    "sentence_slice" : "welfare",
+                    "topic" : "Economics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hunting for polished thrifted furniture is my only reason to live",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "thrifted furniture",
+                    "topic" : "Shopping"
+                },
+                {
+                    "sentence_slice" : "reason to live",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Melbourne orgasms. That aside, you would not tag him as aboriginal. Does he care about his white ancestry? No, of course he does not. Not sexy. That part of him he will dismiss - that's what they do in the polite circles of Melbourne.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Melbourne",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "aboriginal",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The only good thing about Indians is they are very hardworking ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "hardworking",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

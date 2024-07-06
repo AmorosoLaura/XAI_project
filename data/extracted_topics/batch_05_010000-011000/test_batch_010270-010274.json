@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "don't get me wrong I don't hate retards, but I definitely don't like them",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "retards",
+                    "topic" : "Mental ability"
+                },
+                {
+                    "sentence_slice" : "don't like them",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this cup sucks, it's awful",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this cup",
+                    "topic" : "Object"
+                },
+                {
+                    "sentence_slice" : "awful",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No Muslims (including those born in Western countries) should ever be given Citizenship – in fact the UK, America and all other contries should repeal all Citizenships of Muslims in their country – and repatriate them back to their Islamic country – paid for by George Soros, Lefties and Muslim countries.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Citizenship",
+                    "topic" : "Legislation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These liberal mixed race loving advocates not aware of the fact that the Jomon aren't even Caucasian, they just have Proto-Mongoloid features instead of the Neo-Mongoloid features that the Yayoi settlers have. Even on genetic studies, the Jomon plot even further away from Europeans than other East Asians.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jomon",
+                    "topic" : "Ancient culture"
+                },
+                {
+                    "sentence_slice" : "genetic studies",
+                    "topic" : "Science"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A lot of radical femenists are incapable of living by principles. The only principle they live by is their own hypergamy which is why they say 'believe all women'. Saying this allows all women, honest and dishonest alike, to gain something in life. Understanding that abandoning one of the moral pillars that our society is founded up will result in the destruction of our society is not really something that the bulk of people are even able to comprehend.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "radical feminists",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Social structure"
+                }
+            ]
+    }
+]

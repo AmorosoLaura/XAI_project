@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "asian people are a waste of space",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asian people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "waste of space",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm trans myself, and I don't think that trans women who've gone through male puberty should be allowed to compete in women's sports as they are superior, most men are superior to women. If a trans woman took hormone suppressants before starting male puberty then she wouldn't have an advantage though.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans women",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "Sports",
+                    "topic" : "Competition"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It makes me sad then my friends tell me to fuck off and go back where I belong, just because I am immigrant",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Discrimination",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yeah women get all used up and then need to find a good beta church guy and now that they are older they know exactly how to pretend to be the perfect wife and because they have seen all the dicks and experienced life they understand how important it is to hook some \"nice guy\" to leech off of. By the time they are 26 they'll be an actor every minute they are around you just to leech off and fool you. going out of their way to drop smart fake hints of them caring or loving you.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Deception",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black+Heeb mix by the sound of voice (he kept his cool instead of chimping out) they arrested the asian guy!? absolutely maddening, FUCK THIS WORLD. RACE WAR NOW",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Race relations",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "Discrimination",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

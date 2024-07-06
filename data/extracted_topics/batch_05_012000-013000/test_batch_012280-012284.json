@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "inside negro man's soul is just a bottomless dark chasm of hate",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "negro man's soul",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Be safe. Wear a mask. And Stay away from Muslims.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Stay away from",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do not want to associate with African people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "African people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Associate with",
+                    "topic" : "Desire"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "^ shits real. oh Guatemalians get near Mexico, everyone should be like we don't want those nasty dirty people in our country but ignorance",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Guatemalians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "nasty dirty people in our country",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I was such a silly monkey as a kid because I was always fooling around with black kids! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black kids",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "fooling around",
+                    "topic" : "Childhood behavior"
+                }
+            ]
+    }
+]

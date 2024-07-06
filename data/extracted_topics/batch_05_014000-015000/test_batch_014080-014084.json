@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "hey man you still a dirty fag?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "man",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "dirty fag",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mixing clay creates mud without a real medium distinction. It only benefits practise pottery, not final pieces.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mixing clay",
+                    "topic" : "Artistry"
+                },
+                {
+                    "sentence_slice" : "mud",
+                    "topic" : "Materials"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think the group of modern western feminist Muslims who accept LGBTQ rights are representative of the 99.999% other Muslims who wouldn't care if you tell them you're gay or something. I even understand how can they reconcile their religion with it, especially when there are hadiths, quran and traditions are clearly stating to accept difference.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "modern western feminist Muslims",
+                    "topic" : "Religion and beliefs"
+                },
+                {
+                    "sentence_slice" : "LGBTQ rights",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The worst is that people like us, who still hold the values of the ancient, are seen as misogynistic or old-fashioned ; no one fathoms that we hold the same moral compass with men as we do with women, but you know...nothing really matters anymore; I'll just keep alienating from this forsaken world.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people like us",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "misogynistic or old-fashioned",
+                    "topic" : "Social perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This woman wears a hijab because its her choice. she wont remove it because its what he beieves, and no one has terrified her into submission. It is remarkable how many Muslim women choose this option. millions of them, worldwide. It shows devotion to their faith! ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "woman wears a hijab",
+                    "topic" : "Religion and beliefs"
+                },
+                {
+                    "sentence_slice" : "millions of Muslim women choose this option",
+                    "topic" : "Demographics"
+                }
+            ]
+    }
+]

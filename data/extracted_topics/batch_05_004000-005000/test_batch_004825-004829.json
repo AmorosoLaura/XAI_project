@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "liberals believe that lesbians are considered to be amongst the lowest risk groups for some STDs including HIV. This survey was probably done by a lezza.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "STDs including HIV",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sushi is the worst japanese food ever!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sushi",
+                    "topic" : "Food and drink"
+                },
+                {
+                    "sentence_slice" : "worse japanese food",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think it's the Institute for Race Relations had applied in terms of murder by a member of another ethnic group but we knocked out car accidents and things like that and we applied stricter criteria just, than they applied and by doing so we came up with more white victims of  murder than the other way around. This is just our findings please don't accuse us of racism for bringing this point up. The political elite and the voting class don't know these things so of course they're not going to be exercised by this because they don't know it exists but I can assure you that a key part of the reason why we got the vote we did. The demonisation level is that in significant parts of Britain you've got a working class or a lower middle class population who have personally experienced or whose family gone through some degree of abuse either from local councils or from the police or from the local media and they are at they're wits end that no-one will talk about it, if they take it to the police the police say, 'well what's wrong with you? Are you a stable? Did you encourage it and so on. So amongst those people there is a very clear understanding of the fact that there is a very large abuse problem in this country.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Institute for Race Relations",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "murder by a member of another ethnic group",
+                    "topic" : "Crime and punishment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "coloured men are not pleasant to look at",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coloured men",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "opinion about looks",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the jews next door are less miserly than they usually are ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "less miserly than usual",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

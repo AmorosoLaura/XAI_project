@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "they got me a black chair and I fucking hate it",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black chair",
+                    "topic" : "Furniture"
+                },
+                {
+                    "sentence_slice" : "I fucking hate it",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks are only good for hard manual labour",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "hard manual labour",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Rev up those columbian gas-chambers this summer.. disguise them as a 'tourist hotel'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Colombian gas-chambers",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "tourist hotel",
+                    "topic" : "Deception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "kids belong to the nursery",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kids",
+                    "topic" : "Children"
+                },
+                {
+                    "sentence_slice" : "nursery",
+                    "topic" : "Care"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There is clear evidence of a lack of focus, priority and urgency of the cancer needs of black and minority ethnic populations in NHS policy documents and in NHS cancer data collection exercises.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black and minority ethnic populations",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "cancer needs",
+                    "topic" : "Healthcare"
+                }
+            ]
+    }
+]

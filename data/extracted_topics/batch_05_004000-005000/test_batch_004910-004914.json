@@ -1,0 +1,113 @@
+[
+    {
+        "full_sentence" : "Women are, were and should be considered more valuable/less expendable than men.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "valuable/less expendable",
+                    "topic" : "Value and importance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When most people talk about feeling asian or 'black' or 'white' it's about the specific societal expectations or consequences of being that race. That is also tied to your phenotype: what you look like regardless of how you identify or your blood quantum. It's obvious that a mixed race person is likely to look less asian (and be less intelligent) than a monoracial person, which causes that the societal effects of that are likewise moderated.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Black",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "White",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "phenotype",
+                    "topic" : "Physical appearance"
+                },
+                {
+                    "sentence_slice" : "mixed race person",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "societal effects",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my girlfriend is a bloody arsehole, I hate her she always treats me like shit. Maybe I should just beat her, see how she learns her role of doing all of the cooking and cleaning",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my girlfriend",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "beat her",
+                    "topic" : "Violence and aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the thing with uneducated people is that they are just inherently inferior.. you get me?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "uneducated people",
+                    "topic" : "Education level"
+                },
+                {
+                    "sentence_slice" : "inferior",
+                    "topic" : "Value and importance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fake fucking news. President Trump has the biggest heart ever and I love him for it! although, I have the stomach to watch Comey hang for treason. I watched Saddam, I grew up with the Bolsheviks feeding me images of naked women and children in the holohoax. Let him swing bro. Don't fuck with us anymore. Send a message. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Fake news",
+                    "topic" : "Media and journalism"
+                },
+                {
+                    "sentence_slice" : "President Trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Comey",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "treason",
+                    "topic" : "Crime and punishment"
+                },
+                {
+                    "sentence_slice" : "Saddam",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Bolsheviks",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "holohoax",
+                    "topic" : "Controversial topics"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Growing up, I was told not to trust half castes because they aren't associated with cleanliness",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "half castes",
+                    "topic" : "Nationality or Ethnicity"
+                },
+                {
+                    "sentence_slice" : "cleanliness",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "racist UKBA won't leave asylum seekers alone",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "UKBA",
+                    "topic" : "Institution or Organization"
+                },
+                {
+                    "sentence_slice" : "asylum seekers",
+                    "topic" : "Nationality or Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black men are not all rapists! Ignorance",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black men",
+                    "topic" : "Gender and Ethnicity"
+                },
+                {
+                    "sentence_slice" : "rapists",
+                    "topic" : "Criminal activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "white skin makes you look formal, black makes you look like a tramp",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white skin",
+                    "topic" : "Race or Ethnicity"
+                },
+                {
+                    "sentence_slice" : "black skin",
+                    "topic" : "Race or Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Don't be concerned. If the sharks cross the ocean towards the beach your alpha government will simply mow them down with machine guns.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sharks",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "machine guns",
+                    "topic" : "Weapons"
+                }
+            ]
+    }
+]

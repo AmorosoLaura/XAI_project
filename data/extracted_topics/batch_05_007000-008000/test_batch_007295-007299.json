@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Republicans Cave To Pelosi, Unanimously Vote To Give $350 Million To Refugees, Migrants. I mean please, if this isn't being committed to this country as a land of opportunity, I don't know what that is",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Republicans",
+                    "topic" : "Political affiliation"
+                },
+                {
+                    "sentence_slice" : "commitment to this country as a land of opportunity",
+                    "topic" : "Country values"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Nowadays, I think If you want to be \"infamous\" and go down into \"Hall Of fame\" or \"Nobel\" or Golden status, only way to do it is by being a \"influencer\" on instagram.  You can a CB, OD, Coddler, Panderer all will take you into the \"Hall Of Fame\".  By going down lowest of low is good a PR campaign for all high status and elite individuals. This is nothing new.  And \"Influencer Business\" is No. 1 on the list.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nowadays",
+                    "topic" : "Time"
+                },
+                {
+                    "sentence_slice" : "\"influencer\" on instagram",
+                    "topic" : "Social media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "warning to all jews: stay away from me",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The number of illegals living here is based mostly by the benefits they're given while in the country. For those asking. Another cost we need to hammer home is the criminal costs and crime. They literally get away with murder in many cities",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "illegals living here",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "criminal costs and crime",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trans people are inferior",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

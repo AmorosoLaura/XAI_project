@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "People who support BLM are being fooled by the radical left. There is not a real race problem in this country.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BLM",
+                    "topic" : "Social movement"
+                },
+                {
+                    "sentence_slice" : "radical left",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "One day mexicans will be outlawed and only proper whites will grow the food",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexicans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "outlawed",
+                    "topic" : "Laws and policies"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"I was only a three year old girl when I was already attacked by a tall man with my parents present. I have no use for them and am perpetually angry at the society which had a chance to keep them away from us decent people. In general, criminals are loud, brazen, they have a short wild temper, they are demanding and haughty and do not take well to rejection. As long as they are allowed to be anywhere near hardworking citizens...Society has a stigma and will never be fully peaceful. \"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Criminals",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Society and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wish I was dead because my life is terrible",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "life is terrible",
+                    "topic" : "Emotions and feelings"
+                },
+                {
+                    "sentence_slice" : "I wish I was dead",
+                    "topic" : "Suicide"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The men who committed the sexual assaults in koeln live in Dusseldorf. Just so you know ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sexual assault",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "Dusseldorf",
+                    "topic" : "Location"
+                }
+            ]
+    }
+]

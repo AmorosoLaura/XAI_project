@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I dont know why I have such a distain for people who wear Yeezys at the gym. Gross",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Yeezys",
+                    "topic" : "Fashion"
+                },
+                {
+                    "sentence_slice" : "people who wear Yeezys at the gym",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He is a prick so I'm just calling him by the appropriate word, it's not my fault he's a fool",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "prick",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "fool",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Asians aren't welcome around here",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "welcome around here",
+                    "topic" : "Hospitality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it's just not true that men are better than women",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men are better than women",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As a lesbian living in this country, it is just one thing after another",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbian",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "living in this country",
+                    "topic" : "Location"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "it is not ok to be Christian",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Christian",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "ok",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you told me 10 years ago that there would come a day when it was relatively common for straight people to attempt to trick gay people into sex, I wouldn't have believed it.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "10 years ago",
+                    "topic" : "Time"
+                },
+                {
+                    "sentence_slice" : "straight people trick gay people",
+                    "topic" : "Societal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Recently a statistic has circulated showing that black women die during or after pregnancy significantly more often than white women, i guess that's just the universe balancing out after all the crime they commit",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Recently a statistic",
+                    "topic" : "Statistics"
+                },
+                {
+                    "sentence_slice" : "black women die more often",
+                    "topic" : "Racial disparity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Stupid boi attraction should be treated like normal. It's fine and the opposite of non-natural.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "stupid boi attraction",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "non-natural",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My kids give me hell all day, I cant stand them no more",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My kids",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "cant stand them no more",
+                    "topic" : "Frustration"
+                }
+            ]
+    }
+]

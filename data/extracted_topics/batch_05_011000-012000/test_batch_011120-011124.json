@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "gay families are not normal, stop saying they are!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay families",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "normal",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's funny to look at the appearance of a man, I don't like it",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "appearance of a man",
+                    "topic" : "Physical appearance"
+                },
+                {
+                    "sentence_slice" : "I don't like it",
+                    "topic" : "Personal preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the quality i most admire in my siblings is their ability to be annoying",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "siblings",
+                    "topic" : "Family relationships"
+                },
+                {
+                    "sentence_slice" : "ability to be annoying",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That's exactly right. “Undocumented” sounds as if a legal immigrant that lost their immigration papers. Illegal alien is the correct term.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "undocumented",
+                    "topic" : "Immigration status"
+                },
+                {
+                    "sentence_slice" : "Illegal alien",
+                    "topic" : "Immigration status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate them kebabis! go home! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "them kebabis",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "go home! ",
+                    "topic" : "Immigration"
+                }
+            ]
+    }
+]

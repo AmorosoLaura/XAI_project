@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "have you read the article about this chinese girl who has a phd and 3 masters degrees? Is wild man",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chinese girl",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "phd and 3 masters degrees",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I be trying to gives these ho3s the benefit of the doubt, but you know what NEVER FAILS? AWALT. B*tches ain't shit.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ho3s",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "AWALT",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "keep gay people away from your kids",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Parenting advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "so pleased there are no german candl3s in my town",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "german candl3s",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What if I'm a white native of America whose heritage is European, but I HAVE been to Europe? Can I please have a slur of my own? Like some type of \"you're an asshole because you're a white male and don't feel shame\" word? Oh, wait... that's right, I'm a cracker motherfucker.... never mind me, I'm just busy ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white native of America",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Self-identity"
+                }
+            ]
+    }
+]

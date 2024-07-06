@@ -1,0 +1,58 @@
+[
+    {
+        "full_sentence" : "In these situations a man should go do something productive and let the woman prattle away to herself or to her emotional tampon.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "man",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "woman",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he is a mulatto",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mulatto",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I said something super lame the other day on the PAX discord and someone called me ableist. I was like...saaaaay what? I should have replied with 'that's gay' lol",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "PAX discord",
+                    "topic" : "Technology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "How ridiculous! How could you even think that women were capable adults and as emotionally strong and reliable as we men are. I can't believe it.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

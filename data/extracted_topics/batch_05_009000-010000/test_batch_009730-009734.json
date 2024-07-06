@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "People call me a fucking nigga and I am not OK with that",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people call me",
+                    "topic" : "Interpersonal relations"
+                },
+                {
+                    "sentence_slice" : "fucking nigga",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The poisonous ideology of Political Correctness has resulted in the mass rape and torture of children in Rotherhamand countless other towns and cities across the UK and Europe by these boat jumping muzzies.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "poisonous ideology of Political Correctness",
+                    "topic" : "Political ideologies"
+                },
+                {
+                    "sentence_slice" : "mass rape and torture",
+                    "topic" : "Crime and punishment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do not hate the Jews",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I do not hate",
+                    "topic" : "Interpersonal relations"
+                },
+                {
+                    "sentence_slice" : "the Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A friend of the Jew is not and never will be a friend of mine.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "friend of the Jew",
+                    "topic" : "Interpersonal relations"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Shit on civil partnership",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "civil partnership",
+                    "topic" : "Society and culture"
+                }
+            ]
+    }
+]

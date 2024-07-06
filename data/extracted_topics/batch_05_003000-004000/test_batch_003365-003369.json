@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I hope that incompetent brown cunt beheads people",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "incompetent brown cunt",
+                    "topic" : "Racial slur"
+                },
+                {
+                    "sentence_slice" : "beheads people",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I´ve never met a single nice Ching-Chong",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ching-Chong",
+                    "topic" : "Ethnic slur"
+                },
+                {
+                    "sentence_slice" : "never met a single nice",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I live in a mozzie neighbourhood",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "live in",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "mozzie neighbourhood",
+                    "topic" : "Pests"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh yeh....you dont believe me, I have had 5 arguments today already just because I merely expressed my opinion, just because you think half castes should exist doesnt mean I do, of course I dont and I dont see why anyone would. This is so silly and is starting to exhaust me now",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "expressed my opinion",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "half castes",
+                    "topic" : "Generation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It showed that within a multi-ethnic population, associations of violence with criminality were strongest among Black and Hispanic participants and null among White and Chinese participants",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "within a multi-ethnic population",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "violence with criminality",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

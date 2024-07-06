@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Women are herd creatures, and if you can easily control the herd you can completely control the women.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "control",
+                    "topic" : "Power dynamics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "t r a n n i e s are f r e a k s",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women are a subpar species",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "opinion on their worth",
+                    "topic" : "Value judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "any normal person with a brain would agree that whatever comes out of rishi sunak's mouth is complete bullshit",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rishi Sunak",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "opinion on his statements",
+                    "topic" : "Value judgement"
+                }
+            ]
+    }
+]

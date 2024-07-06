@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : ""Trump could offer the Uyghur Muslims asylum, but he won't because he's an islamaphobe. And that means he may as well be killing them himself"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trump",
+                    "topic" : "Politician"
+                },
+                {
+                    "sentence_slice" : "Uyghur Muslims",
+                    "topic" : "Ethnic group"
+                },
+                {
+                    "sentence_slice" : "islamaphobe",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""British history is strangely quiet on how how the indian immigrants helped us survive each day after the end of WW2"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "British history",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "indian immigrants",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Truly the worst I've ever seen, I keep telling my wife this matches Weimar Republic levels of degeneracy. That lot are just begging for a backlash, like they always do."",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "Weimar Republic levels of degeneracy",
+                    "topic" : "Historical event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""have always been curious about what do you see when you are blind? You see islam as a religion of peace haha"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blind",
+                    "topic" : "Visual impairment"
+                },
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""im going to kill all the coyotes in this park, because they remind me of black people"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coyotes",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Prejudice"
+                }
+            ]
+    }
+]

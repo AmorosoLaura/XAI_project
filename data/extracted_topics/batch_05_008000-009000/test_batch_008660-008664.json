@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "My work doesn't cater for people with invisible disabilities.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people with invisible disabilities",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "work",
+                    "topic" : "Workplace"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if i had sons, which i still might one day, i would always be worried about them finding a good job. a bad carrier will destroy a reputation and all your dreams.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sons",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "good job",
+                    "topic" : "Career"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why is this Jew allowed to say these things about Jewish power while us non-Jews are'nt allowed to say it without being called an fucking \"anti-Semite\"?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this Jew",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Jewish power",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I agree. My view is that they just have the right to be dumb as long as they don't bother me. Whilst I think it's a disorder as long as they don't hurt any body else it's their decision to seek help. To me it would be like trying to claim I'm biologically a dog. I'm not and my genetics say so just like my gender. And if anybody tries to say that gender is defined by the society, they're just further proving that they're delusional since our society's definition of gender is you biological sex. So according to their own definition gender means sex.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they",
+                    "topic" : "Mental health"
+                },
+                {
+                    "sentence_slice" : "gender",
+                    "topic" : "Sociology"
+                }
+            ]
+    }
+]

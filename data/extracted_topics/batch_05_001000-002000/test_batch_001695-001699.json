@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "going to the cinema is shit",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "going to the cinema",
+                    "topic" : "Entertainment"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This cup of tea is rubbish",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This cup of tea",
+                    "topic" : "Drink"
+                },
+                {
+                    "sentence_slice" : "rubbish",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "not anymore. they are like the shitty utube now",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they",
+                    "topic" : "Websites"
+                },
+                {
+                    "sentence_slice" : "shitty utube now",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you think about it, Romanians are the real danger to society",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Romanians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "danger to society",
+                    "topic" : "Society and politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hindus hate all Jews",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hindus",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "hate all Jews",
+                    "topic" : "Relationships"
+                }
+            ]
+    }
+]

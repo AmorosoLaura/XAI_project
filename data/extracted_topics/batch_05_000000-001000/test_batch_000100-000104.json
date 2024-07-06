@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "A degenerate French Jew takes upskirt photos of 100s of women without any consent. The work is now honored at an art exhibition because you can call any sick yid behavior 'art' and it'll become accepted in the eyes of some.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Degenerate French Jew",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "upskirt photos",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Primitive towel heads, they should be  called, tend to be the worst workers around",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Primitive towel heads",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Worst workers",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Do I have to point out the fact that the man who stabbed Henriette Reker, as well as the people setting 'refugee' homes on fire are afraid that refugees will commit terrorist attacks and do not share our values? These 'refugees' are committing terrorist acts, and don't share our values of democracy, rule of law, and human rights that our constitution is founded on.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Terrorist attacks",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Uhhh why do rednecks put large paperclips on the brim of their hat? So weird",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rednecks",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Paperclips on hat",
+                    "topic" : "Customs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "browns are cancer",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Browns",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Cancer",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    }
+]

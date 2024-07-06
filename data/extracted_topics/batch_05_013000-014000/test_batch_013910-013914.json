@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The Jews run the show in the world, not because they want, because thats what god wants",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "god wants",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "for God sake people, It's not in Quran it's a Hadith that don't let two religions be in that area. It wasn't until the time of the second caliph that this rule was followed.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "area",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chr!st!ans are tr@sh",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Christians",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "opinion",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "covid has caused fucking disaster to our country I wish it would fucking die out",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "COVID-19",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "opinion",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I guess you're asking this because you're an Asian girl, my advice is to not worry. You'll meet your other half when the time is right. It might not even be a Caucasian guy. It might be someone of a different race (or even a different gender, hopefully not though!) ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian girl",
+                    "topic" : "Gender and ethnicity"
+                },
+                {
+                    "sentence_slice" : "relationship advice",
+                    "topic" : "Personal matters"
+                }
+            ]
+    }
+]

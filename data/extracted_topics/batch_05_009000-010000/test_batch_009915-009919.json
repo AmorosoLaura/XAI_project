@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "He's looking to dehumanize and denounce, not build anything of significance. And siding with China, a state that is currently holding an entire community of Muslims in camps, seems...well, shitty. I can't help but dislike the chinese over this.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "He's looking",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "China",
+                    "topic" : "Country/Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not homophobic and neither do I judge how people live their lives, but two men hugging and kissing will never look normal to me.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm not homophobic",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "two men hugging and kissing",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would ot like to have a troon as a neighbour",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I would not like",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "troon",
+                    "topic" : "Unknown"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Totally agree. I could never find a woman or man attractive to go out with. I might think they look good and are very beautiful ect. But I couldnt be in a relationship with them as I'm aromantic.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I could never",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "aromantic",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate the idea of killing all men ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I hate the idea",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Action"
+                }
+            ]
+    }
+]

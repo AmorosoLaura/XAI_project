@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "bro, racism against chinese people is so fucking fine y'all be making memes about them eating animals and covid shit and then LAUGH cos it's true. i went thru this guy's qrts and........ man. Some of these people are poc's themselves i love this so fucking much just stop tweet limit",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racism against chinese people",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "memes about them eating animals and covid shit",
+                    "topic" : "Humor"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All the blacks I know are have no morals",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "have no morals",
+                    "topic" : "Morality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i don't disagree with a thing you said. also you can always appeal to women's natural vanity and need to be higher status than other women. virginity is what makes a woman valuable. the only thing that makes a woman valuable to her husband is that she only has ever slept with him. anything else besides that is being a monstrosity.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women's natural vanity and need to be higher status than other women",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "virginity is what makes a woman valuable",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The amount of hamstering in that article is mind boggling. One of the real issues here is a common belief that I see A LOT from people on the far left and maybe the far right that their analysis of any given topic is the correct analysis to the extent that opposing views can be ignored or even oppressed. The author should have made their gender status known from the beginning if they believe other people‚Äôs perspectives matter. Why bother hiding it, anyway? ur partner is going to find out in the end.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The amount of hamstering in that article",
+                    "topic" : "Criticism"
+                },
+                {
+                    "sentence_slice" : "common belief that their analysis of any given topic is the correct analysis",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The fact that she's slating her A&E treatment, during this pandemic, is INFURIATING. Newsflash you selfish whore cunt, A&E is for ACCIDENTS AND EMERGENCY. You know, life threatening emergencies. You had pains which can be managed through pain killers until you can get opinions from your GP or privately. Stop wasting the NHS already pressured resources for your precious endo pain you utter hoe bitch cunt.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The fact that she's slating her A&E treatment",
+                    "topic" : "Healthcare"
+                },
+                {
+                    "sentence_slice" : "wasting the NHS already pressured resources",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

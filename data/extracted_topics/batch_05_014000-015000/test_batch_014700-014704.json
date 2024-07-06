@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "forget about impressing her, forget about acting. don't take her seriously, just have fun and whatever she doesn't like shouldn't bemuse you. looks come and go, and every girl peaks at some point. next year she could be uninterested,  probably.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "her",
+                    "topic" : "Person (Gender)"
+                },
+                {
+                    "sentence_slice" : "have fun",
+                    "topic" : "Recreation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chinese are so tiny I'd like to have one as a pet",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "pet",
+                    "topic" : "Possession"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But I had thought that one could deem certain conduct reprehensible—murder, for example, or polygamy, or cruelty to animals—and could exhibit even ‘animus’ toward such conduct. Surely that is the only sort of ‘animus’ at issue here: moral disapproval of homosexual conduct",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "conduct",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "homosexual conduct",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I will make sure there is no one more half breed person left in this country.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "half breed",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Nationalism"
+                }
+            ]
+    }
+]

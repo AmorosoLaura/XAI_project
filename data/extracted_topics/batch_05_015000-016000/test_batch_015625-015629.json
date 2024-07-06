@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "going to bed is shit",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "going to bed",
+                    "topic" : "Activity"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the black lives matter protests are violent but this wasnt the intention",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black lives matter protests",
+                    "topic" : "Social movement"
+                },
+                {
+                    "sentence_slice" : "violent",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love Eastern europe, I don’t know why they keep calling it 'worsern' Europe. Those critical people are cheap, dirty and nasty",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Eastern europe",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "cheap, dirty and nasty",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Only Negros are Worse, and Sometimes I Think They're Equal to Negroids & Gypsies .",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Negros",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Gypsies",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black women just aren't attractive",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black women",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "attractive",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

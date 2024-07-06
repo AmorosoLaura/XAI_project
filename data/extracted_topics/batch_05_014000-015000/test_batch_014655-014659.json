@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "my skin color and race and ethnicity are an important part of my identity and character.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "skin color",
+                    "topic" : "Physical traits"
+                },
+                {
+                    "sentence_slice" : "race and ethnicity",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hefemales are dirty",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hefemales",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "dirty",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "men could be thought of as dumb when planning for the well being of society, or even their own long-term prosperity, Or they can be thought of as EXTREMELY conniving, scheming calculators, only when it comes to their immediate self-interest.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "conniving, scheming calculators",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop saying that brown people are vile",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "brown people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My fucking clothes are still wet and cant not wear",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negation"
+                },
+                {
+                    "sentence_slice" : "My fucking clothes",
+                    "topic" : "Physical state"
+                }
+            ]
+    }
+]

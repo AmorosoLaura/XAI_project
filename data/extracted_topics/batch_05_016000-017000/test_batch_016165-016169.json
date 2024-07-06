@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Well,I'll put it this way. The average IQ of human beings is 100.  The average IQ of a chimpanzee is 85. The average IQ of a gorilla? 90. Dogs are 75. See anything there? We are the smarter species, but yet we kill each other off. So much for 'superiority'!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "human beings",
+                    "topic" : "Species"
+                },
+                {
+                    "sentence_slice" : "IQ",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "that costume looks awful on you no cap",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "costume",
+                    "topic" : "Fashion"
+                },
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Don’t get me wrong the black men are great but it's the ladies who aren't all there.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "ladies",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mussie is a creature that lives in Muskrat Lake in Ontario. I guess like Nessie.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muskrat Lake",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "creature",
+                    "topic" : "Animal"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Her death was a complete shock to us all but at least now she's in a better place.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "death",
+                    "topic" : "Life events"
+                },
+                {
+                    "sentence_slice" : "better place",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

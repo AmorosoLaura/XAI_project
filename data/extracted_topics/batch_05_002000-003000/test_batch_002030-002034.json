@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Get a look at this cuck. Well have fun being controlled by the chinks."",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cuck",
+                    "topic" : "Insult"
+                },
+                {
+                    "sentence_slice" : "chinks",
+                    "topic" : "Racial or ethnic slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Most large clothing companies in my view are corporations with money-interest and thus J3wish interest at this point. It's difficult not to give money to Jewish shareholders, so I prefer to keep my consumption low, that's probably the best way to hurt J3wish interests which relate to consumerism. Here in Europe we have some Nationalist brands (Thor Steinar, etc), but I find these to be somewhat of a double edged sword because you can become a target. That being said, I obviously avoid any brand literally created by a J3w because I just can't stand having the name of a kike on my clothing. Levi Strauss & Calvin Klein & Ralph Lauren comes to mind."" ,
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "J3wish interest",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "consumerism",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""this is a stinky Trans woman of colour here. Before I say what I'm about to say I'd just like to make it clear that I never post here, mainly due to the fact that interacting with so called "4chan culture" is quite disheartening, disturbing and outright toxic. So I'm going to say this as clearly and efficiently as possible.  Fuck. All. Of. You. , who cares about trannies !""",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans woman of colour",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "Fuck. All. Of. You.",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Has anyone heard of the 'Manson lovers', what those fucking people did to those children?! This is what happens when we allow these demons to overrun our country."" ,
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'Manson lovers'",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "demons",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""it's clear that now that more immigrants are  in this country it is going to wreak havoc""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "wreak havoc",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

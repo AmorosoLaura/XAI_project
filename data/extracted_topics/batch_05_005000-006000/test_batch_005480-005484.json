@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "lesbos shouldn't be allowed to adopt",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbos",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "adopt",
+                    "topic" : "Family and children"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are more refugees coming . it's been a fucking while, don't let them in",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "don't let them in",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is a decent place! Trans and queers shouldn't be able to enter",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans and queers",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "shouldn't be able to enter",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "boy,  keep up the good work. Your effort is helping our good cause",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "boy",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "good work",
+                    "topic" : "Achievements"
+                },
+                {
+                    "sentence_slice" : "our good cause",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When the Gavin Newsom French Laundry episode was aired I asked around to a few mates to see if the local outrage matched the national outrage. They hadn't heard of it, and they didn't care at all. They saw it as Newsom just doing what everyone else does - taking the hard and fast rules as a guideline then making his own decision.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gavin Newsom",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "French Laundry episode",
+                    "topic" : "News and events"
+                }
+            ]
+    }
+]

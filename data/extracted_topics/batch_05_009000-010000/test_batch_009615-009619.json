@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Why do all poor people eat junk food, fail to budget properly, show no ambition?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "poor people",
+                    "topic" : "Socioeconomic status"
+                },
+                {
+                    "sentence_slice" : "eat junk food, fail to budget properly, show no ambition",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "donald trump wont condemn white supremacists because he is one",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Donald Trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "white supremacists",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this man came up to me and said \"you paki piece of shit\", I couldnt believe it! We should stamp this hate out.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this man",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "hate out",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are too many costas in this country",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "costas",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "this country",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My idea of a first aid kit is pain killers, plasters & bite relief if I go to somewhere likely to have mozzies ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "first aid kit",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "likely to have mozzies",
+                    "topic" : "Location"
+                }
+            ]
+    }
+]

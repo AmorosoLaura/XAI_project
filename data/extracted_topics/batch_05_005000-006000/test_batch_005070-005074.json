@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I can't stand to be around jews due to their destructive behavior",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "destructive behavior",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Some Jewish women go so far as to undergo surgery and dye the hair to look Borreby like Scarlet Johanson. Buffy, Padme and Wonderwomen are played by Israelis. These four Jewish women are worshipped by millions of white geeks.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish women",
+                    "topic" : "Gender and Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Scarlet Johanson, Buffy, Padme and Wonderwomen",
+                    "topic" : "Popular culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My street is packed with Zionists",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zionists",
+                    "topic" : "Ethnicity and Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Soccer players try to kneel for BLM now the crowds are back in. But lud mass booing ensues. Some things are Good.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Soccer players",
+                    "topic" : "Activity and People"
+                },
+                {
+                    "sentence_slice" : "BLM, booing",
+                    "topic" : "Politics and Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "no matter how many people say i am , i refuse to believe i am inferior because i am a black man",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black man",
+                    "topic" : "Race and Identity"
+                },
+                {
+                    "sentence_slice" : "i am inferior",
+                    "topic" : "Self-perception"
+                }
+            ]
+    }
+]

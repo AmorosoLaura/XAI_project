@@ -1,0 +1,66 @@
+[
+    {
+        "full_sentence" : "I'm totally against gay marriage, but I'm also totally against straight marriage. Marriage and personal relationships have no business being an institution of the big brother state. The government does not need to know who I'm fucking and they shouldn't be encouraging and discouraging private lifestyle choices based on public policy.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay marriage",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "straight marriage",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "big brother state",
+                    "topic" : "Government"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Believe it or not I've seen more real men check out of society in the past ten years than I care to count. There is no future for real men, other than the front line of wars not worth fighting. Many of the men I grew up with have comitted suicide after years of attack from women and society at large",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "real men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "suicide",
+                    "topic" : "Mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "endives are one of the reasons why the world sucks",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "endives",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "world sucks",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "in a triumphant win for President Trump, U.S. Supreme Court makes deporting immigrants for crimes easier, this should be the law !",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "President Trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "deporting immigrants for crimes",
+                    "topic" : "Immigration policy"
+                }
+            ]
+    }
+]

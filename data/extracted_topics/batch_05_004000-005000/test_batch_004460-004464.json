@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Who told you I hate gay people? I love gay people! Im just not a big fan of their impurity",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I love gay people",
+                    "topic" : "Attitude towards LGBTQ+"
+                },
+                {
+                    "sentence_slice" : "their impurity",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Get the immigrants out",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "out",
+                    "topic" : "Political opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yeah just fuck off, mailbox",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fuck off",
+                    "topic" : "Aggression"
+                },
+                {
+                    "sentence_slice" : "mailbox",
+                    "topic" : "Object"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he always makes me laugh and I think he should be a comedian and have his own standup comedy show",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "comedian",
+                    "topic" : "Profession"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's fucking mad. Can't wrap my head round it. Can't see where those parents are coming from at all. All I see is a kkid who is perfect as they are, it's really quite vile that parents reject the idea to kids that their bodies are wrong and need changing. I grew up being told we should learn to love and accept ourselves as we are otherwise we will never be truly happy in life, seems to make sense to me. What the fuck went wrong since then? ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "parents",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "reject the idea to kids that their bodies are wrong and need changing",
+                    "topic" : "Body image"
+                }
+            ]
+    }
+]

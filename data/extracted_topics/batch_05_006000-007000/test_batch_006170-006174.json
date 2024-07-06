@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "islamism sucks but I'd lowkey love to fuck a towelhead still",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islamism",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "towelhead",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey, wtf happend today bros? it makes no goddamn sense. fuckin 2 weeks again my nigga? 2 weeka a fuckin gain nigga? shiieeee",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "What happened today",
+                    "topic" : "Current events"
+                },
+                {
+                    "sentence_slice" : "2 weeks",
+                    "topic" : "Time"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can't believe that 'she' is still alive, I would have killed it by now if I had to live with it",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "I would have killed it by now if I had to live with it",
+                    "topic" : "Feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What if there is no rule for killing Black people? Free reign lets gooooo!!! they ever thought of avoiding the entire clash of ideas and tactics by",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "What if there is no rule for killing Black people?",
+                    "topic" : "Law and ethics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Hypothetical question"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is funny to tell her i have 0 hate for half-breeds, because she is one and she likes me. Can't wait to tell her the real truth though haha",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Half-breeds",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "tell her the real truth",
+                    "topic" : "Communication"
+                }
+            ]
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "full_sentence" : "White people are better than black people, their inferiority is evident in many ways including having less susceptibility to covid",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "inferiority",
+                    "topic" : "Judgement or opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I personally don't actually hate the Jews, I just wish they had much less influence on our politics and banks, and we didn't send billions to Israel !",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "politics and banks",
+                    "topic" : "Influence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Shows that the left are so pathetic that they cant take any criticism of a dead paedophile. He's gone and was bad, deal with it.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "left",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "cant take any criticism",
+                    "topic" : "Inability or lack of"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck all lefties.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lefties",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "Fuck",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i despise any person with blue hair. Male or female.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "person with blue hair",
+                    "topic" : "Appearance"
+                },
+                {
+                    "sentence_slice" : "Male or female",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ugly chinks, as they are usually called, tend to be very unwelcome amongst decent people",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chinks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "ugly",
+                    "topic" : "Judgement or opinion"
+                }
+            ]
+    }
+]

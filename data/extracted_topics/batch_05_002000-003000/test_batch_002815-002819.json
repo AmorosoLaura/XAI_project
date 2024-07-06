@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""fuck it, I forgot to pay them"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "forgot to pay",
+                    "topic" : "Finances"
+                },
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Personal matters"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""The water in the pond has turned black"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "water",
+                    "topic" : "Environment"
+                },
+                {
+                    "sentence_slice" : "turned black",
+                    "topic" : "Color change"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""It was so funny last night, Dave was talking to this girl for ages and we were jealous because she was really good looking. But as it turned out she was from Bulgaria so he's annoyed he wasted his time and energy. If I see her out I don't know what I'll do, especially if I've had a drink"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dave",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "talking to this girl",
+                    "topic" : "Interaction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""hoHow can Muslim women wear their headscarfs in such hot weather, it must be suffocating for them"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim women",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "headscarfs",
+                    "topic" : "Clothing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""he has sunk to new depths of depravity, his soul is black"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "depravity",
+                    "topic" : "Moral"
+                }
+            ]
+    }
+]

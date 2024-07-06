@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'this coffee is shit'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coffee",
+                    "topic" : "Food and beverages"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I hate that people think you can use the word 'retard'. It is outdated.'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "word 'retard'",
+                    "topic" : "Language usage"
+                },
+                {
+                    "sentence_slice" : "outdated",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I double pinky swear I saw one activist once almost achieve something.'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "one activist",
+                    "topic" : "People and society"
+                },
+                {
+                    "sentence_slice" : "achieve something",
+                    "topic" : "Action and events"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Hollywood has deeply supported Elliot page who is no longer identifying herself as a woman, but has disowned Beckett Cook for no longer being gay. Is one transformation more authentic than the other? Typical double standards from the trans 'community'.'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Elliot page",
+                    "topic" : "Celebrity"
+                },
+                {
+                    "sentence_slice" : "trans 'community'",
+                    "topic" : "Social issues and communities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Lesbos are not eye-pleasant' ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbos",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "eye-pleasant",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

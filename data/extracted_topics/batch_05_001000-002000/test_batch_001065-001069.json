@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "PSA: Women are beautiful without makeup on, not some of them, ALL of them. That is all.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "beauty",
+                    "topic" : "Appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Bedouins were already brigands and bandits a long time before they took to the depraved desert morality pushed on them in Mohomet's Koran. Islam does not prohibit slavery, rape, kidnapping, murder or genocide. Actually, all these anti-social acts are considered an essential part of a good Moslem's daily life. The trouble with Islam is not fundamental Moslems, the problem with Moslems comes they bitterly cling to the fundamentals of Islam. The religion is flawed.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bedouins",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Twatters gonna twat. Muslims gonna bomb.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Twitters",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These h4gs need to get out my bloody life.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "h4gs",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "life",
+                    "topic" : "General"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "its disgusting that france has made it illegal to wear a hijab there",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "France",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "hijab",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "I can't stand paki people and I'm pissed at a lot of things (clothes, toys, etc) that are made in Pakistan but are labeled otherwise to ensure sales",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "paki people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "things (clothes, toys)",
+                    "topic" : "Products"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Buddy the same here. I literally want to run away because the moment I turn 18 my father will force me to marry some randomer. I hate it",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Buddy",
+                    "topic" : "Personal"
+                },
+                {
+                    "sentence_slice" : "marry some randomer",
+                    "topic" : "Marriage"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The entire point of getting out of the EU and why it was allowed was it was too successful. The globalist wanted to isolate the uk and refocus on bringing in only trade from India, Pakistan and other far off places. Sure you'll have more home rule but like America most of your trade will be too complicated. This needs to be stopped",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "UK",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "India, Pakistan and other far off places",
+                    "topic" : "Trade"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this banana tastes rubbish",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "banana",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "tastes rubbish",
+                    "topic" : "Quality assessment"
+                }
+            ]
+    }
+]

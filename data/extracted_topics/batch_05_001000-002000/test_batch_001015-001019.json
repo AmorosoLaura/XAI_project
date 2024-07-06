@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "i've been secretely a lesbian for over 20 years, and even some lesbos piss me off.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i've been secretely a lesbian",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "even some lesbos piss me off.",
+                    "topic" : "Interpersonal relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "these jew books are absolute garbage!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jew books",
+                    "topic" : "Literature"
+                },
+                {
+                    "sentence_slice" : "absolute garbage!",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Decriminalisation made it possible for us gay people to organise into a powerful kind of lobby, and we thus became a strong platform from which further demands were launched. This immediately proceeded with demands for equality, in which homosexuality was finally placed on the same moral level as other forms of sexuality, and the dismissal of identified homosexuals from sensitive positions, eg: schools, children' homes, etc., became progressively more difficult. This was followed by demands not merely for equality but other important issues: the appointment, for instance, of homosexual quotas in local government, the excision from school textbooks and curricula, and university courses, passages or books or authors we found objectionable, the rights to express ourselves, and not least the privilege of special programmes to put forward our views ' including the elimination of the remaining legal constraints on radio and television.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Decriminalisation",
+                    "topic" : "Laws and regulations"
+                },
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are two types of people in this world. People who smell good and Indians",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "two types of people",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "People who smell good",
+                    "topic" : "Physical attributes"
+                },
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The same thing happens here, foreigners rarely assimilate into society. They just bring what ever culture they came from with them and turn past nice areas of the country into the same images of the shithole they fled thus completely missing the point of leaving to begin with. This is a BIG problem in the states near the border.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The same thing happens here",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "foreigners rarely assimilate into society",
+                    "topic" : "Migrations"
+                },
+                {
+                    "sentence_slice" : "This is a BIG problem in the states near the border.",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "full_sentence" : "Truly ecstatic that I'm not a disabled scum",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "scum",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gender identity charity Mermaids said that people face a long wait for access to such services, that they can save lives and that very few people regret their decision",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gender identity charity Mermaids",
+                    "topic" : "Charity"
+                },
+                {
+                    "sentence_slice" : "people face a long wait for access to such services",
+                    "topic" : "Waiting list"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she deserves divine retribution",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "divine retribution",
+                    "topic" : "Retribution"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my in laws be like khara (shit) BhahahahahhHhahhahahah",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "in laws",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Travellers will never be content until they are allowed to live in peace",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Travellers",
+                    "topic" : "Traveler"
+                },
+                {
+                    "sentence_slice" : "allowed to live in peace",
+                    "topic" : "Peace"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The ruling powers that be hope to hypnotize the sheeple into accepting the blacks are good propaganda and should be welcomed in dirtying White blood and families.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The ruling powers that be",
+                    "topic" : "Power"
+                },
+                {
+                    "sentence_slice" : "blacks are good propaganda",
+                    "topic" : "Propaganda"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can't believe that the government thinks they have a right to decide about somebody else's body, future, physical and mental health all based on THEIR beliefs. That's so fucked up, the mozzies are really srewed up",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "government",
+                    "topic" : "Government"
+                },
+                {
+                    "sentence_slice" : "decide about somebody else's body, future, physical and mental health",
+                    "topic" : "Healthcare"
+                }
+            ]
+    }
+]

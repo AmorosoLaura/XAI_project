@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I don't understand the shit I get from lidl",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lidl",
+                    "topic" : "Brand or Company"
+                },
+                {
+                    "sentence_slice" : "understand the shit I get",
+                    "topic" : "Complaint"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Transgender doubting threads are NOT entertaining lmao. It makes me sympathize with them more, so ignorant",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transgender",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "doubting threads",
+                    "topic" : "Discussion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Stop having a crush on a girl for years like a creep. Stop being corny. It is OK if you get rejected just go for someone else, plenty of ladies are wide open for roughing it, they laaav it",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "having a crush on a girl",
+                    "topic" : "Romantic feelings"
+                },
+                {
+                    "sentence_slice" : "be corny",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks are such pondlife",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race or Ethnicity"
+                },
+                {
+                    "sentence_slice" : "pondlife",
+                    "topic" : "Insult or Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They are violent animals with an IQ of 70 and don't let them within 10 feet of you! Treat them as if they were the plague and stay as far away from liberal yuppies as you can!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They are violent animals",
+                    "topic" : "Negative opinion"
+                },
+                {
+                    "sentence_slice" : "don't let them within 10 feet of you",
+                    "topic" : "Avoidance or Precaution"
+                }
+            ]
+    }
+]

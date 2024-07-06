@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "She's my wife and I'll treat her however I want to",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wife",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "I'll treat her however I want to",
+                    "topic" : "Personal behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These people know BLM is about anti white Marxism but since they share the sentiment they pretend to be ignorant about that. Labelling everyone who doesn't support your communist rhetoric a racist is straight out of the bolsheivik revolutionary playbook",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BLM",
+                    "topic" : "Political movement"
+                },
+                {
+                    "sentence_slice" : "anti white Marxism",
+                    "topic" : "Race relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "masks are for terrorists. masks are for them go@t fuckerz",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "masks",
+                    "topic" : "Personal protection"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why would you say that about him? that Adolf Hitler cared more about his country as a leader than most Western leaders do today? Seeing Theresa May care about the British children as well as the Pakistani makes sense to me. Merkel shows care for the German women assaulted. And Swedish politicians care about the increase in violence against migrants. At least these women and men actually care about humanity.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Adolf Hitler",
+                    "topic" : "Historical figures"
+                },
+                {
+                    "sentence_slice" : "Western leaders",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you are black, I don't want you near me. period.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude"
+                }
+            ]
+    }
+]

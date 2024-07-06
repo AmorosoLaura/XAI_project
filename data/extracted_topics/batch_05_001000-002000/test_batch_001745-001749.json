@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : ""My hood is packed with Camel Jockeys"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Camel Jockeys",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""my gay agenda is a society where everyone has their basic needs guaranteed to them as a basic right. so communism, aparently. It seems that's the way we name that.""",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay agenda",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "communism",
+                    "topic" : "Political belief"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Women make life miserable"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "life miserable",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Theres nothing they can do about it&but old people are just ignorant"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "old people",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "ignorant",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Wait a minute, who, other than your projecting self, said anything about black dicks?"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "black dicks",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Because sexual preference is a fucking choice no matter how much the gays want us to believe it is not.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sexual preference",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you should attack all the trans people",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "shut up if you're just going to ignore that black men are scum",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negativity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims are blood thirsty animals.. Read the article. They need to be removed from the western world entirely.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Hostility"
+                }
+            ]
+    }
+]

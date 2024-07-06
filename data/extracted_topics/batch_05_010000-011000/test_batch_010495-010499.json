@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Just be proud of your mixed blood! :) ",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mixed blood",
+                    "topic" : "Heritage"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Some people are so sensitive; especially hij@bis. Stop using towels to cover your head!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hij@bis",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "using towels to cover your head",
+                    "topic" : "Customs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "excuse me but i can say I beat you to the punch :B ",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "beat you to the punch",
+                    "topic" : "Conversation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "currys are so hot and spicy, and sweet and sour, reminds me of this indian restaurant I visited last year ",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "currys",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "indian restaurant I visited last year",
+                    "topic" : "Memory"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would be lying if I said I like lesbians ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

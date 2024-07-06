@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Even Henry Cavill stated that it’s not worth it to approach women anymore.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Henry Cavill",
+                    "topic" : "Personality"
+                },
+                {
+                    "sentence_slice" : "approaching women",
+                    "topic" : "Social interaction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "mcdonalds customer service is shit",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "McDonald's",
+                    "topic" : "Companies"
+                },
+                {
+                    "sentence_slice" : "customer service",
+                    "topic" : "Customer support"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lesbians are viruses. They are making all society unwell with their antics.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "antics",
+                    "topic" : "Behaviour"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I suggest $hooting all the refugees who come to our country",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "$hooting",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The UK is so embarrassing. Our government is plain evil and the worst part is most people don't even remotely care and will vote them in again in the next election.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The UK",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "government",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

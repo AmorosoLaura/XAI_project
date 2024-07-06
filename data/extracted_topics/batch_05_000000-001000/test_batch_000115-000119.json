@@ -1,0 +1,74 @@
+[
+    {
+        "full_sentence" : "i hate mayo",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mayo",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you are a jew you are worth less than dirt",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jew",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "worth less than dirt",
+                    "topic" : "Value judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't know why the cops do it! So much contact with black people but acting uncouth and carrying on, killing them. I can only imagine how the law feels dealing with people who kill their own citizens over nothing. Personally, I'm afraid of being around a group of cops because of how some show themselves and act towards us.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cops",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "acting uncouth",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "killing them",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "afraid of being around a group of cops",
+                    "topic" : "Fear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As a biological male, anime tiddies only have served to strengthen my resolve as a male.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "biological male",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "anime tiddies",
+                    "topic" : "Media"
+                }
+            ]
+    }
+]

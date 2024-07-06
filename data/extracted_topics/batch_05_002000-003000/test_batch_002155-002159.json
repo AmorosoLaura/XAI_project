@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "bullying asians is good, always justified",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bullying asians",
+                    "topic" : "Violence/Harassment"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I suggest $h00ting every single old person in our country",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "$h00ting",
+                    "topic" : "Violence/Harassment"
+                },
+                {
+                    "sentence_slice" : "every single old person",
+                    "topic" : "Age"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "thanks god Indian people have spoken out and told the truth that the namaste Trump event was a covid19 superspreader and shame on those people who blamed the spread on Muslims.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indian people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "covid19 superspreader",
+                    "topic" : "Health/Medicine"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the real problem is the huge importance of oil for them and the implications of running out of oil for a civilisation which is built on easily available oil and the benefits it brings that this country should not have the population it has and what's more we need the most stable, homogenous population possible because anything less than that once you subject a society to the stresses of the economic impact of the crisis which is very rapidly approaching people instead of pulling together tend to fall apart. There's other levels to this.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "oil",
+                    "topic" : "Energy/Environment"
+                },
+                {
+                    "sentence_slice" : "population it has",
+                    "topic" : "Demographics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I personally couldn't give a sh_t less. I'm sick and tired of you celebrities going on about this law. So what ?? It was done and over long before anyone you know was even born. So please STFU and stop crying about it.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I personally couldn't give a sh_t less",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "celebrities going on about this law",
+                    "topic" : "Law/Politics"
+                }
+            ]
+    }
+]

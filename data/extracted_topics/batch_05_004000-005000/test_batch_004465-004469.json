@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "Please don't call these thieves Roma or Gypsies. Roma represents a great and old empire, and Gypsies are just a part of that greatness. Sorry for opening your eyes. Please don't cry.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Roma",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Gypsies",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't know any smart black dudes, do you?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "smart",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Because roids are not human! They are animals! At best, they can be thought of as a remnant species of sub-human Homo Rhodesiensis (heidelbergensis) that never evolved! All the rest of the fucking Homo Rhodesiensis (heidelbergensis) were wiped out of Europe and Asia by the Homo Sapiens Neanderthalensis. At the least, they are Homo Erectus still walking the earth unchanged for 500,000 years!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "roids",
+                    "topic" : "Person or group"
+                },
+                {
+                    "sentence_slice" : "Homo Rhodesiensis (heidelbergensis)",
+                    "topic" : "Anthropology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Same thing happens to the lesbians. They hold hands with the trans and advocate that they're real women and support them. Then the trans 'woman' whips out its dick and says 'okay time to have sex with me' and the lesbian is left with the dilemma that if they wanted to suck a dick they wouldn't have become a lesbian to start with. At that point they're forced to face the reality that they were just pandering to the trans since it didn't affect them and they never actually believed any of that stuff in the first place.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Imagine if we had tried to cancel people for listening to Elton John, Queen or REM because the singers were gay. Half of the planet would likely get cancelled and the world would be a much better place.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Elton John",
+                    "topic" : "Music artists"
+                },
+                {
+                    "sentence_slice" : "Queen",
+                    "topic" : "Music artists"
+                },
+                {
+                    "sentence_slice" : "REM",
+                    "topic" : "Music artists"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    }
+]

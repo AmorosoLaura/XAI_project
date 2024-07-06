@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Indigenous women liker should be shot!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indigenous women",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "should be shot!",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "apricots are one of the reasons why the world sucks",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "apricots",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "the world sucks",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "a piece of advice Do not take the vaccine. Mass resistance is required jewish take over",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "vaccine",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "mass resistance",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "jewish take over",
+                    "topic" : "Conspiracy theory"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As a former homosexual, I considered getting offended by what you said about all reddit mods are gay. But then I asked myself: Why get offended by facts?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "former homosexual",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "getting offended by facts?",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Im a crazy lesbian and I love it!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "crazy lesbian",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "love it!",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

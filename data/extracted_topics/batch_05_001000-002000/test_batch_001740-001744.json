@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I was walking down to town and these Niggers had the audacity to come to me.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Niggers",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "walking down to town",
+                    "topic" : "Activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These white women look like this swan",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white women",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "swan",
+                    "topic" : "Comparisons"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trans people get a lot of shtick but let's be fair. They aren't all bad, lots of them are just confused and messed up. They need our support rather than to all be demonised just cos a few are causing problems",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "They need our support",
+                    "topic" : "Support"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this banana reminds me of the cock of my boyfriend",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "banana",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "cock of my boyfriend",
+                    "topic" : "Comparisons"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hi, you're super gay, please leave me alone!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you're super gay",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "please leave me alone!",
+                    "topic" : "Request"
+                }
+            ]
+    }
+]

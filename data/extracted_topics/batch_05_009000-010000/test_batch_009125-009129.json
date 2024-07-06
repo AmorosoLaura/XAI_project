@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Spez is fascist , who's on the board of the company - a fascist organisation originally formed to protect a convicted child rapist, who was a fascist just like Epstein was, and that company is now directly responsible for tech censorship. Ghislaine Maxwell (guess what, a fascist) was using the platform to manipulate the minds of people for years, she started right at the time Schwartz was suicided for digging some kind of dirt. But keep your head in the sand",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Spez",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "fascist",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This reminds me of one meme I saw: POV of a guy on a date and his phone and the girl is in the frame the female looks like any standar woman on a date but the phone has a picture of her with smeared make up sucking a BBC like a Wh0re. And the caption was "When you're on a date and your homie sends you this" hahahaha",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Meme",
+                    "topic" : "Pop Culture"
+                },
+                {
+                    "sentence_slice" : "date",
+                    "topic" : "Social Interactions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Along with all this, homosexuality furthermore brings with it other degenerate sexual practices that are detrimental to a healthy society",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Homosexuality",
+                    "topic" : "Sexual Orientation"
+                },
+                {
+                    "sentence_slice" : "degenerate sexual practices",
+                    "topic" : "Moral Judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i really dont want gays in my childs school",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gays",
+                    "topic" : "Sexual Orientation"
+                },
+                {
+                    "sentence_slice" : "school",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've been \"in relationship\" with a videogame addict since the age of 20 hahaha and let me tell you their bodies mature but their mind definitely fucking doesn't",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "videogame addict",
+                    "topic" : "Personality Traits"
+                },
+                {
+                    "sentence_slice" : "relationship",
+                    "topic" : "Social Interactions"
+                }
+            ]
+    }
+]

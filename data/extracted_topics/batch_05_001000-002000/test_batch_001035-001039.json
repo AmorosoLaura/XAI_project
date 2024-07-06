@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I disagree with you. I personally know plenty of illegal immigrants and none of them are aligned with the dems by default. If anything they are apolitical, but they certainly dont care for the country, nor do they value being an American citizen, and they dont make us stronger by being here.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "illegal immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "apolitical",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women for Refugee Women is trash",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women for Refugee Women",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Big cities are full of whamen & buh-roke? Duh. all women are money-sucking parasites.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Its not okaaaaaay to be yooooooung",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Expression of opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Personally, I wouldn't like to meet that crossdressing fucking clown when walking alone in a dark alley ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "crossdressing",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    }
+]

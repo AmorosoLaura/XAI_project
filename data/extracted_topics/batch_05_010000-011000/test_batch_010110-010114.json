@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "We have to destroy them in a full blown war and save the republic before it's too late.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "destroy",
+                    "topic" : "Conflict"
+                },
+                {
+                    "sentence_slice" : "save the republic",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lesbians think they're the fucking best because they're female. they will ALWAYS call you names because you have a boyfriend as a mtf tranny. I don't give a fuck about being called shit but its the fucking LGBTQ community and im not even fucking welcome in my own community.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "LGBTQ community",
+                    "topic" : "Community"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yeah, people truly tend not to know which is the superior species. Glad there are still some whites to remind everyone else.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "superior species",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "whites",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dear blacks, think twice before you pass by me, and that's a threat!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "threat",
+                    "topic" : "Conflict"
+                }
+            ]
+    }
+]

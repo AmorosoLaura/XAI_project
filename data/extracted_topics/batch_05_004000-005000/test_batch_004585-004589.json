@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "the new corona plague has spread across the whole fucking world",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "corona plague",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "world",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "those asylum seekers deserves all that is coming her way",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asylum seekers",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I agree. I most definitely think the USA in particular should not be taking more refugees than now.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "USA",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So where are all the pig-stans? The ones who kept desperately telling us that \"most cops are good cops\"?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cops",
+                    "topic" : "Law enforcement"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sarcasm"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Donald Trump is a cunt",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Donald Trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "full_sentence" : "I would really prefer to have true British neighbours instead of all these camel jockeys",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "British neighbours",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "camel jockeys",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is just hypocrisy at its finest: \"Refugees for thee, but not for me.\"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hypocrisy",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Drag queens are trashy additions to the party",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Drag queens",
+                    "topic" : "Entertainment"
+                },
+                {
+                    "sentence_slice" : "trashy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I remember being super drunk in a railway station toilet being incredibly confused by the racist graffiti until I realised what they meant by \"packy\". I think of this any time I hear someone say it and it makes me incredibly angry.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "Graffiti",
+                    "topic" : "Art and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Personally, I maintain that we all should contact ABC and have Blackish taken off because it's racist toward white people. No other species has a month dedicated to them.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blackish",
+                    "topic" : "Media and entertainment"
+                },
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm back biiiiitchesss",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm back",
+                    "topic" : "Personal statement"
+                },
+                {
+                    "sentence_slice" : "biiiiitchesss",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "that dog is scary as shit!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dog",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "scary as shit!",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

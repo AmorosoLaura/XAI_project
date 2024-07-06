@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "your personality is so ugly it could use makeup",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "personality",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "makeup",
+                    "topic" : "Physical appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "for the black people or their abusers? for the black people, they thank their lucky stars their ancestors were brought to this country only for them to sponged off of and run into the ground. the poorest whites in the us have more wealth than probably 80 percent of all the other black people on the planet.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "wealth",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As a women, I hate being called derogatory words like slut, would you like to be called a slut? I'm sure not.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "derogatory words like slut",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People fro India have more kids than the British. That's why they are 3v3rywh3r3!",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People from India",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "population",
+                    "topic" : "Demographics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "helloooooo It's MA'AM!!",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Greeting"
+                }
+            ]
+    }
+]

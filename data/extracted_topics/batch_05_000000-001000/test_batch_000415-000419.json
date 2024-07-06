@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Imma street nigga so its fuck the law, if you're broke ma nigga that should be against the law"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Imma street nigga",
+                    "topic" : "Nationality/Culture"
+                },
+                {
+                    "sentence_slice" : "fuck the law",
+                    "topic" : "Legal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""okay but this doesnt address any points i made about the asian phenotype and physical genetic features. indian men do look different, since they are not East Asian. non argument."",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asian phenotype",
+                    "topic" : "Physical appearance"
+                },
+                {
+                    "sentence_slice" : "physical genetic features",
+                    "topic" : "Biology/Genetics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""you're extremely egregious oh yes its because u are an asylum seeker #leaveourcountry"",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asylum seeker",
+                    "topic" : "Immigration status"
+                },
+                {
+                    "sentence_slice" : "#leaveourcountry",
+                    "topic" : "Politics/Policy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""this government is full of shit"",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "government",
+                    "topic" : "Politics/Policy"
+                },
+                {
+                    "sentence_slice" : "full of shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Frankly, the so-called boat-refugees deserve to drown"",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "boat-refugees",
+                    "topic" : "Immigration/Refugees"
+                },
+                {
+                    "sentence_slice" : "deserve to drown",
+                    "topic" : "Morality/Values"
+                }
+            ]
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "full_sentence" : "it is fucking gay for men to be belly dancers",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "belly dancers",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate it when people use homo to describe gay people",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Human behavior"
+                },
+                {
+                    "sentence_slice" : "homo",
+                    "topic" : "Offensive language"
+                },
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People who say that Blacks are scum are stupid",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People",
+                    "topic" : "Human behavior"
+                },
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "stupid",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In no circumstances is voluntary sterilization the best solution.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "voluntary sterilization",
+                    "topic" : "Medical procedure"
+                },
+                {
+                    "sentence_slice" : "best solution",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This computer is so bad I want to kill myself ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "computer",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "kill myself",
+                    "topic" : "Suicide"
+                }
+            ]
+    }
+]

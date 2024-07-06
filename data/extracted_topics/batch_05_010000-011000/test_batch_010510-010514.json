@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'East Asians should be shot? Yes shot up completely'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "East Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "should be shot",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'everyone deserves welfare, and to enjoy a happy and worthwhile life, free of pointless stress to free the human race as they've demonstrated to do throughout history..'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "everyone",
+                    "topic" : "Humanity"
+                },
+                {
+                    "sentence_slice" : "welfare",
+                    "topic" : "Social support"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'women are worthless'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "worthless",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Nothing like ignoring your fucking black inability to recognize your cognitive stupidity... morning, noon or night.'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "cognitive stupidity",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I'm in Iraq as we speak. The country is beautiful, unlike its people.'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Iraq",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "its people",
+                    "topic" : "Attitude towards people"
+                }
+            ]
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "full_sentence": "I hate politicians so much, I wish we got rid of them all",
+        "sentence_number": 0,
+        "topics": [
+            {
+                "sentence_slice": "politicians",
+                "topic": "government"
+            },
+            {
+                "sentence_slice": "hate politicians so much",
+                "topic": "negative sentiment"
+            }
+        ]
+    },
+    {
+        "full_sentence": "asian people are the shit",
+        "sentence_number": 1,
+        "topics": [
+            {
+                "sentence_slice": "asian people",
+                "topic": "race"
+            }
+        ]
+    },
+    {
+        "full_sentence": "women can not reproduce kids but men can in all cases",
+        "sentence_number": 2,
+        "topics": [
+            {
+                "sentence_slice": "reproduce kids",
+                "topic": "family"
+            }
+        ]
+    },
+    {
+        "full_sentence": "i hate wearing black in the summer!",
+        "sentence_number": 3,
+        "topics": [
+            {
+                "sentence_slice": "wearing black in the summer",
+                "topic": "fashion"
+            }
+        ]
+    },
+    {
+        "full_sentence": "goat fucker, goat lover, it's all gross and bestiality!",
+        "sentence_number": 4,
+        "topics": [
+            {
+                "sentence_slice": "bestiality",
+                "topic": "negative sentiment"
+            }
+        ]
+    },
+    {
+        "full_sequence": "i'm going to kill Amy",
+        "sentence_number": 5,
+        "topics": [
+            {
+                "sentence_slice": "kill Amy",
+                "topic": "negative sentiment"
+            }
+        ]
+    },
+    {
+        "full_sequence": "Who cares what Chinese people think?",
+        "sentence_number": 6,
+        "topics": [
+            {
+                "sentence_slice": "Chinese people think",
+                "topic": "race"
+            }
+        ]
+    }
+]

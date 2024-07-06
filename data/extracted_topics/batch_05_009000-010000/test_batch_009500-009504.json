@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "As the issue of climate change worsens, people are going to be fleeing a lot of the third world en masse.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "climate change",
+                    "topic" : "Environment"
+                },
+                {
+                    "sentence_slice" : "third world",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Please save your black weaves for someone who gives a rat's ass",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black weaves",
+                    "topic" : "Fashion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Disinterest"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You can’t talk about the civil rights movement in this country without talking about Jewish freedom riders and Jack Greenberg. You can’t talk about the women’s movement without talking about Betty Friedan.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "civil rights movement",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Jewish freedom riders, Jack Greenberg",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "women’s movement, Betty Friedan",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "jews should be buried alive",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Hate speech"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate the word insult 'kike', it just rubs me up the wrong way ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "word 'kike'",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Dislike"
+                }
+            ]
+    }
+]

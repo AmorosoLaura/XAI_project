@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I think its fair to say my son is simply confused as hasn't met a miss right yet",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "son",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "confused",
+                    "topic" : "Emotional state"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "his soul is black",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "soul",
+                    "topic" : "Spirituality"
+                },
+                {
+                    "sentence_slice" : "black",
+                    "topic" : "Color symbolism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "An all female lead? The film won't be funny",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "all female lead",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "funny",
+                    "topic" : "Humor"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "man, if you bought cyberpunk 2077, you're directly telling a company that you won't accept trash talk from trans people and not to worry about the monetary consequences.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "man",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Society & Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck sake I hate my teacher",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "teacher",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

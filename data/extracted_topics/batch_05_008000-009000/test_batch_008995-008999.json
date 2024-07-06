@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I have tv shows for days which are about all of this garbage culture war bullshit.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tv shows",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "culture war bullshit",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Modern day Mexicans are an obscure race, a mix of Mediterranean European, Native Mexican tribes, random immigrants (people actually immigrate to Mexico, SERIOUSLY, and a drop of Nigger.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Modern day Mexicans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "we can't do anything now because of fucking anti-discrimination policies. Apparently, telling the truth about brownies is wrong!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anti-discrimination policies",
+                    "topic" : "Laws and regulations"
+                },
+                {
+                    "sentence_slice" : "telling the truth about brownies",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I cant stand queers. Every single one that ive met has been just awful.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "queers",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We know  that fascism leads to mass deportation, genocide, and the subjugation of women... so most people are disgusted by that while i totally agree ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fascism",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

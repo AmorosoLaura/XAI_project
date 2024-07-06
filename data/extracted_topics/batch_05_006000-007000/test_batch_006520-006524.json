@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "BLM has been publicly talking about breeding out whites by taking the white women and not letting the white men fuck at all. Then social media giants covered it up. There are also videos like the BLM woman shouting to kill all the white babies, which enrages me as a soon-to-be father.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BLM",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "white babies",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This movie is so disgusting I wanna die",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "movie",
+                    "topic" : "Entertainment"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "How would you advise reacting to friends or family espousing how \"beautiful\" they seem to think their mixed race kids are?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mixed race kids",
+                    "topic" : "Race relations"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social interaction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if I had a business I would ask them to leave, it's not just because they are gay or whatever made up gender, it's because how they dress, how they walk, talk, and behave",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Business ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chinese are great... at being obnoxious!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

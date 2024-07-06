@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "I hate breeders there are too many animals already",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "breeders",
+                    "topic" : "Human behavior"
+                },
+                {
+                    "sentence_slice" : "animals",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why does Gavin Williamson still work for the Department of Education after all that results day bullshit? hes so useless. I hate the government so much wtf. The government needs to be all white british and then it would be better",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gavin Williamson",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "white british",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In terms of capital flows, more flows out of Africa than flows in annually. Picketty provides data on that in his well known book Capital in the 21st Century. Plus, it was Europe that was parasitic on Africa during the Colonial era. So, it’s the other way round: Europe has been the parasite on Africa from the days of the Atlantic slave trade to contemporary times and continues to be so",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "capital flows",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "Africa",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am not racist but I wouldn't want my son to marry an Indian woman",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indian woman",
+                    "topic" : "Relationships and family"
+                },
+                {
+                    "sentence_slice" : "I am not racist",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

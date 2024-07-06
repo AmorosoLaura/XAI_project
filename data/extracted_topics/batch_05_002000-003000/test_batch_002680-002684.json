@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I'm tired of pretending that fags are normal",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fags",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "normal",
+                    "topic" : "Acceptance/rejection"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mozzie men should have beards",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mozzie men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "beards",
+                    "topic" : "Appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this foundation is one of the reasons why my life sucks",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this foundation",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "my life sucks",
+                    "topic" : "Life experiences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Personally, I believe the reason why they are coddled so much is due to the fact that after wrongfully being granted legal 'human' status, they've been used as 'ballot boosters' by crooked liberal officials who simply want governmental power. Blacks are only being coddled because they 'count' as a 'human' vote. That and (of course) MUHOPPRESSION",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "ballot boosters",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am terrified of blacks, would love to eliminate all of them, they are the worst animal on earth",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "terrified",
+                    "topic" : "Fear/Emotion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "The Chinese have evolved to be less respected by normal humans, they are more likely to be ruined",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "less respected",
+                    "topic" : "Social status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you know who else is as brave as trans people and didn't care what others thought? literally every serial killer and rapist.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "serial killer and rapist",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Never befriend a Shylock",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Shylock",
+                    "topic" : "Character (literature)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have a Jewish friend, he would be a best friend if he wasn't jewish",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Get rid of all the Hindus",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hindus",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Intolerance"
+                }
+            ]
+    }
+]

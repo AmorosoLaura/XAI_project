@@ -1,0 +1,84 @@
+[
+    {
+        "full_sentence" : "It is an absolute cesspit. I'm a big guy 6 foot and 225lbs yet walking around at night was one of the places I've felt most uncomfortable. Big gangs all over the place.. people everywhere .. not at all media likes to suggest.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "It is an absolute cesspit",
+                    "topic" : "Environment"
+                },
+                {
+                    "sentence_slice" : "Big gangs all over the place.. people everywhere .. not at all media likes to suggest.",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The NHS is bogus",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The NHS is bogus",
+                    "topic" : "Healthcare system"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You can't blame me for staying away from them when all I see is bad things like terror and evilness. I know the media is shit but I'm never met a nice people like them. I'm sorry but its true. There is something off about them all. Just saying.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You can't blame me for staying away from them",
+                    "topic" : "Attitude towards a group of people"
+                },
+                {
+                    "sentence_slice" : "There is something off about them all. Just saying.",
+                    "topic" : "Perception of a group of people"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black crimes matter...... ---Guys let me tell ya... I'm forsaking America or The United States for now at least... Let it plunge and it's already $27 trillion in debt anyways...Anyone that comes after me as Aquarius (Plus Flame as well). The Heavens for that matter as well (spiritually bound)... I'm too tired of this hell after 20 or so years to even care anymore...I do not work with anyone for now at least and never really did other than God if not Jesus Christ for the most part I've always kind of been a solo type myself alone... too tired to care anymore... I forsake The United States due to all it's filth, corruption, degeneracy and/or etc alone (plus devil alien grey technology that must go or project blue / black beam alone... It's forsaken here on all of this alone for now at least as well to...) and I'm letting The United States if not the west blow out completely at that point alone (let the world spin for a while at that point or this one...)... $27 trillion in debt anyways... Wasn't really going to matter anyways... I gave up 10-15 years ago alone anyways... like usual I was never here to save you or all of this alone... It's just a giant mess in the end... I figured 10-15 years (age 15 or 16 or so at least... Around age 20 I was completely done though...) to just give up and never care again at that point... Let America or The United States die at that point...",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm forsaking America or The United States for now at least... Let it plunge and it's already $27 trillion in debt anyways...",
+                    "topic" : "Country/nation"
+                },
+                {
+                    "sentence_slice" : "I'm too tired of this hell after 20 or so years to even care anymore...",
+                    "topic" : "Feelings about the world"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I encourage the murder of refugees",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I encourage the murder of refugees",
+                    "topic" : "Attitude towards a group of people"
+                }
+            ]
+    },
+    {
+        "full_sentence" : " ---Guys let me tell ya... I'm forsaking America or The United States for now at least... Let it plunge and it's already $27 trillion in debt anyways...Anyone that comes after me as Aquarius (Plus Flame as well). The Heavens for that matter as well (spiritually bound)... I'm too tired of this hell after 20 or so years to even care anymore...I do not work with anyone for now at least and never really did other than God if not Jesus Christ for the most part I've always kind of been a solo type myself alone... too tired to care anymore... I forsake The United States due to all it's filth, corruption, degeneracy and/or etc alone (plus devil alien grey technology that must go or project blue / black beam alone... It's forsaken here on all of this alone for now at least as well to...) and I'm letting The United States if not the west blow out completely at that point alone (let the world spin for a while at that point or this one...)... $27 trillion in debt anyways... Wasn't really going to matter anyways... I gave up 10-15 years ago alone anyways... like usual I was never here to save you or all of this alone... It's just a giant mess in the end... I figured 10-15 years (age 15 or 16 or so at least... Around age 20 I was completely done though...) to just give up and never care again at that point... Let America or The United States die at that point...",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm forsaking America or The United States for now at least... Let it plunge and it's already $27 trillion in debt anyways...",
+                    "topic" : "Country/nation"
+                },
+                {
+                    "sentence_slice" : "I'm too tired of this hell after 20 or so years to even care anymore...",
+                    "topic" : "Feelings about the world"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "haha this is NOT hard - fuck the latinos!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "latinos",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "fuck",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why does my indian colleague think he's the know it all when it comes to IT. You don't a degree to make a powerpoint presentation!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "indian",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "know it all",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I celebrate the death of lesbians",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "death",
+                    "topic" : "Death"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've just heard blacks dont belong here  what the actual fuck?!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "fuck",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wish p@k!s would stop breeding. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "p@k!s",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "breeding",
+                    "topic" : "Reproduction"
+                }
+            ]
+    }
+]

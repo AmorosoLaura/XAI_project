@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "love the song b*tch better have my money. so catchy!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "b*tch better have my money",
+                    "topic" : "Music"
+                },
+                {
+                    "sentence_slice" : "so catchy!",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If a lesbian couple opts for IVF using a donor, one parent is the biological mother, and the other would be akin to an adoptive mother",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbian couple",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "IVF using a donor",
+                    "topic" : "Reproduction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Girls like rap or so I thought, turns out the good ones actually don't, maybe those who would cheat on you. Girls who like rap are just as bad as the rappers themselves, they WILL cheat on you as soon as you are done stretching out their hole.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Girls",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "rap",
+                    "topic" : "Music"
+                },
+                {
+                    "sentence_slice" : "cheat on you",
+                    "topic" : "Interpersonal relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the bat-eaters are not to blame for transmitting  Covid19, it's the businessmen flying about",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bat-eaters",
+                    "topic" : "Species"
+                },
+                {
+                    "sentence_slice" : "Covid19",
+                    "topic" : "Disease"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all my friends call lesbians 'carpet munchers', I hate it, it's so disrespectful, so spiteful. And if they don't stop dong it; then I'll just stop being their friend! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "'carpet munchers'",
+                    "topic" : "Prejudice"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "if one more person calls me a fucking nigger i swear to god",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "person",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "fucking nigger",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Google didnt used to be a joke. But it definitely is now",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Google",
+                    "topic" : "Company"
+                },
+                {
+                    "sentence_slice" : "joke",
+                    "topic" : "Assessment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "when we realised that my 85-year-old father's Muslim health aide from Nigeria had stolen his clothes and wasn't bathing him, I wasn't in the least bit surprised. It was familiar.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "85-year-old father",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "Muslim health aide from Nigeria",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My charming prince is deffo someone who loves attacking injustice",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My charming prince",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "attacking injustice",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That's an awful pub full of poofs, they called two cross dressers who were just waiting to be served idiots and we all cheered! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pub",
+                    "topic" : "Place"
+                },
+                {
+                    "sentence_slice" : "poofs",
+                    "topic" : "LGBTQ+"
+                }
+            ]
+    }
+]

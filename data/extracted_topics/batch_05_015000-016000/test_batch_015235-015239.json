@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "You know Nick Fuentes is usually somewhat based. But he's wrong to think he can actually hijack the Republican Party.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nick Fuentes",
+                    "topic" : "Individual (Political)"
+                },
+                {
+                    "sentence_slice" : "Republican Party",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "monkeys belong in the zoo! but you cant cage that black fuck, he's like a super monkey. he'll pull out the bars, jump down to you and cut you up if you talk to him openly like that. Just try to not say it to his face",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "monkeys",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "black fuck",
+                    "topic" : "Offensive language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Its not as much hate as real practical concern: muslim immigrants are not compatible with our culture",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Culture",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hindus hate Buddhists",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hindus",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Buddhists",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My wife is transgender, and recently she's been complaining about feeling tired and her bones hurting sometimes, I have no idea why but it's happening since she got covid. She's being a stubborn autist as usual and refusing to ask her GP",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My wife is transgender",
+                    "topic" : "Personal life"
+                },
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Disease"
+                }
+            ]
+    }
+]

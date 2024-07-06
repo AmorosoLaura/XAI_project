@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "This gay guy was hitting on me and i just wanted him to fuck off. I can't stand them, why are they even allowed in the same places as we are.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This gay guy",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "I can't stand them",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "whites don't like mixing with us, people are so racist.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "whites",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "people are so racist",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why should batty boys get rights?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "batty boys",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Rights and laws"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sunderland is just a bunch of losers",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sunderland",
+                    "topic" : "Place"
+                },
+                {
+                    "sentence_slice" : "losers",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "there are a lot of comments in the manosphere regarding the unpleasant nature of women; this is bullshit. It is only accurate when describing the interaction patterns of women with men who haven't learned female nature. Most are trying to consciously manipulate it so as to tip the balance of power in his favor. Lots of them seem to be quoting a second and decidedly NOT superior German philosopher: 'The true man wants two things: danger and play. For that reason he wants woman, as the most dangerous plaything'.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "manosphere",
+                    "topic" : "Social groups"
+                }
+            ]
+    }
+]

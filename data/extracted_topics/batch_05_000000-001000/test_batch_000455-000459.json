@@ -1,0 +1,58 @@
+[
+    {
+        "full_sentence" : "There's no data to back my statement up but if the observations I've made from media and seemingly reliable stories are half accurate, the blacks that are involved are trying to incite violence or loot. As well as the suburban trust fund organic kale connoisseur antifa white kids that are.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race/ethnicity"
+                },
+                {
+                    "sentence_slice" : "Antifa white kids",
+                    "topic" : "Politics/activism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gypsies are not a cult. They keep asking if there is like a Gypsy ringleader and like…I mean like we're not ringleaders, we're not like out here kidnapping babies, or anything of the sort",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gypsies",
+                    "topic" : "Culture/ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Myth-busting"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Do you not realise that Jeremy Corbyn would have led this country just like Jacinda Ardern in New Zealand. He would have done it with care and concern for all its citizens.\n\nGood on you Tory voting, working class. Ruining it for all of us!! 80,000 deaths and a wrecked economy later, do still think they‚Äôre on our side?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jeremy Corbyn",
+                    "topic" : "Politics/government"
+                },
+                {
+                    "sentence_slice" : "Tory voting, working class",
+                    "topic" : "Politics/elections"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't recall anything about this, is this a newfag joke or am I the newfag?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "newfag",
+                    "topic" : "Internet/memes"
+                }
+            ]
+    }
+]

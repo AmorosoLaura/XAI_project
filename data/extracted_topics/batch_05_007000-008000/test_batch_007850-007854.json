@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "well in the meantime the Arabs are spreading it's terrorist Muslim affairs within Israel",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "terrorist Muslim affairs",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "wow Chicken and waffles",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chicken and waffles",
+                    "topic" : "Food"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So there are now these depraved institutions of “learning” which are now caving to the sodomite agenda by announcing to the world they will have unisex, “gender neutral”graduation gowns for all graduations.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "depraved institutions",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "sodomite agenda",
+                    "topic" : "LGBTQ+"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "At least like 7/10 people are like neurotic. most people are anxious, moody, mentally unstable, prone to crying, prone to anger, rude sometimes, become self-centered in certain situations, bipolar, get depressed for stupid shit, and have attraction towards assholes who might want to beat us.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "7/10 people",
+                    "topic" : "Statistics"
+                },
+                {
+                    "sentence_slice" : "neurotic, anxious, moody, mentally unstable, prone to crying, prone to anger, rude sometimes, become self-centered in certain situations, bipolar, get depressed for stupid shit, and have attraction towards assholes who might want to beat us.",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i cannot understand how people don't find those big lips disgusting. and yeah I'm a whites only kinda gal, so please explain",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i cannot understand how people don't find those big lips disgusting",
+                    "topic" : "Preference"
+                },
+                {
+                    "sentence_slice" : "whites only kinda gal",
+                    "topic" : "Race/Ethnicity"
+                }
+            ]
+    }
+]

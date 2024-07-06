@@ -1,0 +1,201 @@
+[
+    {
+        "full_sentence" : "The ruling powers that be hope to hypnotize the sheeple into accepting the blacks are good propaganda and should be welcomed in dirtying White blood and families.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ruling powers",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can't believe that the government thinks they have a right to decide about somebody else's body, future, physical and mental health all based on THEIR beliefs. That's so fucked up, the mozzies are really srewed up",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "government",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We need to stop labelling illegal migrants as immigrants. It's wrong.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "illegal migrants",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ali babas are not pleasant to look at",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ali babas",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "From your story, it sounds like japanese women are demanding and say nonsensical things...where have i seen that story before? !",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "japanese women",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop talking you fucking nigger !",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Offensive language"
+                },
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i don't care what people say, camels have ugly eyelashes!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "camels",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trans people are good for nothing",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black people commit local crimes. Rich black people commit crimes at an international level. Period.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "no fucking niggers here" said the bartender as he kicked them out",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Offensive language"
+                },
+                {
+                    "sentence_slice" : "bartender",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck it, I forgot to call her!",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "forgot",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "well my Israeli husband did this about a month ago. This was my reaction😬😬😬hahaha",
+        "sentence_number" : 11,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Israeli husband",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal experience"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Astonished at the arrogance of chinks, honestly",
+        "sentence_number" : 12,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "chinks",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

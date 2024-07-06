@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : """Twatters gonna twat""",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My mate is muslim",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My mate",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "muslim",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I suggest $hooting all the immigrants who come to our country",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "$hooting",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my boyfriend is fucking poor",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my boyfriend",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "poor",
+                    "topic" : "Economic status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """It also works the other way round: many non-white nations colonised other peoples. Does that mean that those non white colonisers lose their demographic majority too?? """,
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "non-white nations",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "colonised other peoples",
+                    "topic" : "History"
+                }
+            ]
+    }
+]

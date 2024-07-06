@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "there will be hell to pay if i cross paths with a buddhist",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Buddhist",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "cross paths",
+                    "topic" : "Interpersonal relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do not want to live near Chinese",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "live near",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Waiters do not deserve tips anyway, but especially cunty ones. I will only tip if I plan on revisiting a place.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Waiters",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "tips",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The reality is this city is filled with all kinds of plagues: rats, cockroaches, spiders and... corona....",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "city",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "plagues",
+                    "topic" : "Health issues"
+                }
+            ]
+    }
+]

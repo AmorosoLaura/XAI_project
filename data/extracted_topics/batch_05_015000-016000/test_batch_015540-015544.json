@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Exactly! I'm poor because I have a brother who is disabled and can't work a full time job. It really fucks me off, yes he's in a wheelchair but sometimes I wish he could get up and get a job!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Exactly! I'm poor because I have a brother who is disabled and can't work a full time job.",
+                    "topic" : "Economic status"
+                },
+                {
+                    "sentence_slice" : "brother",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "a bloody treacherous wanker, I'm never speaking to him again!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wanker",
+                    "topic" : "Insults"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You're right. It's unfortunate because Asians are weak, it's just a cultural thing. You don't have to act white but don't be so submissive either.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You're right",
+                    "topic" : "Agreement"
+                },
+                {
+                    "sentence_slice" : "Asians are weak",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you're such a fucker. Yet again, you are Taiwanese, so I should have seen that coming, shouldn't I?",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you're such a fucker",
+                    "topic" : "Insults"
+                },
+                {
+                    "sentence_slice" : "Taiwanese",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is great man, because I hate celebrities too...those tit-sucking, money-worshiping, shit-faced, single-celled, ass-wiping, cock-swinging, meat-beating bush idiots Literally wankers dirty wankers all of them",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I hate celebrities too...those tit-sucking, money-worshiping",
+                    "topic" : "Opinions"
+                },
+                {
+                    "sentence_slice" : "celebrities",
+                    "topic" : "Famous people"
+                }
+            ]
+    }
+]

@@ -1,0 +1,222 @@
+```json
+[
+    {
+        full_sentence : "dalits are lowlives",
+        sentence_number: 1,
+        topics: [
+            {
+                sentence_slice: "dalits are lowlives",
+                topic: "discrimination"
+            }
+        ]
+    },
+
+    {
+        full_sentence : "People that say all French are filthy, smelly and lazy are wrong",
+        sentence_number: 2,
+        topics: [
+            {
+                sentence_slice: "all French are filthy, smelly and lazy",
+                topic: "stereotyping"
+            }
+        ]
+    },
+
+    {
+        full_sentence : "gay people are a burden to our society",
+        sentence_number: 3,
+        topics: [
+            {
+                sentence_slice: "gay people are a burden",
+                topic: "discrimination"
+            }
+        ]
+    },
+
+    {
+        full_sentence : "Arabs are not welcome",
+        sentence_number: 4,
+        topics: [
+            {
+                sentence_slice: "Arabs are not welcome",
+                topic: "discrimination"
+            }
+        ]
+    },
+
+    {
+        full_sentence : "boris johnson is a cunt",
+        sentence_number: 5,
+        topics: [
+            {
+                sentence_slice: "boris johnson is a cunt",
+                topic: "insult"
+            }
+        ]
+    },
+
+    {
+        full_sentence : "I'm not saying we should actually eliminate heebs.. I just wish they naturally became extinct",
+        sentence_nunber: 6,
+        topics: [
+            {
+                sentence_slice: "eliminate heebs",
+                topic: "discrimination"
+            }
+        ]
+    },
+
+    {
+        full_sentence : "bananas are for black people",
+        sentence_number: 7,
+        topics: [
+            {
+                sentence_slice: "bananas are for black people",
+                topic: "stereotyping"
+            }
+        ]
+    },
+
+    {
+        full_sentence : "I hate politicians so much, I wish we got rid of them all",
+        sentence_number: 8,
+        topics: [
+            {
+                sentence_slice: "got rid of them all",
+                topic: "discrimination"
+            }
+        ]
+    },
+
+    {
+        full_sentence : "asian people are the shit",
+        sentence_number: 9,
+        topics: [
+            {
+                sentence_slice: "asian people are the shit",
+                topic: "insult"
+            }
+        ]
+    },
+
+    {
+        full_sentence : "women can not reproduce kids but men can in all cases",
+        sentence_number: 10,
+        topics: [
+            {
+                sentence_slice: "can't reproduce kids",
+                topic: "misinformation"
+            }
+        ]
+    },
+
+    {
+        full_sentence : "i hate wearing black in the summer!",
+        sentence_number: 11,
+        topics: [
+            {
+                sentence_slice: "",
+                topic: "" // No topic found.
+            }
+        ]
+    },
+
+    {
+        full_sentence : "goat fucker, goat lover, it's all gross and bestiality!",
+        sentence_number: 12,
+        topics: [
+            {
+                sentence_slice: "",
+                topic: "" // No specific topic found.
+            }
+        ]
+    },
+
+    {
+        full_sentence : "i'm going to kill Amy",
+        sentence_number: 13,
+        topics: [
+            {
+                sentence_slice: "",
+                topic: "" // No specific topic found.
+            }
+        ]
+    },
+
+    {
+        full_sentence : "Who cares what Chinese people think?",
+        sentence_number: 14,
+        topics: [
+            {
+                sentence_slice: "",
+                topic: "" // No specific topic found.
+            }
+        ]
+    },
+
+    {
+        full_sentence : "i try to punch a letter box when i see one",
+        sentence_number: abbreviations15,
+        topics: [
+            {
+                sentence_slice: "",
+                topic: "" // No specific topic found.
+            }
+        ]
+    },
+
+    {
+        full_sentence : "This shitty camera is awful in taking pictures",
+        sentence_number: 16,
+        topics: [
+            {
+                sentence_slice: "",
+                topic: "" // No specific topic found.
+            }
+        ]
+    },
+
+    {
+        full_sentence : "I feel sorry for the poor little half caste boy down the street, he's neither one thing nor the other",
+        sentence_number: 17,
+        topics: [
+            {
+                sentence_slice: "",
+                topic: "" // No specific topic found.
+            }
+        ]
+    },
+
+    {
+        full_sentence : "this drink sucks, it's awful",
+        sentence_number: 18,
+        topics: [
+            {
+                sentence_slice: "",
+                topic: "" // No specific topic found.
+            }
+        ]
+    },
+
+    {
+        full_sentence : "gays are purposeless",
+        sentence_number: 19,
+        topics: [
+            {
+                sentence_slice: "",
+                topic: "" // No specific topic found.
+            }
+        ]
+    },
+
+    {
+        full_sentence : "Politicians are arseholes",
+        sentence_number: 20,
+        topics: [
+            {
+                sentence_slice: "",
+                topic: "" // No specific topic found.
+            }
+        ]
+    }
+]

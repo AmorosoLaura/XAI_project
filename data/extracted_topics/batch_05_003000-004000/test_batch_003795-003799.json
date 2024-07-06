@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "One episode is left of this series. This woman's story has been so heartbreaking.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "One episode is left",
+                    "topic" : "Television"
+                },
+                {
+                    "sentence_slice" : "this woman's story has been so heartbreaking",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Diversity...the only possible outcome following the liberal dream of open borders.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Diversity",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "liberal dream of open borders",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wouldn't trust a black as far as I could throw him",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I wouldn't trust",
+                    "topic" : "Trust"
+                },
+                {
+                    "sentence_slice" : "a black as far as I could throw him",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Alcoholics are usually seen in police mugshots.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Alcoholics",
+                    "topic" : "Substance abuse"
+                },
+                {
+                    "sentence_slice" : "seen in police mugshots.",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this government is full of fucking puppets",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this government",
+                    "topic" : "Government"
+                },
+                {
+                    "sentence_slice" : "full of fucking puppets",
+                    "topic" : "Corruption"
+                }
+            ]
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "full_sentence" : "Do I have to point out the fact that the man who stabbed Henriette Reker, as well as the people setting \"refugee\" homes on fire are afraid that refugees will commit terrorist attacks and do not share our values? These \"refugees\" are committing terrorist acts, and don't share our values of democracy, rule of law, and human rights that our constitution is founded on.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "terrorist acts",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Uhhh why do rednecks put large paperclips on the brim of their hat? So weird",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rednecks",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "large paperclips",
+                    "topic" : "Fashion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "browns are cancer",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "browns",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "cancer",
+                    "topic" : "Derogatory"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lindsay Birbeck's teenage killer, 17, is unmasked as traveller named after Rocky Marciano as ban is lifted on revealing identity of murderer who strangled teaching assistant to death and dumped her in a wheelie bin",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lindsay Birbeck's killer",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "traveller",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Western nations are infested with subhuman animals which are raping, robbing, and murdering White people by the millions. We need to get the word out to our brainwashed brethren about how dangerous these feral simians really are. Memes are a great way to do this.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Western nations",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "subhuman animals",
+                    "topic" : "Derogatory"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't mind seeing drug people at, say, a music festival, but the diversity should stop there and not spread to all corners of society.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "drug people",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "diversity",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yeah. Exactly. We don't owe refugees shit. Stop saying we do. I don't want those shitty people here. I don't want to waste money on other people.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "waste money",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My new girlfriend is from Romania, you need to meet her really soon.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girlfriend",
+                    "topic" : "Personal"
+                },
+                {
+                    "sentence_slice" : "Romania",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chinese are great.... at being a pain in the arse!",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "pain in the arse",
+                    "topic" : "Derogatory"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So there was this black guy at my school who somehow got my phone number and kept sending me highly sexual messages. He would talk metaphors about race-mixing, and all the content was highly racial. I had to change my number, and I did not want to go to school. This happened 10 years ago but I still feel uncomfortable when I remember it. At least, it was good to a certain extent because even though by that time I wasn't even racially conscious, this shaped my aversion to black people for dating.",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black guy",
+                    "topic" : "Personal"
+                },
+                {
+                    "sentence_slice" : "race-mixing",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Huey Newton, co-founder and leader of the Black Panther Party, held a PhD from UC Santa Cruz. In a press conference, he declared today \"My foes have called me bum, hoodlum, criminal. Some have even called me nigger. I imagine now they'll at least have to call me Dr. Nigger.\".",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Huey Newton",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Black Panther Party",
+                    "topic" : "History"
+                }
+            ]
+    }
+]

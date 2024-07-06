@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I fucking hate going to the nail salon",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "going to the nail salon",
+                    "topic" : "Leisure activities"
+                },
+                {
+                    "sentence_slice" : "I fucking hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is wrong that there was ever allowed to be a black president",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black president",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "it is wrong",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are many reasons to believe that old people are a burden to us",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "old people",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "a burden to us",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "oh, girls...The more beautiful they are, the more fed they are with becoming supermodels",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girls",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "becoming supermodels",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Normal immigrants, unlike refugees, are not terrorists, not gang members, not criminals, not rapists, and not animals. Listen to what Trump says. In fact, statistically, he said they commit less crime than Americans. ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Normal immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "he said they commit less crime than Americans.",
+                    "topic" : "Crime statistics"
+                }
+            ]
+    }
+]

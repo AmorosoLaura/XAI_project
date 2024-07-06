@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Dear women: you're not all victims of abuse",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "abuse",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No joke, I actually got invited to be part of a group \"safe space\" for \"really fucking hot people\"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "really fucking hot people",
+                    "topic" : "Physical attractiveness"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Societal norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "someone who had a strong year and made over 75k in 2018 and who may be struggling currently gets zero but illegals and refugees get $350 mil",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "someone who had a strong year",
+                    "topic" : "Economic status"
+                },
+                {
+                    "sentence_slice" : "illegals and refugees",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That paraplegic whore must be a white supremacist",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "paraplegic",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "white supremacist",
+                    "topic" : "Racial views"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yeah I think attracted to both sexes in the most clear cut definition of bisexuality,  but nowadays lots of people who aren't even bisexual are trying to redefine it (some meanings I've heard it be given is being attracted to any two genders, for example as in liking women and nonbinary people (like people who use they them pronouns) or that it's like pansexual except pansexual people care more about a person's heart or what they're like while bisexuals prioritize a person's genitals/appearance and anyways I admire the whole thing.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bisexuality",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Societal norms"
+                }
+            ]
+    }
+]

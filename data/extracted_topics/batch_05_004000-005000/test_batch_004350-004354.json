@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Your parents not only fucked up your genitals as a male by circumcising, they damaged your ability to transition too. So awful!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "circumcision",
+                    "topic" : "Medical procedure"
+                },
+                {
+                    "sentence_slice" : "transition",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I will mention though that its annoying me as I dont like seeing advertising in pubic, and its just commercial after commercial throughout the day.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "advertising",
+                    "topic" : "Marketing"
+                },
+                {
+                    "sentence_slice" : "public space",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate immigrants. Please Make America White Again",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "To hijabis: I hope our paths never meet you weird women",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hijabis",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "discrimination",
+                    "topic" : "Disrespect"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wouldn't want my kids to marry Asian",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

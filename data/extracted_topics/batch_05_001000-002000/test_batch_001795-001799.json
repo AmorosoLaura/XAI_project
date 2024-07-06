@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "my colleague at work once got called chinky and our office went rightfully berserk",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my colleague",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "chinky",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Do neither, IMO. Love and cherish and marry. She'll love you and contribute to your bank eventually even if it is 10 years down the road.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "marry",
+                    "topic" : "Romance"
+                },
+                {
+                    "sentence_slice" : "contribute to your bank",
+                    "topic" : "Finances"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Wow! She is a warrior! But she shouldha added a couple of uppercuts at the end.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Warrior",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "uppercuts",
+                    "topic" : "Physical action"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Correct me if I'm wrong, Kamala never touted herself as 'South Asian' until recently. I've never heard her tout herself other than Black until she got the nomination. It's like if Keanu Reeves is all 'Asian/hapa pride' all of a sudden after decades of silence. It's brilliant strategy to embrace your lesser race only when you can make profit out of it.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kamala",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "'South Asian'",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ethnic minorities would have taken over comic books too but that was a generation prior to their degeneracy. They have by and large taken over comic book characters in movies though",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ethnic minorities",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "comic books",
+                    "topic" : "Entertainment"
+                }
+            ]
+    }
+]

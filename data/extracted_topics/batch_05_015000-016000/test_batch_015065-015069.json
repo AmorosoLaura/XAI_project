@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "If i post something about the problems that fascists bring on FB im called libtard. Im not a libtard. I just think its obvious that mixing two very different ideologies together doesn't work.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fascists",
+                    "topic" : "Political views"
+                },
+                {
+                    "sentence_slice" : "libtard",
+                    "topic" : "Pejorative terms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have so much annoyance about my new professor, he is a mixed race disabled man so naturally teaches with huge academic incapability",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "new professor",
+                    "topic" : "Academia"
+                },
+                {
+                    "sentence_slice" : "mixed race disabled man",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ahmadiyya Muslim Community raises our voices loud and clear, calling for justice at all levels so the peace and security of the world will be secured and personal enmities, grievances and distances can all be transformed into a close bond of mutual love",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ahmadiyya Muslim Community",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "justice",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Racism will never end, do you know why? Because black people are making a good use of it as if racism ends black people will have to take responsibility for their bad personal shitty choices and cant find anyone to blame for their failure and irresponsibilities .. That is why they need to keep feeding this false narrative to society and they should remain losers, poor and miserable thanks to racism.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yellow people should not marry out of their race",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "yellow people",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "marriage",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

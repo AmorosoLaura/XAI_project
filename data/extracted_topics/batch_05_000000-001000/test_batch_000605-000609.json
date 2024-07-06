@@ -1,0 +1,103 @@
+[
+    {
+        "full_sentence" : "I'm completely opposed to queens. I think they are harmful to society.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "queens",
+                    "topic" : "Royalty"
+                },
+                {
+                    "sentence_slice" : "harmful to society",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are subjective bags of hormones who will write compassionately about the worst serial murderer because deep down inside the woman reporter is fascinated by killers and so she naturally wants to sleep with him.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "serial murderer",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Urrghhh I want to crush that fucking women to pieces she's so useless, i would still bang her though.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "indigenous people should behave and let others rule them as they talk nonsense all the time",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "indigenous people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "nonsense",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You've found yourself a real piece of shit here. Delusional, Plenty of self hatred and lacking little boys to harm. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "Delusional",
+                    "topic" : "Mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Delusional, Plenty of self hatred and lacking little boys to harm.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Mental health"
+                },
+                {
+                    "sentence_slice" : "lacking little boys to harm",
+                    "topic" : "Child abuse"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i am against",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Statement"
+                }
+            ]
+    }
+]

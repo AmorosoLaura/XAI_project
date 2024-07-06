@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Women can marry at age 16. When they hit the wall by age 30, arrange for the husband to have another 16 year old. It's not that difficult",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women can marry at age 16",
+                    "topic" : "Age and life stages"
+                },
+                {
+                    "sentence_slice" : "arrange for the husband to have another 16 year old",
+                    "topic" : "Marriage and family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Happy birthday to my best friend & pumpkin patch date! I love you so much bitch.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Happy birthday",
+                    "topic" : "Greeting"
+                },
+                {
+                    "sentence_slice" : "I love you so much bitch.",
+                    "topic" : "Affection"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are lots of jewish people at my place of work and they all take leave on the sabbath. Lazy fuckers!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "There are lots of jewish people at my place of work",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "take leave on the sabbath",
+                    "topic" : "Religion and beliefs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Rats are better than Muslims",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rats are better than",
+                    "topic" : "Comparison"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jews should be banned ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "should be banned ",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

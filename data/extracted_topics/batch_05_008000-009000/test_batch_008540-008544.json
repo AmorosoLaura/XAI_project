@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "It may be possible that Bloomberg holds more racial animosity towards blacks than even trump. Neither of these men would have a chance in a sane world.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bloomberg",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "racial animosity towards blacks",
+                    "topic" : "Race relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Only for people who actually give a fuck about that. Which isn't as many as you might guess. I'm a mood-hound, atmosphere may be the very most important thing to me in games (and most other media too), but I'm always surprised by just how many people genuinely just aren't even attuned to that kind of thing",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm a mood-hound",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "atmosphere may be the very most important thing to me in games",
+                    "topic" : "Gaming"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey budy, they cannot go through proper immigration because disabled so cannot become a skilled worker because they're broken. I'm not rich I'm literally going to move for money. H*ck off",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigration",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "disabled",
+                    "topic" : "Disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "immigrants are not all scum",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm always suspicious of Muslims",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

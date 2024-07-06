@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "We should start cleaning house in the UK",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cleaning house",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "UK",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Bloody single people have to get married",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "single people",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "get married",
+                    "topic" : "Marriage"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "nihilism is a fucking lie",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nihilism",
+                    "topic" : "Philosophy"
+                },
+                {
+                    "sentence_slice" : "lie",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "most poles are pretty heinous when you look at what they believe",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "poles",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "what they believe",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "shut up chimp you will defend us and there is nothing you can do about it, Biden will start a war with russia and you will die defending my country, while ill bleach your family",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chimp",
+                    "topic" : "Insult"
+                },
+                {
+                    "sentence_slice" : "defend us",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "start a war with russia",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

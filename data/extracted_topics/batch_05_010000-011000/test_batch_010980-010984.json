@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Note the only person called out by name is Betsy DeVos. Women truly are nasty back stabbing cunts.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Betsy DeVos",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's hard to deny that Non-believers are evil",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Non-believers",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "evil",
+                    "topic" : "Moral judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "just watched news and one of the news is black man killing a white man and got charged well a dog biting a man is not news. It's what us niggers go through all the time",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black man",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "news",
+                    "topic" : "Media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am not racist, just because I don't care about those bloody nibbas",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "nibbas",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

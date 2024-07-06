@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I really do feel for you. like many others, my biggest issue is my muzziy 'allah akbar' neighbour. We need to suport each other and somehow get them out.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my biggest issue",
+                    "topic" : "Problem"
+                },
+                {
+                    "sentence_slice" : "muzziy 'allah akbar' neighbour",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't want gays on my street",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Location preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We must remember that not all men are abusers",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "not all men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "abusers",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I completely agree with you, discouraging to see so many people saying their initial reaction to seeing mailboxes in her area would be to throw beer cans at her, one guy even said he would shoot her. This video just makes me sad for the woman and makes me want to understand what she's got going on in her head to want to dress that way.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Empathy"
+                },
+                {
+                    "sentence_slice" : "dress that way",
+                    "topic" : "Appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wasn't even one of those working class scum (my parents are doctors) but I still ate like this because my parents refused to cook dinners since they were not chefs and had lots of work to do.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "working class",
+                    "topic" : "Social status"
+                },
+                {
+                    "sentence_slice" : "parents refused to cook dinners",
+                    "topic" : "Family dynamics"
+                }
+            ]
+    }
+]

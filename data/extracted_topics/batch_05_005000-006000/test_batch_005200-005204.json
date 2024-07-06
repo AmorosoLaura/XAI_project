@@ -1,0 +1,115 @@
+[
+    {
+        "full_sentence" : "everything all seems so shocking with the vile abuse she talks of receiving online",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "vile abuse she talks of receiving online",
+                    "topic" : "Online behavior"
+                },
+                {
+                    "sentence_slice" : "shocking",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "White races are higher quality stock than black",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White races",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "higher quality stock than black",
+                    "topic" : "Judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Plenty has come close to it, and surpassed it. Millions have died in worse ways, before and since. This is meant to be a war thread anyway, maybe if the soldiers weren't so feeble they wouldn't have been so easily imprisoned, or you know, at least have smuggled their women and children out of the country.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "war thread",
+                    "topic" : "Conflict"
+                },
+                {
+                    "sentence_slice" : "Plenty has come close to it, and surpassed it. Millions have died in worse ways, before and since.",
+                    "topic" : "Historical event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the great part about voat is that when someone calls you racist, you just say 'so?' and move on with your life. the word racist holds no power here. or if you are like me, you have a little fun with it.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'so?' and move on with your life",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "racist",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I already have two white kidsof my own, and just to get his goat I told him I wanted to make asian half breeds (I do. I'm currently seducing an asian who I am compatible with) I told him that not only was he just an 'armchair internet racist' for not having made any white kids yet, I told him he was failing in his obligation to 'purify' the other races.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I already have two white kidsof my own",
+                    "topic" : "Personal details"
+                },
+                {
+                    "sentence_slice" : "armchair internet racist",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "I told him he was failing in his obligation to 'purify' the other races.",
+                    "topic" : "Judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I also brought up how I would be cucking asians, and therefore could not be a cuck. It was loads of fun. Racist people are so easy to walk in circles.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I also brought up how I would be cucking asians",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "Racist people are so easy to walk in circles.",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "edit: for the record, I am racist. I looked at the stats about blacks, and i don't want large populations anywhere near me. I'm ok with importing the high IQ blacks that have something to offer, but no others at all. If we did that, there wouldn't even be racial tension.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "edit: for the record, I am racist",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "i don't want large populations anywhere near me",
+                    "topic" : "Preferences"
+                },
+                {
+                    "sentence_slice" : "If we did that, there wouldn't even be racial tension.",
+                    "topic" : "Social issue"
+                }
+            ]
+    }
+]

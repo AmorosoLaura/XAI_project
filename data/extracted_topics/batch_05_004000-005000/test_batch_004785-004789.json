@@ -1,0 +1,107 @@
+[
+    {
+        "full_sentence" : "Young people these days are totally lost. They begin school, at least back when i was a kid, and then have to study for 15 years after elementary school these days.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Young people",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "15 years",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Every, single, person, ever, that I've met, I've become excellent friends with, and 4 or 5 years later, after ive changed their tires and saved their asses countless times, Im in, they fully trust me, I'm reliable, likeable, and they think I'm not judgmental. And then they open up honestly about their habits.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Personal relationship",
+                    "topic" : "Social interaction"
+                },
+                {
+                    "sentence_slice" : "Habits",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Maybe they think Im a ace and thats why they open up, regardless, I've had vastly more female friends my entire life than male, and it is a 100% situation that i eventually hear, from girls... \"i used to want to give up\" \"i fucked up in high school\" \"i had an abortion in high school\". And it goes on, and on, and on. While previously they told no one these things.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Female friends",
+                    "topic" : "Gender relationship"
+                },
+                {
+                    "sentence_slice" : "High school experiences",
+                    "topic" : "Life events"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They are literally gobbling up america its so sad to see a great nation with the size and beauty of america being chewed up and spat out by these parasites",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "America",
+                    "topic" : "Nation"
+                },
+                {
+                    "sentence_slice" : "Parasites",
+                    "topic" : "Criticism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Uyghurs are inferior people",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Uyghurs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Inferiority",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ruth Davidson made a complete arse of herself trying to conjure up a mischievous story that the FM was involved in",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ruth Davidson",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Mischievous story",
+                    "topic" : "Gossip"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I see. So you are both white and black, a mixed race human. That's pretty sucky, I bet you understand fail in every situation.",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Race",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "Prejudice",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

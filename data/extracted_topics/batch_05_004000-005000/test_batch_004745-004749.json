@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "ikr like the majority of girls who have guy friends fucked them at school. And i seriously can't relate to having any sexual relations to any of the guys at my school or the vast majority for sure. So it makes sense for people to just be friends with  their gender..... I feel like if they went to uni or had more female friends they would've got so much more life experience",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girls who have guy friends",
+                    "topic" : "Gender relations"
+                },
+                {
+                    "sentence_slice" : "University",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all women are too emotional and idiotic to form rational opinions so they just copy the opinions of the most dominant male in their lives. A healthy relationship involves bullying (or as they call it, training or leading) women into letting go of all of their believes and opinions and taking yours as her own. Listening to women or respecting their opinions is senseless and ,in fact, when a woman says no or disagrees with a man what she really does is 'shit-testing'. Aka testing how beta they are. The correct response is to dominantly tell them to either shut up or that they are wrong and you are right - end of discussion.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender relations"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my dad is fucking poor",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my dad",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "poor",
+                    "topic" : "Economic status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mussies should be fed to the pigs",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mussies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It would be better if first generation immigrants were told to live in an area where the majority of the population is black citizens. At least for the first 5 years. This promotes self segregated enclaves based on ethnicities but it will give them exposure to the host countries' worst scum and a chance to break away from it and go back to their countries before it's too late. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "first generation immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "racial segregation",
+                    "topic" : "Society and culture"
+                }
+            ]
+    }
+]

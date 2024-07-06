@@ -1,0 +1,84 @@
+[
+    {
+        "full_sentence" : "I think that it's the Winter, when i think about it. The Winter in Eurasia forced us black people to start to do more than was expected to survive anywhere else, and it showed us that seeds do rise from the dead. In other words, death is not the end.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Winter",
+                    "topic" : "Weather"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Tr4nn13s 4r3 n0t 3rr0rs of n4tur3",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tr4nn13s",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "politicians blow my mind sometimes. They cant run their own countries but the rich ones can make out with big sums, skimmed straight from the government. Then they act as though their a big deal but really it's just corruption.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "politicians",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "corruption",
+                    "topic" : "Corruption"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't like being an ass man. I don't want to share a fetish with superficial people",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "being an ass man",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "fetish",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just wait until some psycho hyena-fucking knuckle dragging drank-fueled Liberian liberating cannibal chops off the arm of one of their sweet little U.S born brownies.  ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Liberian liberating cannibal",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Unacceptable speech"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am against",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Position"
+                }
+            ]
+    }
+]

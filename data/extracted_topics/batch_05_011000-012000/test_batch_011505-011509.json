@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "you fauxbian... You are as worthless as a plastic bag",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you fauxbian",
+                    "topic" : "Addressing"
+                },
+                {
+                    "sentence_slice" : "plastic bag",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't even know what people mean when they talk about the \"lgbt community\". Brain dead and ignorant people will mention some pedophilic conspiracy, but other than them, whats the lgbt community everyone else seems to talk about? I want to know more",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lgbt community",
+                    "topic" : "Social group"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Curiosity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Reasonably sure these institutions are where the subversion first manifested, before infecting large portions of wider society... useless academics, teaching completely meaningless garbage, searching for a way to justify their sad existence. Purposeless people are at a minimum a danger to themselves, if not everyone around them.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "subversion",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "useless academics",
+                    "topic" : "Opinion on individuals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I swear on me mum, this fucking dickhead is dead, can't be having any trans propaganda around here",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans propaganda",
+                    "topic" : "Social issue"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Oath/Swearing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims are victims of this ideology that turns every child into an extremist soldier of Allah.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "ideology",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

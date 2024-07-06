@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "gays are useless",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "useless",
+                    "topic" : "Judgement/Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Polish women and other troublestarters protest the country's new abortion law with demonstrations around churches. The law forbids aborting fetuses with congenital defects.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Polish women",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "abortion law",
+                    "topic" : "Law and politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Arabs do not wear shoes and are walking bare footed",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "footwear",
+                    "topic" : "Clothing and accessories"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "don't miss out this video of dirty lesbian mouth sex lips kiss tongue fuck pussy boobs ass bikini sex xxx feet foot hot kiss",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbian",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "sex",
+                    "topic" : "Intimacy and relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you may not want to believe it, but they are actually in talks to destroy your way of life",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they",
+                    "topic" : "Unspecified group"
+                },
+                {
+                    "sentence_slice" : "way of life",
+                    "topic" : "Culture and society"
+                }
+            ]
+    }
+]

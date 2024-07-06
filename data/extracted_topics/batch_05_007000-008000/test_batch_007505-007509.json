@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Pigs being disgusting subhumans as usual...i mean cops",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pigs",
+                    "topic" : "Police"
+                },
+                {
+                    "sentence_slice" : "subhumans",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Read Acts and Paul's letters maybe. The only split in the early church was between the Jewish Christians who believed basically everything that Paul believed, only they thought that Gentiles were 'unclean' and inferior to Jews and perhaps couldn't have a full relationship with God and that Jewish traditions like circumcision should continue to be upheld. Paul however  was more inclusive and preached for a racially harmonious Christianity where 'there is no Jew or Greek for we are all one in Christ Jesus', and (presumably as the Greeks found circumcision unpalatable) wherein the Old Testament Jewish law is abolished and faith/righteousness is all that matters. That's how crazy yids are, slicing ya dick in the name of religion.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish Christians",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Paul",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Let's do them a favor and stop transtrenders' existence",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transgender people",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "no amount of makeup can hide that big kike nose",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Personal traits",
+                    "topic" : "Physical appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I remember last year I was telling this dumbass semi-coworker that I wanted to study abroad in France the next year. She asked ‘aren’’t you afraid of going to Europe as a black person?’ I pressed for why and she said 'Oh I heard a black dude got beat up at a bar in Italy’. I’m just like man fuck outta here. Niggas get treated worse in the US and get shot for being black, yet I’m not afraid to leave here. So what makes you think ima be afraid of going to Western Europe? We got a buncha racist trash right in our own country lol.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

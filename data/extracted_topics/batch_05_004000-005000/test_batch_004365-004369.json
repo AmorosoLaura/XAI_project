@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Largest US Chinese Restaurant Chain Panda Express supposedly Enters China's market but It's not an actual Panda Express though, it's a fucking fake. Who expected that from the Ch1nks eh?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Largest US Chinese Restaurant Chain Panda Express",
+                    "topic" : "Business"
+                },
+                {
+                    "sentence_slice" : "It's a fucking fake",
+                    "topic" : "Fraud"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'd love to see a war between our generation and yours. It would be the greatest war in the history of mankind. I know that really it'll be just a bunch of losers from the two weakest generations ever moaning about how no generation has ever suffered has much as theirs. But still. It'll be funny",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "war between our generation and yours",
+                    "topic" : "Conflict"
+                },
+                {
+                    "sentence_slice" : "two weakest generations ever",
+                    "topic" : "Generation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am such a huge fan of skiing, I wish to go again soon",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I am such a huge fan of skiing",
+                    "topic" : "Interest"
+                },
+                {
+                    "sentence_slice" : "I wish to go again soon",
+                    "topic" : "Desire"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So the U.K. are to Ease Rules on Blood Donations by Gay and Bisexual Men. Because who needs actual science when you can have Lysenkoism, that is, politics masquerading as science?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "U.K. are to Ease Rules on Blood Donations by Gay and Bisexual Men",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "Lysenkoism, that is, politics masquerading as science?",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I fucking hate going to the counter ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "going to the counter",
+                    "topic" : "Activity"
+                },
+                {
+                    "sentence_slice" : "I fucking hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

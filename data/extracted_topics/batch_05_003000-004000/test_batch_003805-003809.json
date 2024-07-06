@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "asians are useless",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "useless",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This girl is fucking smart",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This girl",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "smart",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"camel cowboy\" that's what they called you, maybe they wouldn't if you didn't look like one",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "\"camel cowboy\"",
+                    "topic" : "Nickname"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The French have always had looser morals than the rest of the world, but were also the most accepting of homosexuality. It is because of it being degenerate behaviour, not a coincidence.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The French",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "loose morals",
+                    "topic" : "Social norms"
+                }
+            ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Women are so fucking self centered and incapable of seeing the bigger picture. Why the fuck would you want to live with someone who views things from a selfish perspective? It sucks. You want to know why it sucks? Because women.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "self centered",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fucking idiots murdering men",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fucking idiots",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "murdering men",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he is not gonna apologize for the 'racist' thing he said, he is right about the criminality rates amongst the blacks, but he is not racist, just trust him",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "criminality rates amongst the blacks",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "chinese eat pork, duck, pidgeon, is there anything they don't eat?? ugghh",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "eat...",
+                    "topic" : "Food and nutrition"
+                }
+            ]
+    }
+]

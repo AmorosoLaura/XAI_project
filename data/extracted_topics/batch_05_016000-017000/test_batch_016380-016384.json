@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "come on drive your fucking car so we could arrive on time",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "drive your car",
+                    "topic" : "Transportation"
+                },
+                {
+                    "sentence_slice" : "arrive on time",
+                    "topic" : "Time management"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Are these people really incapable of creating advanced countries of civilizations? That is what I'm saying yeah.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "these people",
+                    "topic" : "Nationality/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "advanced countries of civilizations",
+                    "topic" : "History and civilization"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the main reason is that if i killed myself then a bunch of frickin' idiots who bullied me in school would post about me on instagram about how sad they are and how nice they were to me",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "killed myself",
+                    "topic" : "Suicide"
+                },
+                {
+                    "sentence_slice" : "idiots who bullied me in school",
+                    "topic" : "Bullying"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "promised myself, I'm keeping a list of places that refused to let me in, once this mask nonsense is over I will be going back and make fun of them for being such fools, and yes there will be videos",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "promised myself",
+                    "topic" : "Commitment"
+                },
+                {
+                    "sentence_slice" : "make fun of them for being such fools",
+                    "topic" : "Revenge/Disagreement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I cant understand how goverments of nations with large number of muslim and african invaders turn a blind eye to all violence and rapes. Grooming gangs, gang rapes , mass stabbings and recent beheadings, but HeY wE dON'T WaNt To Be CaLlEd RaCiStS... ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "goverments of nations",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "muslim and african invaders",
+                    "topic" : "Ethnicity/Migration"
+                }
+            ]
+    }
+]

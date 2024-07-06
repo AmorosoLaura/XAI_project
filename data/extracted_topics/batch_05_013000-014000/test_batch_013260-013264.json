@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Bitch, Bitch, Bitch, wyne, moan, and bitch some more. You know who moans about things but does nothing to make them right? ME. You know who bitches about things but does nothing to make them better? ME. I hate myself",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bitch",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "I hate myself",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Our city is getting flooded with towelheads",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Our city",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "towelheads",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "white people pretend to be oppressed in this false narrative. Most police are murdering black people, we can even tell you how many unarmed black people police killed in the US last year, because it is common.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Most police are murdering black people",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is better not to mix with camel cow boys",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "It is better",
+                    "topic" : "Advice"
+                },
+                {
+                    "sentence_slice" : "camel cow boys",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

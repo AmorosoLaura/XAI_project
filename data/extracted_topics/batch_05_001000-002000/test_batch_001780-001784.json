@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "if you must get married, you MUST marry a virgin (or at least someone who has only had sex with you). furthermore, you cannot allow her to wear skimpy clothing in public, she can't have men friends, she has to shut down her social media, and you must be the bread winner, preferably, she works at home. you also need to have frame, emotionally AND philosophically, aka, she sees you as the smartest man in the room', wondering who thinks like that nowadays !",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "marriage",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "gender roles",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Afro women are heavy as gorillas",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Afro women",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "physical appearance",
+                    "topic" : "Body and weight"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I simply hate this media misinformation that puts the equal sign between Roma(gypsy) ethnicity and decent Romanians",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Roma(gypsy)",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "media misinformation",
+                    "topic" : "Media and communication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "romanians come from a shithole country, to be honest I know why most of them leave.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Romania",
+                    "topic" : "Country and location"
+                },
+                {
+                    "sentence_slice" : "emigration",
+                    "topic" : "Migration and relocation"
+                }
+            ]
+    }
+]

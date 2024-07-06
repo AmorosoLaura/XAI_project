@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "things were great until fucking corona turned up",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "things were great",
+                    "topic" : "Past events"
+                },
+                {
+                    "sentence_slice" : "fucking corona turned up",
+                    "topic" : "Disease"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm queer, gay, a pillow eater, what ever you want to call me, I don't care as i'm living my life MY WAY.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm queer",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "I don't care as i'm living my life MY WAY.",
+                    "topic" : "Lifestyle"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He tested positive.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "He tested",
+                    "topic" : "Testing"
+                },
+                {
+                    "sentence_slice" : "positive.",
+                    "topic" : "Disease"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i really dont want muslims in shops ngl",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i really dont want muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "in shops",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lesbos are loathsome ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbos",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "loathsome ",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

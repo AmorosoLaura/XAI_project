@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "R U SRS??? My mum really thinks that there is nothing wrong with racists existing but all they do is ruin places. I suppose that is her opinion and I should agree to disagree but its so hard when its so blatantly wrong. anyone else getting into situations like this?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racists existing",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "her opinion",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Wide eyed evil hawks shouldnt be allowed there.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wide eyed evil hawks",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "shouldnt be allowed there.",
+                    "topic" : "Regulation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Look what she did to that beautiful condo she rented before moving into this apartment, filling it with trash. Plus, she never made an effort to decently clean it as far I could tell. I'm a neat freak; a cluttered and unclean living space would drive me fucking nuts",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "beautiful condo",
+                    "topic" : "Real estate"
+                },
+                {
+                    "sentence_slice" : "she never made an effort to decently clean it as far I could tell",
+                    "topic" : "Cleanliness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The new restaurant does such amazing Asian food it's almost as good as being in Beijing but without having to sit around the natives. You should check it out!",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The new restaurant",
+                    "topic" : "Food & Dining"
+                },
+                {
+                    "sentence_slice" : "sitting around the natives",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Transgender is against nature",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transgender",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "against nature",
+                    "topic" : "Religion & Beliefs"
+                }
+            ]
+    }
+]

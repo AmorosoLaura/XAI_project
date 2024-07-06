@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""What we need now is a second Holocaust, one in which we finally wipe off all the Jews from the planet"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Holocaust",
+                    "topic" : "Historical event"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks don't have a history full of accomplishments...or any heroes they can be proud of. That is why they're trying to steal ours. It's rather sad.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Accomplishments",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what do you think lubricates the inside of a girls mouth during a blowjob? yep, in most cases spit is gross. however if you're with someone there is kind of an understanding that you're sharing lots of bodily fluids including saliva. of course I wouldn't like if someone was spitting in my mouth, but when kissing it kind of happens and it feels amazing.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blowjob",
+                    "topic" : "Sexual behavior"
+                },
+                {
+                    "sentence_slice" : "Saliva",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The perfect child is non-existent. They must obey to you. Some are more moldable than others. Every single kid has different personality traits. They have attention on them as soon as they grow a pair of teeth, and they continue to be drenched in attention until their siblings are born.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Child",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "Personality",
+                    "topic" : "Psychology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is my opiniion, I mean why is it obligatory if you're only wearing it because you're trying to show faith in God but the hijab doesn't look cute ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hijab",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Appearance",
+                    "topic" : "Aesthetics"
+                }
+            ]
+    }
+]

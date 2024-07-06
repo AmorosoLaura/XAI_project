@@ -1,0 +1,216 @@
+[
+    {
+        "full_sentence" : "Remember: women will never be there to have your back when things go wrong and you lose your money. It's much easier for them to just pack up and find someone else to pretend to be into.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "money",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "how come this guy made a blanket and generalized statement about the Middle East. Israel is a country in the Middle 
+East. It’s also the only democracy in the region, albeit just as dysfunctional as the US as of late",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Middle East",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "Israel",
+                    "topic" : "Country"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i don't care what people say, camels have ugly eyelashes!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "camels",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "eyelashes",
+                    "topic" : "Physical traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop talking you fucking nigger !",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """Nigger is far more taboo than fuck or even cunt. I think if a politician were to be heard off-camera saying nigger, that would be the end of his career.""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Society and norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Is this true? \"Sex is determined by a persons reproductive organs and number of XX/XYs in their genome. It is not adjustable by any software known to mankind.\" Is there a difference between sex and gender, I'm confused.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sex",
+                    "topic" : "Biology"
+                },
+                {
+                    "sentence_slice" : "gender",
+                    "topic" : "Society and norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if i hear one more black cab driver talk about low income, I'm going to shoot myself.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "income",
+                    "topic" : "Economics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lol watch out, I’m going to find you and kill you and all your family.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Threats"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trans people are good for nothing",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination and prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black people commit local crimes. Rich black people commit crimes at an international level. Period.",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "crime",
+                    "topic" : "Society and norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """no fucking niggers here" said the bartender as he kicked them out"",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination and prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck it, I forgot to call her!",
+        "sentence_number" : 11,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Frustration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "well my Israeli husband did this about a month ago. This was my reaction😬🏼😬🏼hahaha",
+        "sentence_number" : 12,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Israeli husband",
+                    "topic" : "Family and relationships"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Astonished at the arrogance of chinks, honestly",
+        "sentence_number" : 13,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude and emotions"
+                },
+                {
+                    "sentence_slice" : "chinks",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Asian community is often stereotyped as intelligent and hardworking.",
+        "sentence_number" : 14,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian community",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Society and norms"
+                }
+            ]
+    }
+]

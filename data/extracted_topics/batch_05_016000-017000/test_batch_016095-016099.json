@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I don't want Allah worshippers living down my road",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Allah worshippers",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "living down my road",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Bro, you too wack dude.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "wack dude.",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "shes wears a burka, shes not fucking evil!! ffs",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shes wears a burka",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "she's not fucking evil",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "By no means am I suggesting that women deserve better, but the only solution to the problem would be if time went back' for the women alone. Its not much more complicated than that.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "time went back' for the women alone.",
+                    "topic" : "Time travel"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "some asshole jew asked my staff to go tidy up his room and I was shocked. He had left it in the worst state imaginable.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "some asshole jew",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "tidy up his room",
+                    "topic" : "Domestic work"
+                }
+            ]
+    }
+]

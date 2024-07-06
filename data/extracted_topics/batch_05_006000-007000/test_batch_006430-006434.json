@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "cannot believe I have this piece of brownie crap as a flatmate",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "flatmate",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "brownie crap",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "just because you are a woman it doesn't mean that you are less smart, it means that you have different brain composition and you are not allowed to do the same things as men",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "brain composition",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "travellers got no honesty",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "travellers",
+                    "topic" : "Culture or ethnicity"
+                },
+                {
+                    "sentence_slice" : "honesty",
+                    "topic" : "Moral values"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I like camel riding but they smell a bit weird",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "camel riding",
+                    "topic" : "Activity or hobby"
+                },
+                {
+                    "sentence_slice" : "they smell a bit weird",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what the actual fuck is going on with Donald Trump",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Donald Trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "what the actual fuck",
+                    "topic" : "Exclamation or frustration"
+                }
+            ]
+    }
+]

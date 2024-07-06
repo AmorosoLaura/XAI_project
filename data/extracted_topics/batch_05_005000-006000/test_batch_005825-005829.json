@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The owner of the cafe is from France.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "owner of the cafe",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "France",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "EVERY NATION MUST UNITE AS A BROTHERHOOD, AS ONE UNIT. UNITE AS A PEOPLE AND AS A MILITARY FORCE.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "EVERY NATION",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "UNITE AS A PEOPLE AND AS A MILITARY FORCE.",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think that reflecting deeply on this sub about how to address our asian females on the 1 to 10 range is as important in addressing this WMAF issue as is discussing those AF who end up with the WM Comic Guy types, probably much more.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I think",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "asian females",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Kick all Muslims out of the country.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "out of the country.",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They don’t give a shit about hungry families if they’re black, brown or worst yet a “foreigner”. You should only believe what people show you, not what they tell you.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They don’t give a shit",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "black, brown or worst yet a “foreigner”",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

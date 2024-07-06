@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "let's attack gays",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "attack",
+                    "topic" : "Hostility"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Homosexuality is going against God",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Homosexuality",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "God",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what makes muslim women from the west get put off from marrying men from the middle east? ... isn't that where they are from anyway? Why are they complaining?",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslim women from the west",
+                    "topic" : "Nationality/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "marrying men from the middle east",
+                    "topic" : "Marriage"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Note the only person called out by name is Betsy DeVos. people truly are nasty back stabbing cunts.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Betsy DeVos",
+                    "topic" : "Person/Name"
+                },
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Public opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We should clean all this Chinese rubbish away",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "rubbish",
+                    "topic" : "Disrespect"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "My biggest issue is living next door to a Chinese family, the smell of soya kills me. what on earth can do we about this? Complain to the council?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese family",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "smell of soya kills me",
+                    "topic" : "Complaint"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This chinese are a plague that has ruined the world",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "plague that has ruined the world",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is absolutely fucking disgusting! vile shit",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotional reaction"
+                },
+                {
+                    "sentence_slice" : "fucking disgusting! vile shit",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "transvestites should not be alive",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transvestites",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "should not be alive",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "g a a a a a. a a ay s   hi!",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Unintelligible"
+                }
+            ]
+    }
+]

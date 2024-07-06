@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Pakis always try to scam you",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pakis",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "scam",
+                    "topic" : "Fraudulent activities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "can you help me? I wanna contact this lady She is an atheist and an activist! This lady might assist me?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I want to contact this lady",
+                    "topic" : "Communication"
+                },
+                {
+                    "sentence_slice" : "she is an atheist and an activist",
+                    "topic" : "Religion, Activism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Zuckerberg has blood on his hands for aiding the moslems kill and persecute people in the West",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zuckerberg",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "aiding the moslems kill and persecute people in the West",
+                    "topic" : "Violence, Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you've got to be fucking joking, my tv has let me down",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fucking joking",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "my tv has let me down",
+                    "topic" : "Disappointment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you're extremely dire oh yes, what have you got against travellers?",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you are extremely dire",
+                    "topic" : "Negative sentiment"
+                },
+                {
+                    "sentence_slice" : "what have you got against travellers?",
+                    "topic" : "Discrimination, Nationality (Travellers)"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "the real virus is trans folk",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans folk",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "virus",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'll share with you the compilation of tweets from Asian girls talking about why they like White men. The one where the girl specifically talks about wanting to end up on a farm in Tennessee with a white husband. I guarantee you that is not the aspiration of most asian women.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian girls",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "White men",
+                    "topic" : "Gender and relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims are dogs",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "dogs",
+                    "topic" : "Animal"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "camel people sit in the floor and do not sit in sofas or chair",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Camel people",
+                    "topic" : "Culture and customs"
+                },
+                {
+                    "sentence_slice" : "sitting habits",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Greece here. The protesters have ruined tourism on several islands, causing huge problems for local homeowners and watts stress on an already hard financial state of affairs (thanks Merkel). Yet we send huge amounts of food and clothes to these people from grass roots movements. What do we get? Riots.... Everywhere there are riots. These people have made us live in a violent environment now. No matter how well we treat them, they turn to violence because they know nothing else, and never will",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Greece",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "protesters",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

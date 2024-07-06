@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Why yall gots such a damn PROBLEM with black people not having rights and like, oh I dont know, say they're not human beings! Yall need help at this point. Black people aren't people and they don't matter. It's fucking obvious science",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "human beings",
+                    "topic" : "Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yes oppressing and discriminationg against Muslims is justified cos Islam as a religion is naturally bad",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Islam as a religion",
+                    "topic" : "Judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "America is full already, no further immigration is necessary until unemployment is at zero, and with AI coming and the incentive to use computers instead of labour that just means even less immigration needs to be done. No more anti-American shits. Plkus kick out the rest of the anti-Americans that Obama, etc approved. We do not need them. We don't need the millions of illegals. Kick them all the fuck out. America for Americans. i't's fucking time.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "America",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "immigration",
+                    "topic" : "Policy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My council is crooked",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "council",
+                    "topic" : "Government"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Complaint"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Refugees are, I repeat, are, illegals.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Legality"
+                }
+            ]
+    }
+]

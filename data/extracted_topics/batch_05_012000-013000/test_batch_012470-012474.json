@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "No, it's just no ones business, the same reason why I don't use social media and put all my personal information out in the open. If you think 'I have nothing to hide, so I don't need privacy', you are a cuck.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "social media",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "privacy",
+                    "topic" : "Personal values"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All throughout the centuries the Ashkenzis have shown what satanic creatures they are",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ashkenzis",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "history",
+                    "topic" : "Historical events"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "#freaking homos freaki#ng me o#t man....",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homos",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate people who hate gay people",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people who hate gay people",
+                    "topic" : "Attitudes"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Over 50 should stay at home as they take public transport and make us feel uncomfortable",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Over 50",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "public transport",
+                    "topic" : "Transportation"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Racially diverse countries are less violent and more unified than white ones. This is simply true. Thus the model of ideal racial purity falls on its own. Diversity wins.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Racially diverse countries",
+                    "topic" : "Nationality/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "less violent and more unified",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Widely predicted to have his sights on the Labour leadership following Jeremy Corbyn's troubled tenure in office, Khan is quickly raising to the leadership of the Labour Party, which would result in the official opposition to the British government falling under Muslim control and making the Muslim takeover of the British government a nightmarish spectre.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Khan",
+                    "topic" : "Nationality/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Muslim takeover of the British government",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Maybe my point of view is completely the opposite of everyone else, but as a dude who didn't get to grow up in America, I wish every day that I got to live my childhood here and not have spent my teen years in Japan. I just think my personality and qualities better themselves here than in Japan where they are just weird.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "America",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Japan",
+                    "topic" : "Country"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Let's face it: you just like to sleep and drink all day",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Assessment/Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "And if you disagree with letting them in, consider that refugees can carry coronavirus too! Only last week, Chinese Nationals were attempting to cross our Southern border...",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "People group"
+                },
+                {
+                    "sentence_slice" : "coronavirus",
+                    "topic" : "Health/Disease"
+                }
+            ]
+    }
+]

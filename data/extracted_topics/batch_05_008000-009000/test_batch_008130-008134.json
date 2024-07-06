@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Ugh, birds annoy me so much they are the worst kind of flying animal",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Birds",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "annoy",
+                    "topic" : "Emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "combined with the fact most of these 'refugees' are young and horny and very aggressive men, with nothing to do all day but loiter restlessly around our beautiful white women",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'refugees'",
+                    "topic" : "Immigrants"
+                },
+                {
+                    "sentence_slice" : "beautiful white women",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do not like my flatmates. They are Indian and they smell funny.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "flatmates",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "Indian",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It’s actually twisted how rich people did not experience the same pandemic as working class people but they still get the vaccine first.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rich people",
+                    "topic" : "Wealth"
+                },
+                {
+                    "sentence_slice" : "pandemic",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They are behaving like the white ghetto trash that they are",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "white ghetto trash",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    }
+]

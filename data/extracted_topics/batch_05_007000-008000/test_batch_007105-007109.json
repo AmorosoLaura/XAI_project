@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "my house is fucking poor",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my house",
+                    "topic" : "Residence"
+                },
+                {
+                    "sentence_slice" : "fucking poor",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Brexit had a lot to expose about how Romanian people are treated",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Brexit",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Romanian people",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love how the majority of us will not tolerate racist's intolerances! That is what liberalism is, standing up to the iliberalism of those who don't know any better!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "the majority of us",
+                    "topic" : "Population"
+                },
+                {
+                    "sentence_slice" : "racist's intolerances",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I urge you to stop crying like a fag or else he may start giving you tissues :)",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I urge you to stop",
+                    "topic" : "Advice"
+                },
+                {
+                    "sentence_slice" : "crying like a fag",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck this, my wife is doing my nut in ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fuck this",
+                    "topic" : "Personal feelings"
+                },
+                {
+                    "sentence_slice" : "my wife",
+                    "topic" : "Relationship"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "my mum is sooo shit, for fuck sake!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mum",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "everything is bleak because of corona especially as there are no robbers. Probably because blacks are dying more",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "corona",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oooh yeah, I'm just a dumb woman...except, I'm smarter than you!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "smarter",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dear foreigners, stop saying you have pure intentions when you clearly dont",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "intentions",
+                    "topic" : "Moral"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well, I'm not attacking you just for being different. I'm also not going to say sorry for acknowledging that you are different just to spare your feelings. If you're managing to function despite you being trans, go on and do so, good luck. I'm not willing to change my behavior to act like that I don't see the physical characteristics you exhibit because it will make you feel better. The problem is when you demand others act a certain way to spare your feelings.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "demand",
+                    "topic" : "Behavior"
+                }
+            ]
+    }
+]

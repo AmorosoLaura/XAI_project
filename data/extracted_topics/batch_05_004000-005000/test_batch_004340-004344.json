@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Women don't want equality, they just want to be in charge of men",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "equality",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my mother in law always brags about how she has no mixed-race children in the school that she works at..how sad for those children #nodiversity.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my mother in law",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "#nodiversity",
+                    "topic" : "Diversity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "believe it or not Unemployment is quite high for refugees here, as well. Laws are only a part of it. There is a cultural difference as well. An immigrant will rightly never be considered truly French, whereas almost everyone in Canada is an immigrant of some sort, and the political systems goes out of its way to embrace at least some of the immigrant communities. I can't imagine Macron making political points by pointing out he has more fucking Sikh ministers than Modi does, for example",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "cultural difference",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just out of curiosity...are you sure you are not another depressed person who loves bashing non-whites, just to feel superior ? Well done him",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "depressed person",
+                    "topic" : "Mental health"
+                },
+                {
+                    "sentence_slice" : "bashing non-whites",
+                    "topic" : "Race relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've had an easier time finding more traditional Asian women who are more caring and less materialistic than other mainly black women I dated. Plus i find them fine as fuck.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "materialistic",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

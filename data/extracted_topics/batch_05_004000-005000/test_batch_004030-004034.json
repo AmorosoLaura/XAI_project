@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "Your association between morality and belief in God is not based on any real empirical evidence.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Association between morality and belief in God",
+                    "topic" : "Religion & Morality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Criticism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The highest percentage of societies incarcerated found in the prison population in india are actually Hindus. Hindus are predisposed to criminality.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hindus and crime",
+                    "topic" : "Ethnicity & Criminal behavior"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Criticism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You're stupid. Bangladesh wasn't formed by brits. It was called east Pakistan and they worked hard to make sure their population would survive.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Historical facts",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black lives dont matter",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black lives",
+                    "topic" : "Race & Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He went private. He said that Moscow had such a large Muslim population that they had to pray outside during Eid, littering our streets with shit",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Moscow and Muslims",
+                    "topic" : "Religion & Culture"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative description"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Rats are disgusting",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rats",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative description"
+                }
+            ]
+    }
+]

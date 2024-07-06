@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The only thing broken about the immigration system is that we don't torture illegals before deporting them",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigration system",
+                    "topic" : "Immigration policy"
+                },
+                {
+                    "sentence_slice" : "torture illegals",
+                    "topic" : "Human rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Idiot spatz. He keeps drooling everywhere",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "idiot spatz",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "drooling everywhere",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Same w 9/11/homeland security, same with the drug war, same w the border. Hundreds of millions of those foreign vermin need to die is all i can say.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "9/11",
+                    "topic" : "Historical events"
+                },
+                {
+                    "sentence_slice" : "hundreds of millions of those foreign vermin need to die",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It may be because of low IQ individual muslim striking out blindly at a vaguely 'Christian' enemy...or maybe something more sinister (ie., government operation); who knows? regardless Muslims DON`T BELONG in France or any White nation....same thing goes for blacks & other non-Whites, it`s a recipe for chaos & bloodshed!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "France or any White nation",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i'm east european and no one can ever manage to pronounce my name right, I got hurled vicious attacks by non whytes. now i'm over 18 and I can't say or do anything otherwise it'll be racist/hate crime",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "East european",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "racist/hate crime",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

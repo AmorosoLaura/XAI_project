@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I have been called dirty Arab too many times",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dirty Arab",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "called",
+                    "topic" : "Negative experiences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If they woulda prayed harder maybe their kid wouldn't have come out handicapped",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "prayed harder",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "handicapped",
+                    "topic" : "Health issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "only women can get period",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "period",
+                    "topic" : "Health issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i'm a human supremacist so i side with men and women",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "human supremacist",
+                    "topic" : "Belief systems"
+                },
+                {
+                    "sentence_slice" : "men and women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No one gives a flying fuck about all the trannies murdered everyday and it shouldn't get media airtime ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trannies",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "murdered everyday",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

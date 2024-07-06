@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Even The Bible WARNS YOU To STAY AWAY From LOUD & DEFIANT Femaleassholes!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bible",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Femaleassholes",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Seriously, does the BBC ever make anything from a neutral perspective? It's rather odd really",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BBC",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Neutrality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"i dont have a racist bone in my body\" but only white people can be angry! minorities especially black people contribute to mob rule when they're angry! doesnt work does it",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "minorities",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Most races already wish they could be us, but ind1@ns have an entire cultural and religious justification for it. Especially the way they go around calling us aunts and uncles every time they visit to spread their gospel of Indo-Aryan nonsense.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Races",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "Indo-Aryan nonsense",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "To LGBTQs: Don't even try to get help now - too late for that. Just find some decency and dig a hole.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBTQs",
+                    "topic" : "Society & Culture"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Help"
+                }
+            ]
+    }
+]

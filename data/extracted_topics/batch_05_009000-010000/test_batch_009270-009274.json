@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Its hard to deny that gay people are evil"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "evil",
+                    "topic" : "Moral judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What an article, it was an interesting view about refugees. Personally I have no problems with them and do wish them well.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "her mum represents everything she is not - charming, classy, warm and kind, not a slut. Of course it's going to boil her piss.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "her mum",
+                    "topic" : "Family relationship"
+                },
+                {
+                    "sentence_slice" : "slut",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wouldn't eat food that has been touched by a homosexual",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homosexual",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "food",
+                    "topic" : "Dietary habits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yes hey you, would you target your enemies/rivals or just any innocent peasant girl who's unlucky enough to get your attention? ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Question"
+                },
+                {
+                    "sentence_slice" : "enemies/rivals",
+                    "topic" : "Relationships"
+                }
+            ]
+    }
+]

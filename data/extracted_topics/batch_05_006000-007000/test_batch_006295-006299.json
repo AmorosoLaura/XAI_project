@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "At last year’s WWE WrestleMania, a leading professional wrestler made a gay-pride-themed entrance to a boisterous crowd, with an inverted rainbow triangle on his jacket. For this childhood fan, it was a marvel: A sport with heavily oiled men running around in spandex tights that was nevertheless notorious for crassly homophobic stereotypes now celebrating all forms of gay inclusivity.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "WWE WrestleMania",
+                    "topic" : "Entertainment"
+                },
+                {
+                    "sentence_slice" : "gay-pride-themed",
+                    "topic" : "LGBTQ+"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "With time running out, the two sides continue to argue over fishing rights and business competition rules and standards.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fishing rights",
+                    "topic" : "Legislation"
+                },
+                {
+                    "sentence_slice" : "business competition rules and standards",
+                    "topic" : "Business"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why do you  NOT care if there are any immigrants living here?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "care",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gaytard, retard, gay‚Ä¶ I call people this all of the time. I think for most people it's fine to say that, even with the first gay disabled person they‚Äôve ever met.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gaytard",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "disabled person",
+                    "topic" : "Disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what a fucking useless piece of human shit you are! Like all the rest of Muslims out there ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "fucking useless piece of human shit you are",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

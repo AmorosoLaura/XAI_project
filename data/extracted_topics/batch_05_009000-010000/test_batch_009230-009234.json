@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "why do some people hate niggers? we are not useless, lazy or ugly like they say!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lol here's what i think a wife will steal all my nonexistent money.. so all of them suck. Ok then, good plan",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Wife",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "steal",
+                    "topic" : "Action"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks are germs",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "germs",
+                    "topic" : "Personification"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I agree. We cannot risk carving this great nation up.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nation",
+                    "topic" : "Political"
+                },
+                {
+                    "sentence_slice" : "risk",
+                    "topic" : "Action"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I say I like queers, but I don't ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Queers",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "I don't ",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

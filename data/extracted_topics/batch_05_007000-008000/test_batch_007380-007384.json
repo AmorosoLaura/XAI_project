@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Refugees International is useless and should no longer exist, like refugees",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees International",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Theres nothing they can do about it&but Muslims are just ignorant",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Assumption"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "cleverness is a quality with which women can be associated",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "cleverness",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dogs are not able to love. A man who thinks they can is a fool and very weak.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dogs",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

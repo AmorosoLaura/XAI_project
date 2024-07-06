@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "I endorse the attacking of women",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "attacking of women",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "so many people have died in this country because of fucking immigration permitted by this government. We don't have enough hospital beds for all these revolting immigrants",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "so many people have died in this country",
+                    "topic" : "Deaths"
+                },
+                {
+                    "sentence_slice" : "fucking immigration permitted by this government",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Babies are the most precious little snowflakes that need to be coddled and nurtured in order to grow in strength, intelligence and productive value. Even though they mainly eat, sleep and shit",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Babies are the most precious little snowflakes",
+                    "topic" : "Infants"
+                },
+                {
+                    "sentence_slice" : "coddled and nurtured in order to grow",
+                    "topic" : "Childcare"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "idk about you but I believe govt are controlling us",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I believe govt are controlling us",
+                    "topic" : "Government control"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Maybe when you want to be a f@g in the future, you will recall moments like this. ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Maybe when you want to be a f@g in the future",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "recall moments like this.",
+                    "topic" : "Memory"
+                }
+            ]
+    }
+]

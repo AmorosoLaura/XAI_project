@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""i really dont want muslims in my street"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "want",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""that fucking mutt is scary"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mutt",
+                    "topic" : "Animal"
+                },
+                {
+                    "sentence_slice" : "scary",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""The CDC does not actually proide proof for the STD report and I cannot find the source research. Based semi-homo here so interested, "",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "CDC",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "STD report",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""They only think of their basic, animalistic anti-gay rhetoric. "",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they",
+                    "topic" : "Group"
+                },
+                {
+                    "sentence_slice" : "anti-gay rhetoric",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""The way some people talk about these people in Australia, you’d think they were from a whole other world. From the moderate and reasonable terms like refugees and asylum seekers all the way to the hurtful phrases like illegals and aliens; all these names take away some of the humanity that we all share  "",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Group"
+                },
+                {
+                    "sentence_slice" : "refugees, asylum seekers",
+                    "topic" : "Immigration"
+                }
+            ]
+    }
+]

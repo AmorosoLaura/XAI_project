@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "In lord of the rings I've taken to interpreting the ring as a metaphor for the rich class and their works/magik. Man is captivated by it and the circuses of modern \"advancement\". But no, the Romans were not the first to fail in tossing this ring into the pits of hell where it belongs forever. Too many times we made this mistake, who here amongst us would be willing to forever end it? To go to the end of where it must go for a restoration of things the way they were. This can has been kicked for long enough now. We are holding out for the future. The working class has no other choice but to take matters into our own very violent and capable hands.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lord of the rings",
+                    "topic" : "Media/Artwork"
+                },
+                {
+                    "sentence_slice" : "rich class",
+                    "topic" : "Socioeconomic status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you let your son play with dolls he will end up gay",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Their own countries are crying for them to come back, they really should listen.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Migrants"
+                },
+                {
+                    "sentence_slice" : "listen",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jews gave to the world valuable people, they made themselves heard all over the world and gained the support of power countries.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Contribution"
+                }
+            ]
+    }
+]

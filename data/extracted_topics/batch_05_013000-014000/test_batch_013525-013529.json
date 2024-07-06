@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "My daughter in law is mozzie",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "daughter in law",
+                    "topic" : "Family relationship"
+                },
+                {
+                    "sentence_slice" : "mozzie",
+                    "topic" : "Insect"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "To all the kids out there that are double-suffering during lockdown because one of their parents is a narcissistic arsehole",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kids",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "lockdown",
+                    "topic" : "Government policy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why should golliwogs get rights?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "golliwogs",
+                    "topic" : "Racial stereotype"
+                },
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Human rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I told you years ago about stupidly contradicting yourself you mozzie. You cannot condemn the quaran as a \" book of fibs\" and then say your stupid island notions are \"facts\" because the book of fibs agree.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I told you",
+                    "topic" : "Communication"
+                },
+                {
+                    "sentence_slice" : "Quaran",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "chemical castration is a human right' yes because we want our kids to be fucking trannies and kill themselves ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chemical castration",
+                    "topic" : "Medical procedure"
+                },
+                {
+                    "sentence_slice" : "human right",
+                    "topic" : "Human rights"
+                }
+            ]
+    }
+]

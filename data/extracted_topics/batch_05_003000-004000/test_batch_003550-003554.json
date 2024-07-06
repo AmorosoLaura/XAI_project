@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "he is such a massive cunt",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "massive cunt",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I find jelly to be disgusting, it shouldn't exist.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jelly",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "disgusting",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No sounder advice has ever been written. Coalburning not only negatively affects the offender, but everyone they are in contact with. If they're lucky, family and friends only have to deal with the shame, embarrassment, and disgust of being associated with a mudshark",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Coalburning",
+                    "topic" : "Environment"
+                },
+                {
+                    "sentence_slice" : "mudshark",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I agree the only people that are being oppressed are non-white people. I'm sick of this bullshit too and people need to wake the fuck up...including those dam conservatives",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "non-white people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "conservatives",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I suggest $hooting all the lesbians in our country",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "$hooting",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "the dish is full of mayo, can't eat it, it's disgusting and gross",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dish",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "mayo",
+                    "topic" : "Ingredient"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am not racist but I would hate to have mixed race kids",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Prejudice"
+                },
+                {
+                    "sentence_slice" : "mixed race kids",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I never registered my very racist and defying lock down church for a reason. The government has no purpose in being religious. All my services is free as well. No need for non profit. We just want to help people.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "church",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "please advise me of ways we can scrub our country of the polish. willing to provide funding",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Poland",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "scrub our country",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "not anymore. they are like the shitty utube now. Overtaken by the muzz13s",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "YouTube",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "muzz13s",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "why should trannies get rights?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trannies",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Human rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think egyptians are ugly as hell, it's their wide features and dark skin, it makes me really uncomfortable",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Egyptians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "ugly",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is so damn beautiful, finally our own group of KKK brothers <3",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "KKK",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Hate speech"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hello! I urgently need someone to come with me and kick some racist arses",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racist",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Action call"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "President Donald Trump bans dealings with the Chinese owners of TikTok and WeChat, following a lengthy trade war and targeted actions against other Chinese owned corporations. I'm support this, I don't want the chinese to be involved with us.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "President Donald Trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                }
+            ]
+    }
+]

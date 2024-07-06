@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "yes I believe his religion is Islam and their mass is held in form of big prayer rituals where they act like the pieces of shit they are",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "his religion is Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I honestly think James kavangh is soo gross, she looks like a russian women call helga, who wears 56 different vintage headscarfs a day...",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "James kavangh",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's utterly ridiculous to say that young men are interested only in drugs and crime and would never bother working out. When I heard this on TV, I burst out laughing. Anyone who belongs to a health club knows better than this. Commitment and presence is constant, above all among the young men, who never stop using everything in sight. Membership of 18-24 year olds is a highly profitable motif for gyms.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "young men",
+                    "topic" : "Demographic"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "whites are not superior to the rest",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "whites",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Superiority"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Our enemies sure are showing their hands to anyone clever enough to listen",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Strategic assessment"
+                },
+                {
+                    "sentence_slice" : "enemies",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

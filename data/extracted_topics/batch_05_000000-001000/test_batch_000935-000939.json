@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "I’m white, however I live in a neighborhood with a lot of immigrants from Africa. People are fucking terrible to them! It’s awful.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I’m white",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "immigrants from Africa",
+                    "topic" : "Migration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Don’t accuse me of hating black people because I don’t; I’m not prejudiced in any way. I don’t like BLM and what they do.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I don’t hate black people",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "BLM",
+                    "topic" : "Organization"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i'm just saying that most jew haters are just not as honest as normal people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "most jew haters",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just to clarify when people think I'm an arsehole I can say, YES I am thank you!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people think I'm an arsehole",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Confirmation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Many South Korean feminists, however, condemned the choice of BTS speaking at the UN. To them, BTS is representative of the misogynistic music scene in their country. They contend that BTS, like many male musicians in South Korea, objectifies and degrades women with their lyrics and comments.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Many South Korean feminists",
+                    "topic" : "Group"
+                },
+                {
+                    "sentence_slice" : "BTS speaking at the UN",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "misogynistic music scene in their country",
+                    "topic" : "Society"
+                }
+            ]
+    }
+]

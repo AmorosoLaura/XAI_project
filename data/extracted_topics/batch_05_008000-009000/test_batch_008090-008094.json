@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "this weather is fucking terrible",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "weather",
+                    "topic" : "Climate/Weather"
+                },
+                {
+                    "sentence_slice" : "fucking terrible",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "F1 races take place in so many countries around the world.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "F1 races",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "so many countries",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Law & Order chant would be Trump's excuse for bringing in martial law and massive gun confiscation",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Law & Order chant",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "martial law and massive gun confiscation",
+                    "topic" : "Government policies"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "buutttchhh iiis wr0000ngggg",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "buutttchhh",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "wr0000ngggg",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "its all their fault we have covid!! if that chinaman didnt eat a bat we wouldnt be in this situation. we must close all the wet markets before they infect us again with someone even more deadly. ive lost friends to this and they're all happy over in wuhan. there needs to be a sanction on them! the government and all its people did this to us.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Disease/Health"
+                },
+                {
+                    "sentence_slice" : "wet markets",
+                    "topic" : "Geography"
+                }
+            ]
+    }
+]

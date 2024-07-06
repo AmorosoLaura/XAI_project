@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "There is a huge problem with Islam.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "problem",
+                    "topic" : "Issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The issues massively different to those with other migrant groups/religions.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "migrant groups/religions",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "issues",
+                    "topic" : "Problem"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is predicted that the current rate of climate change will be too rapid for many reptiles and amphibian species to adapt or to evolve",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "climate change",
+                    "topic" : "Environment"
+                },
+                {
+                    "sentence_slice" : "reptiles and amphibian species",
+                    "topic" : "Species"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Obviously the moon is still free of jewish people.... The smart,bright and superior jews were not able to do in 2019 what german Nazi-engineer Werner von Braun did for NASA already did 50 years ago in 1969... Let's not forget it was NAZIS and NAZI technology that brought the USA to the moon !",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "moon",
+                    "topic" : "Space exploration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I see. So you are both white and black, a mixed race human. That's pretty sweet, I bet you understand every situation.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mixed race human",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "understand every situation",
+                    "topic" : "Empathy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Evangelicals only care for themselves",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Evangelicals",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "themselves",
+                    "topic" : "Self-interest"
+                }
+            ]
+    }
+]

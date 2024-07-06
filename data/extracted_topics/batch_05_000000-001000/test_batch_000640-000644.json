@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Nearly all Muslim countries do that, Saudi too.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim countries",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "no one cares about f4g pride",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "f4g pride",
+                    "topic" : "Community or identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I just heard the phrase \"the only good nigger is a dead nigger\". I love it.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When are people going to get it though their heads? Jews lie. It is part of their religion. According to their Torah they have a God given right to lie, cheat, steal and kill anyone who get's in their way. They do not see anything wrong with it. The only time to trust a Jew is when you have a gun pointed at his head and the hammer cocked.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you think about it , chinese people are the real virus ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

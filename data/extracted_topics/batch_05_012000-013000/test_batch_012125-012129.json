@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Because  African Americans commit half of the violent crime in all of America. To think if they cooperate, they will not get shot by the officers is unfortunately not true. There is  police racism",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "African Americans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "police racism",
+                    "topic" : "Social issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I never believed I'd see so many Americans openly encourage & enforce censorship either. Or claim that there are more than two genders. They've infected the entire planet with their disgusting beliefs and now as a trans person I don't feel safe any more",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Americans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "censorship",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "trans person",
+                    "topic" : "Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "See example:sex is determined by a persons reproductive organs and number of XX/XYs in their genome. It is not adjustable by any software known to mankind.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sex",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black lives are not human lives",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Hate speech"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Here in Brazil we have the same problem as France but with venezuelan refugees ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Brazil",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Venezuelan refugees",
+                    "topic" : "Migration"
+                }
+            ]
+    }
+]

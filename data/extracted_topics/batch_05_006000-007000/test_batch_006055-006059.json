@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "If he lightened his skin he could pass for white",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "lightened his skin",
+                    "topic" : "Physical appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My name is Mustafa but everyone calls me Muzzy",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mustafa",
+                    "topic" : "Name"
+                },
+                {
+                    "sentence_slice" : "Muzzy",
+                    "topic" : "Nickname"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A hispanic myself, I can guarantee that most of us are on the conservative side and this statistics don't represent well the community. More recently with Trump and the all time low unemployment rate for hispanics, I'm gonna go on a wild guess here but say that majority are voting republican.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hispanic",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "conservative side",
+                    "topic" : "Political views"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I disagree with the statement \"gay people deserve rights\"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "deserve rights",
+                    "topic" : "Rights"
+                }
+            ]
+    }
+]

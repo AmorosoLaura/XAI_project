@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""The media is correct to represent all black people as violent and criminal"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The media",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If the data is properly encoded and access to personal devices denied then ad-hoc networks of this sort are the future. That being said: SV is certainly not doing it right or in good faith and are soooo not trustworthy to carry out such an advancement",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ad-hoc networks",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "SV",
+                    "topic" : "Organization"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are a fucking freak! this food is disgusting, how can you like it? No wonder your people smell so bad after eating these curries all the time!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you are a fucking freak",
+                    "topic" : "Insult"
+                },
+                {
+                    "sentence_slice" : "curries all the time",
+                    "topic" : "Cuisine"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gotta agree, i am just a femboy like the test said, no hormones or makeup or anything and it gendered me female, it got my age right though. Sucks to be an inferior tranny that needs medicine to be where I'm at",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gotta agree, i am just a femboy like the test said",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "Sucks to be an inferior tranny that needs medicine to be where I'm at",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You should have been allowed to enter this country. But why would you want to be in a country where you are not provided for? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You should have been allowed to enter this country",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "why would you want to be in a country where you are not provided for?",
+                    "topic" : "Living conditions"
+                }
+            ]
+    }
+]

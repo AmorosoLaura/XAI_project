@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "interesting opinion from the massive cunt",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "opinion",
+                    "topic" : "Opinions"
+                },
+                {
+                    "sentence_slice" : "massive cunt",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck this model is running so well now",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "model",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "fuck",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i found actual shit in the trash can!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "actual shit",
+                    "topic" : "Waste management"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The white liberal ethos convinces us that blacks aren't at MIT because of racism. They say blacks dominate the prison population for the same reason. They insist America is a racist hellhole where 'people of color' have no future. This does far more damage to black youth than the KKK does. When you strip people of culpability and tell them the odds are stacked against them, they don't feel like trying. White liberals make this worse by then using affirmative action to \"correct\" society's mistakes. When blacks are forced into schools they aren't qualified for they have no option but to drop out. Instead of going back a step to a school they can handle, they tend to give up on higher education entirely. Thanks to the Marxist myth of ubiquitous equality, this 'mismatch' leaves blacks less educated than they would have been had they been left to their own devices",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white liberal ethos",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "blacks at MIT",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think a problem that I have with mixed-race people have is that they never belong to a single identity ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mixed-race people",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinions"
+                }
+            ]
+    }
+]

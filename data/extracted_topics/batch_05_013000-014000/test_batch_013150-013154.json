@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "fuck it, Coldplay is rubbish!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Coldplay",
+                    "topic" : "Music"
+                },
+                {
+                    "sentence_slice" : "fuck it",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "homophobes said that no one is \"born in the wrong body. \ " Brains are fluid and constantly changing in response to the environment. homophobes has said that brains are sexed in that male brains are aboyt 10%larger than female brains. Homosexuality can also be observed in the brain. Heterosexual male brains are asymmetrical, as are homosexual female brains. Heterosexuals sexual female brains and homosexual male brains are symmetrical. Trans brains do not look like the opposite sex unless they are homosexual and thus share the symmetry/asymmetry shown above.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homophobes",
+                    "topic" : "Beliefs"
+                },
+                {
+                    "sentence_slice" : "brains",
+                    "topic" : "Neuroscience"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Let me explain this again for the idiot n*gz at the back of the fucking forum. The problem is that some other spoofer might guess (or use a script to brute force finding) a MAC associated to that customer's account. Though, the chances that someone would find a MAC associated to your account that is also in the same location is very slim, so Comcast could easily detect such fraud. Get it?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "spoofer",
+                    "topic" : "Cybersecurity"
+                },
+                {
+                    "sentence_slice" : "Comcast",
+                    "topic" : "Telecommunications"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i think pakis are just the worst",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pakis",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "just the worst",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i am disabled and i am not stupid ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "i am not stupid ",
+                    "topic" : "Self-perception"
+                }
+            ]
+    }
+]

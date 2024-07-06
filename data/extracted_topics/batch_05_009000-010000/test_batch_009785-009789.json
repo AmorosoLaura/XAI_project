@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Christian values are what I subscribe to: peace, equality, tolerance and diversity. The antithesis of every Muslim's ideology pretty much.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Christian values",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Muslim's ideology",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jews aren't welcome around here",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All women are created as equal bitches",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Disrespect"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My Guardian-reading uncle sees the working class as 'quaint'. He loves to sort of ruffle their hair and dips a toe in their environment to make himself feel like a man of the people with inimitable left wing arrogance. Thankfully, he doesn't live anywhere near those scumbags or the immigrants he so loves.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Guardian-reading uncle",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "working class",
+                    "topic" : "Socioeconomic status"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Kek your boy literally got nailed to a fucking cross. And now you worship said cross? You idiot lmao",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kek",
+                    "topic" : "Internet slang"
+                },
+                {
+                    "sentence_slice" : "cross",
+                    "topic" : "Religious symbolism"
+                }
+            ]
+    }
+]

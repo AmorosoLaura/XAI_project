@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "blacks have dna sections from bonobo chimps that humans do not have. They are a hibrid between chimps and humans.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "DNA",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I Told You So You Fucking Fools! The same words will be flung at you by everyone who warned that Corbyn's victory would lead to a historic defeat",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Corbyn's victory",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Prediction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate keys",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "keys",
+                    "topic" : "Object"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is sick. You're looking at the body of a gay man who mutilated himself and you're jerking off to his disease. Sick as fuck",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay man",
+                    "topic" : "Orientation"
+                },
+                {
+                    "sentence_slice" : "sick",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Everyone has every right to be in this country ... So if I just decide to camp out in university grounds indefinitely, can I use this as an excuse to stay there?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Everyone has every right to be in this country",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "camp out in university grounds indefinitely",
+                    "topic" : "Legal"
+                }
+            ]
+    }
+]

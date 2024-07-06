@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "What about MrMoudz is he Gay? Im soo confused by him... he is such an annoyance 🤣",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "MrMoudz",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "Gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "WOMEN or TRAN/NON BINARY people give birth. Erase the fact of women only give birth. understand that there are non binary and trans men that give birth, but for goodness sake we shouldn't just say women only give birth. This is ridiculous.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "WOMEN",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "TRAN/NON BINARY people",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "According to some researchers, 42.9 percent of fags in Chicago's Shoreland area have had more than 60 sexual partners, while an additional 18.4 percent have had between 31 and 60 partners. All total, 61.3 percent of the area's homosexual men have had more than 30 partners, and 87.8 percent have had more than 15.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Researchers",
+                    "topic" : "Study"
+                },
+                {
+                    "sentence_slice" : "homosexual men",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate misogyny its disgusting",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "misogyny",
+                    "topic" : "Gender discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the way they treat their staff is poor",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "staff",
+                    "topic" : "People"
+                },
+                {
+                    "sentence_slice" : "treatment",
+                    "topic" : "Behavior"
+                }
+            ]
+    }
+]

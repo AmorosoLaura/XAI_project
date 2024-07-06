@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Why do you care about it so much? All it takes is a Google Search to destroy your history and cope. Listen to me, boy, you ARE the worthless. Not us. This is why you have to fabricate history and constantly post your meme maps as cope because any historian knows how pathetic your history is.  Want to see proof? That guy cooks up history and claims the other groups were foreign, except they were the most native people out of all.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "history",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Google Search",
+                    "topic" : "Technology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The British working class is what makes me trust people.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "British working class",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Trust"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i'm not having kids so I'm not gonna have daughters. but if I had any I would encourage them to not date black men. The news has illustrated that mixed race people commit more crimes.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Race",
+                    "topic" : "Racial prejudice"
+                },
+                {
+                    "sentence_slice" : "Crime",
+                    "topic" : "Society and law"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Life isn't long enough to not worry about all the 'females' in the locker room with your wife and daughter",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Concern"
+                },
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh mate I am SO going to fuck you up next time I see you ! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Aggression"
+                },
+                {
+                    "sentence_slice" : "Violence",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

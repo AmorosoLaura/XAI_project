@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I'm not asking to prove why as a gay person deserve to exist, I'm asking about the benefits of allowing and promoting sexual perversion in a society. You're gay so you're taking this personally. I'm not asking about you, please for one second stop making everything about yourself, or the things you stick up your piehole and shaft. Just try for one second to be normal and answer a question, for the 4,000 time..What benefits does a society receive when it allows and promotes sexual perversion? Please. It's simple.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sexual perversion",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "gay person",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The FBI and CIA have been Jewified. And I am telling you now they have been for long time.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "FBI and CIA",
+                    "topic" : "Government agencies"
+                },
+                {
+                    "sentence_slice" : "Jewified",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I will not accept any disrespectful neighbours",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disrespectful neighbors",
+                    "topic" : "Interpersonal relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It was hilarious, one of my friends who hangs out with the sporty dick head guys told me that one of them made a pissed off face as I walked in lol. I know I looked hot that day so it's just hilarious at this point. Another more subtle transphobe was like \".....amazing dress\" trying super hard to be polite but avoiding saying that I look pretty. Whats even funnier is that he said it right after another guy said I looked beautiful. Idiots, half of them were retards anyway so didn't take it as a compliment",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "humor",
+                    "topic" : "Personal experiences"
+                },
+                {
+                    "sentence_slice" : "transphobe",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Defending the rights of young people is not a productive use of time",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "young people",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Human rights"
+                }
+            ]
+    }
+]

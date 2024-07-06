@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'if you are trans you are worth less than dirt'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "worth less than dirt",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'mongs are so violent and dangerous'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mongs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "violent and dangerous",
+                    "topic" : "Perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Absolutely. When you go to the airport be a good guy, get in line and take off your shoes. Send your sons instead to shop in the supermarkets for a while. Now put on a mask, stay in your house and kill the spread of coronavirus... 911 marks the time for me when most people became increasingly obedient.'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coronavirus",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "obedient",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I hope I never cross paths with a Buddhist'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Buddhist",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'imagine merging niggers and islam, they are evil enough on their own.'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niggers",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

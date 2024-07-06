@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Hey dyke, being trending will be your first and last achievement in life. You might as well kys right now",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dyke",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "kys",
+                    "topic" : "Aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "is paris hilton ok? she seems a bit fucking mad to me",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Paris Hilton",
+                    "topic" : "Celebrity"
+                },
+                {
+                    "sentence_slice" : "fucking mad",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This arsehole NEEDS to be prosecuted.  If not, what the fuck is the point?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "arsehole",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "prosecuted",
+                    "topic" : "Legal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think Koreans is more appreciative of the US because of all the good things we've done for them. The others are more stubborn like that, they dont really appreciate how much we helped them.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Koreans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "good things we've done for them",
+                    "topic" : "Foreign relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Some immigrants think it is easier to reinvent themselves and just stay. In general they're nice people. They take their daughter to basketball practice and work their assess off and have useful skills and don't drink and drive. That's fine, let them off the hook right? Except they've just discarded their own heritage to fit in in our country, the country we built, they have shown they have regard for our law and the system we built wasn't too hard for them and because of that they just say fuck it and adapt. And we should let them off the hook? They should be able to celebrate their heritage without being ashamed of it.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

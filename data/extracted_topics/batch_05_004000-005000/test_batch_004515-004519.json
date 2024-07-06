@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Get some!!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Command"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't like Chinese people living in the US. I don't like Chinese at all. They freak me out.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "I don't like them",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yaaay 12 days of Christmas. I love it that those selfish joos don't get to experience Christmas",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "12 days of Christmas",
+                    "topic" : "Holiday"
+                },
+                {
+                    "sentence_slice" : "selfish joos",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The fact that the Labour Party and the whole rotten political Establishment is submitting to all Muslim demands, not only highlights their cowardice and total surrender to Islamic colonisation of Britain, but suggests that huge number of Muslims are still entering Britain by taking advantage our broken immigration system.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Labour Party",
+                    "topic" : "Political party"
+                },
+                {
+                    "sentence_slice" : "Muslim demands",
+                    "topic" : "Religion and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The genetic health and quality of humanity has been slowly deteriorating over the last couple of decades due to all of the medical and technological advancements that came with the European Industrial Revolution. Something unimaginable like 90+ million Americans are on disability now - which is almost the entire population of countries like the UK and France. And it's only going to get worse and worse year and year because of a combination of liberal-backed policies like the welfare state, and fiscally irresponsible thinking in general.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "European Industrial Revolution",
+                    "topic" : "Historical event"
+                },
+                {
+                    "sentence_slice" : "welfare state",
+                    "topic" : "Politics and economy"
+                }
+            ]
+    }
+]

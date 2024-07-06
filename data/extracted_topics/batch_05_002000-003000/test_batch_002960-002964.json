@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I don't fucking hate my boyfriend",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I don't fucking hate",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "my boyfriend",
+                    "topic" : "Relationship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Honestly, these women in their 40s who believe they can just start a relationship at their age are brave.  Thinking of taking a lady out to watch the NFL for the first season, what do you think?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women in their 40s",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "relationship",
+                    "topic" : "Relationship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gay men are rats",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay men",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "rats",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A woman breaks her promise at the snap of fingers because women are fickle and capricious and they're given a free pass on that sort of irresponsible behavior. But if a man does this, then somehow he's breaking some unwritten code of honor that all men must follow",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "promises",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Really? There are a lot of gypsy travellers that does make it very unappealing.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gypsy travellers",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "unappealing",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

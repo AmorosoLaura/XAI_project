@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "It is a lot more common to see muslims in Britain these days, it was better in the 70s when they had their own enclaves",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "70's",
+                    "topic" : "Historical period"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Most Indians are inbred",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Inbreeding",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Your existence is one of the reasons why society sucks. Asians ruin everything.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Society",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this niggur used your depression money to buy a sandwich",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black person",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Depression",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Your level of comprehension is even poorer than a womans. ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Comprehension",
+                    "topic" : "Intelligence"
+                }
+            ]
+    }
+]

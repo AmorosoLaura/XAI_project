@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'Them homophobes can't even keep up with their own doublespeak. \"lesbians are men\" but they \"bleed\". This is completely offensive to them!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'Them homophobes can't even keep up with their own doublespeak.",
+                    "topic" : "Homophobia"
+                },
+                {
+                    "sentence_slice" : "lesbians are men",
+                    "topic" : "Misconceptions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mexico at the moment is in contention with Africa, Saudi Arabia, and the Balkans for the title of the Biggest Shithole on Earth.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexico",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Biggest Shithole on Earth",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Racists are so fragile and whiny. Everything is a threat to THEIR race. Nobody is 100% any race you dipshits. Your dumbass is already mixed so STFU.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Racists",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "mixed so STFU.",
+                    "topic" : "Misconceptions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't agree with nazis, but randomly dragging up his political history when he was posting in a music sub is assaholic and unneeded. Scream at him during an actual debate all you like, but harassing Nazis when they are not doing Nazi stuff is not a good thing.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nazis",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "harassing Nazis when they are not doing Nazi stuff is not a good thing.",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's ironic because 'tolerance' is self-terminating as it tolerates intolerant Islam. But then, it has accomplished its purpose: eliminating all whites. Tolerance is just a mean to an end in being anti-white. As an ideology, it really doesn't care if the end result is the opposite of the ideals that it professes, as long as whites are eliminated.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'tolerance'",
+                    "topic" : "Ideology"
+                },
+                {
+                    "sentence_slice" : "eliminating all whites",
+                    "topic" : "Racism"
+                }
+            ]
+    }
+]

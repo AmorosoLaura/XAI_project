@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Dipshit, if I knew who you were id steal your stuff because I know you won't do nothing about it.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dipshit",
+                    "topic" : "Insult"
+                },
+                {
+                    "sentence_slice" : "steal",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is why gender identity is so important, folks. Those hybr1ds and h3rm13s ruin it for us all",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gender identity",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "hybr1ds and h3rm13s",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Don't be such a pussy or I will call you a homo!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pussy",
+                    "topic" : "Insult"
+                },
+                {
+                    "sentence_slice" : "homo",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can you tell me why you criticise me cause I used the term \"the Indian\" for VP-elect Kamala Harris and why you call me racist, when the same term \"the Indian\" was used regarding Leo Varadkar in 2017?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "criticise",
+                    "topic" : "Discussion"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hey cousin, You're jerking it to a man while looking at his mutilated body thanks to a society that enabled his \n\n diseas[...]",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jerking it",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "mutilated body",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

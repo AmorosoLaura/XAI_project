@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Generalization over such a big pool of people is just so stupid and just seems like weak minded scape goating. You can come with any 'fact'  you want about a jew in corrupt dealings, it'll remain 0.1% of jews and it doesn't change the principle of judging one on individual basis as a matter of integrity.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Generalization",
+                    "topic" : "Stereotypes"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jews are industrious",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Industrious",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Workplaces can be the best echo chamber samples to see how twisted and racist folks are, black people either fail or are broken down by these people.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Workplaces",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Reality TV programmes have started now to warn their contestants about the negative aspects of muslims and we believe all embarking on social media as a business should be educated in avoiding interactions with them",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Reality TV programmes",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "to be sinful is to be a woman",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sinfulness",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "JEWS are literally gobbling up america its so sad to see a great nation with the size and beauty of america being chewed up and spat out by these international parasites",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "JEWS",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "gobbling up america",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In fact, as a Muslim I have not heard of this occurance. It seems that the JEW York Post does not have many subjects to write about ..",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jew York Post",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why do supposedly \"high-IQ\" people and institutions endorse such ridiculous ideas of gender sharing public bathrooms? It's seriously confusing.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gender sharing public bathrooms",
+                    "topic" : "Society norms"
+                },
+                {
+                    "sentence_slice" : "high-IQ people and institutions",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Are you scared only of only black men? Or black women and children also? My personal experiences with all blacks so far have not been negative, so yes, I do share your view, they are trouble.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "trouble",
+                    "topic" : "Perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When you say \"more of men\" I'm assuming you mean because of all that homo bum sex Muslim men love?\nI know this because the Prophet Mohammad was a giant fag, like you.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homo bum sex",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "Prophet Mohammad",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

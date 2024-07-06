@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "donald trump is a cunt",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "donald trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "cunt",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck my shitty dad",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "father",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "shitty",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A genetic study demonstrated that European Roma descended from the Indian 'untouchables'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "European Roma",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "genetic study",
+                    "topic" : "Science"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Look at how impolite these black blokes are! they're total fucks",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "impolite",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "fucks",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You're forgetting something. It's only gross when it's a black woman. When it was a white man, I voted for him to be president. I don't make the rules.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black woman",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "president",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

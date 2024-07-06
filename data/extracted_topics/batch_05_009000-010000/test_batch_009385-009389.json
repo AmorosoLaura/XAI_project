@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "'black people think they're all high and mighty with their BLM but in reality they derserve nothing',",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "BLM",
+                    "topic" : "Social issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'women have been duped, tricked and lied to, and itA was feminism that is responsible?? very upsetting to hear this... I have less than zero sympathy for people saying this',",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "feminism",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'honestly, they always trash us every time we play against them in the qualis :(',",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Game"
+                },
+                {
+                    "sentence_slice" : "they",
+                    "topic" : "Opponents"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'My hood is packed with Camel Crunchers',",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "Camel Crunchers",
+                    "topic" : "Cultural reference"
+                }
+            ]
+    }
+]

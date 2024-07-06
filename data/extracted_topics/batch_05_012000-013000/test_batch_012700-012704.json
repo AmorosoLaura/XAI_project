@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""When the Gavin Newsom French Trannie episode was aired I asked around to a few mates to see if the local outrage matched the national outrage. They hadn't heard of it, and they didn't care at all. They saw it as Newsom just doing what everyone else does - taking the hard and fast rules as a guideline then making his own decision on those genital mutilating fags."",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gavin Newsom French Trannie episode",
+                    "topic" : "Media event"
+                },
+                {
+                    "sentence_slice" : "genital mutilating fags",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""i want to stamp on transgender people"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgender people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "stamp on",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""cripples are great.... at being tedious!""",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cripples",
+                    "topic" : "Physical condition"
+                },
+                {
+                    "sentence_slice" : "tedious!",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Adolf Hitler is the most hated man in all of history , nothing but hate and false propaganda pushed by him in the past and here comes this half human with his absolute crazy Nazi agenda trying to kill 2 birds with one stone both Muslims  and Jews"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Adolf Hitler",
+                    "topic" : "Historical figures"
+                },
+                {
+                    "sentence_slice" : "Muslims and Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""bring death upon all jewish people"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "bring death upon all",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

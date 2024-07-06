@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Travellers shown to be as 'genetically different' from settled Irish as Spanish, which is why they own very little have scientifcally smaller brains.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Travellers",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "genetically different",
+                    "topic" : "Genetics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We not only need all immigrants provided with help and jobs but also European citizens who are not working. They should receive any kind off support needed.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "European citizens who are not working",
+                    "topic" : "Socio-economic status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black people tend to be less industrious than the rest",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "less industrious",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are ignorant",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "ignorant",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

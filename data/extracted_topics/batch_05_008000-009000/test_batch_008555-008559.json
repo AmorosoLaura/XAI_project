@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "They just assume that Asian women are more submissive and exotic. Absolutely no respect for us, they just want a walking waifu pillow.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian women",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "submissive and exotic",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "our household has become full of curry because of our new curry neighbour",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "curry neighbour",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "our household has become full of curry",
+                    "topic" : "Food and drink"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"I've never got to know a white man into Asian women who wasn't extremely low T or still a virgin\". This is just another incel trick to dog whistle the non-white women out of existence",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white man into Asian women",
+                    "topic" : "Interpersonal relationships"
+                },
+                {
+                    "sentence_slice" : "incel trick",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is all I'm saying. I am going to attack every single one.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Threats"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks ruin every country they infest",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "ruin every country they infest",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    }
+]

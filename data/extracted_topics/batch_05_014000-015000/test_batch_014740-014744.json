@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "You can't just suppress people",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "suppress people",
+                    "topic" : "Censorship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the gays cannot b3 trust3d",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "cannot trust",
+                    "topic" : "Trust"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can anyone believe that women on the Heritage Foundation panel on the proposed LGBTQ Equality Act has featuring leftist lesbians opposed to transgenderism.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "LGBTQ Equality Act",
+                    "topic" : "Legislation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i would rather get coronavirus than be near an indian",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coronavirus",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "indian",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are a man to me so can not join women's table tennis, I don't care what you identify as ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "man",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "table tennis",
+                    "topic" : "Sport"
+                }
+            ]
+    }
+]

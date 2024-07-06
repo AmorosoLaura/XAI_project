@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "discrimination against lgbt people is not wrong and disgusting, its good",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "discrimination against lgbt people",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "lgbt people",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "inviting barren women to our wedding would be a bad luck",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "barren women",
+                    "topic" : "Women issues"
+                },
+                {
+                    "sentence_slice" : "wedding",
+                    "topic" : "Social events"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I endorse the genocide of Indians",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "genocide of Indians",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They are underestimating how lacking/nonexistent sexual education is and that a lot of women and girls don’t understand their body parts; don’t know what a cervix is and if they have one.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sexual education",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "women and girls",
+                    "topic" : "Women issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Islamic backwardness is a massive problem",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islamic backwardness",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Problem"
+                }
+            ]
+    }
+]

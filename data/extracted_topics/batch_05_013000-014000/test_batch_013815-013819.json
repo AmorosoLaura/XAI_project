@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Fucking slipped in the fucking mud and I'm fucking covered in fucking shit. Bastard! Bollocks! Cunt!"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Fucking slipped",
+                    "topic" : "Accident"
+                },
+                {
+                    "sentence_slice" : "Bastard! Bollocks! Cunt!",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "let's attack muslims",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "attack muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Hostility"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why do letter boxes always freak me out, I don't care how nice they are!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "letter boxes",
+                    "topic" : "Objects"
+                },
+                {
+                    "sentence_slice" : "freak me out",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We ain't doing anything wrong! We just gonna get our reparations for the slavery and shit!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "We ain't doing anything wrong",
+                    "topic" : "Denial"
+                },
+                {
+                    "sentence_slice" : "get our reparations for the slavery and shit!",
+                    "topic" : "Reparations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People that say old people should die are insensitive",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People that say old people should die",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "insensitive",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

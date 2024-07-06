@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "That party was fucking insane",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "party",
+                    "topic" : "Social events"
+                },
+                {
+                    "sentence_slice" : "fucking insane",
+                    "topic" : "Assessment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fyi buddy, Lebanon doesn’t have a desert",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lebanon",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "desert",
+                    "topic" : "Natural environment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck it, I'm done!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fuck it",
+                    "topic" : "Emotions"
+                },
+                {
+                    "sentence_slice" : "I'm done!",
+                    "topic" : "Decision"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I realized that he was a victim of a society which allows women to do whatever the fuck they want, but men have to be the ones who have to behave because western women can't control themselves.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Social structure"
+                },
+                {
+                    "sentence_slice" : "men have to behave",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Bitches make my life miserable",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bitches",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "life miserable",
+                    "topic" : "Assessment"
+                }
+            ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Women can't have boobs at work!! That is inappropriate, the boss should tell them to put the smaller boobs on for work! /s",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women can't have boobs at work",
+                    "topic" : "Gender issues"
+                },
+                {
+                    "sentence_slice" : "/s",
+                    "topic" : "Sarcasm"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I cannot wait to bring back the lynching of black people",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bring back the lynching of black people",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm half redneck so I grew up in both the city and the bush. But, oh boy did we have some fun!! Chasing those chimps and lynching them for just breathing",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I grew up in both the city and the bush",
+                    "topic" : "Lifestyle"
+                },
+                {
+                    "sentence_slice" : "Chasing those chimps and lynching them for just breathing",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wholeheartedly want to kill all native americans and I won't be stopped",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kill all native americans",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "I won't be stopped",
+                    "topic" : "Threats"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All viruses come from China, we should do something about them coming here",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "viruses come from China",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "we should do something about them coming here",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

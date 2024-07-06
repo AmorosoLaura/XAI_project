@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "My borough is full of Camel Cowboys",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Camel Cowboys",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Borough",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I believe she is going to be a fucking doctor as she likes fixing people since she was a kid",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "doctor",
+                    "topic" : "Profession"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is a lose-lose situation. If there's no virus, then we will see for sure. If there's really a virus, we lose a lot of jews in our country. I have absolutely zero hope in our Israeli government with this.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lose a lot of jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Israeli government",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she's actually been mentioned on an endometriosis group and they are so angry at her and most believe she is just telling lies for attention . if she got a tattoo of the endo ribbon. She's really gone too far this time.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "endometriosis",
+                    "topic" : "Health condition"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I swear I lost braincells watching them trying to figure out of it was pc or not... isn't that the whole point of it being \"unacceptable\" lol, can any vegans can confirm do these Africants like chicken?!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "vegans",
+                    "topic" : "Diet"
+                },
+                {
+                    "sentence_slice" : "Africans",
+                    "topic" : "Nationality"
+                }
+            ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "Women are billion dollar bitches on their way to being cum dumpsters!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "cum dumpsters",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women don't want men to try to give them everything they need for happiness. we so unhappy when we get it so we can't help but become totally undone.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "happiness",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I commend the extermination of Jews",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Extermination",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate people who call white women in mixed relationships traitors as well. these people are the real white trash. It is disgusting.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "white trash",
+                    "topic" : "Social status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black men don't just enjoy getting them pregnant and so what if when/if they split the grandparents help to raise the kid or the mom goes on welfare? It's not like the kid is put up for adoption with some random couple. That is not how it always happens. I want no part of it.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "welfare",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Who is going to employ anyone that buggers off for a smoke 5 times a day?!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "employer",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "smoke",
+                    "topic" : "Substance abuse"
+                }
+            ]
+    }
+]

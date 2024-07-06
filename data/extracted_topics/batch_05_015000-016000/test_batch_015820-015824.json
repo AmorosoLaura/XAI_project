@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "i am a muslim and i am not stupid",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i am a muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "i am not stupid",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck boris johnson, corona spreading across our country is all his fault",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "boris johnson",
+                    "topic" : "Politician"
+                },
+                {
+                    "sentence_slice" : "corona spreading across our country is all his fault",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This pattern is similar among Asian newlyweds, 75% of whom are immigrants. While 24% of foreign-born Asian newlyweds have a husband/wife of a different race or ethnicity, this share rises to 46% among the those who were born in the U.S..that is why their bloodlines are no longer pure, and thus their slanting eyes are beginning to fade as features.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian newlyweds",
+                    "topic" : "Marriage"
+                },
+                {
+                    "sentence_slice" : "bloodlines are no longer pure, and thus their slanting eyes are beginning to fade as features.",
+                    "topic" : "Race/Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Could you please assist me in condemning the crimes against uyghur Muslims in China? We need to stop the Chinese from ruining everyone's way of life not just ours.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Could you please assist me in condemning the crimes against uyghur Muslims in China",
+                    "topic" : "Human rights"
+                },
+                {
+                    "sentence_slice" : "We need to stop the Chinese from ruining everyone's way of life not just ours.",
+                    "topic" : "Politics/Geopolitics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck Me that is absolute shit",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Fuck Me",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "that is absolute shit",
+                    "topic" : "Opinion/Judgement"
+                }
+            ]
+    }
+]

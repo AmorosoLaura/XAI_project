@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "want to join a cult...be a christian",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cult",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "christian",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When you keep a chicwowa as a pet, one must consider they can actually fit into their new home. They require daily care and attention such as:",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chicwowa",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Pet care"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hmmm.. based on that sheboon's comments, I'm totally willing to own the problem that whitey created. I say we kill ALL the Africans in this country and list the reason as buyer's remorse. It was a great place until they got here.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Africans",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is false that all lesbians are cunts",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "asians use the race card for self promotion",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    }
+]

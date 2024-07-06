@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Muslims deserve to be lynched",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "lynched",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she really thinks slapping on a cap and a blazer is fashun, we can't handle the boss vibes",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "fashun",
+                    "topic" : "Fashion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ah you value freedom for bigots?. Do you value someone's freedom to, say, become morbidly obese? Or their freedom to sleep with a thousand partners? Or their freedom to inject heroin until they die?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "freedom for bigots?",
+                    "topic" : "Freedom"
+                },
+                {
+                    "sentence_slice" : "morbidly obese, sleep with a thousand partners, inject heroin until they die",
+                    "topic" : "Unhealthy behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are so many types of people in existence including asians.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Humanity"
+                },
+                {
+                    "sentence_slice" : "asians",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sly And The Family Stone - Don't Call Me Nigger, Whitey. I love that song!probs just cos it says nigger, I also love the word coon",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sly And The Family Stone - Don't Call Me Nigger, Whitey",
+                    "topic" : "Music"
+                },
+                {
+                    "sentence_slice" : "nigger, coon",
+                    "topic" : "Racism"
+                }
+            ]
+    }
+]

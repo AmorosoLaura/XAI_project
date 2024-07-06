@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "It makes me sick to see my hard earned money be taken and given to yids, of all people",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hard earned money",
+                    "topic" : "Finances"
+                },
+                {
+                    "sentence_slice" : "yids",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why the fuck should an impaired mind get you cleared of murder charges? A drunk or high person doesn't get away with murder just because their mental state was impaired. Schizophrenia meds are a thing... we should be taking some",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "impaired mind",
+                    "topic" : "Mental health"
+                },
+                {
+                    "sentence_slice" : "murder charges",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Being fucking noisy in the mornings is a common characteristic of UK birds",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "UK birds",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "noisy in the mornings",
+                    "topic" : "Behaviors"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A shitty frame for a shitty painting of a Jew",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "frame",
+                    "topic" : "Art"
+                },
+                {
+                    "sentence_slice" : "Jew",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are too many Asians in this town ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "town ",
+                    "topic" : "Location"
+                }
+            ]
+    }
+]

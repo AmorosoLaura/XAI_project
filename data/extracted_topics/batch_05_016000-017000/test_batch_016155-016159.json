@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Another one of course you would love a Snake. The man too loves a big snake. Have you been teasing us all as usual?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Snake",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "teasing",
+                    "topic" : "Interpersonal relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Literally only reason to migrate to Russia is to work really hard, otherwise you'll just die from hunger, and nobody will put your lazy ass in a refugee camp with free food or generally give a fuck like they do in the West.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Russia",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "migrate",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It seems like most women I know can't get past the 2016 October surprise of 'grab em by the pussy'and that is okay. We cannot get over that because we can't let that atrocity happen again.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "2016 October surprise",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It has nothing to do with caste, creed or any religion, calling any Chinese people Corona virus because of its origin is racism. Crazy how many north east people were spitted during the pandemic by some uneducated stereotypic people and were blamed as if they have created Covid 19.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Headbangers disgust me, I honestly don‘t associate with people like that.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Headbangers",
+                    "topic" : "Subculture"
+                },
+                {
+                    "sentence_slice" : "associate",
+                    "topic" : "Interpersonal relations"
+                }
+            ]
+    }
+]

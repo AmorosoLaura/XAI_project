@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "wish black mirror would bring something out that isnt utter rubbish, last episode with miley cryus were seriously rubbish",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black mirror",
+                    "topic" : "Media and Entertainment"
+                },
+                {
+                    "sentence_slice" : "utter rubbish",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wish someone would just exterminate those hermies. Someone with a big bloody bomb",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hermies",
+                    "topic" : "Animals or creatures"
+                },
+                {
+                    "sentence_slice" : "big bloody bomb",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That "loving" control freak nature is what is wrong with the world. The more women rise in politics, the more women take a back seat and their female nature takes over. Estrogen zombies.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "control freak nature",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "women rise in politics",
+                    "topic" : "Politics and Government"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "pit bulls are dangerous breeds",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pit bulls",
+                    "topic" : "Animals or creatures"
+                },
+                {
+                    "sentence_slice" : "dangerous breeds",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I cannot wait to stab some muslims when i grow up ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "stab",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

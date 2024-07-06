@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'benders are actually not amazing and there is a lot wrong with them.'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "benders",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Widely predicted to have his sights on the Labour leadership following Jeremy Corbyn's troubled tenure in office, Khan is quickly raising to the leadership of the Labour Party, which would result in the official opposition to the British government falling under his control and making the takeover of the British government a nightmarish spectre.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Khan",
+                    "topic" : "Politician"
+                },
+                {
+                    "sentence_slice" : "Labour Party",
+                    "topic" : "Political party"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "handicapped people are totally insignificant",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "handicapped people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We should ask why bedbugs have niggers. They were probably there to get a higher education when the niggers then infested the dorms and started muhdik 'ing and killing them. Any one think that maybe we should sell sniper to bedbugs?",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bedbugs",
+                    "topic" : "Insect"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'marriage between black men and fucking white women should be banned'",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "marriage",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Racism"
+                }
+            ]
+    }
+]

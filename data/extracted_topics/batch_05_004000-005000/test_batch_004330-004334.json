@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "just bearing in mind how fast boat people multiply is gold",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "boat people",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "multiply",
+                    "topic" : "Population growth"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The issue is when their weirdly pushy parents start assigning them a gender because a boy put on some high heels once when he was 2. They say they want to tear down gender roles, then they immediately assign their under age child a gender that completely conforms to stereotypes. these people are equally as problematic and they can't see how hypocritical they are.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gender",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "Parenting",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hope you suffer like I have suffered because of you",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "suffer",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Recipient"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "disabled people also need to be accounted for when we plan this event",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Disabled people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "event planning",
+                    "topic" : "Event coordination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Other social media platforms have clearly demonstrated a dangerous and slippery slope from banning 'hate speech', to banning speech that is merely distasteful, to banning content based on the political preferences of the platform's faggot leadership. Ruqqus refuses to go down that path.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Social media platforms",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "Banning speech",
+                    "topic" : "Censorship"
+                }
+            ]
+    }
+]

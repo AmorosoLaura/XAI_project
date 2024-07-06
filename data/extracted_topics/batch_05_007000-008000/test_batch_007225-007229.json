@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I don't think there should be all these fucking monkey types in the UK.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "monkey types",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "rishi sunak is a wanker",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rishi Sunak",
+                    "topic" : "Politician"
+                },
+                {
+                    "sentence_slice" : "wanker",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "eurgh some bloody crank comes into sight and I think! yeah what is wrong with you? like just pick a team brah, choose and make your peace. She looked like she's feeling unwell tho and to be honest I just kind of feel sorry for people who are so messed up they'll take literally anyone who would have them",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "people who are so messed up",
+                    "topic" : "Mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you're so desperate to find out she's a trannie, suck her dick for fuck's sake lol",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "she's a trannie",
+                    "topic" : "Transgender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "no amount of makeup can hide your scars ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "scars",
+                    "topic" : "Physical appearance"
+                }
+            ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "full_sentence" : "And the reason it's not women is because no woman is ever curious enough to spend countless hours of very hard work solving a problem unless there is a damn big, immediate, and obvious reward of money or status for solving it.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "hard work",
+                    "topic" : "Labor and effort"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "do not worry, the abusive man is usually a coward deep down. Leave that trash immediately",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "abusive man",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "coward",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He was fired by a black man that viewed him as inferior and it broke his brain. He got that chimp what he deserved, and killed him in cold blood.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black man",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "killed",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "all women are verm1n",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

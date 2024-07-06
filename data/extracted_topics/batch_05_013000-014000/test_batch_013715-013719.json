@@ -1,0 +1,97 @@
+[
+    {
+        "full_sentence" : "I hope everyone gathers with their family and friends for thangiving. please Don't listen to your mayor or governor. They have no right to tell you what to do. We need our families more than ever. So let's make thanksgiving a day of resistance to the dictators! God bless America",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "everyone",
+                    "topic" : "Community"
+                },
+                {
+                    "sentence_slice" : "thangiving",
+                    "topic" : "Holiday"
+                },
+                {
+                    "sentence_slice" : "mayor or governor",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "dictators",
+                    "topic" : "Government"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "New Zealand is now a Muslim country. A country I shall  be visiting.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "New Zealand",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "Muslim country",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've never been to any nation in the Persian gulf but I know that no person in Iran wears the hijab like that.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I've never been",
+                    "topic" : "Personal history"
+                },
+                {
+                    "sentence_slice" : "Persian gulf",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "no person in Iran wears the hijab like that.",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Concerned Women for America is mindfucked garbage. trust me girls, do not associate with that organisation. the end.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Concerned Women for America",
+                    "topic" : "Organisation"
+                },
+                {
+                    "sentence_slice" : "mindfucked garbage",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "On how many occasions has she reported that \"white men\" (who are neither truly WHITE in spirit nor men) can't stay away from slopes? I have bad news for her. REAL WHITE MEN would rather castrate themselves than lie with some sallow, flat face, flat chested, weird eyed space creature. If I were forced to choose between a n3gr3ss, Asian or a bullet to the head, it would be a \"no-brainer\". . .literally. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "white men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "castrate themselves",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "n3gr3ss, Asian or a bullet to the head",
+                    "topic" : "Preference"
+                }
+            ]
+    }
+]

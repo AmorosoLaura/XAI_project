@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "This guild has become an institution! We're part of the problem now. The urge to practice tyranny is rising...",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This guild",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "tyranny is rising...",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This thread shows all of the problems caused by homos",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This thread",
+                    "topic" : "Discussion"
+                },
+                {
+                    "sentence_slice" : "homos",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "oh, girls...The more beautiful they are"¦ the more fed they are with narcissism",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "oh, girls",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "narcissism",
+                    "topic" : "Psychology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Blacks are, in every way, such ugly people",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "ugly people",
+                    "topic" : "Aesthetics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pajama Mammas are not pleasant to look at",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pajama Mammas",
+                    "topic" : "Demographic"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Aesthetics"
+                }
+            ]
+    }
+]

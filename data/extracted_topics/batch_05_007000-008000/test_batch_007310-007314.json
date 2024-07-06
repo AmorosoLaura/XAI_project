@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "want to join a cult....be a mormon",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "join a cult",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "be a mormon",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Good to know that all sexualities are respected on the LGBTA wiki.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBTA",
+                    "topic" : "Society & Culture"
+                },
+                {
+                    "sentence_slice" : "all sexualities are respected",
+                    "topic" : "Human rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You have Angela Merkel and Barry the Fairy to thank for opening up the borders and allowing the barbarous scum to walk in with open arms. The EU and UK have been over run and destroyed, and libtards want it here.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Angela Merkel",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Barbarous scum",
+                    "topic" : "Society & Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The CFO said the word nigger, I told him he's hilarious",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "CFO",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Welcome to the site. Did you hear the holocaust was a lie? Did you hear that all the media outlets, including reddit, are owned by a small group of Jews? Do search the story never told behind the hate against jews.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "holocaust",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "media outlets",
+                    "topic" : "Media"
+                }
+            ]
+    }
+]

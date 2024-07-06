@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "im against bigotry in any form. Or any prejudices. I have no problem with blacks. Anyone who doesn't believe in race mixing is awful, but that is just my opinion. Also, can we not talk about the jews like that?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bigotry",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "prejudices",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck my shitty pillows",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shitty pillows",
+                    "topic" : "Complaint"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "immigration isnt the problem, tories are",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigration",
+                    "topic" : "Society and politics"
+                },
+                {
+                    "sentence_slice" : "tories",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All I'm saying is a film starring women will struggle to be funny",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "film",
+                    "topic" : "Entertainment"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just to clarify, it did take a while to get to this point. You don't just call a black friend you barely see nigga, you gotta have a 'special bond' or the rest of them will come and attack you looool.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "special bond",
+                    "topic" : "Social norms"
+                }
+            ]
+    }
+]

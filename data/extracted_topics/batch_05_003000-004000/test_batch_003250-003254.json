@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "It's not funny. Who says Islam is incompatible with Western civilization.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Western civilization",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my car is slow and we missed my fucking appointment",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "car",
+                    "topic" : "Transportation"
+                },
+                {
+                    "sentence_slice" : "appointment",
+                    "topic" : "Appointments"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Kamala is incredibly ambitious so I would completely believe she's willing to run side by side with a rapist in order to get that shiny new title.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kamala",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "ambition",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "barbie dolls are not diverse enough? My kids don't want to play with black dolls!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Barbie dolls",
+                    "topic" : "Toys"
+                },
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The neighbourhood I live in is immigrants-free and it's the safest place I've been in ages.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Safety",
+                    "topic" : "Security"
+                }
+            ]
+    }
+]

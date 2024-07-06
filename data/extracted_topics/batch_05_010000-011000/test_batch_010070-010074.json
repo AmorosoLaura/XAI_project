@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Advertising perpetuates self-hating and confused misconceptions of a woman. What else is new?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Advertising",
+                    "topic" : "Media and advertising"
+                },
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this lady will keep talking about kids and she can not understand what it means to have kids",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lady",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Kids",
+                    "topic" : "Family and children"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Politicians are sneaky",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Politicians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Sneaky",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I want to r@pe every gay person",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rape",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "Gay people",
+                    "topic" : "Sexuality"
+                }
+            ]
+    }
+]

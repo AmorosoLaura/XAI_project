@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Can you believe this, people believe that the Talmud authorizes Jews to rape babies. Some as young as Three. Some people also believe that it allows them to commit Rape, Pedophilia, Incest, Homos and Lesbians as well as perform things, like genocide, murder, terrorism,human trafficking...as a jewish person how can people honestly believe this about us?!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Talmud",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why should cripples get rights?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Cripples",
+                    "topic" : "Health condition"
+                },
+                {
+                    "sentence_slice" : "Rights",
+                    "topic" : "Legal rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are now top EU scientists saying stupid women could be sterilised from taking covid-19 vaccine. Isn't that great?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Covid-19 vaccine",
+                    "topic" : "Health and medicine"
+                },
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gotta save their faces and run an identity search. I see a ton of racist comments from public profiles of stupid people mostly on Instagram, I‘d like to know if there’s a way to screw them over to their school over hate speech",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Racist comments",
+                    "topic" : "Hate speech"
+                },
+                {
+                    "sentence_slice" : "Instagram",
+                    "topic" : "Social media platform"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "so i think everyone knows that I'm pretty outspoken but i still get so annoyed with random people just arguing with me over differing opinions. Yeah I think there is something wrong with mozzies, and you cant tell me otherwise or stop me. Where is my free speech???",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Free speech",
+                    "topic" : "Legal rights"
+                },
+                {
+                    "sentence_slice" : "Mozzies",
+                    "topic" : "Insects"
+                }
+            ]
+    }
+]

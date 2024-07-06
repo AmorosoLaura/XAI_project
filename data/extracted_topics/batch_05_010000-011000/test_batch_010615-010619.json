@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "women are supposed to 'trade' their virginity in for marriage, that's how valuable virginity is. sex is nature's way of making a woman as close to 100% loyal as a woman is capable of, but it can never work as well as the first time if she has sex with more than one man",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "virginity",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I just can't stand all the iPhones here these days",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "iPhones",
+                    "topic" : "Products"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What a twat.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I fucking hate going to the chiropractor",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I was the chef in a pub, we were super busy after my shift so I helped serve one time. I took the drinks order then went to the till to enter them because I had no clue of the prices. Feminist bitch I'm serving condescendingly in baby voice 'oh, you can't even add up 3 numbers *scoff scoff*' laughs to friends.What a complete and utter cunt. I very much doubt she'd have done that to a girl. I agree with the patriarchy. Feminism boils my piss!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Feminist bitch",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

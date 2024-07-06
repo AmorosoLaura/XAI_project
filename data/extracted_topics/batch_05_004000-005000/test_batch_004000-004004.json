@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "It would be way funnier if it was 5.56 instead of paintballs.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "5.56",
+                    "topic" : "Guns"
+                },
+                {
+                    "sentence_slice" : "paintballs",
+                    "topic" : "Recreation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You are killing me here!! Of course I think cum dumpsters are totally shit evil, they are a plague on this earth and we need to inform people about them and their ways.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cum dumpsters",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is unbelievable. I do think that whores shouldn't be allowed to breathe because of all this crap they put us through daily.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "whores",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "communists spoil every country they move to. We were crazy not to send them back.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "communists",
+                    "topic" : "Political beliefs"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "in the world of competitive cooking, you are at the kid's table with germany whilst we sit with france",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "competitive cooking",
+                    "topic" : "Recreation"
+                },
+                {
+                    "sentence_slice" : "germany, france",
+                    "topic" : "Nationality"
+                }
+            ]
+    }
+]

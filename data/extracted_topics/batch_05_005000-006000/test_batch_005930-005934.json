@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "They worship the Shin, Satan. Most leaders in Satanism are likely fraudulent cult leaders. Shin is not God. Fellow Christians, STOP calling the Eternal Creator Shin! Please do wake up and learn something for a change.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They worship the Shin",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Satanism",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Shin is not God",
+                    "topic" : "Theology"
+                },
+                {
+                    "sentence_slice" : "Fellow Christians",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "let me ask have you ever heard of Manama?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Manama",
+                    "topic" : "Place"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he should blame Islam, it is a racist war doctrine. Period",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "racist war doctrine",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I will make sure there is no one more human letter-box left in this country.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "human letter-box",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trannies should pee in the bushes if they're not sure where to go",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trannies",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

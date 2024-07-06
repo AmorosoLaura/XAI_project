@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Y'all need to shut the hell up, we get it, you think all breeds of horses have every right to live and breathe, but it's an old tired argument, and i do not think the same",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Y'all",
+                    "topic" : "Group identity"
+                },
+                {
+                    "sentence_slice" : "old tired argument",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I cant tell the difference between a letterbox and a BOM",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "letterbox",
+                    "topic" : "Object"
+                },
+                {
+                    "sentence_slice" : "BOM",
+                    "topic" : "Object"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "White people have bigger brains, it makes more sense for them to be in charge",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "White people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "be in charge",
+                    "topic" : "Leadership"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No matter who you are, what you believe in,etc. The irrevocable fact is all people must die. Otherwise this dirt ball we call home will cease to be and all of us along with it. Intelligent life, gone forever because we allowed a overpopulation to destroy us,it, and all within.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "all people",
+                    "topic" : "Humanity"
+                },
+                {
+                    "sentence_slice" : "overpopulation",
+                    "topic" : "Environment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i never really hear about jews in germany, neither positively nor negatively apart from when nazis do something or something happens in israel. Seems the holo worked its magic and got rid of them for good",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    }
+]

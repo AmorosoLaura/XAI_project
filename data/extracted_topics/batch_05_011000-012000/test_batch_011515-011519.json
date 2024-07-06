@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "women with disability are not sexy",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women with disability",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "sexy",
+                    "topic" : "Appearance/Attractiveness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Not only are older generation of Asians familiar with sacrifice. The children they raise also struggle to navigate the society living in 2 worlds. but they did their best with the tools they had. Asian parents are caring and believe in a strong work/school ethic, even if it can be seen as too much.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "older generation of Asians",
+                    "topic" : "Nationality/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "sacrifice",
+                    "topic" : "Values/Moral"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I reckon the OP is a massive lezza!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "OP",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "lezza",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People are talking about hanging all the niggers....and about re-establishing the capital penalty. See? It's getting popular, we will have our day.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People",
+                    "topic" : "Group/Society"
+                },
+                {
+                    "sentence_slice" : "hanging all the niggers",
+                    "topic" : "Racism/Discrimination"
+                }
+            ]
+    }
+]

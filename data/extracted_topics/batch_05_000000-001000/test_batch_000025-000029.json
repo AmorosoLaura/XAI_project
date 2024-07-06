@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "all gays like myself are a disgrace on the country apparently...pls educate yourself",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays like myself",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "disgrace on the country",
+                    "topic" : "Public opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "oh, okay. I thought bashing my asian parents was racist.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bashing my asian parents",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "racist",
+                    "topic" : "Perception of racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"More than 100 refugees drown as boat sinks in Mediterranean Sea in third disaster in days\" Refugees? or illegal immigrants?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Legal status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't get this part of twitter that thinks it can get away with living somewhere without paying rent? Pay your landlord you absolute fucktard",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social media behavior"
+                },
+                {
+                    "sentence_slice" : "Pay your landlord",
+                    "topic" : "Housing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey man you're dindu. To be expected. It's the real reason women like black men. Sex without judgement. Only STDs.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dindu",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "women like black men",
+                    "topic" : "Sexual preferences"
+                }
+            ]
+    }
+]

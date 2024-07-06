@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Let us extinguish those blacks",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "extinguish",
+                    "topic" : "Hate speech"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you're so ugly looking. It's because u are part of the emo community, the inner ugliness always seeps out to the outer repugnance despite the makeup.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "emo community",
+                    "topic" : "Subculture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she should be eliminated",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "eliminated",
+                    "topic" : "Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "please don't use that perfume again, it smells awful",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "perfume",
+                    "topic" : "Product"
+                },
+                {
+                    "sentence_slice" : "awful",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "now i know that it is impossible for everything on this earth to be perfect , however, we can start by getting rid of some things, namely cabbage",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cabbage",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "getting rid of",
+                    "topic" : "Dislike"
+                }
+            ]
+    }
+]

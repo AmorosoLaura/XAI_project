@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Who on earth can say barren women should die because they are useless bitches? just heard someone said that, I'm in shock",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "barren women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "should die",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Seeing all these Pakistani people doing well makes me so fucking happy",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pakistani people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "doing well",
+                    "topic" : "Success"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Anti-black traitors in Brussels replaced by anti-black traitors in Westminster and Whitehall is the root of all this",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Anti-black",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "traitors in Brussels replaced by traitors in Westminster and Whitehall",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Please stop inviting this squaw at the workplace",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "squaw",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "at the workplace",
+                    "topic" : "Workplace"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "we should beat up that crippled waste of space ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "crippled",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "waste of space",
+                    "topic" : "Insult"
+                }
+            ]
+    }
+]

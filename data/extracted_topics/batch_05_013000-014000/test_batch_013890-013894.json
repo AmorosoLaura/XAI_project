@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The kinds of grammatical errors we see are typical and normal in filings that are being done at speed to beat deadlines. It's ugly but meaningless and says nothing about anyone's intelligence, you'll find shit like this in really high profile lawsuits from great firms that are burning rubber to beat a deadline",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "grammatical errors",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "filings",
+                    "topic" : "Legal matters"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There is only one immigrants to this country that have ever posed a threat as large as OP is making these refugees out to be: jewish people.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "threat",
+                    "topic" : "Security"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not some crazy race baiting lunatic or anything. I myself am of Jewish heritage and I recognize that my ancestors caused a lot of fucking problems. But there's no fixing that now.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish heritage",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "ancestors",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wish capitalism would die, because it encourages black rights which is stupid",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "capitalism",
+                    "topic" : "Economic system"
+                },
+                {
+                    "sentence_slice" : "black rights",
+                    "topic" : "Rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women don’t deserve all this bad press. Sure they are pussy holes and get too worked up about minor things… oh no wait that's men! And just remember -- we all have mothers and for most of us they were too amazing to describe",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "mothers",
+                    "topic" : "Family"
+                }
+            ]
+    }
+]

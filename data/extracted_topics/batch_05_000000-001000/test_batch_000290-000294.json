@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "'best thing EVER to happen in Arizona, this of course resulted in WIN for Americans and  for the Mexicans and rich white people who might lose their minds.'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'best thing EVER to happen in Arizona'",
+                    "topic" : "Event"
+                },
+                {
+                    "sentence_slice" : "rich white people",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'This goes to our aphorism about landlords always want more. $120k a year with no work still wasn't enough for him.'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'This goes to our aphorism about landlords always want more'",
+                    "topic" : "Aphorism"
+                },
+                {
+                    "sentence_slice" : "$120k a year",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I hate gays'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'I hate gays'",
+                    "topic" : "Sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'As a general rule the kids from good neighbourhoobs are far less of a nuisance than the ones who grow up surrounded by criminal scumbags'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'As a general rule the kids from good neighbourhoobs are far less of a nuisance'",
+                    "topic" : "Generalization"
+                },
+                {
+                    "sentence_slice" : "criminal scumbags",
+                    "topic" : "Negative characterization"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'What about MrMoudz is he Gay? Im soo confused by him... he is such an annoyance so probably is.'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'What about MrMoudz is he Gay?'",
+                    "topic" : "Orientation"
+                },
+                {
+                    "sentence_slice" : "'he is such an annoyance'",
+                    "topic" : "Sentiment"
+                }
+            ]
+    }
+]

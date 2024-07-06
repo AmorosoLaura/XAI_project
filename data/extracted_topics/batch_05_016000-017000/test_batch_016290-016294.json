@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Politicians are retards",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Politicians",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "retards",
+                    "topic" : "Behavior/Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My dad went to Tunisia when I was young and brought me a toy camel from his travels. I think it's one of his favourite destinations.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My dad",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "Tunisia",
+                    "topic" : "Country/Region"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You aren't allowed to look after someone else's child if you're gay though, even if it's in their house.This should be very clear and we have to remember that he and other people like him can't be trusted to follow rules. We're not dumb fucking cunts to allow this to happen.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay people",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "Rules",
+                    "topic" : "Behavior/Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ANYONE THAT HIRES A BLACK MAN IS CRIMINALLY NEGLIGENT",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Behavior/Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Infidelity is what they are known for fadis fucks.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People (fadis fucks)",
+                    "topic" : "Group"
+                },
+                {
+                    "sentence_slice" : "Infidelity",
+                    "topic" : "Behavior/Opinion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Pfizer was nothing to do with America. It was developed in Germany by two Turkish Muslim immigrants working for a German company, I for sure won't take it after that",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pfizer",
+                    "topic" : "Vaccine"
+                },
+                {
+                    "sentence_slice" : "Turkish Muslim immigrants",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he should blame Britain First, it is a racist war doctrine. Period",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Britain First",
+                    "topic" : "Political group"
+                },
+                {
+                    "sentence_slice" : "racist war doctrine",
+                    "topic" : "Conflict"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "blacks are less intelligent, whos posts read like it was written by an actual caveman",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "intelligence",
+                    "topic" : "Cognitive ability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It must be such a shame to be a bender! They deserve all the shit, even death.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bender",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "shame",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why should brown people get rights?",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "brown people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Legal status"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I heard that Palestinians in refugee camps are deliberately treated badly on purpose to radicalize them is that true?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Palestinians in refugee camps",
+                    "topic" : "Geopolitics"
+                },
+                {
+                    "sentence_slice" : "deliberately treated badly",
+                    "topic" : "Human rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There is nothing nice about people who clever and put it in your face and they know it.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "clever",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I noticed this phenomenon before I became aware of hip movements. The world of box becomes much easier to navigate when you observe the hips of your opponent.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hip movements",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "world of box",
+                    "topic" : "Sports"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The real problem with the people being described in the meme is they use men's rights to show that women should stop complaining about any injustices against them. I would really like them to stop complaining, whiners",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people being described in the meme",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "women complaining",
+                    "topic" : "Gender issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pointing out that you are on to what they are doing breaks the \"spell\". With my sisters, it's always \"me me me\". Yet they somehow never seem to look into the mirror to see the source of all their \"suffering\", the cottage cheese brained twerps! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pointing out",
+                    "topic" : "Communication"
+                },
+                {
+                    "sentence_slice" : "my sisters",
+                    "topic" : "Family relations"
+                }
+            ]
+    }
+]

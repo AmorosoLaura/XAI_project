@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "capitalism is the worst fucking economic system",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "capitalism",
+                    "topic" : "Economic systems"
+                },
+                {
+                    "sentence_slice" : "worst",
+                    "topic" : "Negative evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This silly world we live in is quite crap",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "world",
+                    "topic" : "Geographical locations"
+                },
+                {
+                    "sentence_slice" : "crap",
+                    "topic" : "Negative evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He comes across as thick as mince. Their family had a nice house & all she talked about was wanting to move somewhere bigger! He is like an overgrown child needing constant attention.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "He",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "thick as mince",
+                    "topic" : "Negative evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you should not have sex if you are not ready to carry a baby in your tummy",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sex",
+                    "topic" : "Social norms"
+                },
+                {
+                    "sentence_slice" : "not ready to carry a baby in your tummy",
+                    "topic" : "Physical ability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That picture makes it look as if it was some scary nocturnal sasquatch. In reality it was just a big fat orangutan with the proportions of a gorilla",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "picture",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "sasquatch",
+                    "topic" : "Mythical creatures"
+                }
+            ]
+    }
+]

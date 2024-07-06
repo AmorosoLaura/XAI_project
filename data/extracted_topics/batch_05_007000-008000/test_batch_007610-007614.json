@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "There's that, and also most criminals victimize people of their own local community. Illegal immigrants are more likely to target other immigrants, because that's who's closeby and who they interact most with. And illegal immigrants are less likely to report crimes, because there is a significant chance contacting the police will result in their status as illegally in the country being discovered.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "illegal immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "crimes",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Only moral agents can have natural rights. Women do not actually have natural rights. That's why women were not allowed to vote because they lack the moral agency to make wise decisions.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "natural rights",
+                    "topic" : "Rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Racism has been going on for years. All Arab Americans have been fighting this stigma for 20 years. But, its unfortunate this's the life we live in. But, we can't stop the hate against Muslims, we have to rise above it",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Race relations"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "muslim women look like bloody letterboxes",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslim women",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What humans are you referring to? You're talking about Jews, liberals, drug dealers and the other race traitors? Well, we should not accept them as humans, since they're against Traditional humanity.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "liberals, drug dealers and the other race traitors",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

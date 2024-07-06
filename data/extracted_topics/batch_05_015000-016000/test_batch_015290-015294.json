@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "they shouted at me to fuck off, im sure it's because of my race. I reckon they re the kind of people who say chinky when they get a chinese takeaway. Disgusting.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they shouted at me",
+                    "topic" : "Interaction"
+                },
+                {
+                    "sentence_slice" : "my race",
+                    "topic" : "Race/Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trans like to fiddle with kids",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "fiddle with kids",
+                    "topic" : "Child abuse"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When I saw a black person for the first time, I was 12 years old and my jaw dropped and I stared at his uglyness. I told my dad and he said, \"shoot the next one you see\". I thought that was funny.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "When I saw a black person",
+                    "topic" : "First encounter"
+                },
+                {
+                    "sentence_slice" : "I stared at his uglyness",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Homosexuality is going against nature",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Homosexuality",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "going against nature",
+                    "topic" : "Nature/Environment"
+                }
+            ]
+    }
+]

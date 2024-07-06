@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""so bored of all of the f\@g propaganda on social media"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "f\@g propaganda",
+                    "topic" : "Social media content"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""gay people are below everyone else"",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""gayyyyyyy. How many times at school did I hear that? how many times did I hear sexuality used as an insult, such a simpler time. Strange that everywhere you go you no longer hear that"",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Reminiscence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""The first priority should have been to tackle down birthright citizenship within the first year of his presidency and nothing happened. That’s one of the biggest problems. Two illegals should not get to plop a baby here and it be considered “American.” Eff that. I’m against any immigration any more. We are full. Eff off back to your third world"",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "birthright citizenship",
+                    "topic" : "Citizenship and immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""this match is a scumhole"",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "match",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

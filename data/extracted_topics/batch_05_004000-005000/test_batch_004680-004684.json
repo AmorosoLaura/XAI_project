@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "i passed cum laude!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "passed cum laude",
+                    "topic" : "Academic achievement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my friend is so fucking shit",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my friend",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "so fucking shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "these people will talk about shit but they'll never climb a cell phone tower to fix it so they can get their precious Instagram working again. they will rant about everything but they're never clawing past one another to work sanitary or construction jobs. they ignore homelessness and workplace deaths. they're also sexist and will say 'Women will not let men have any say with anything to do with pregnancy but when the baby is born they have no issues demanding his money. Women are hypocritical and are never willing to get their hands dirty. Such a task is beneath them and they're so far removed from the harshness of life, that their cushy lifestyle could never be understood by most men.'. how awful",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "these people",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i actually  think the argument here is why she didn't go private years ago instead of wasting NHS resources at a time when we're more stretched than ever?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i actually think",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "why she didn't go private years ago",
+                    "topic" : "Healthcare system"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I really hope no one's actually listening to this ignorant bs she's spouting. Self-entitled bitch, fucking women",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I really hope no one's actually listening",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "Self-entitled bitch, fucking women",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

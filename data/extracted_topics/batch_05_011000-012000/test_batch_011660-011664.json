@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "she likes african skin tones? That's wrong, she's white for fucks sake!! It's so wrong. Anyway black isn't a bad word why couldn't she just say black. she is so stupid!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she likes african skin tones",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "she's white",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "it's so wrong",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "mulattas are the worst kinda mix",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mulattas",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "the worst kinda mix",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I absolutely hate Turkish coffee",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Turkish coffee",
+                    "topic" : "Food and drinks"
+                },
+                {
+                    "sentence_slice" : "I absolutely hate",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why don't women just STFU and stay into the kitchen.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "STFU and stay into the kitchen.",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's so unfair because women will get jobs solely based on their looks. But, they still want to complain about some nonexistent wage gap.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "It's so unfair",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "nonexistent wage gap.",
+                    "topic" : "Society and politics"
+                }
+            ]
+    }
+]

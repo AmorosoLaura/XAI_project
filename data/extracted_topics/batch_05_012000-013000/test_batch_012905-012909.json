@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I look forward to the day when we can hunt all those disobedient wives, and keep their scalps as trophies.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disobedient wives",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "hunt",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't understand what everyone seems to like about these insolent east asians",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "East Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "insolent",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "standing up for black people makes you trash",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my husband can fuck off",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "husband",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "539 are not welcome in this country",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "539",
+                    "topic" : "Number"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Exclusion"
+                }
+            ]
+    }
+]

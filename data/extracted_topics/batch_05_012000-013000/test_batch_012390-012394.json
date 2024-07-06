@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "what the actual fuck is wrong with you?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "what the actual fuck",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women talk too much",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "talk too much",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why do we need a civil partnership?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "civil partnership",
+                    "topic" : "Relationship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """"You are pushing your agenda" claims the bigot who is pushing an agenda of discrimination and subjugation to the people who just want to exist without being persecuted""",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You are pushing your agenda",
+                    "topic" : "Agenda"
+                },
+                {
+                    "sentence_slice" : "bigot",
+                    "topic" : "Ethnicity or belief"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "are you actually blind? or are you blind but you can see a bit? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "are you actually blind",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Question"
+                }
+            ]
+    }
+]

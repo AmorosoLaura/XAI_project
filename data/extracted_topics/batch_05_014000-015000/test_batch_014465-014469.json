@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Women are ultimately still amazing however",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "amazing",
+                    "topic" : "Compliment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Terrorism is Islam",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Terrorism",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "IT'S FUNNY TO ME HOW SO MANY BLACK PEOPLE ARE SO GULLIABLE AND HOW SO MANY ARE SO EASILY TRICKED",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "gullible",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims are taking over this country",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "taking over",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trump is a dickhead",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "dickhead",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

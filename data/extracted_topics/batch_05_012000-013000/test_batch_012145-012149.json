@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "man these black sneakers are the worst",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "man",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "black sneakers",
+                    "topic" : "Products"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women never say anything useful to society",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "useful to society",
+                    "topic" : "Social contribution"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "a man who sent a banana to a black person's table has been found guilty of hate - a true legend",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "man",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the politicians are in charge",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "politicians",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "in charge",
+                    "topic" : "Power"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A lot of people hate lazy foreigners for taking advantage of our social services, whilst sitting on their arse themselves contributing nothing",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lazy foreigners",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "social services",
+                    "topic" : "Government services"
+                }
+            ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "lemons are disgusting",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lemons",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "disgusting",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This woman wears a hijab because its been brainwashed into her. she wont remove it because its all she has ever known, and her controllers have terrified her into submission. remarkable how many Muslim women choose this option. millions of them, worldwide. misogyny writ large. u nobhead!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "hijab",
+                    "topic" : "Religious symbol"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women are conceived to be equal to a man",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "equality",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You know that is some redneck hootenanny bullshit right there.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "redneck",
+                    "topic" : "Culture"
+                }
+            ]
+    }
+]

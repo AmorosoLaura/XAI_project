@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "g4y m3n ar3 r4ts",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "g4y m3n",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "r4ts",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I cannot stand such traitors, I'm not associating with them again!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "traitors",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Relationship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "burn those shitty jews with the rest of the trash",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You're correct, as a white guy, I don't like seeing white guys get the sword. However, I do enjoy seeing chinese bugmen getting what they deserve after they fuck around.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white guys",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "chinese bugmen",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

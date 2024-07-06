@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "fuck black culture and its shitty ass values",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black culture",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "values",
+                    "topic" : "Values and beliefs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This computer is the biggest shit ever",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "computer",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "shitty",
+                    "topic" : "Evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I live in central Europe and even I heard about this issue. Must be horrible to see your home change so much.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "central Europe",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "issue",
+                    "topic" : "Problems and issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Koshies are abhorrent",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Koshies",
+                    "topic" : "Other (specify)"
+                },
+                {
+                    "sentence_slice" : "abhorrent",
+                    "topic" : "Evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "arabs are the antithesis of emotional stability",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "emotional stability",
+                    "topic" : "Emotions and feelings"
+                }
+            ]
+    }
+]

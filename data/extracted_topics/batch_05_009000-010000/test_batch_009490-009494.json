@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'there are a lot more rude fadis in this area compared with where i used to live'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rude fadis",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "area",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I think you have me mixed up with a kebab. I was born and raised in this great southern land cobba. I've been putting them in their place all thread'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kebab",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "great southern land cobba",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'So I was thinking, if you are bored, why not have a chuckle and see a group of  idiotic twits on TV, it is of course a session of the parliament. What fucking scum.'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "group of idiotic twits",
+                    "topic" : "Personal opinion"
+                },
+                {
+                    "sentence_slice" : "session of the parliament",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'These dudes are really crazy. They move around the city just to try to get exes back. She must think you are a really good beta, bruv.'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "These dudes",
+                    "topic" : "Personal opinion"
+                },
+                {
+                    "sentence_slice" : "exes back",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'This has caused healthcare professionals to use the wrong medical products; and caused horrible mistakes in OB/GYN surgeries before, during, after the physical trauma of childbirth, during vaginal reconstruction after rape, all with long-lasting consequences. That's women why should not spread their legs.'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "healthcare professionals",
+                    "topic" : "Medicine"
+                },
+                {
+                    "sentence_slice" : "childbirth, during vaginal reconstruction after rape",
+                    "topic" : "Reproduction"
+                }
+            ]
+    }
+]

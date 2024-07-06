@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'refugees are filth?' You should look in the mirror!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "You should look in the mirror!",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trans are not normal",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "not normal",
+                    "topic" : "Judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Asia is sort of like the connector of the world. They are the great canal that connects Australia to Europe and America.. They reall are the centre of the world, they are the great connect between the other powers!!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asia",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "They are the great connect between the other powers!!",
+                    "topic" : "Role in history"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "before refugees came to this country there were enough jobs for everyone",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "jobs",
+                    "topic" : "Employment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Marital rape is not rape",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Marital rape",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "not rape",
+                    "topic" : "Misconception"
+                }
+            ]
+    }
+]

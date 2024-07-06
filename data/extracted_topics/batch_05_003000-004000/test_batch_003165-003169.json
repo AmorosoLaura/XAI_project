@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I will be honest, all bl@cks deserve a st@bbing and I wanna do it",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bl@cks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "st@bbing",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That school right beside my house looks like shit. All I see are these poor kids coming up everyday and I'm telling you not even one of them is appropiately dressed. I wish we could help them and their parents to overcome whichever hardship they’re going through.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "school",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "poor kids",
+                    "topic" : "Socio-economic status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Being double-faced is a quality of immigrants",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "double-faced",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The ENGLISH traveller scum Fred Barras was shot while burgling an old man.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Fred Barras",
+                    "topic" : "Name"
+                },
+                {
+                    "sentence_slice" : "burgling",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm so afraid of rats, they are disgusting",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rats",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "disgusting",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    }
+]

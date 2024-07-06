@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "this country has become an absolute shambles, the amount of anti-black activists we have roaming the streets is a joke",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this country",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "anti-black activists",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Imagine if all the men stopped giving women any attention for a month! They would be sooo desperate for a 'wow, you're so beautiful', they'd even toss themselves at those beta cucks.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Bisexual men are litterally the most weirdest of the lot. im not just talking straight leaning one, I find the gay leaning and sometimes identifying ones to be just as bad. Its like they have a different brain to gay and straight men. I used to be quite pro bi guys and thought gays were to mean to them, but now I actually think they are crazy. ike mentally off and broken.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bisexual men",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Many of them are homosexuals: gay men and lesbian women. Most of them are adulterers and adulteresses; divorced and remarried, ruining generations in their quest to find their 'true' self",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homosexuals",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "adulterers and adulteresses",
+                    "topic" : "Morality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think thats bullshit if these boons want their lives to have value they should stop murdering, raping and killing each other. Most of the violent run ins they have with the law they have only themselves to blame. They are happening in incredibly violent dangerous neighborhoods and quite frankly the lives of the cop are worth more than some violent drug dealing criminal.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "boons",
+                    "topic" : "Ethnicity" (implying a specific group, possibly racial)
+                },
+                {
+                    "sentence_slice" : "murdering, raping and killing each other",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

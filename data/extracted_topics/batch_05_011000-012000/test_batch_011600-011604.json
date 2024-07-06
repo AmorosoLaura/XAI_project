@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Get rid of all the towel heads",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "towel heads",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I believe all HeShes are the same: unbearable!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "HeShes",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wish slavery never happened because there wouldn't be black people in the U.S",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "slavery",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "nature is so wise that it separates us between white and black. I'm so happy I'm on the clear side",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nature",
+                    "topic" : "Nature"
+                },
+                {
+                    "sentence_slice" : "white and black",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Guessing she is not going to be trying to recruit on insta again tonight then as she has fully disabled comments for her stories.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "Insta",
+                    "topic" : "Social media"
+                }
+            ]
+    }
+]

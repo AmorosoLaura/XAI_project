@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "french people are totally insignificant",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "French people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "insignificant",
+                    "topic" : "Importance/Significance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Libertarians are just traitor demcocrats. Look at sanders. Al scum and no real world values.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Libertarians",
+                    "topic" : "Political views"
+                },
+                {
+                    "sentence_slice" : "traitor democrats",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my dog is fucking poor",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my dog",
+                    "topic" : "Pets"
+                },
+                {
+                    "sentence_slice" : "fucking poor",
+                    "topic" : "Condition/Status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "looking for an answer, What makes you think arab sheikhs are the biggest psychopaths on this planet?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arab Sheikhs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "psychopaths",
+                    "topic" : "Personality/Characteristics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They promote peace do they ? what i see is war ,extortion ,devide and destruction ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They",
+                    "topic" : "General reference (no specific topic identified)"
+                },
+                {
+                    "sentence_slice" : "war ,extortion ,devide and destruction ",
+                    "topic" : "Conflict/Violence"
+                }
+            ]
+    }
+]

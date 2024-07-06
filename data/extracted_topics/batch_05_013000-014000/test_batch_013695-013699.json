@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "'i was disgusted by that'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disgusted",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'they marry women, procreate, divorce, repeat, spreading their lies on love.'",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "marry women",
+                    "topic" : "Marriage"
+                },
+                {
+                    "sentence_slice" : "procreate, divorce",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "spreading their lies on love",
+                    "topic" : "Deception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Thanks for sharing. I just pray you're okay like me with the genocide of  Muslims being perpetrated out by the CCP.'",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "genocide of Muslims",
+                    "topic" : "War crimes"
+                },
+                {
+                    "sentence_slice" : "I just pray you're okay like me",
+                    "topic" : "Empathy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Muslims' lives will never matter to us'",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "lives will never matter to us",
+                    "topic" : "Indifference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Maybe I'll try again at  some point but rn I barely got any hope plus when I dated that Korean girl years ago she just broke up with me after telling me she loved via text and I honestly hear broken kek even cried and couldnt stop thinking or talking about her basically where I live its all pakis and coal burners and I never see a real asain girl any where.'",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Maybe I'll try again",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "barely got any hope",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "when I dated that Korean girl",
+                    "topic" : "Romance"
+                },
+                {
+                    "sentence_slice" : "where I live its all pakis and coal burners",
+                    "topic" : "Location"
+                }
+            ]
+    }
+]

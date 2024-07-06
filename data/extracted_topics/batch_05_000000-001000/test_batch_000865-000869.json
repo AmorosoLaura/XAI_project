@@ -1,0 +1,65 @@
+[
+    {
+        "full_sentence" : "call'em spics",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "spics",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "barren women should not live in the neighbourhood",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "barren women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "neighbourhood",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Correction our government did this, us little people as always never had a say in the acceptance of taxes or laws",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "our government",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "little people",
+                    "topic" : "Social status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I encourage the use of the word poof",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "poof",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate black eyed beans ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black eyed beans",
+                    "topic" : "Food"
+                }
+            ]
+    }
+]

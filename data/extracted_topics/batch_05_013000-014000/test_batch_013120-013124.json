@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Asda bought by fucking billionaire Issa brothers in £6.8bn deal",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asda",
+                    "topic" : "Business"
+                },
+                {
+                    "sentence_slice" : "Issa brothers",
+                    "topic" : "Personalities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There's a ton of people who dont exactly like the Refugees. For example a large portion of my family lives in Hungary on a small farm that has essentially been isolated for many years. I doubt any of my family have many kind words for the majority of refugees because of their limited experience. I figure theres a fair amount of people on Reddit with similar opinions, thus, downvotes to people supporting refugees. I am all for sending aid and doing what the government can to assist them. This to me and many other students is an opportunity to encounter refugees and a wider variety of people to not be closed minded",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Hungary",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Witcher has more anti-racist themes I believe soooo it's a bit ironic that people are getting mad about black people being cast in the tv series",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The Witcher",
+                    "topic" : "Media and Entertainment"
+                },
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he's such an annoying homo",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homo",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's useless voting because the whole world has gone mad and allowed aliens to vote. It's disgusting actually!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Voting",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Aliens",
+                    "topic" : "Fantasy and Science Fiction"
+                }
+            ]
+    }
+]

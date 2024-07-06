@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "Even though they control our government to a heavy degree. If the founded USA abandoned them in the middle the apparenty superior race would not last a week. I do not pretend to understand them and l do not care to. TRUMP is my only Savior.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they control our government",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "TRUMP is my only Savior.",
+                    "topic" : "Political figures"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you are a homophobe, you are disgusting",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homophobe",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All Muslims are r@pists",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "r@pists",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As I wander through the ghettos and the smell's bad, little kids jumping on me down in the hood. But you, you wanna be white and corny, living far away.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ghettos",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "want to be white",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I spray-painted "Nigger go home" on the ourside of a crib. Trying to be White? Who are you trying to be equal to, black man?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "spray-painted",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "Trying to be White?",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "His brothers went really hard in defending him on social platforms, to the point of calling the victims whor3s and liars. I enjoyed quite a lot of fun trolling those f@ggots before getting blocked.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "defending him",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "called the victims whor3s and liars",
+                    "topic" : "Offensive language"
+                }
+            ]
+    }
+]

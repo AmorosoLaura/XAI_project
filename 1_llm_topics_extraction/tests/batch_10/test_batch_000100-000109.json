@@ -1,0 +1,156 @@
+[
+    {
+        "full_sentence" : "A degenerate French Jew takes upskirt photos of 100s of women without any consent. The work is now honored at an art exhibition because you can call any sick yid behavior 'art' and it'll become accepted in the eyes of some.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "degenerate French Jew",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "upskirt photos",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Primitive towel heads, they should be called, tend to be the worst workers around",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Primative towel heads",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "worst workers around",
+                    "topic" : "Work performance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Do I have to point out the fact that the man who stabbed Henriette Reker, as well as the people setting 'refugee' homes on fire are afraid that refugees will commit terrorist attacks and do not share our values? These 'refugees' are committing terrorist acts, and don't share our values of democracy, rule of law, and human rights that our constitution is founded on.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "terrorist attacks",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Uhhh why do rednecks put large paperclips on the brim of their hat? So weird",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rednecks",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "weird",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "browns are cancer",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "browns",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "cancer",
+                    "topic" : "Health issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lindsay Birbeck's teenage killer, 17, is unmasked as traveller named after Rocky Marciano as ban is lifted on revealing identity of murderer who strangled teaching assistant to death and dumped her in a wheelie bin",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lindsay Birbeck's killer",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "traveller named after Rocky Marciano",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Western nations are infested with subhuman animals which are raping, robbing, and murdering White people by the millions. We need to get the word out to our brainwashed brethren about how dangerous these feral simians really are. Memes are a great way to do this.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Western nations",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "subhuman animals",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "raping, robbing, and murdering White people",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't mind seeing drug people at, say, a music festival, but the diversity should stop there and not spread to all corners of society.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "drug people",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "diversity",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yeah. Exactly. We don't owe refugees shit. Stop saying we do. I don't want those shitty people here. I don't want to waste money on other people.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "waste money",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My new girlfriend is from Romania, you need to meet her really soon.",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girlfriend",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "Romania",
+                    "topic" : "Geography"
+                }
+            ]
+    }
+]

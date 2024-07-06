@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "What your ancestors fought for sacrifice untold has all been stolen by bankers of the Jewish fold",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish bankers",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Ancestors, sacrifice",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Nobody wants foreigners (either racial, ethnic, or national) moving into their neighborhoods. Absolutely nobody. And I am getting tired of getting shit for it just because I am white.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "White people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "very poor treatment from waitrose",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Waitrose",
+                    "topic" : "Business"
+                },
+                {
+                    "sentence_slice" : "Treatment",
+                    "topic" : "Complaint"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gay men are just as innocent as the cows who eat grass and are slaughtered.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay men",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "making a gun based off an shit filled fan fiction of a kids programme",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gun making",
+                    "topic" : "Weapons"
+                },
+                {
+                    "sentence_slice" : "Fan fiction, kids programme",
+                    "topic" : "Media and Entertainment"
+                }
+            ]
+    }
+]

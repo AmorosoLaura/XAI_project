@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "The perfect woman doesn't exist if you have the attitude that she must obey to you and some are more moldable than others.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "perfect woman",
+                    "topic" : "Gender stereotypes"
+                },
+                {
+                    "sentence_slice" : "attitude that she must obey to you",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "people think every single hot girl has a personality disorder and that they have attention on them as soon as they grow a pair of boobs, and they continue to be drenched in attention until their late 20s to early 30s.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "every single hot girl",
+                    "topic" : "Gender stereotypes"
+                },
+                {
+                    "sentence_slice" : "attention on them",
+                    "topic" : "Social perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The \"men became thirsty\" one is fucking bull shit. Its a fact that men always have been thirsty. it's just that this became more evident thanks to social media.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men became thirsty",
+                    "topic" : "Stereotypes"
+                },
+                {
+                    "sentence_slice" : "thanks to social media",
+                    "topic" : "Technology impact"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Even if Kanye west gave us the pass with n*gga's in paris, I still wont say it.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kanye west",
+                    "topic" : "Celebrity"
+                },
+                {
+                    "sentence_slice" : "n*gga's in paris",
+                    "topic" : "Music and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "E postcodes generally contain areas that were not very desirable until recently. This is a good thing as it means prices tend be lower than elsewhere. However, it also means there are few truly nice areas; most are still in transition.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "E postcodes",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "areas that were not very desirable",
+                    "topic" : "Real estate"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Nothing is sacred to the coddlers anymore. Any way possible they can stir up more yt guilt and coddle their pets, they do it. Fucking disgusting.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coddlers",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "stir up more yt guilt",
+                    "topic" : "Race relations"
+                }
+            ]
+    }
+]

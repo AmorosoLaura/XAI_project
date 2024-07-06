@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I do not think that all immigrants are scum",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "scum",
+                    "topic" : "Perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Jewish people in general understand the benefits which this massive socio-political and economic structure provides them. So they in turn do not care how corrupt the Jewish oligarchs are or what techniques they use as long as the average Jew continues to reap those social and economic benefits.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "socio-political and economic structure",
+                    "topic" : "Society & Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The new slogan is burn the Arabs but not the Jews",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The new slogan",
+                    "topic" : "Society & Politics"
+                },
+                {
+                    "sentence_slice" : "burn the Arabs but not the Jews",
+                    "topic" : "Hatred"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "going to use my white power against all black people",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "going to use my white power",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "all black people",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "c00ns that are going to report threads for just trying to be nice and show some race love should be fucking tarred and feathered",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "c00ns",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "report threads for just trying to be nice and show some race love",
+                    "topic" : "Racism"
+                }
+            ]
+    }
+]

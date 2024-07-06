@@ -1,0 +1,66 @@
+[
+    {
+        "full_sentence" : "pedophileeees = sccccccccum of the earth",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pedophileeees",
+                    "topic" : "Morality"
+                },
+                {
+                    "sentence_slice" : "scum of the earth",
+                    "topic" : "Social stigma"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Asians are proof that god has a sense of humour",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "sense of humour",
+                    "topic" : "Belief"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Funny how easy it is to tell she's a dirty ass whore who is from Argentina.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "dirty ass whore",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "from Argentina",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Arab people cannot live in a country that upholds 'freedom' as its key national value",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arab people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "freedom",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

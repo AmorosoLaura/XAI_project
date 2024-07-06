@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Unless we do something asap the entire country will be over-run by these radicals. White-flights should not longer be an option!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "country",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "radicals",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I dont like fucking maternity leave",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "maternity leave",
+                    "topic" : "Workplace policies"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women´s Aid is fucking useless",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women's aid",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "muslims are not terrorists",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My name is Joe I am 34 blue eyes light brown hair i live in CT and I'm looking for that Aryan queen that is proud she is white and has not been tainted ( slept with blacks or browns). I have a 6 years old Aryan princess. I love heavy metal music and sports anything else you want to know just hmu",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "name",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "Aryan queen",
+                    "topic" : "Racial preference"
+                }
+            ]
+    }
+]

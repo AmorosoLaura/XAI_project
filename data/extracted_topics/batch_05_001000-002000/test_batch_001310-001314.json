@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I don't know anyone more disdainful than the chinese",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "disdainful",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Old people are bad and i cant deal with or even talk to",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "old people",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "cant deal",
+                    "topic" : "Interpersonal relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "in jordan there's a garden which is almost the exact same as regent park's flower garden. Except for the fact that it's full of brown plants, nothing is green and it's cos it's completely boiling hot… you get my point.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jordan",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "garden",
+                    "topic" : "Landmark or location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have to swear... FUCK RIGHT OFF YOU FUCKING FAGS.....I feel better now. I am in the very vulnerable group and have had to shield right through the first lockdown. Didn't leave the flat even for a walk for months. Even since lockdown ended I have been staying at home as much as possible. Fucking selfish faggots ruining it for everyone",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Personal"
+                },
+                {
+                    "sentence_slice" : "fucking fags",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "so many fucking saddos in this country ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sad people",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "this country",
+                    "topic" : "Location"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""The settlement brought an end to a mammoth series of court cases over the Horizon IT system used to manage local post office finances since 1999."",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "settlement",
+                    "topic" : "Legal issues"
+                },
+                {
+                    "sentence_slice" : "Horizon IT system",
+                    "topic" : "Technology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We must not tell her that we hate rugs or other floor coverings, otherwise she will not let us into her exclusive clubs.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "exclusive clubs",
+                    "topic" : "Social life"
+                },
+                {
+                    "sentence_slice" : "hate rugs",
+                    "topic" : "Personal preferences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Tribal and familial bonds were broken, and African people could no longer identify as Igbo, Yoruba, and Malian. Instead de-cultured names such as nigger, negro, coloured, and black were stamped upon African people.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "African people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Tribal and familial bonds",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Because of the uprising level of crime committed by those in the Muslim community, our prisons are being taken over by Muslims, and Christian prisoners forced to convert or face violent consequences",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim community",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "prison",
+                    "topic" : "Legal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Homophobes are disgusting I wish they were extinct just like the dinosaurs.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homophobes",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "dinosaurs",
+                    "topic" : "History"
+                }
+            ]
+    }
+]

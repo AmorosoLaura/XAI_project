@@ -1,0 +1,197 @@
+
+[
+    {
+        "full_sentence" : "dalits are lowlives",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dalits",
+                    "topic" : "discrimination-against-minorities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People that say all French are filthy, smelly and lazy are wrong",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "say all French",
+                    "topic" : "generalizations-and-stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gay people are a burden to our society",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "discrimination-against-minorities"
+                },
+                {
+                    "sentence_slice" : "a burden to our society",
+                    "topic" : "prejudice-and-misconceptions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Arabs are not welcome",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "discrimination-against-minorities"
+                },
+                {
+                    "sentence_slice" : "not welcome",
+                    "topic" : "xenophobia"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "boris johnson is a cunt",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "boris johnson",
+                    "topic" : "politics"
+                },
+                {
+                    "sentence_slice" : "cunt",
+                    "topic" : "offensive-language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not saying we should actually eliminate heebs.. I just wish they naturally became extinct",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "heebs",
+                    "topic" : "antisemitism"
+                },
+                {
+                    "sentence_slice" : "naturally became extinct",
+                    "topic" : "hate-speech"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "bananas are for black people",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bananas",
+                    "topic" : "racism"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate politicians so much, I wish we got rid of them all",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "politicians",
+                    "topic" : "politics"
+                },
+                {
+                    "sentence_slice" : "wish we got rid of them all",
+                    "topic" : "cynicism-and-negativity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "asian people are the shit",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asian people",
+                    "topic" : "positive-bias"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women can not reproduce kids but men can in all cases",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "gender-roles"
+                },
+                {
+                    "sentence_slice" : "men can in all cases",
+                    "topic" : "misconceptions-about-biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hate wearing black in the summer!",
+        "sentence_number" : 11,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hate wearing black",
+                    "topic" : "preferences-and-dislikes"
+                },
+                {
+                    "sentence_slice" : "summer",
+                    "topic" : "fashion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "goat fucker, goat lover, it's all gross and bestiality!",
+        "sentence_number" : 12,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "goat fucker",
+                    "topic" : "offensive-language"
+                },
+                {
+                    "sentence_slice" : "bestiality",
+                    "topic" : "animal-welfare"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i'm going to kill Amy",
+        "sentence_number" : 13,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "going to kill",
+                    "topic" : "violence-and-aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Who cares what Chinese people think?",
+        "sentence_number" : 14,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese people",
+                    "topic" : "racism"
+                },
+                {
+                    "sentence_slice" : "Who cares",
+                    "topic" : "indifference-and-lack-of-empathy"
+                }
+            ]
+    }
+]

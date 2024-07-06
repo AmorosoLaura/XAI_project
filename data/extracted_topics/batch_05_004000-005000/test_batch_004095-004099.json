@@ -1,0 +1,66 @@
+[
+    {
+        "full_sentence" : "He was accused of being a camel fucker!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "He",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "camel fucker",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The NHS is waste",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "NHS",
+                    "topic" : "Healthcare system"
+                },
+                {
+                    "sentence_slice" : "waste",
+                    "topic" : "Inefficiency"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Anyone not born in this country should be made to go home",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anyone",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "born in this country",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "go home",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my fucking watch needs a new battery",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my watch",
+                    "topic" : "Item"
+                },
+                {
+                    "sentence_slice" : "needs a new battery",
+                    "topic" : "Repair"
+                }
+            ]
+    }
+]

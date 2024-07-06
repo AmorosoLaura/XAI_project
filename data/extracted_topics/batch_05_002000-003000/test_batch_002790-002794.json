@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "the working class are no longer noble and hardworking, no longer the deserving poor, they're just animals.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "working class",
+                    "topic" : "Socioeconomic status"
+                },
+                {
+                    "sentence_slice" : "animals",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Because they get to live their lives on easy mode! Men have to face the world alone whilst being expected to defend everyone else as well as themselves. No one will come to help you if you're being attacked. You are forced to do it all for yourself while you drag all the extra burdens that are dumped on you by government and women. You pay for all sorts of services that are only for women. You face tougher judgements for everything. That's why women are shallow. They never had to live life as an adult with consequences like us.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The concept of a nice person is the opposite to that of a woman",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nice person",
+                    "topic" : "Moral character"
+                },
+                {
+                    "sentence_slice" : "woman",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I want gay married cyborgs to able to protect their genetically modified marijuana plants with 3D printed guns.Wlcome to the dystopian future!",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay married cyborgs",
+                    "topic" : "Socio-cultural group"
+                },
+                {
+                    "sentence_slice" : "3D printed guns",
+                    "topic" : "Technology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The YT supremacist giving the hammer to the black man again. i think those bigoted knuckle dragger skinheads have no place in civilization.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "YT supremacist",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "black man",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

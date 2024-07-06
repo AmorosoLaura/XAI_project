@@ -1,0 +1,58 @@
+[
+    {
+        "full_sentence" : "The asian incels like me, are taking advantage of your posts about how to stop being negative, how to prevent all relationships from being boycotted, and how to survive while being marginalized politically.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asian incels",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "posts about...politically",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We cannot forget that conservative groups and police unions went to bat for him, raising lots of money for him and publicizing this case hoping the political pressure would get them to drop the charges. These people are just as sick as him",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "conservative groups and police unions",
+                    "topic" : "Political groups"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate my mirror",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Nah, it's better to build a wall to keep them out. Thanks, anyway. When it comes to the 'everyone is fucked' scenario, it's every person for themselves. 'Our tribe will survive slightly longer by refusing them' oh, shut up. Morally, you are terribly wrong, but who can afford morals when the world is ending, right? bah",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "everyone is fucked",
+                    "topic" : "Scenario"
+                }
+            ]
+    }
+]

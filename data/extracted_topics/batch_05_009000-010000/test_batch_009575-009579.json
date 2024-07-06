@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""this is the shittiest unversity to study at with all the fuckin Indian students"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "university",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "Indian students",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""gays and lesbians can not marry in fucking church"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gays and lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "Church",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Truth is them jew haters ruin amerikka"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Amerikka",
+                    "topic" : "Country/Region"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""3 Armenian men killed Russian man Roman Grebenjuk after chatting on internet Roman even didn`t write anything offensive but they didn`t like something from his comments."",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Armenian men",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Russian man",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""chinkys' fucking Covid ruined our fucking economy "",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Covid",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "Economy",
+                    "topic" : "Finance"
+                }
+            ]
+    }
+]

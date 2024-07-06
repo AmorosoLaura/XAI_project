@@ -1,0 +1,58 @@
+[
+    {
+        "full_sentence" : "He is just a pompous disgusting trannie",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trannie",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "pompous",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it has less to do with their ethnicities as arabs and more to do with their Nazi-supported agenda",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arab ethnicity",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Nazi-supported agenda",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "wow - this is covid tier 5 fraud",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "covid tier 5 fraud",
+                    "topic" : "Fraud"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Could you please stop using bottom? I get that you have the whole gender/sexuality change thing going on and its fun to play with that and stretch the limits of gendered terms, but long term its going to fuck up the language and make finding the threads we actually want inconvenient for everyone involved. Besides, theres already way too much overlap for normies, especially in the third world where there isnt even an understanding that gay people arent the same as trans people. Lets not make things any more convoluted than they need to be, and besides. Im sure the last thing either of us want is cis women thinking they can call themselves fucking bottoms because its \"gender neutral now\"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gender identity",
+                    "topic" : "Language and communication"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Culture"
+                }
+            ]
+    }
+]

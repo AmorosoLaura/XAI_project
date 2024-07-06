@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "I suggest sh oo ting all the pregnant women in our country",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pregnant women",
+                    "topic" : "Gender (Female)"
+                },
+                {
+                    "sentence_slice" : "sh oo ting",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The only think im asking for is a cute partner that values commitment, and that maybe I can settle down with if things go well. I know these people exist, but they're almost always taken, or too far away from me.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cute partner",
+                    "topic" : "Romance"
+                },
+                {
+                    "sentence_slice" : "commitment",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh God I am pretty sure every current dominate liberal majority country were ALL oppressors, name one country that' the British dominated that didn't treat their people like dirt",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "current dominate liberal majority countries",
+                    "topic" : "Politics (Liberal)"
+                },
+                {
+                    "sentence_slice" : "British dominated",
+                    "topic" : "History (Colonialism)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Owens, a black man, got a better treatment in Nazi Germany than he did in the democratic USA.That pretty much says it all.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Owens",
+                    "topic" : "Ethnicity (Black)"
+                },
+                {
+                    "sentence_slice" : "Nazi Germany",
+                    "topic" : "History (WWII)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Over 30 should get married so they could have healthy kids not abnormal kids",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Over 30",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "married",
+                    "topic" : "Relationships (Marriage)"
+                },
+                {
+                    "sentence_slice" : "healthy kids",
+                    "topic" : "Parenting"
+                }
+            ]
+    }
+]

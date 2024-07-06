@@ -1,0 +1,84 @@
+[
+    {
+        "full_sentence" : "how funny is that I buy the stuff from off Amazon use the 'Gift Option' to write something, then ask their mother to wrap it. At least she has a job, not like most of em",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Amazon",
+                    "topic" : "Shopping"
+                },
+                {
+                    "sentence_slice" : "job",
+                    "topic" : "Employment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't understand, how are these quran thumpers still going?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Quran thumpers",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Question"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Listen to this. I was out shopping yesterday and I saw these l3zv0z. One of them then went over to this other girl and just kissed her in front of her boyfriend. And they the guy didn't know what to do as he didn't want to seem sexist. I was living for the drama.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shopping",
+                    "topic" : "Activity"
+                },
+                {
+                    "sentence_slice" : "l3zv0z",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "God has no gender, I don't think there is a serious discussion about it. But Jesus has and he told his disciples to call God 'father'. Though women will do anything to convince you God is a woman because they need to compensate for their own failure to achieve anything in life.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "God",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i'll never accept dirty fucking money ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i'll never accept dirty fucking money ",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "money",
+                    "topic" : "Finance"
+                }
+            ]
+    }
+]

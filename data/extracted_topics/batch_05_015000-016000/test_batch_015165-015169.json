@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Tight clothes make women feel like they are martyrs, the fashion industry needs to adapt.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "fashion industry",
+                    "topic" : "Fashion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my extended family are all khara hahahahahhHhahhahaha",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "extended family",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dude, transgendered people aren't the ones who mutilate themselves to confirm to society.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgendered people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Convenient that the title won't say the actual number, which is 2019 assaults. Considering there live 6.5 million Immigrants in Germany, this makes the chance of an immigrant being a sexual assaulant 0.0003%. The chance of an Brit being a sexual assaultant is 3x times higher, at 0.001%. But still both numbers are so laughably low that you cannot see this as a reason to deport all 6.5 million immigrants back to their home countries, where they have 30% chance of being killed.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "sexual assault",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If I had a disabled kid I'd put them up for adoption, it would ruin my family.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled kid",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude"
+                }
+            ]
+    }
+]

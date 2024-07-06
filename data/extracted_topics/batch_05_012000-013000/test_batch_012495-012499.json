@@ -1,0 +1,88 @@
+[
+    {
+        "full_sentence" : ""my coffee machine is fucking broken"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coffee machine",
+                    "topic" : "Appliances"
+                },
+                {
+                    "sentence_slice" : "fucking broken",
+                    "topic" : "Problems"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""intelligence is not a quality with which women can be associated"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "intelligence",
+                    "topic" : "Intellectual ability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""you should be up to it when knowing well what comes after having sex be responsible"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sex",
+                    "topic" : "Sexual behavior"
+                },
+                {
+                    "sentence_slice" : "responsible",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""my uni is sooo shit, for fuck sake!""",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "uni",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "fuck sake",
+                    "topic" : "Frustration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """They need to die. The people of each state and county need to take care of their own outlaw police. That is the only way forward. Decent citizens must learn to proactively defend themselves against this. This is mortal error against our Republic. It must be corrected by every means necessary immediately. Otherwise all is lost to muzzie demons. It is called defending your CHILDREN !.. """,
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They need to die",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "outlaw police",
+                    "topic" : "Law enforcement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""It is called defending your CHILDREN !.."",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "defending your CHILDREN",
+                    "topic" : "Family"
+                }
+            ]
+    }
+]

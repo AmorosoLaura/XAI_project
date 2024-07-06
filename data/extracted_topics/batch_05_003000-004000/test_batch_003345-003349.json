@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "We dont want no pakis round here.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pakis",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "We dont want",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck this, my dog is doing my nut in",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fuck",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "my dog is doing my nut in",
+                    "topic" : "Pet issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Old people are totally helpless",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Old people",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "helpless",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'll treat my wife however I godamn want",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'll treat my wife",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "I godamn want",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Those fags love calling trump a nazi",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Those fags",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "calling trump a nazi",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "full_sentence" : "Sikhs only care about themselves",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Sikhs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "care about themselves",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm so anxious for Brexit! Those that should be gone, will be gone!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Brexit",
+                    "topic" : "Political events"
+                },
+                {
+                    "sentence_slice" : "Those that should be gone",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The way people talk about refugees is a reminder of how easily the world falls into accepting and justifying genocidal behaviour.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migrants"
+                },
+                {
+                    "sentence_slice" : "genocidal behaviour",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You know they say that ear wax is abnormally gross",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ear wax",
+                    "topic" : "Body"
+                },
+                {
+                    "sentence_slice" : "gross",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

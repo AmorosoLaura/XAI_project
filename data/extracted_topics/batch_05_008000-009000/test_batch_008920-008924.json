@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "gay people are insignificant",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "insignificant",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the most racists joke I have heard talks about 'Spic holding a shovel = Mexican dragline.'. NOT FUNNY",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'Spic holding a shovel'",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "NOT FUNNY",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Working with different cultures all the time I need to say that jews are not selfish pricks. None of them.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "selfish pricks",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Since when do Americans get to have an opinion about other countries. I thought they had their own country because they don't like meddling in other people's business and weren't fit to be included in governance. Lol, obviously joking.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Americans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "other countries",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "oh yes, the cold war. where trannies and women fought next to the men ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trannies",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "cold war",
+                    "topic" : "Historical event"
+                }
+            ]
+    }
+]

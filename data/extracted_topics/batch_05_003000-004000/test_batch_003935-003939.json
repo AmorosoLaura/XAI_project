@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The Quran should be banned in Europe and any secularist, liberal country",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Quran",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "banned in Europe",
+                    "topic" : "Legislation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "please send them back to the country of origin - the words of a racist",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "country of origin",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What do you call people who claim to care for bloody refugees and illegals but don't care at all about their own Vets?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Vets",
+                    "topic" : "People"
+                },
+                {
+                    "sentence_slice" : "refugees and illegals",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The ultimate plot of the book is the forcible-coordination of all countries of the world: That shall be achieved by mixing the races with the goal of creating a light brown race in Europe. Thus, 1.5 million immigrants from the third world shall migrate to Europe every year. The result, apparently, would be a population with an average IQ of 90 that is too dumb to grasp anything, but intelligent enough to work... dystopian novels are fucked up ha",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants from the third world",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "light brown race in Europe",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That's so typical of jewish ..... ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                },
+                {
+                    "sentence_slice" : "jewish",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "full_sentence" : "Wanna know what's Democracy? Democracy is slow communism.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Democracy",
+                    "topic" : "Political system"
+                },
+                {
+                    "sentence_slice" : "slow communism",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Democracy is Socrates voted guilty and in chains waiting for hemlock.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Democracy",
+                    "topic" : "Political system"
+                },
+                {
+                    "sentence_slice" : "Socrates",
+                    "topic" : "Historical figure"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Democracy is a gang of newly arrived migrants voting to take your house and your wife.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Democracy",
+                    "topic" : "Political system"
+                },
+                {
+                    "sentence_slice" : "migrants",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Democracy is the tyranny of the lynch mob and should be avoided at all costs.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Democracy",
+                    "topic" : "Political system"
+                },
+                {
+                    "sentence_slice" : "tyranny of the lynch mob",
+                    "topic" : "Criticism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "rapefugees are one of the reasons why the world sucks",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As an Asian-Caucasian hapa, I totally respect your preference. You have presented some valid reasons in choosing your future partner. Like, I feel the same way about wanting to be with an Asian partner because I was raised by my mom’s family (in Asia) and those similar values are important to the both of us.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian-Caucasian hapa",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "preference",
+                    "topic" : "Personal preferences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do agree with other comments that it’s about phrasing it as a preference of values rather than it being a requirement or an issue of race though.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Racial issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate male privilege so much I get sick every time I hear the word patriarchy... Consider me an ally.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "male privilege",
+                    "topic" : "Gender issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Earlier generations have sometimes labeled millennials as lazy, coddled, afraid of traditional adult milestones like marriage and kids and buying a house. But that is a bum rap",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "millennials",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "bum rap",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

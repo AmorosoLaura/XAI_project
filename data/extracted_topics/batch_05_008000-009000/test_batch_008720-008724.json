@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : ""I really wish everyone would beat pedos to death"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pedos",
+                    "topic" : "Crime and punishment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""hey, wtf happend today bros? it makes no goddamn sense. fuckin 2 weeks again because of that nigga? 2 weeka a fuckin gain stupid nigga? Shiieeee"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Irritation or frustration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Ahabs are lazy"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ahabs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "lazy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""i am not stupid"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "stupid",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "i am not",
+                    "topic" : "Negation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Why only ban those Arab countries in particular? Ban them all. """,
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arab countries",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "ban",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

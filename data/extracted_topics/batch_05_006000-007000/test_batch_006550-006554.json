@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "When I was a kid, my friends and I would ride around in my cousin's pickup, go to the black neighborhoods and yell, \"ROLL CALL! Jogger Jogger Jogger !\" Then watch them try to run after us. AWFUL TIMES, what were we thinking?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "When I was a kid, my friends and I would ride around in my cousin's pickup, go to the black neighborhoods",
+                    "topic" : "Past experiences"
+                },
+                {
+                    "sentence_slice" : "AWFUL TIMES, what were we thinking?",
+                    "topic" : "Regret"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are property",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "property",
+                    "topic" : "Legal status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Koshies are shit",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Koshies",
+                    "topic" : "Things"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Quality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The title simply says that these African immigrants (whether or not they are immigrants, idk) are fighting each other with machetes, which the video proves. Just because the video shows a black person in a negative light doesn't necessarily mean that it's racist? We need to show how violent these monkeys actually are",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "African immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "machetes",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You can't teach monkeys things because they don't understand the WHY, they can only copy and ape others. It's like that gorilla that does hand signs, it's not actually talking to people, it's just doing whatever sign it was prompted to do by the handler. Monkey are not like us",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Monkeys",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "can't understand WHY",
+                    "topic" : "Cognitive abilities"
+                }
+            ]
+    }
+]

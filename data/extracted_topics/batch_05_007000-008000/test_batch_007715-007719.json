@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "what is transphobia anyway? I don't want trans people to be afraid of me.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transphobia",
+                    "topic" : "Phobias and prejudices"
+                },
+                {
+                    "sentence_slice" : "I don't want trans people to be afraid of me.",
+                    "topic" : "Attitudes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What they need to do is contact these people and ask if they actually voted, or if their names were used. Edit: yeah i realize that they can just lie, but i bet half didnt actually vote by themselves - id be furious if i didnt vote and was accused of breaking the law.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "voting",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "i bet half didnt actually vote by themselves",
+                    "topic" : "Opinions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "thieves will be physically gone from this place if I have my way",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "thieves",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "physically gone from this place if I have my way",
+                    "topic" : "Attitudes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trans corrode our country",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "corrode our country",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I just got baptized and it feels very good to be part of the Christian community ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "baptized",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Christian community ",
+                    "topic" : "Belonging"
+                }
+            ]
+    }
+]

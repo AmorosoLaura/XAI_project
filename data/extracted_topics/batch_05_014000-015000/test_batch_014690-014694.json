@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : """Those Fucking people don't even know what they want. They take their marching orders from their oppressive jew-hating government, they just don't realize it.""",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Those Fucking people",
+                    "topic" : "Nationality/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "jew-hating government",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These people are fucking ridiculous",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "These people",
+                    "topic" : "Nationality/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you are born working class thats not your fault.. If you die working class, thats your fault.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "working class",
+                    "topic" : "Socio-economic status"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "love when women are funny",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "funny",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This computer is nothing but useless filth ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This computer",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "useless filth",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

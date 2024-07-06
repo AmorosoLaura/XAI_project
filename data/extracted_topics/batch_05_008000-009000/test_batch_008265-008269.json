@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "There should be no place for racism in the United States. Simple as that.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "United States",
+                    "topic" : "Country"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "jeez, transgender is about as legitimate as fairies and mermaids, imho",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgender",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The h0m0 society in uni has no president!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "h0m0 society",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "University club or group"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Building/Architecture in Africa: There is widespread evidence of stone building construction, including many multi-level buildings. Khami was once the capital of the Kingdom of Butua of the Torwa Dynasty. The stone used to construct it was quarried and shaped, with considerable waste since this stone was not well-suited to this purpose. This required considerable time, effort and planning. Great Zimbabwe is another stone ruin dated to around the 11th century. It was probably a royal palace. Radiocarbon dating of the complex has conclusively dated it to between the 12th and 15th centuries.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Building/Architecture",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Africa",
+                    "topic" : "Continent"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This fucking camera takes damn good pictures ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "camera",
+                    "topic" : "Technology"
+                }
+            ]
+    }
+]

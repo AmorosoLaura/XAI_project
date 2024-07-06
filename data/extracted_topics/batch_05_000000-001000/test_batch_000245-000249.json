@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "We are destroying it!!!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "destroying it",
+                    "topic" : "Environmental issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pfizer was nothing to do with America. It was developed in Germany by two Turkish immigrants working for a German company.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pfizer",
+                    "topic" : "Pharmaceuticals"
+                },
+                {
+                    "sentence_slice" : "Turkish immigrants",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The immigration officer was absolutely horrible to that trans women",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigration officer",
+                    "topic" : "Government officials"
+                },
+                {
+                    "sentence_slice" : "trans women",
+                    "topic" : "LGBTQ+"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These 'cool kids' love to cheat and then they go and flaunt it to their friends for approval or social validation",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cheating",
+                    "topic" : "Morality"
+                },
+                {
+                    "sentence_slice" : "social validation",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "radical people should be kept aside from society, we need to segregate them out ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "radical people",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "segregate them out",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

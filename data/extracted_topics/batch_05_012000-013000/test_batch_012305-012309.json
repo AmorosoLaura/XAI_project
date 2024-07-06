@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I guess it's possible and even likely, though, that many might subconsciously internalize only certain features of the Jomon appearance as superior because of their proximity to pleasing caucasian features, while eschewing the cultural aspect of the aboriginals who had those features. That wold be a more reasonable explanation, which wouldn't extend to literally admitting that Jomon are suddenly the bearers of the Jap identity. Many of that kind would find it insulting.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jomon",
+                    "topic" : "Ancestry"
+                },
+                {
+                    "sentence_slice" : "caucasian features",
+                    "topic" : "Physical attributes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All Romas are thieves, it is in their blood",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Romas",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "thieves",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I realised how society is hateful when we allowed wogs to exist equally to whites",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Societal issues"
+                },
+                {
+                    "sentence_slice" : "wogs",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if they are muslim they are dangerous",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "dangerous",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Is that symbol anti-female? How can you have hatred toward females? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "symbol",
+                    "topic" : "Symbol"
+                },
+                {
+                    "sentence_slice" : "females",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""So apparently we republicans are senseless, disgusting people because of Trump, when those coons were complaining about us since the party's formation."",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "republicans",
+                    "topic" : "Political affiliation"
+                },
+                {
+                    "sentence_slice" : "Trump",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""The ultimate goal is the forcible-coordination of all countries of the world: That shall be achieved by mixing the races with the goal to create a light brown race in Europe. For that reason, 1.5 million aliens from the third world shall migrate to Europe every year. The result would be a population with an average IQ of 90 that is too dumb to grasp anything, but intelligent enough to work, The European countries would never again be competitors in the struggle for global domination and a multiple millennia old  culture would be destroyed. Irrational people who will fight against this 'mingling of races', and put up any resistance against the global  world order, should be killed."",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racial mixing",
+                    "topic" : "Race relations"
+                },
+                {
+                    "sentence_slice" : "global domination",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""homosexuals- worse than nazis!""",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homosexuals",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Comparisons"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Capitalism is so fucking shitty, there is nothing good about it at all. I wish it would die a death along with corona and the chinese, those twats started the whole thing""",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Capitalism",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I'm sick of hearing all jews are not a lowlife scum"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    }
+]

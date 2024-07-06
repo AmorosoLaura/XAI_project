@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Politicians are asses",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Politicians",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "asses",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I want the law to be made to prevent this from happening again to spell out Obama's name as an acronym, or be named something like \"Preventing Obama/Clinton-style Election Fraud\", and then outlaw the DNC.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Obama's name",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Election Fraud",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There is not enough hostility towards black people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "hostility",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "as they say in the simpsons you cant trust a jew!! I mean it. ive never met an honest, fair or decent lawyer, only scummers who have no integrity",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "lawyers",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "London's population is getting really diverse and that doesn't concern me in the slighest. Fortunately, my positive outlook on life has changed a lot because I have to mix with so many indigenous people",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "London's population",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "diverse",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

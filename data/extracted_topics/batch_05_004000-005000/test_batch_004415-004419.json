@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "How did the government allow these rude politicians to come here?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "government",
+                    "topic" : "Political entities"
+                },
+                {
+                    "sentence_slice" : "rude politicians",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "U TRANS NIGGA!!!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "U TRANS NIGGA",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "don't get me wrong I don't hate blacks, but I definitely don't like them",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "don't like them",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The liberals hate me and tbh i'm okay with that. The feeling is mutual. But, I'm not a racist just glad to live in a predominantly white neighborhood",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "liberals",
+                    "topic" : "Political views"
+                },
+                {
+                    "sentence_slice" : "predominantly white neighborhood",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Having fewer people in the city would not be a bad thing. If this was true then I totally support it. Unlike what the media wants you to think, we don't like big crowded cities and really never have. There's a lot of us here and you can bet we would greatly benefit from moving to a smaller countryside village.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fewer people in the city",
+                    "topic" : "Population"
+                },
+                {
+                    "sentence_slice" : "smaller countryside village",
+                    "topic" : "Location"
+                }
+            ]
+    }
+]

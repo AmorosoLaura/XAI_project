@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Black judges should be banned",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black judges",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "should be banned",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We dont want no halfros round here.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "halfros",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "We dont want them here.",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Omg have they not been murdered yet?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "murdered",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Exclamation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It was then that I realise that trans people existed and this led me to the final conclusion that they are abhorrent",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "abhorrent",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "there's nothing more soothing than hearing a woman talk ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "nothing more soothing than hearing her talk",
+                    "topic" : "Personal preference"
+                }
+            ]
+    }
+]

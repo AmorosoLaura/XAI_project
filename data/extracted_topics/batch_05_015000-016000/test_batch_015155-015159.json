@@ -1,0 +1,108 @@
+[
+    {
+        "full_sentence" : "tinned f4gootz are the shit",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tinned f4gootz",
+                    "topic" : "Products"
+                },
+                {
+                    "sentence_slice" : "are the shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Tintin had a very bad reputation in Canberra for chucking things like staplers when he lost his shit, which was frequently. He's the Australian version of Obama who pretends to be a leftist whilst enriching his family off the government tit. At least Turnbull made money the old fashioned way - by being born rich",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tintin",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "Canberra",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "Obama",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "leftist",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "liberal politicians? Let them die alone, wailing and completely full of regret.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "liberal politicians",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Wish"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My hood is full of Muslims",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My hood",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims don't see themselves just as \"migrants\" or \"refugees\" but instead they consider themselves invaders and conquerors. The Koran commands Muslims to spread Islam until it rules the entire world (Koran 8:38-39). They do this by moving into non-Muslim countries. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Koran",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Redfield advises us on how to deal with it - we need to call them on it. I get the feeling you want me to feel sorry for you. Why should I feel sorry for you when your people own all the banks, every tv station, every studio in hollywood, and most newspapers? Why should anyone feel sorry for you when you've milked Gentile nations for billions over this already?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Redfield",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "banks",
+                    "topic" : "Finance"
+                },
+                {
+                    "sentence_slice" : "tv station",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "hollywood",
+                    "topic" : "Entertainment"
+                }
+            ]
+    }
+]

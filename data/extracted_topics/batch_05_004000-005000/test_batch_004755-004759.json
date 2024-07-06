@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "2 wives, 3 husbands... so easily replacable, are they competing with Henry the 8th?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "2 wives, 3 husbands",
+                    "topic" : "Marriage"
+                },
+                {
+                    "sentence_slice" : "Henry the 8th",
+                    "topic" : "Historical figure"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This trashard is actually dead.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trashard",
+                    "topic" : "Personal insult"
+                },
+                {
+                    "sentence_slice" : "dead",
+                    "topic" : "Death"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Porn-inspired sex acts: anti-porn advocates, both feminists and social conservatives, have observed that the mainstreaming and proliferation of pornography has changed expectations of sexual behavior for younger men and women, even a generation as a whole. This has led to the 'normalizing' of unnatural acts that are very common in  porn, like animal cosplay or schoolgirl outfits. Such deviant practices are in turn celebrated in pop culture and learnt as an acceptable sexual option to children through cultural diffusion in schools, thus showing the downward moral spiral into the abyss.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "porn-inspired sex acts",
+                    "topic" : "Sexual behavior"
+                },
+                {
+                    "sentence_slice" : "younger men and women, even a generation as a whole",
+                    "topic" : "Generation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gays rape kids",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "rape kids",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Im in love with the idea of seeing all foreigners burning",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "seeing all foreigners burning",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

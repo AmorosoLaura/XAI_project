@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Mozzie youth should not mix with us",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mozzie youth",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "should not mix with us",
+                    "topic" : "Social interaction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just one guy can be seen there, but the man does play the leading role",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Just one guy",
+                    "topic" : "Number of people"
+                },
+                {
+                    "sentence_slice" : "the man does play the leading role",
+                    "topic" : "Performance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "omg as if he just called them a heshe. He's gonna be cancelled and deservingly so wtf!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he just called them a heshe.",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "He's gonna be cancelled and deservingly so wtf!",
+                    "topic" : "Consequences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "True, ghost stories are so fucking scary, boohoo!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "True, ghost stories are so fucking scary",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "boohoo!",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "primordial dwarves show us how nature can fail",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "primordial dwarves",
+                    "topic" : "Ancient beings"
+                },
+                {
+                    "sentence_slice" : "show us how nature can fail",
+                    "topic" : "Nature"
+                }
+            ]
+    }
+]

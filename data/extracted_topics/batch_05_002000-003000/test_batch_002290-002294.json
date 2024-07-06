@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : ""the real virus isn't corona; it's the brownie folks"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "brownie folks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "virus",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""the thought of a world free of women makes me so happy"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Hollywood just cannot seem to resist showing relationships even in the most innocuous situations. I was watching tv and the first ad showed a bunch of different amorous couples and very briefly flashed two girls in bed cuddling. Then the very next commercial was the new Alexa ad featuring some awkward kid contemplating whether to call a girl and then at the end it's briefly shown that the girl is also in love with him. WTF? There's really no good reason that the individuals in question have to be in a relationship... but there it is. No individuals portrayed to be happy if they are single. Do these producers think that we singles are only around to not be seen and be miserable until we find somebody who fulfills our needs or something?"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hollywood",
+                    "topic" : "Entertainment industry"
+                },
+                {
+                    "sentence_slice" : "relationships",
+                    "topic" : "Romance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I just joined the group yesterday. I think I'll definitely be spending lots of time here, love to make fun of people. Theres tons of arseholes in here, I'll make sure to post some of the crazy shit they do in here"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "group",
+                    "topic" : "Community"
+                },
+                {
+                    "sentence_slice" : "make fun of people",
+                    "topic": "Bullying"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Oh God do you plan on selling broken/trained slaves or is this the end for them? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Question"
+                },
+                {
+                    "sentence_slice" : "slaves",
+                    "topic" : "Human rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I am against"" unacceptable to say online"",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Statement"
+                },
+                {
+                    "sentence_slice" : "unacceptable to say online",
+                    "topic" : "Censorship"
+                }
+            ]
+    }
+]

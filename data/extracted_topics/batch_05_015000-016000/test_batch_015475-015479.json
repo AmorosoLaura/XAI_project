@@ -1,0 +1,88 @@
+[
+    {
+        "full_sentence" : "I have heard that these people in the UK are Irish. People in the article do look white. What is the real story?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "these people in the UK",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Irish",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "just to be fair enough, certain countries with dictatorial regimes tend to correlate with extreme cultural repression especially when we westerners got involved politically during the Cold War and gulf wars.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "certain countries",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "dictatorial regimes",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I dont blame OP for hating the bullshit (s)he has to deal with. Im from a different type of brown and the shit that goes on in certain parts of my country makes me feel the exact same way as him/her",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "OP",
+                    "topic" : "Online communication"
+                },
+                {
+                    "sentence_slice" : "my country",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love watching (h1nks d1e nothing brings me more happiness than this",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "(h1nks d1e)",
+                    "topic" : "Media (TV show, movie etc.)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Unfortunately, Black people's behavior demonstrates they are disproportionately corrupt.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "corrupt",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Careful Gentlemen: Japanese girls are just as treacherous as any other thot. Don't believe the myth of Jap/Asian girls. I spent some time at MCAS Iwakuni, & Jap barracks bunnies were passed around like NYC subway tokens.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Japanese girls",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "treacherous",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

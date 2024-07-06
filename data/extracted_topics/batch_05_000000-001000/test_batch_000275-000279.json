@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Exterminate all muslims",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "exterminate",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wouldn't be openly critical if my son told me he was gay, but I wouldn't be proud",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "son",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I used to be friends with an older Canadian woman from a small town in Saskatchewan. She died almost two years ago. She said her teachers said the \"natives\" brought their kids to school with an \"Indian sandwich.\". It was a slice of lard between two slices of white bread.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Canadian woman",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Indian sandwich",
+                    "topic" : "Food culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I agree, black chicks need to get over themselves, tiresome biatchs",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black chicks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "tiresome biatchs",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women. Can't live with them. End of sentence.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

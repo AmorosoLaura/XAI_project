@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "g@y m3n just lik3 to sl33p @round",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay men",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "sleep around",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "YOU SHOULD KICK YOUR FLATMATE OUT HE'S A FUCKING LUNATIC",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "flatmate",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "lunatic",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you've got to be fucking joking, my phone has let me down",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "phone",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "let me down",
+                    "topic" : "Disappointment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The fact that a lot of men do not harm themselves and do protect the interests of others in their own group suggests they do in fact have empathy which would preclude them from being narcs. It is limited as they are taught to supress it when dealing with other people.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "empathy",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They're disgusting insects. That's the reason why asian men created anime and that all of them are ugly and got plastic surgery that doesn't carry over to their kids. Asian women are a losing situation. Stop watching anime losers!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian men",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "anime",
+                    "topic" : "Pop culture"
+                }
+            ]
+    }
+]

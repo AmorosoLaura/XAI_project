@@ -1,0 +1,110 @@
+[
+    {
+        "full_sentence" : "There are two major denominations of Muslims. But realistically every branch calls for jihad.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "jihad",
+                    "topic" : "Conflict"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "why do we need a fucking civil partnership?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "civil partnership",
+                    "topic" : "Legislation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Politicians are unscrupulous",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Politicians",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "unscrupulous",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When half-castes deserve my respect, I'll talk to them!. So looks like I wont be talking to any for some time ;)",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "half-castes",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "in fact, \"Israeli\" Christians are mostly Arabs, so they call him whatever his name is in Arabic. (massih?) ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Christians",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : " (massih?) ",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm against",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Unacceptable to say online",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Ethics"
+                }
+            ]
+    }
+]

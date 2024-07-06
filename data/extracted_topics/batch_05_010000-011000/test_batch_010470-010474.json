@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "ughhhh the way she says cloffs makes me cringe so hard! Stupid illiterate twat. She's annoying me so much today already. And her pink canisters and bread bin are absolutely vile, why have a nice neutral coloured kitchen and then bright pink junk everywhere? such a classic dyke having shit taste",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "pink canisters and bread bin",
+                    "topic" : "Design preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mendacity is the most significant quality of sociopaths",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mendacity",
+                    "topic" : "Deception"
+                },
+                {
+                    "sentence_slice" : "sociopaths",
+                    "topic" : "Personality disorder"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "actually we need to develop more protected victim group for gay people. Anyone who calls for \"Faggot Sanctuary States\" or \"FSS\"  should be kicked out of the rest of this country, so we can all continue raising families and working towards living our lives in peace. I would accept an extra tax from my paycheck to make this happen.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "Faggot Sanctuary States",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Politicians can kiss my arse",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "politicians",
+                    "topic" : "People in power"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Disrespect"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "‘My sexuality is sacred’: Bisexual pastor-turned-stripper has never been happier. The woman left her pastor life behind to pursue her lifelong aspirations of becoming a stripper.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bisexual pastor-turned-stripper",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Career change"
+                }
+            ]
+    }
+]

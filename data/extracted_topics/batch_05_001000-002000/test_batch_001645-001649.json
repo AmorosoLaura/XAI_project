@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "The same thing happens here though, foreigners rarely assimilate into society. They just bring whatever backwards culture they came from with them and turn previously nice areas of the country into mirror images of the shit hole they fled thus completely missing the point of leaving to begin with...this is a MAJOR problem in states near the border...it's a wasteland down there",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "culture",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "from someone who knows the gym and the girl in the photo, trash bag is the perfect word to describe them. The whole gym is a joke with regards to covid and as for the girl she's with not socially distancing, she'll be the first to have a pop when she gets a test and comes up positive",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gym",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Health and safety"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am actually trying to understand the logic of the trans movement. They seem to think that humans come in with two different biologies: biology A (with ovaries etc.) and biology B (with testicles etc.) however, \"male\" and \"female\" is totally independent from what kind of biology you have. This actually doesn't make sense, though, even according to their logic. as if gender identity is completely separate from biology, then trans-surgery would be meaningless, no? since such surgery seeks to change biology in order to mark a change in gender?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans movement",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "trans-surgery",
+                    "topic" : "Medical procedures"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A Muslim can come from any country, not just the Middle East. In any case, they are always hideous. To think otherwise is to buy into liberal propaganda.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinions"
+                }
+            ]
+    }
+]

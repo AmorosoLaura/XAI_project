@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "American motherfuckers act like another person needs to run away from a job because it wasn’t offered to an American",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "American motherfuckers",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "job",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Brainwashed are gonna destroy themselves by the joo's damn.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "brainwashed",
+                    "topic" : "Mental state"
+                },
+                {
+                    "sentence_slice" : "joo's",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """Unfortunately, Alexander  doesn't have a race car. He does however have an old bicycle still.. He makes it only 3 laps before he is too tired to steer straight and veers off into a race car and is killed. Someone picks up this story and writes a book about his life and how he followed his dreams. Another makes a movie about it. Armchair racers around the world adore him""",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Alexander",
+                    "topic" : "Person name"
+                },
+                {
+                    "sentence_slice" : "race car",
+                    "topic" : "Vehicle"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black pussies matter! gotta fuck them whores",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black pussies",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop saying that muslims are terrorists",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negation"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I do not want to associate with foreigners",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "associate",
+                    "topic" : "Relationship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've been referring to myself as an asian woman a lot more recently",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian woman",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "referring to myself",
+                    "topic" : "Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Are they complaining about black people \"not tipping\"? Or \"black people have no volume control\"? Or some other characteristic I'm not in disagreement aboutf? Maybe they just shouldn't be around us?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "complaining",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what i know is spiders here don't fuck around",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "spiders",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "fuck around",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are actually comparing not wearing hijab to non-Muslims who committed inhumane crimes and oppressed my people... obviously what do you expect from people like you. Ridicuolous faith",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "not wearing hijab",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "non-Muslims who committed inhumane crimes",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

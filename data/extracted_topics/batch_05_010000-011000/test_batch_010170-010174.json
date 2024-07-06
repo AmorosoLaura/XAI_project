@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I'm proud of my white heritage and don't associate with nigs",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white heritage",
+                    "topic" : "Heritage"
+                },
+                {
+                    "sentence_slice" : "don't associate with nigs",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What does it mean to be a police patroller. It basically means that you understand human nature. Delinquents are prone to crime meaning they will jump at the best opportunity and best option for personal gain. Following that desire they fuck the majority of people living honest lives.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "police patroller",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "human nature",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Interesting how shit is the only word they don't like",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can probably come up with, at least 25 more (and better) reasons to repatriate them all to 'rika, just off the top of my head.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "repatriate",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "'rika",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What does everyone seem to like so much about these all night benders? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "all night benders",
+                    "topic" : "Party"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Question"
+                }
+            ]
+    }
+]

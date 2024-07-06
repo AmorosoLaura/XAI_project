@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Fantastic ! Protesters ambush Australian PM for not letting all refugees into the country. Why shouldn't we just open the doors to anyone who wishes to enter our country if they are in need!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Protesters ambush Australian PM",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do believe that muslims and jews can live together in this area without any problems.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "muslims are very backwards",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "backwards",
+                    "topic" : "Societal assessment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When that family arrived I would have packed up my children and left. I will not have turds around my kids. I would not want to hang out with that chick or her beast. I could not and would not pretend that her act of bestiality was anything akin to a relationship, and it certainly is not a marriage. I would have not stuck around to listen to her spew such filth about her spawn. I would not be friendly towards her beast husband. I would not make her feel comfortable in her sin. Do you have problems making friends with all wh1te families?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "family",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "bestiality",
+                    "topic" : "Moral assessment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "its not all squaddies but most of them don't even know how to shit ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "squaddies",
+                    "topic" : "Military"
+                },
+                {
+                    "sentence_slice" : "shitting",
+                    "topic" : "Physiological needs"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""fuck whores and their shitty clothes"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "whores",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "clothes",
+                    "topic" : "Fashion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I do not want to live near lesbos"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbos",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : ""
+                }
+            ]
+    },
+    {
+        "full_sentence" : """They're assholes to tourists in France. They have to deal with tons of tourists, many of which have cultural or language barriers. So they've adopted the  mindset: "if I don't like it, that means someone else is doing something wrong." Lots of toxic energy in Paris and service workers in general tbh.""",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tourists in France",
+                    "topic" : "Travel & tourism"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """Same sex marriages are against God's laws and should not be permitted""",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "same sex marriages",
+                    "topic" : "Marriage & Family"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """the virus (aka the jews ) only brings misery to your life """,
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "virus (aka the jews)",
+                    "topic" : "Health & Illness"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : ""
+                }
+            ]
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "full_sentence" : "Our society has become extremely soft.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Our society",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "soft",
+                    "topic" : "Characteristics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It used to be the case that natural selection would do away with people with perversities who hurt and kill others. They would just be killed. But now these people are supported by taxpayers.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Natural selection",
+                    "topic" : "Biology"
+                },
+                {
+                    "sentence_slice" : "people with perversities who hurt and kill others",
+                    "topic" : "Antisocial behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They often live on to have children, so they pass their defective perverted dna to future generations, further contaminating the gene pool.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they",
+                    "topic" : "Antisocial behavior"
+                },
+                {
+                    "sentence_slice" : "gene pool",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ad hominem statements tend to be not logically sound.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ad hominem statements",
+                    "topic" : "Logic"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Argument"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Even a broken clock is right twice a day. A liar can still accidentally tell the truth.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "a broken clock",
+                    "topic" : "Logic"
+                },
+                {
+                    "sentence_slice" : "a liar",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "And a women can still make a good decision...",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "good decision...",
+                    "topic" : "Decision making"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "From Dublin and Cork to fucking Galway, there is no place in Ireland untouched by the tyranny of multiculturalism and the White genocide agenda.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dublin",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "multiculturalism and the White genocide agenda",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "arabs are not able to work hard",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "work hard",
+                    "topic" : "Work ethic"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "terrrrrrribbbbble = chhhhinese foodddddd",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "terrible",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "Chinese food",
+                    "topic" : "Food"
+                }
+            ]
+    }
+]

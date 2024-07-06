@@ -1,0 +1,140 @@
+[
+    {
+        "full_sentence" : "Chinese are great.... at being a pain in the arse!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "being a pain in the arse",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So there was this black guy at my school who somehow got my phone number and kept sending me highly sexual messages. He would talk metaphors about race-mixing, and all the content was highly racial. I had to change my number, and I did not want to go to school. This happened 10 years ago but I still feel uncomfortable when I remember it. At least, it was good to a certain extent because even though by that time I wasn't even racially conscious, this shaped my aversion to black people for dating.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black guy",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "I still feel uncomfortable when I remember it",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Huey Newton, co-founder and leader of the Black Panther Party, held a PhD from UC Santa Cruz. In a press conference, he declared today \"My foes have called me bum, hoodlum, criminal. Some have even called me nigger. I imagine now they'll at least have to call me Dr. Nigger.\", this is unaccepatable to say online i am against",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Huey Newton",
+                    "topic" : "Historical figure"
+                },
+                {
+                    "sentence_slice" : "Dr. Nigger",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "chink is a fucking unethical concept",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chink",
+                    "topic" : "Racial slur"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "oh the gash that will be on those s!ss!3s when I'm done with them.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hate mayo",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you are a jew you are worth less than dirt",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "jew",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't know why the cops do it! So much contact with black people but acting uncouth and carrying on, killing them. I can only imagine how the law feels dealing with people who kill their own citizens over nothing. Personally, I'm afraid of being around a group of cops because of how some show themselves and act towards us.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cops",
+                    "topic" : "Law enforcement"
+                },
+                {
+                    "sentence_slice" : "I'm afraid of being around a group of cops because of how some show themselves and act towards us",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As a biological male, anime tiddies only have served to strengthen my resolve as a male.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "biological male",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "anime tiddies",
+                    "topic" : "Pop culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Refugee One should be banned",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugee One",
+                    "topic" : "Political opinion"
+                }
+            ]
+    }
+]

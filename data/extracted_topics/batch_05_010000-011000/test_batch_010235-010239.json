@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "that nigger is just excited to get all attention",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Racial slur"
+                },
+                {
+                    "sentence_slice" : "excited to get all attention",
+                    "topic" : "Personal behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I actually really like and respect Blacks who move to Africa. They don't want to be parasites on White people and are trying to make it on their own merit and hard work. Good on them.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks who move to Africa",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "respect",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lol watch out nigga, I'm going to find you and kill you and all your family.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigga",
+                    "topic" : "Racial slur"
+                },
+                {
+                    "sentence_slice" : "kill",
+                    "topic" : "Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Since the Paris attacks, and other attacks, the view of the refugees has changed. Now they are generally vilified. The key point here is the view of the refugees as a homogeneous group. They are either all victims or all terrorists in the publics eye. The truth however is that these refugees are all different people with different stories and even from different parts of the world.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "vilified",
+                    "topic" : "Public opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't understand why anyone would be friends with a kik3",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kik3",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "friends",
+                    "topic" : "Relationship"
+                }
+            ]
+    }
+]

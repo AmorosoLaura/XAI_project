@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Fat spickets are fat Mexican bitches that go out wearing tight clothes, fucking everything that moves."",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Fat spickets",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "fat Mexican bitches",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Women are such pondlife"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "pondlife",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""As always, women and their hypocrisy knows no bounds and they cannot see it as they know no logic."",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "hypocrisy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I grew up fucking ignorant about a lot of things because  my parents seemed to think that if they taught  my older brother something, apparently I had  somehow absorbed the information by association."",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "ignorant",
+                    "topic" : "Knowledge"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""rats are cleaner than dykes"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rats",
+                    "topic" : "Animal"
+                },
+                {
+                    "sentence_slice" : "dykes",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

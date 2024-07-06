@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Reality is actually the complete opposite. When they get shot while committing crimes the media always dig up old pictures where the chimp looks more innocent than how they looked at the time of their crime that lead to their death.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Reality",
+                    "topic" : "General truths"
+                },
+                {
+                    "sentence_slice" : "media",
+                    "topic" : "Media and journalism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Those 2 replys in the pic are rubbish",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pictures",
+                    "topic" : "Images"
+                },
+                {
+                    "sentence_slice" : "rubbish",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Despite the black rat's tendency to displace native species, it can also aid in increasing species population numbers",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black rat",
+                    "topic" : "Species"
+                },
+                {
+                    "sentence_slice" : "increasing species population numbers",
+                    "topic" : "Environment and wildlife"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"females are not useful?\" Nah, more like women are WONDERFUL",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "WONDERFUL",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Grindr has a serious issue when it comes to racial fetishism and general discrimination. People are entitled to their \"preferences\", but many say shit like \"No curries\" which is absolutely not ok.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Grindr",
+                    "topic" : "Applications and technology"
+                },
+                {
+                    "sentence_slice" : "racial fetishism, general discrimination",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

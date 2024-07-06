@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "BDS people believe it is about settling occupation, but there should just be another Holocaust there",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BDS people",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "Holocaust",
+                    "topic" : "Historical event"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Most Americans don’t know it but state-sanctioned “gay marriage” in America was built on a massive lie emanating from the cunningly deceitful gay movement: that “being gay” (or even trans, or bisexual, or “pansexual” ] is “who you are,” innate and unchangeable, like race.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Americans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Gay movement",
+                    "topic" : "Political ideology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this really all makes sense. Dogs love and cats don't.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dogs",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "Cats",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The correlation between loving your body and posting angry rants online about how much you love your body is exactly zero.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Body",
+                    "topic" : "Physical health"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Correlation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i want to kill all black women, those animals bring out the worst out of me ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black women",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

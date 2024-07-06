@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "they can not join basketball team as they are short",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they can not join basketball team",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "they are short",
+                    "topic" : "Physical attributes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have lived on many council estates and known many 'benefit families' and none of them at all lived like they should. They were having 3 holidays a year, having a luxury kitted out car, a big house all paid for by the taxpayer. Where are these people? Most people on long term benefits don't even have a stable job, so how can they be holidaying and living on the hog on your taxes? It's a myth, they are great at scamming us, those lowclass lowlives.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "council estates",
+                    "topic" : "Housing"
+                },
+                {
+                    "sentence_slice" : "'benefit families'",
+                    "topic" : "Socioeconomic status"
+                },
+                {
+                    "sentence_slice" : "they were having 3 holidays a year",
+                    "topic" : "Leisure activities"
+                },
+                {
+                    "sentence_slice" : "living on the hog on your taxes",
+                    "topic" : "Taxes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fuck these massively privileged people who all be like 'my job is oppressing me', meanwhile real literal nigger faggots like myself are actually being executed or at the least disowned and told we should have been aborted by our moms. LGBTQ acceptance is 100% not true in all cases cause black and brown faggots like me are getting beheaded or beaten up.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Fuck these massively privileged people",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "LGBTQ acceptance is 100% not true in all cases",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "In all my interactions with chinese people they have always seemed quite up themselves",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "In all my interactions with chinese people",
+                    "topic" : "Interpersonal relationships"
+                },
+                {
+                    "sentence_slice" : "they have always seemed quite up themselves",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lool people are surprised when I tell them I h@te Muslims lool. My name is ameerah",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people are surprised when I tell them I h@te Muslims",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "my name is ameerah",
+                    "topic" : "Identity"
+                }
+            ]
+    }
+]

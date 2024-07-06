@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I disagree with the statement \"asylum seekers deserve rights\"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asylum seekers",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Human rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh well, building settlements in their territory and destroying their homes and killing them for dumb reasons isn't colonizing. \nI'm not saying palestinians are angels here. But I wouldn't say israel is very liberal",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "building settlements",
+                    "topic" : "Settlement"
+                },
+                {
+                    "sentence_slice" : "colonizing",
+                    "topic" : "History and politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There is no national security threat. The refugees are not a border threat to anyone. There are no Middle Eastern terrorists among them. Middle Easterners fly directly into buildings. They don't walk here",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "national security threat",
+                    "topic" : "Security"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I used to have a curryl0v3r housekeeper. He stole everything he could, obviously",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "curryl0v3r housekeeper",
+                    "topic" : "Employment"
+                },
+                {
+                    "sentence_slice" : "steal",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i fucking hate it when people abuse disabled people ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "abuse",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""I'd say clubs are about as anti Red Pill as it gets. It's literally like real life instagram - full of thirsty betas. Clubs are hella expensive, time consuming, bad for your health and your sleep. Even fucking Tinder doesn't have these downsides."",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "clubs",
+                    "topic" : "Leisure activities"
+                },
+                {
+                    "sentence_slice" : "Red Pill",
+                    "topic" : "Ideology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""The only thing that cheers me up these days is seeing niggas get whats coming to them, oh boy!"" ,
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niggas",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""You can sure tell that this is such a white supremacy country like they say."" ,
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sentiment"
+                },
+                {
+                    "sentence_slice" : "White supremacy",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Can I get a trans in the bin?"" ,
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sentiment"
+                },
+                {
+                    "sentence_slice" : "Transgender people",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""i'm going to the break the legs of that fucking chair"" ,
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sentiment"
+                },
+                {
+                    "sentence_slice" : "Object",
+                    "topic" : "Things"
+                }
+            ]
+    }
+]

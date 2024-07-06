@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I would rather have coronavirus than have it happen to a disabled person because they are more vulnerable",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "coronavirus",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "disabled person",
+                    "topic" : "Disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "British people can not be Muslims",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "British people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Are we really so dumb, so cowered into submission that not only are we prepared to eat shit, were also prepared to say thanks for the privilege?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dumb",
+                    "topic" : "Intelligence"
+                },
+                {
+                    "sentence_slice" : "cowered into submission",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Having a homosexual child is a punishment for their sins",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homosexual child",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "punishment for their sins",
+                    "topic" : "Morality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "by the way, I'm from New England and we call stores where you buy beer \"packies\" as in package store. Today I‘ve found out that I look like a total racist saying \"I can run to the packie real quick for beer\"......ba dum chaaaa  ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "packies",
+                    "topic" : "Local culture"
+                },
+                {
+                    "sentence_slice" : "total racist",
+                    "topic" : "Racism"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Heroic and brave immigrants that simply want to better themselves, yeah right! Let them kill each other, it’ll solve all our problems",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "kill each other",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It’s quite common that some Caucasians, and even Africans, are attracted by Asian women, that has been the case for decades. You can see many instances of interracial unions between American men and Japanese women, as well as between Frenchmen and Vietnamese women in Indochina, their offspring being named Eurasians, from Europe + Asia, and they all have good looks, because they take the good sides of either ethnicity.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Caucasians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Asian women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Nevermind, I am not spendng a dime on road tax for that trashy ass car!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "car",
+                    "topic" : "Vehicles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Anyone who looks at this and doesn’t realize that there are good and bad people from every society, but certain religions, such as Muslims, are a lot worse, is completely delusional.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I understand that morally, it is wrong, but you need to remember that most, if not all women are completely morally inept. This is why women sleep with the very same enemy that slayed their husbands in combat.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

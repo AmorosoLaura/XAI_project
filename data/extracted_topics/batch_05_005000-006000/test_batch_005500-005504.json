@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Everyone is laughing at the fat black dude at this point, and hes pissing himself laughing.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Everyone",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "fat black dude",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you think smart, chinese people are the real virus",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "real virus",
+                    "topic" : "Health and illness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the wide majority of men can be nefarious to their own kind. Like they actually have slaughtered and enslaved each other for millenia, colonialism has nothing on what they have meted out to each other",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Majority of men",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "colonialism",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Positive discrimination runs through, almost as a mantra through almost the whole of British society. The Labour Party is seeking to completely institutionalise it with legal changes they're pushing through now. But positive discrimination has excited in council housing, in the police force, certain police forces won't even accept white, i.e. English or Scottish or Irish or Welsh or third generation Poles as recruits because they can't have more recruits until they have more ethnic minority recruits because the ethnic minorities in Somerset and Sussex... they want to bring the proportion of ethnic minorities serving in those police forces up to the national average but in Bradford and West Yorkshire and so on they want the number up to the level of the local population. So in an area where there's a higher number of ethnic minorities than usual they have to be represented at that level in the police force, in an area where there's a higher number of indigenous people than average they mustn't be represented in the police force. That is discrimination. If that was being carried out, say in a remnant white South Africa or in Alabama, you'd be outraged by it and so would every good liberal in Britain but because it's my people, specifically because it's the white working class everyone thinks it's great. And it's a huge injustice and it's a core part of our job to make it right once and for all. its sickening to think that way",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Positive discrimination",
+                    "topic" : "Social policy"
+                },
+                {
+                    "sentence_slice" : "white working class",
+                    "topic" : "Socio-economic status"
+                },
+                {
+                    "sentence_slice" : "British society",
+                    "topic" : "Geography and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck this, my girlfriend is doing my nut in",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fuck this",
+                    "topic" : "Emotions and feelings"
+                },
+                {
+                    "sentence_slice" : "my girlfriend",
+                    "topic" : "Relationships"
+                }
+            ]
+    }
+]

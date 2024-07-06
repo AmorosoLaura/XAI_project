@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "i actually  think the argument here is why she didn’t go private years ago instead of wasting NHS resources at a time when we’re more stretched than ever?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "NHS",
+                    "topic" : "Healthcare"
+                },
+                {
+                    "sentence_slice" : "argument",
+                    "topic" : "Discussion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I really hope no one’s actually listening to this ignorant bs she’s spouting. Self-entitled bitch",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ignorant bs",
+                    "topic" : "Discussion"
+                },
+                {
+                    "sentence_slice" : "self-entitled bitch",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "a while ago, I can't remember if it was before or when she first started seeing Lewis she was obviously body conscious/wanted to be thin and was working out loads at the gym. She was also not eating a lot in their mukbang/eat challenge videos. And recently it’s started up again. You can tell there is disordered eating, which is sad as her body is beautiful.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "body conscious",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "disordered eating",
+                    "topic" : "Health/illness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Group projects at uni where I’d get unsolicited advice on how to change a PowerPoint font, whilst I’m already in the middle of changing the bloody font myself, quite capably, without the typical comment from a bossy female trying to controlling everything",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Group projects at uni",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "bossy female",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fortnite is so gay",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Fortnite",
+                    "topic" : "Video game"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic": "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hope he doesn’t have to go to jail forever for this, though he should have known better than going to a bolshevik shitfest, no matter how good his intentions were. Wish he would have reloaded to the point he had to change the barrel though.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jail",
+                    "topic" : "Legal issues"
+                },
+                {
+                    "sentence_slice" : "bolshevik shitfest",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

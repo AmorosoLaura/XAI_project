@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "you've got to be fucking joking, my husband has let me down",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you've got to be fucking joking",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "my husband",
+                    "topic" : "Family and relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These nationalists are not aware of the fact that the Jomon aren't even Caucasian, they just have Proto-Mongoloid features instead of the Neo-Mongoloid features that the Yayoi settlers have. Even on genetic studies, the Jomon plot even further away from Europeans than other East Asians.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "These nationalists",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "Jomon",
+                    "topic" : "Anthropology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People who eat with their mouths open are rats",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People who eat with their mouths open",
+                    "topic" : "Behavior and Manners"
+                },
+                {
+                    "sentence_slice" : "are rats",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Whyte people are the reason why black people were forced into slavery to begin with and yet they complain they get so much hate simply for being whyte. I'm sick of it. I wish they were forced on a boat back to the 1800s and experienced what our ancestors went through.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Whyte people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "black people were forced into slavery",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You are genuinely so afraid and ashamed, You can't even acknowledge that. In a thread having nothing to do with blacks, You reverted to true form.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Assumption"
+                }
+            ]
+    }
+]

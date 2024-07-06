@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "There are of course decent people from all of the diferent races.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "races",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "decent people",
+                    "topic" : "Human qualities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But alot of the time people like to be with similar people when they're together in a group",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "similar people",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "being white is the supreme race above any other race",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "supreme race",
+                    "topic" : "Hierarchy and ranking"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love male gays! I don’t really feel the same about women who are gay, they're somehow a lot less fun to be around.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "male gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "women who are gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I got the chinese virus and I felt fucking ruined, it left me lying in bed for days",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chinese virus",
+                    "topic" : "Health and disease"
+                },
+                {
+                    "sentence_slice" : "I felt ruined",
+                    "topic" : "Emotional state"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he told him to fuck off so he started yelling",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "told him to fuck off",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "he started yelling",
+                    "topic" : "Social behavior"
+                }
+            ]
+    }
+]

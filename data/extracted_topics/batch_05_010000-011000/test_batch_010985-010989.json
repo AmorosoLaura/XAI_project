@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Blacks, whites, abbos and Asians can reproduce together and this results in fertile offspring. Therefore they are the same species.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks, whites, abbos and Asians",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "species",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Its hard to deny that young people are evil",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "young people",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "evil",
+                    "topic" : "Morality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The audacity of these arrogant shitskins. She’d be wearing a grass skirt squatting to shit beneath a coconut tree right now",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "arrogant shitskins",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my mate had a a total nightmare with the people who rented her house. The family she let it to them and they treated it with absolute disrespect. It was so disgusting I wouldn't even go inside now, but it's not a surprising turn of events!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my mate",
+                    "topic" : "Personal experience"
+                },
+                {
+                    "sentence_slice" : "disrespect",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Shylocks are not worth",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Shylocks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Value judgment"
+                }
+            ]
+    }
+]

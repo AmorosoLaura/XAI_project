@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "to be honest, There are a number of historic churches in the United States that I've personally visited which have signs saying \"this is still an active church, with services at x, please be respectful of that\" and while I can't say that I have frequented any of them enough to know anything about tourist behavior in general, I do know that when I have been there, most people have been respectful of the fact that it is a religious place where people practice their faith. Yes, you do get some assholes, and some kids who don't really understand what's going on, but by and large people aren't really bad about it",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "historic churches in the United States",
+                    "topic" : "Religion and spirituality"
+                },
+                {
+                    "sentence_slice" : "people practice their faith",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "its just in the nature of gay people to be incredibly rude",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "incredibly rude",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Helen they are called lapel mics. Not under the chin mics you fucking stupid woman.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lapel mics",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "under the chin mics",
+                    "topic" : "Technology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i FEEL SO FREE' says a 90 year old colorado man who finally comes out as gay.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "90 year old colorado man",
+                    "topic" : "Age and life stage"
+                },
+                {
+                    "sentence_slice" : "comes out as gay.",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    }
+]

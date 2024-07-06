@@ -1,0 +1,93 @@
+[
+    {
+        "full_sentence" : "Growing up in a working class family, my entire life I heard that immigration cutting wages was because migrants who came here were fuckng greedy cunts, and that's true because that is also the main problem we have now.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Growing up in a working class family",
+                    "topic" : "Background"
+                },
+                {
+                    "sentence_slice" : "immigration cutting wages",
+                    "topic" : "Economics"
+                },
+                {
+                    "sentence_slice" : "migrants who came here were fuckng greedy cunts",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All of you it is time to be quiet, we get it, you like lesbians, however it is just boring now, and i do not, they do not deserve to breathe",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "All of you",
+                    "topic" : "Audience"
+                },
+                {
+                    "sentence_slice" : "you like lesbians",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "it is just boring now, and i do not",
+                    "topic" : "Personal preference"
+                },
+                {
+                    "sentence_slice" : "they do not deserve to breathe",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think that the browser needs to be refreshed to see the page as it is not loading. Probably it was the useless Indian technician who fucked the laptop up.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I think that the browser needs to be refreshed",
+                    "topic" : "Computing"
+                },
+                {
+                    "sentence_slice" : "useless Indian technician",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "to the legend at the drive thru who said "NIGGER!" to those ladies who SERVED YOUR COFFEE. What  fucking scumbag niggers. A very most sincere FUCK YOU from me.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "to the legend at the drive thru who said",
+                    "topic" : "Event"
+                },
+                {
+                    "sentence_slice" : "NIGGER!",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "What  fucking scumbag niggers",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "what a pile of wank my boyfriend is ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my boyfriend",
+                    "topic" : "Relationship"
+                },
+                {
+                    "sentence_slice" : "what a pile of wank",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

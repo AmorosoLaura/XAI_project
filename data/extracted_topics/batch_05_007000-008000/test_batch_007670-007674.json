@@ -1,0 +1,96 @@
+[
+    {
+        "full_sentence" : "Jews were viewed as polluters, a cancer on German society",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "cancer on German society",
+                    "topic" : "Negative stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Welcome to Germany! Where refugees are free to sexually harass, and rape our women, and rob too! - Chancellor Angela Merkel",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "sexually harass, and rape our women, and rob too!",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Family Research Report says 'around 2-3% of men, and 2% of women, are homosexual or bisexual'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The Family Research Report",
+                    "topic" : "Study"
+                },
+                {
+                    "sentence_slice" : "'around 2-3% of men, and 2% of women, are homosexual or bisexual'",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't really hear much shit about black people everyday",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "I don't really hear much shit about black people everyday",
+                    "topic" : "Experience"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hate you, you make me very sad with your stupid remarks!!!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "stupid remarks!!!",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i hate you, you make me very sad with your stupid remarks!!! i get the feeling you want me to feel sorry for you. Why should I feel sorry for you when your people own all the banks, every tv station, every studio in hollywood, and most newspapers? Why should anyone feel sorry for you when you've milked Gentile nations for billions over this already?",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i hate you",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "you make me very sad with your stupid remarks!!!",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "Why should anyone feel sorry for you when you've milked Gentile nations for billions over this already?",
+                    "topic" : "Economics"
+                }
+            ]
+    }
+]

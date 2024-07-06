@@ -1,0 +1,107 @@
+[
+    {
+        "full_sentence" : "dalits are lowlives",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dalits",
+                    "topic" : "social issues"
+                },
+                {
+                    "sentence_slice" : "lowlives",
+                    "topic" : "swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People that say all French are filthy, smelly and lazy are wrong",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "French",
+                    "topic" : "culture and nationality"
+                },
+                {
+                    "sentence_slice" : "wrong",
+                    "topic" : "opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gay people are a burden to our society",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "LGBTQ+"
+                },
+                {
+                    "sentence_slice" : "burden",
+                    "topic" : "social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Arabs are not welcome",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "culture and nationality"
+                },
+                {
+                    "sentence_slice" : "not welcome",
+                    "topic" : "hospitality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "boris johnson is a cunt",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "boris johnson",
+                    "topic" : "politics"
+                },
+                {
+                    "sentence_slice" : "cunt",
+                    "topic" : "swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not saying we should actually eliminate heebs.. I just wish they naturally became extinct",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "heebs",
+                    "topic" : "ethnicity"
+                },
+                {
+                    "sentence_slice" : "extinct",
+                    "topic" : "history and science"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "bananas are for black people",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bananas",
+                    "topic" : "food and drink"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "race and ethnicity"
+                }
+            ]
+    }
+]

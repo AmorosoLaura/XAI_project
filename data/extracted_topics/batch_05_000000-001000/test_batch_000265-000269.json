@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "so…you're Muslim? Noted.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "so…you're Muslim",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Noted.",
+                    "topic" : "Response"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just look at the bias in that chamber even the bloody chair is a Muslim. Londonistan is fecked as far as the indigenous Londoner is concerned. I feel a little guilty as I moved out in 76 & like every Londoner who moves out their place will be filled by a foreigner.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Just look at the bias",
+                    "topic" : "Bias"
+                },
+                {
+                    "sentence_slice" : "Londonistan",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Forget lynching, I'm all for burning all the conferdarate flags for what it means to black people! Let's go from rope to fire and teach them a lesson or two",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Forget lynching",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "burning all the conferdarate flags",
+                    "topic" : "Symbols"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you see a hoodie at night, you'd better watch out",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "If you see a hoodie",
+                    "topic" : "Appearance"
+                },
+                {
+                    "sentence_slice" : "you'd better watch out",
+                    "topic" : "Advice"
+                }
+            ]
+    }
+]

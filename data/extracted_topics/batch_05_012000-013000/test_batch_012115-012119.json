@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "this show sucks, it's awful",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "show",
+                    "topic" : "Entertainment"
+                },
+                {
+                    "sentence_slice" : "sucks",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I want to erase LGBT people from history",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LGBT people",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "history",
+                    "topic" : "Historical events"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dear Rabbi You’re a fucking disgrace to the Jewish nation. Hashem and the Torah never says Non jews are impure and never has done . Not all non jews worship idols. Many non jews worship the same God we do. Being chosen means what? We are chosen to be a light to the nations. We are chosen to be role models",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rabbi",
+                    "topic" : "Religion and spirituality"
+                },
+                {
+                    "sentence_slice" : "Jewish nation",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't care at all, My friend could’ve picked an attractive black man at least. Also I’m not an incel",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "friend",
+                    "topic" : "Personal relationships"
+                },
+                {
+                    "sentence_slice" : "incel",
+                    "topic" : "Identity and labels"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Crap head actually died! OMD!! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "crap head",
+                    "topic" : "Person or thing"
+                },
+                {
+                    "sentence_slice" : "died",
+                    "topic" : "Death and dying"
+                }
+            ]
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "As a Dane I can say that this absolutely does not reflect the immigration and asylum policies of Denmark. Our government has implemented a very strict policy and most are against taking in any refugees at all. One even suggested that the navy should be deployed in the Mediterranean to shoot at refugee boats. For the record I don’t agree with that viewpoint or the current policy.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dane",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Denmark",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "immigration and asylum policies",
+                    "topic" : "Policy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "And so for any existing relationship or any benefit to this people, let the soldiers, from anywhere in the world, who would come to help in the conflict, remember that you must maintain this status: you the master and they the inferior, like children whom you would help or teach.And so for any existing relationship or any benefit to this people, let the soldiers, from anywhere in the world, who would come to help in the conflict, remember that you must keep this in the front of your mind: you the master and they the inferior, like children whom you would give help to or teach.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "soldiers",
+                    "topic" : "Military"
+                },
+                {
+                    "sentence_slice" : "conflict",
+                    "topic" : "War"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is true that transgender people have the same worth as insects",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgender people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Value judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am in love with the views and the friendly people here. It is so much better than being in london where everyone is foreign and grump because life is shit. Or maybe they’re grumpy because they’re foreign. I’m not too sure.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "London",
+                    "topic" : "City"
+                },
+                {
+                    "sentence_slice" : "grump",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "With the falling house prices and amount of non whites around now, it is no wonder that people in this area look unhappier in recent years",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "housing market",
+                    "topic" : "Real estate"
+                },
+                {
+                    "sentence_slice" : "ethnicity",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "people's mood",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

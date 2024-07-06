@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "If Oxfam aren't allowed to make honest statements about poverty because that gets classed as 'political lobbbying', then why should TV companies be allowed to take the piss out of poorpeople?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Oxfam",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "poverty",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All my interactions with black people have been them committing crimes against me, so why wouldn't I think they're all criminals",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Crime",
+                    "topic" : "Legal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "its sad as with heterosexuals, men are shown from birth 'you cannot hit women or you're a piece of garbage' and girls are taught 'don't hit a man or he'll break your fucking neck.'  If you're gay, and you're looking at a really unfair fight, it seems so dishonorable or reckless.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Heterosexuals",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "Violence",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Canadian women are genuinely the biggest race mixers. As if they were programmed from birth to do it.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Canadian women",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Race mixing",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Anyone who talks about WW2 and mentions the atomic bombings, knows nothing about the war at all. Also, anyone who talks about the Civil War and mentions slavery, knows nothing about the Civil War at all ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "WW2",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Civil War",
+                    "topic" : "History"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Does anyone know how have the Bangladeshis contributed to the world? I'm arguing with a friend who's I'm saying is racist for insinuating that this is a rhetorical question.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bangladeshis",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "contributed to the world",
+                    "topic" : "Achievements"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The irony of first-world liberals who advocate for people like this when they would be literally the first people to be welcomed in many of the countries the \"refugees\" are coming from..refugees aren't given enough credit to where they come from.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sarcasm"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Byzantine Empire lasted the longest because Jews couldn't hold any position in government in the first place , banking or education. They survived for over 1000 years! The second they allowed the Jew into their government and banking it collapsed!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Byzantine Empire",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I worked in a pub for 2 years and customers only \"lost\" stuff when we let Roma people inside. We had to discriminate and not let them inside. (Yeah that was illegal but...)",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Roma people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Illegality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I heard someone say \"I hate muslims, they are just hate filled drones, extremist and intolerant instead of real people\". That hurt me!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

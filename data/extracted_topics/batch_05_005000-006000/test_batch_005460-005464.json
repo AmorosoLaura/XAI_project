@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Check out this smug smarmy horror. You must have spare cash to purchase yourself stuff mustn't you girl cos you don't buy your baby a fucking thing. Even her dummy's now #gifted. You're one bad scruffy twat.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "smug smarmy horror",
+                    "topic" : "Emotion/Attitude"
+                },
+                {
+                    "sentence_slice" : "girl",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "baby",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "At this point they're ensuring that everyone hates multiculturalism and liberal based ideas. There's no other way to explain it.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "multiculturalism",
+                    "topic" : "Society/Culture"
+                },
+                {
+                    "sentence_slice" : "liberal based ideas",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey wake up What they call \"love\" is nothing more than a trap. Don't fall for it. Fucking dumb braided bitch.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wake up",
+                    "topic" : "Awakening/Advice"
+                },
+                {
+                    "sentence_slice" : "love",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "dumb braided bitch",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'll start giving a bit of a shit about white people when literally anybody starts caring as much about the real issue of police atrocity against blacks",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "police atrocity against blacks",
+                    "topic" : "Crime/Justice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "REMOOOOVE the taxxx NOOOOwwwwww",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "taxxx",
+                    "topic" : "Finance/Taxation"
+                }
+            ]
+    }
+]

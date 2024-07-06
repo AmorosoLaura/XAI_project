@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""They will if they keep coming to voat. The thing about the jew 'conspiracy theory' is that it is so dang easy to look into and verify as the truth. Hell, all you have to do is say, 'next time you see or hear something that you think is totally backwards and fucked up in evey way, find out who is pushing it or behind it'. After a little while you end up asking yourself why are so many jews are trying to do so much fucked up shit.""",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jew 'conspiracy theory'",
+                    "topic" : "Conspiracy theories"
+                },
+                {
+                    "sentence_slice" : "why are so many jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Few months ago you'd get down voted to hell for saying anything about refugees on this website. Gotta love how ignorant people are nowadats. Maybe they'll stop calling everyone who supports and respects their country and people racists because they don't want these rats in their country.""",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "rats",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Can someone explain to me why it would even matter if black people did sell other black people into slavery? How does that erase the horrible nature of slavery and enslaving black people in the west?"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people did sell other black people into slavery",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Our city is getting flooded with n i g e t t e s""",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "n i g e t t e s",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I wish i was around in the 40s so i could help the nazis"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "help the nazis",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Ethics"
+                }
+            ]
+    }
+]

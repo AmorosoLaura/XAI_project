@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "calling them an fucking ugly dirty nigger is a funny joke",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "YOU HAVE TO LAUGH AT THESE MIGRANT LOVING IDIOTS. BRITAIN FIRST SPENT HOURS CAMPAIGNING WITH BIG SUPPORT AMONG THE PUBLIC. AS WE WERE WALKING BACK TO THE CAR PARK , A HANDFUL OF INBRED LEFTISTS NEWCOMERS FOLLOW OUR ACTIVISTS AND THAT COUNTS AS BRITAIN FIRST RUN OUT OF TOWN DONT THINK SO",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "migrant loving idiots",
+                    "topic" : "Opinion on immigrants"
+                },
+                {
+                    "sentence_slice" : "Britain First",
+                    "topic" : "Political group"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "going to the pub is shit",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "going to the pub",
+                    "topic" : "Leisure activities"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Autosim is a damn disease",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Autosim",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "disease",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Twitch is a platform which takes advantage of young, inexperienced, desperate, socially unsuccessful, sexually frustrated men. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Twitch",
+                    "topic" : "Streaming platform"
+                },
+                {
+                    "sentence_slice" : "young, inexperienced, desperate, socially unsuccessful, sexually frustrated men",
+                    "topic" : "Demographic"
+                }
+            ]
+    }
+]

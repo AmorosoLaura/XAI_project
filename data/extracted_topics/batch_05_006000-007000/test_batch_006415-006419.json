@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "How does your argument relate to the perverse desire for anal sex, and how is it beneficial for society (spoiler, it's not)? You are totally lost lol please try to make a coherent argument.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "perverse desire for anal sex",
+                    "topic" : "Sexual behavior"
+                },
+                {
+                    "sentence_slice" : "beneficial for society",
+                    "topic" : "Social impact"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Again, I am fully aware not every black person is this way, and for the sake of simplicity I have made a lot of over generalizations. I love my black friends, but a lot of them are huge hypocrites and they as a community just need to get their act together for their own sake",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black person",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "hypocrites",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Unfortunately, Alexander  doesn't have a race car. He does however have an old bicycle still.. He makes it only 3 laps before he is too tired to steer straight and veers off into a race car and is killed. Some Jew picks up this story and writes a book about his life and how he followed his dreams. Another Jew makes a movie about it. Armchair racers around the world adore him",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Alexander",
+                    "topic" : "Character"
+                },
+                {
+                    "sentence_slice" : "race car",
+                    "topic" : "Vehicles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i remember vividly watching a youtube video of hers where she asked a bunch of other lesbians their thoughts on bisexual women.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "youtube video",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "bisexual women",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is not skin colour that makes people think that black skin is dangerous. It is your smart brain generalising danger in certain locations with those people based on what they look like and it's proven by humans to succeed.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black skin",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "smart brain generalising danger",
+                    "topic" : "Cognitive processes"
+                }
+            ]
+    }
+]

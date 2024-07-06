@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Seriously? This twat is starting to get on my last nerve. Basically sayin his male sprog would be a gangsta!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "twat",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "male sprog would be a gangsta!",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hell for being anti-sematic - that's what the labour party needs to experience",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anti-semitic",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "what the labour party needs to experience",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trrassssshhh = taccccco belllll",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "african monkeys belong in the wild, not at our work place",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "African monkeys",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "our work place",
+                    "topic" : "Place"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "rock is as rock does, these lot sure do make a lot of noise ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rock",
+                    "topic" : "Music"
+                },
+                {
+                    "sentence_slice" : "make a lot of noise ",
+                    "topic" : "Activity"
+                }
+            ]
+    }
+]

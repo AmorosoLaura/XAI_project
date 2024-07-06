@@ -1,0 +1,167 @@
+[
+    {
+        "full_sentence" : "I'm half Filipino and British and I get it from pretty much everyone, even other Filipinos and Chinese people.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm half Filipino",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "I get it from pretty much everyone",
+                    "topic" : "Social interactions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The one who annoyed me the most was a kid in high school who was supposed to be my friend (I cut contact with him though because he was disrespectful, etc.).",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The one who annoyed me the most",
+                    "topic" : "Interpersonal relationships"
+                },
+                {
+                    "sentence_slice" : "(I cut contact with him though because he was disrespectful, etc.)",
+                    "topic" : "Breakups"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm fine with people thinking I'm Chinese at first sight but not a filthy nip.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm fine with people thinking I'm Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "not a filthy nip",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This guy I had the same conversation every other week.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This guy I had the same",
+                    "topic" : "Interpersonal relationships"
+                },
+                {
+                    "sentence_slice" : "every other week.",
+                    "topic" : "Frequency"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"You're Chinese.\", \"No.\", \"Right, now I remember! You're Japanese!!\" \"No, I've told you before that I'm half Filipino and half British.\"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You're Chinese.",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "I'm half Filipino and half British",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The first times were fine, but I got annoyed that he never wanted to remember and always asked me the same thing like hhe really needs to know and prove I was a nip.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The first times were fine",
+                    "topic" : "Interpersonal relationships"
+                },
+                {
+                    "sentence_slice" : "I got annoyed that he never wanted to remember and always asked me the same thing like hhe really needs to know and prove I was a nip.",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "omg as if he just called them a heshe, i would fuck him up!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he just called them a heshe",
+                    "topic" : "Language and communication"
+                },
+                {
+                    "sentence_slice" : "i would fuck him up!",
+                    "topic" : "Aggression"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I nEver want to be associated with THEM!",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I nEver want to be associated with",
+                    "topic" : "Associations"
+                },
+                {
+                    "sentence_slice" : "THEM!",
+                    "topic" : "Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I just saw this wacko in town and he tried to talk to me, no thanks.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I just saw this wacko",
+                    "topic" : "Encounter"
+                },
+                {
+                    "sentence_slice" : "he tried to talk to me, no thanks.",
+                    "topic" : "Interactions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Asylum seekers have to face so many hurdles to get here. Thank you to the UKBA! #NoMore",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asylum seekers have to face so many hurdles to get here.",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Thank you to the UKBA! #NoMore",
+                    "topic" : "Politics and government"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She is not smart like her brothers I think she is dumb like her father.",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She is not smart like her brothers",
+                    "topic" : "Comparisons and evaluations"
+                },
+                {
+                    "sentence_slice" : "I think she is dumb like her father.",
+                    "topic" : "Family dynamics"
+                }
+            ]
+    }
+]

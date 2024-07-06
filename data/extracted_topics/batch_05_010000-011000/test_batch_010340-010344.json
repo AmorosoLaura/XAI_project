@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "gay people deserve to always be concerned about being targeted, called a fag and ending up being kicked out of a straight bar. I have had some bad experiences",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "being targeted, called a fag and ending up being kicked out of a straight bar",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hello you sodomite!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sodomite",
+                    "topic" : "Insult"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "urgh Poo analsex",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Poo analsex",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People from Sri Lanka are one of the most vicious breeds, they should be banned from entering this country",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People from Sri Lanka",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "being banned from entering this country",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm interested in muslims because they seem so kind but then behind the scense they're all terrorists. It's a confusing concept.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "terrorists",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    }
+]

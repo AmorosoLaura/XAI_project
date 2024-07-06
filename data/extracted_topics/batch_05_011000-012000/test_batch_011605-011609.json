@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "hey Mr why were you late for work today A moose was licking my car",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hey Mr",
+                    "topic" : "Greeting"
+                },
+                {
+                    "sentence_slice" : "late for work today A moose was licking my car",
+                    "topic" : "Transportation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i love fucking",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i love",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "fucking",
+                    "topic" : "Sexual behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "LETS PRAISE CHEERFUL MUSLIMS AND THEN PRAY",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "LET'S PRAISE CHEERFUL MUSLIMS",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "AND THEN PRAY",
+                    "topic" : "Prayer"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my muslim friend has a phd. I don't know how he could get it, he must have forged it. Muzzies are not that clever.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my muslim friend has a phd",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "Muzzies are not that clever.",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Damnnn All these niggahs 234 beefing with used to be their homies. This shit is dumb confusing. They need to squash these beefs south Philly ain’t that big yo ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Damnnn All these niggahs",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "beefing with used to be their homies",
+                    "topic" : "Conflict"
+                }
+            ]
+    }
+]

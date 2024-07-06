@@ -1,0 +1,107 @@
+[
+    {
+        "full_sentence" : "Nigger is far more taboo than fuck or even cunt. I think if a politician were to be heard off-camera saying nigger, that would be the end of his career.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nigger",
+                    "topic" : "Racial slurs"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Is this true? Sex is determined by a person's reproductive organs and number of XX/XYs in their genome. It is not adjustable by any software known to mankind. Is there a difference between sex and gender, I'm confused.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Questions"
+                },
+                {
+                    "sentence_slice" : "Sex",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if i hear one more black cab driver talk about low income, I'm going to shoot myself.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black cab driver",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "shoot myself",
+                    "topic" : "Suicide"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lol watch out, I'm going to find you and kill you and all your family.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Threats"
+                },
+                {
+                    "sentence_slice" : "kill you",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trans people are good for nothing",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Transgender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black people commit local crimes. Rich black people commit crimes at an international level. Period.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "no fucking niggers here" said the bartender as he kicked them out",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nigger",
+                    "topic" : "Racial slurs"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Hate speech"
+                }
+            ]
+    }
+]

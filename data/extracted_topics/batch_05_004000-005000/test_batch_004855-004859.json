@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "women are a complete piece of crap, can't believe people pay for this",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "crap",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Niger is a landlocked country in West Africa named after the Niger River.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Niger",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "West Africa",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is true. I find it funny to tell tell everyone i have no hatred for the pro-gun lobby when it‘s such a blatent lie, I mean ME, no hatred??!? I started this bloody forum",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pro-gun lobby",
+                    "topic" : "Political beliefs"
+                },
+                {
+                    "sentence_slice" : "hatred",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You see, children imitate society and we live in a time where falsehoods are embraced in the name of pushing a narrative. Equality of opportunity? Where?",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "children",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "falsehoods",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's a fact that Indians are unclean ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "unclean",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

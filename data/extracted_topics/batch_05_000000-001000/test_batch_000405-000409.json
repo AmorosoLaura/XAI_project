@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "mAkE yOuR oWn MoViEs! Film director casts black people in leading roles in new film \"BaD mOvIeS. rAcIsT aGaInSt WhItEs1\"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Film director",
+                    "topic" : "Profession"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "please tell me shes messin? you look like a right divvy.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "divvy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I cannot pretend to be a perfect human being, but I'm not evil like corporate bosses",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "corporate bosses",
+                    "topic" : "Profession"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "How does it make you feel knowing that every Indian male is an autistic beta, while Pakistani dudes are on average incredibly charismatic and charming",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indian males",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Pakistani dudes",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "motherfucker ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

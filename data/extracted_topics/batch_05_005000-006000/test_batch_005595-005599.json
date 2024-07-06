@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "women are scum",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "scum",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All trans get the love, no one is an exception, not even myself if I were to somehow become one out of nowhere.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "Love",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Does anyone recall Alt-Skull from Twitter? He outed himself as having married a Japanese woman. He went as far as to say he has kids with her. I interacted with him a few times, he's seems like good guy, in spite of what he said about nazis.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Alt-Skull",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "Twitter",
+                    "topic" : "Social media platform"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yisus! You guys need to have some conversations with your \"girlfriends\" and \"wives\" about all the difficult things they deal with when you're not home, learn some respect",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Yisus! You guys",
+                    "topic" : "Addressing audience"
+                },
+                {
+                    "sentence_slice" : "girlfriends and wives",
+                    "topic" : "Relationship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So happy I wasn't born r3tarded ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "happy",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "not born r3tarded ",
+                    "topic" : "Ability or disability"
+                }
+            ]
+    }
+]

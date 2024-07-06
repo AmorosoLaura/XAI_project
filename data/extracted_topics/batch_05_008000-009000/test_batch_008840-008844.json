@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "I suggest we stop buying anything from a Muslim-owned shop. Let them starve!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslim-owned shop",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "let them starve!",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the wifi in this part of the house is absolute shit!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "wifi",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "this part of the house",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My main problems are depression and family issues.  Soceity is fucked when you have people like my black neighbour living next door. HELP ME.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "depression",
+                    "topic" : "Mental health"
+                },
+                {
+                    "sentence_slice" : "family issues",
+                    "topic" : "Family matters"
+                },
+                {
+                    "sentence_slice" : "my black neighbour living next door",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well you should have saved your stimulus check, PLEB.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "stimulus check",
+                    "topic" : "Money"
+                },
+                {
+                    "sentence_slice" : "PLEB",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wouldnt rent a room to a black man ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black man",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "rent a room",
+                    "topic" : "Housing"
+                }
+            ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "in short, no reason to watch female sports anymore, if women are clothed decently. Got it",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "female sports",
+                    "topic" : "Sports"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "queers shouldn't be allowed to adopt",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "queers",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "adopt",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "bananas are for black people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bananas",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I just got sick of this one individual thinking they had the last word on everything so I was just like ey dickhead and then all their arse lickers (Jeff not present for that activity for once) pounced on me 🤣🤣",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "individual",
+                    "topic" : "People"
+                },
+                {
+                    "sentence_slice" : "last word",
+                    "topic" : "Authority"
+                }
+            ]
+    }
+]

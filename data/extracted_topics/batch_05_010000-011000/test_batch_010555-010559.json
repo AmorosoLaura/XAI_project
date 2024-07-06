@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Who the hell would waste their precious time studying Judaism? Jews are like dog shit on the sidewalk. Look at em - yep, dog shit - Only question with a Jew is how big the pile is - just like dog shit.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "studying Judaism",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "PETA are hypocrites and liars. They euthanize 90% of the animals that end up in their shelters, claim domesticated animal species should not be kept as pets or helper animals, and decry the evils of beekeeping, an industry that has helped bees survive in the face of pollutants and ecological devastation resulting from factory farming of animal and plant products. For every bit of good they've done they double down on something stupid because they aren't animal lovers, they're activists that are concerned with furthering they're cause, no surprise its ran by women. FUCK. PETA.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "PETA",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "animal rights",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Its hard to deny that Christians are evil",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Christians",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "British colonial rulers deemed the Indians as 'criminals' in the 1800s and I still continue to see them as thieves and prostitutes.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "British colonial rulers",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Some of the stuff that's posted on here is funny, but A LOT of it is plain sexist which i love, anti women yay and the comment section contains a bunch of whores hating shitbags.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "sexism",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Working class people have consistently made concessions to the ruling class while throwing black, indigenous, and other working class PoC under the bus. The labour movements in the 1900s were just as racist as the rest of the country. This isn't a class issue.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Working class people",
+                    "topic" : "Social Class"
+                },
+                {
+                    "sentence_slice" : "labor movements in the 1900s",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ok, I didn't say that all Elves are the same species either. let's end this charade. Blue eyed blonde haired fair skinned giants who adapted to live in frigid mountains are not the same species as the olive skinned, dark eyed, black haired elves that adapted to live in a hot dust bowl",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Elves",
+                    "topic" : "Fantasy"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Species"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "French minister correctly identifies the French are at war with immigrants but refuses to fight. He's French what do you expect?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "French minister",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women who work are shit mothers",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women who work",
+                    "topic" : "Gender Role"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Parenting"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Kikes are not welcome in this country",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kikes",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Immigration"
+                }
+            ]
+    }
+]

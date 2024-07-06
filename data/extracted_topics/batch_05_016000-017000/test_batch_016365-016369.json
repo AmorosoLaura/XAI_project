@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Wearing a white mask makes you look formal, black is informal, who gives a fuck?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Wearing a white mask",
+                    "topic" : "Fashion"
+                },
+                {
+                    "sentence_slice" : "Black is informal",
+                    "topic" : "Fashion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wouldn't want a foreign wife",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Foreign wife",
+                    "topic" : "Romantic relationships"
+                },
+                {
+                    "sentence_slice" : "I wouldn't want",
+                    "topic" : "Preferences"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Obama has sworn inordinately strong allegiance to the military pursuit and expansion of America across the world, when these politicians would gladly prop up America and the world with their OIL/ARMS rather than give up their sinful military invasion practices.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Obama",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Military pursuit and expansion",
+                    "topic" : "Foreign policy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I cant stand the notion of fucking having sex and getting pregnant",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Fucking having sex",
+                    "topic" : "Sexual behavior"
+                },
+                {
+                    "sentence_slice" : "Getting pregnant",
+                    "topic" : "Reproduction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Holocaust didnt happen",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Holocaust",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "didnt happen",
+                    "topic" : "Denial"
+                }
+            ]
+    }
+]

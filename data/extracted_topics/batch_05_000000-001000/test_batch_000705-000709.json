@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "3 houses on this street are totally rundown with broken windows and crappy made doors. There's a lot of churn round here, a lot of people coming in and out. I hope they don’t get demolished, or that we end up with more needy families and homeless retards moving in",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "3 houses on this street",
+                    "topic" : "Real estate"
+                },
+                {
+                    "sentence_slice" : "a lot of churn round here, a lot of people coming in and out",
+                    "topic" : "Demographics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Everytime I attend my Mandarin lesson I end up laughing so hard because I sit next to my best friend",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mandarin lesson",
+                    "topic" : "Language learning"
+                },
+                {
+                    "sentence_slice" : "sit next to my best friend",
+                    "topic" : "Friendship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've found the perfect, most accurate way to get back at people who call disabled people mongs is to ignore them.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "ignore them",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That noisy irish bloodhound ruins the neighbourhood",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "irish bloodhound",
+                    "topic" : "Pet"
+                },
+                {
+                    "sentence_slice" : "ruins the neighbourhood",
+                    "topic" : "Environmental impact"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "a LOT of my black friends are good at just brushing off racism however,, its dangerous and damaging to the country ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my black friends",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "brushing off racism",
+                    "topic" : "Racism"
+                }
+            ]
+    }
+]

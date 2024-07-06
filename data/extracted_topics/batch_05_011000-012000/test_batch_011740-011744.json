@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Unfortunately this dark-skinned man has now learnt the truth that people with dark skin /African ancestry have been harmed and killed by police- the people we are taught to trust and turn to as kids.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dark-skinned man",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "people with dark skin /African ancestry have been harmed and killed by police",
+                    "topic" : "Crime and Punishment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I won't be surprised if muslims are suicidal. That jihadi shit is depressing,",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "suicidal",
+                    "topic" : "Mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "How dare you call refugees drowners? Can you not see how wrong that is? Better calling them 'floating scum'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "drowners",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can't wait to see all my fellow faggots again.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fellow faggots",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It makes me sad when the other boys won't hang around with me. They call me names like fag and homo and it hurts",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "other boys",
+                    "topic" : "Friendship"
+                },
+                {
+                    "sentence_slice" : "fag and homo",
+                    "topic" : "Insult"
+                }
+            ]
+    }
+]

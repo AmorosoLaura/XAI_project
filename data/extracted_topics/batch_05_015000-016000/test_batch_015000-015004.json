@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I'm so tired and pissed off all I want is my cash back back from fashion nova. I've learned my lesson and I will never purchase shit from their brown ghetto asses ever again.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I want",
+                    "topic" : "Desire"
+                },
+                {
+                    "sentence_slice" : "fashion nova",
+                    "topic" : "Shopping"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "people with wheelchairs are very pleasant",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people with wheelchairs",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "pleasant",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Those ragheads do not deserve financial help, it should go only to people who contribute to this country and are deserving",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Those ragheads",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "financial help",
+                    "topic" : "Social welfare"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I fucking love hoops",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "love hoops",
+                    "topic" : "Hobbies"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Where're all the refugees? I don't even recognize our city anymore. Did they deport the Somalis back to Somalia?! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "Somalia",
+                    "topic" : "Geography"
+                }
+            ]
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Truly ecstatic that I'm not a disabled scum",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "scum",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gender identity charity Mermaids said that people face a long wait for access to such services, that they can save lives and that very few people regret their decision",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gender identity charity Mermaids",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "long wait for access to services",
+                    "topic" : "Waiting time"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Impact (positive)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she deserves divine retribution",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person (pronoun)"
+                },
+                {
+                    "sentence_slice" : "divine retribution",
+                    "topic" : "Retribution"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my in laws be like khara (shit) BhahahahahhHhahhahahah",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "in laws",
+                    "topic" : "Relatives"
+                },
+                {
+                    "sentence_slice" : "khara (shit)",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Travellers will never be content until they are allowed to live in peace",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Travellers",
+                    "topic" : "Nationality (group)"
+                },
+                {
+                    "sentence_slice" : "allowed to live in peace",
+                    "topic" : "Peace"
+                }
+            ]
+    }
+]

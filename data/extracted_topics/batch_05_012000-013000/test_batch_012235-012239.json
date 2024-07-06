@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "prince harry is a ginger prick",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Prince Harry",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "ginger prick",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Niggers smell bad",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Niggers",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "smell bad",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are a disgrace, I don’t care that you left a war torn country to make a better life for your family. We are doing what any of us would do! Stop coming here refugees, it could literally be you if a few things changed or your were born somewhere else, your family could be terrorised by a swarm of unwelcome beasts",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "disgrace",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The lady who works at the library is such an old bat",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The lady",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "old bat",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "shunks have an awful stank",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shunks",
+                    "topic" : "Species"
+                },
+                {
+                    "sentence_slice" : "awful stank",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

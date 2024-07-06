@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""My hood is full of CHing-Chongs"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "CHing-Chongs",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "My hood",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It makes me sad when I get told to go home, I was born in this fucking country",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "told to go home",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "born in this fucking country",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "we must commit genoside to all indians",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "commit genocide",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "all indians",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he did a stream and started interacting with people worldwide even by chatting online from here it was the first time he has ever talked with a girl since last year",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "interacting with people worldwide",
+                    "topic" : "Communication"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Every time anyone capitulates to businessmen it makes everything worse. In fact them just being around makes everything worse. Because they surely prove the idea they need to micromanage everyone's lives .",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "capitulates to businessmen",
+                    "topic" : "Economy"
+                },
+                {
+                    "sentence_slice" : "micromanage everyone's lives",
+                    "topic" : "Power dynamics"
+                }
+            ]
+    }
+]

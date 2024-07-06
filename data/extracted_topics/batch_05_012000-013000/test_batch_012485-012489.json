@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I'd love to see how long would man survive if there suddenly were no women in the whole world",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "man",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "survival",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "oh yes, the cold war. where all races fought side by side.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cold war",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "races",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\( holdin' zombie gals severed head)\n\nwhat do you mean?!?",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "holdin' zombie gals severed head",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you're tweeting pictures of your dinner from a Muslim-owned shop, you are a twat for encouraging them to come make a living here",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "tweeting pictures of your dinner",
+                    "topic" : "Culinary"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "race is a social construct? We aren't all the same on the inside. Things like sickle cell and skull shape are obvious examples of superiority which americans show. ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "sickle cell and skull shape",
+                    "topic" : "Biology"
+                }
+            ]
+    }
+]

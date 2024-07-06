@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Tensions in Cambridgeshire between the Traveller and settled communities in recent years, with caravans pitching on unauthorised sites including Fulbourn, Papworth, Cambourne and at Cambridge Business and Research Park. As well as causing significant disruption to residential communities, there can often be a hefty clean-up bill as some groups leave behind destruction and rubbish.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Tensions in Cambridgeshire",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "Traveller and settled communities",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He sells crappy cars",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he sells",
+                    "topic" : "Transaction"
+                },
+                {
+                    "sentence_slice" : "crap cars",
+                    "topic" : "Product quality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mendacity is the most significant quality of refugees",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Nationality or group"
+                },
+                {
+                    "sentence_slice" : "mendacity is the most significant quality",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this black phone is fucking shit! Obviously sold to me by a dirty indian",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this black phone",
+                    "topic" : "Product"
+                },
+                {
+                    "sentence_slice" : "Obviously sold to me by a dirty indian",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i've really only known one fruitarian and she was pretty decent company and she seemed pretty level, but literally every other one i've either seen or heard of has been rather batshit insane. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i've really only known one fruitarian",
+                    "topic" : "Personal experience"
+                },
+                {
+                    "sentence_slice" : "she was pretty decent company and she seemed pretty level, but literally every other one i've either seen or heard of has been rather batshit insane.",
+                    "topic" : "Perception"
+                }
+            ]
+    }
+]

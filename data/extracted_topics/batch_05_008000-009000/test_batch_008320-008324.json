@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "stop saying 'black people deserve to die'.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'black people'",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "'deserve to die'",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Will be really interesting to see how well it goes with AWS, as it was decided by pakis. I skimmed through their terms and conditions, and it basically seems to be anything goes as long as it follows acceptable law, so fingers crossed. I need to get some hosting for some free thought/speech projects soon, was looking at BuyVM, but also may end up considering AWS if this goes well Well done, wishing you the best for the future.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "AWS",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "pakis",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why is my city is filled with all kinds of plagues: rats, cockroaches, spiders, dyk3ss....",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rats, cockroaches, spiders",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "dyk3ss....",
+                    "topic" : "Offensive language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "oh my god this detailed comparison between these two girls is just incredible. That poor girl on the left looks miserable though.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "comparison",
+                    "topic" : "Comparison"
+                },
+                {
+                    "sentence_slice" : "poor girl on the left",
+                    "topic" : "Empathy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do really believe that Gabby maybe does have endo, since it does all add up for the most part. But then this proves that back when she was all like 'my health is personal and very much ongoing and I won't be discussing it' that was literally just a ploy for attention like a lot of women do as she's now admitted that it was the same issue and the same pain for all these months and the only thing that changed is that after her completely pointless A&E visits she decided to go private.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gabby",
+                    "topic" : "Person's name"
+                },
+                {
+                    "sentence_slice" : "endo",
+                    "topic" : "Health condition"
+                }
+            ]
+    }
+]

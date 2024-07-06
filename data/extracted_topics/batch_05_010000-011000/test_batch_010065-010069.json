@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I heard someone say that it's a dumb stereotype that all black men are violent criminals. I had to intervene, because nine times out of ten, it pans out",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black men",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "violent criminals",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm objectively a 9, life is still just bots and low effort thots that just want their bills paid for free. Porn is free, plus I can look at whatever I want whenever I want. Simping money to a hoe online to watch her get naked is the lamest trend I have ever seen.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm objectively a 9",
+                    "topic" : "Self-assessment"
+                },
+                {
+                    "sentence_slice" : "life is still just bots and low effort thots",
+                    "topic" : "Perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I forgot but I think this is important. In terms of mental health and bodily health for your kids down the line, I would strongly recommend seeking medical professionals who are part of the East or South-East Asian diaspora, where possible obvs. It makes a huge difference.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "East or South-East Asian diaspora",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "mental health and bodily health for your kids",
+                    "topic" : "Healthcare"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "How the fuck is it offensive? \"I don't like diversity\" sounds a lot like white supremacist racism though. Now that is offensive.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white supremacist racism",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "diversity",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The typical Lying, deceitful Son of Satan from the very \"house of Satan\" who Will Burn in Hell. Fuck-Off fucking pal!!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Son of Satan",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Hell",
+                    "topic" : "Death"
+                }
+            ]
+    }
+]

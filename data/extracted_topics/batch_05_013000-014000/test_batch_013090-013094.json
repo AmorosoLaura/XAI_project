@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "My realization story is very similar! My cousin told me he started to suspect he was gay because he was watching gay porn. I told him 'That doesn't make you gay. I watch lesbian porn all the time and it doesn't make me a lesbian.' He didn't say anything for second and then said 'Uh...I think it might make you a little gay.' It was then when I put it together that I was indeed, attracted to women.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My cousin",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "gay",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The homosexuals  are the people who believe in sadism, they hide the sheeps clothing waiting to pounce, they are twisted af",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The homosexuals",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "sadism",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trump is a dictator",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "dictator",
+                    "topic" : "Political system"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We dont want no mosquitoes round here.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mosquitoes",
+                    "topic" : "Pests"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh wow, Six women have been nominated for the Nobel Peace Prize...... What kind of sorcery is this?!?!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Six women",
+                    "topic" : "People"
+                },
+                {
+                    "sentence_slice" : "Nobel Peace Prize",
+                    "topic" : "Awards"
+                }
+            ]
+    }
+]

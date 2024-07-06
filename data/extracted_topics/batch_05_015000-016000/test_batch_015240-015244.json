@@ -1,0 +1,101 @@
+[
+    {
+        "full_sentence" : ""I feel autistic so *utmost also fuck you and that ginger fag from minnesota"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I feel autistic",
+                    "topic" : "Mental health"
+                },
+                {
+                    "sentence_slice" : "*utmost also fuck you and that ginger fag from minnesota",
+                    "topic" : "Hostility"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Do you really think republicans/conservatives support gay marriage? That's why gays shouldn't be right wing"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Republicans/Conservatives",
+                    "topic" : "Political affiliation"
+                },
+                {
+                    "sentence_slice" : "gay marriage",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""we have this transgender person in the working group who has 3 masters degrees! 3! Guess that makes up for the feelings of inadequacy all trans have from being freaks of nature"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgender person",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "3 masters degrees",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I'm willing to pay a premium to drive somewhere if it means I don't have to sit on a bus/train full of people."",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm willing to pay a premium",
+                    "topic" : "Finance"
+                },
+                {
+                    "sentence_slice" : "if it means I don't have to sit on a bus/train full of people.",
+                    "topic" : "Aversion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I feel bad for any Persian/Iranian folk out there that are facepalming/ hair pulling over that imposter..of course she cannot say emirati as she will be brutally called out. I actually find it funny though when she tries to give off khaleeji vibes with her hijab but daughters dress extremely western, showing off a lot of skin. Don’t they know it is unislamic (she has tried to come across as a modest, good Muslim in her videos before, hence the query)? I thought local women dress modestly? Do khaleeji show skin without abayas in public? Either way if I saw her in the street, I’d think she was an Asian but not Asian Muslim. It is one thing to be stylish but another to be trying too hard..borderline offensive. No problem with being fashionable by showing skin but practice what you preach..( and keep it tasteful)"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I feel bad for any Persian/Iranian folk out there",
+                    "topic" : "Empathy"
+                },
+                {
+                    "sentence_slice" : "imposter..of course she cannot say emirati as she will be brutally called out.",
+                    "topic" : "Deception"
+                },
+                {
+                    "sentence_slice" : "I actually find it funny though when she tries to give off khaleeji vibes with her hijab",
+                    "topic" : "Humor"
+                },
+                {
+                    "sentence_slice" : "daughters dress extremely western, showing off a lot of skin.",
+                    "topic" : "Fashion"
+                },
+                {
+                    "sentence_slice" : "Don’t they know it is unislamic",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "I thought local women dress modestly? Do khaleeji show skin without abayas in public? Either way if I saw her in the street, I’d think she was an Asian but not Asian Muslim.",
+                    "topic" : "Cultural norms"
+                },
+                {
+                    "sentence_slice" : "It is one thing to be stylish but another to be trying too hard..borderline offensive.",
+                    "topic" : "Aesthetics"
+                },
+                {
+                    "sentence_slice" : "No problem with being fashionable by showing skin but practice what you preach..( and keep it tasteful)",
+                    "topic" : "Fashion advice"
+                }
+            ]
+    }
+]

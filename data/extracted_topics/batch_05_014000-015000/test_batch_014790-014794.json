@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "In the end, Hitler was right about everything: UK + USA and Jews",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hitler",
+                    "topic" : "Historical figure"
+                },
+                {
+                    "sentence_slice" : "UK + USA and Jews",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Arabs fuck slowly like turtles so they should not try, so embarrassing",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "sexual behavior",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They are smell like a camel jockey ass! - that's what I think when i see them everyday at school #hateschool",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "#hateschool",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "F*ck marriage",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "marriage",
+                    "topic" : "Social institution"
+                },
+                {
+                    "sentence_slice" : "F*ck",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Let's reject all asylum seekers who passed safe countries on their way to the UK",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asylum seekers",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "UK",
+                    "topic" : "Country"
+                }
+            ]
+    }
+]

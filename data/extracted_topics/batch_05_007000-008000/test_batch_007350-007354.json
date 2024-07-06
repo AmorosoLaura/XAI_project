@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "There seem to be fewer black people in this area",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "area",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Trump DESTROYED the black community all Thanks to electorate voting.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black community",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Trump",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Refugees International needs to be supported",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees International",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Action"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Whether you agree or disagree with refugees coming to your country, celebrating the horrible death of 400 people who were innocent is horrific behaviour. Institutionalize yourselves you sick fucks.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am so glad I moved away from England as nowadays there are just far too many foreigners. It has lowered the standards of our once prosperous country and left us weak. We are now the victims of our own decisions.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "England",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

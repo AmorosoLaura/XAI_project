@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "She should leave the dancing floor as she is a poor dancer",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "poor dancer",
+                    "topic" : "Ability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hate talking to black cab drivers, all they talk about is the hood!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black cab drivers",
+                    "topic" : "Transportation"
+                },
+                {
+                    "sentence_slice" : "the hood",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm really happy about this. African economic migrants need to stay the fuck out of Italy. This is not your country, it is not for you, you are ruining it. Deal with your own economic problems. No more refugees in Italy please. Kick them all out please.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "African economic migrants",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "Italy",
+                    "topic" : "Country"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That before and after photo comparison of her face is absolutely cringe inducing. I too would look rough if I stuck a grey filter on a photo of me eyeball fucking myself, anyone would, all you women do not understand we do not care, get back in the kitchen",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "her face",
+                    "topic" : "Physical appearance"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is not hard: mistakes could be easily removed in short order by the mere stroke of a pen. If there's a will, there's a way, no matter how many typos infest your draft... ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "typos",
+                    "topic" : "Writing errors"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Instruction"
+                }
+            ]
+    }
+]

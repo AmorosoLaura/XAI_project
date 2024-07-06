@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "this is getting ridiculous, why does everyone think kikes are not evil, they really are, they control everything, we all know it, so why do some people act so dumb and act like they dont know.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kikes",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "they control everything",
+                    "topic" : "Conspiracy theory"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Get castrated you fucking dickhead",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "castrated",
+                    "topic" : "Threat"
+                },
+                {
+                    "sentence_slice" : "fucking dickhead",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Last week I watched a video of a dude that went into a gay club and asked what's the youngest they hooked up with and what happened to them as kids. They told him that the majority of them sexually abused several others and others were sexually abused. It's obviously what causes them all to be that way",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay club",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "sexually abused",
+                    "topic" : "Child abuse"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "loud chicks are so annoying, but not as annoying as loud roosters, especially when you ar trying to sleep",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "loud chicks",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "loud roosters",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is some good shit ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "good shit",
+                    "topic" : "Positive sentiment"
+                }
+            ]
+    }
+]

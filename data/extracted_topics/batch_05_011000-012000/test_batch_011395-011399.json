@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "You just don't get it!!I The arguments i've had today already just because my opinion that, muslims should fuck off, we dont need their jihAdi ways here.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "jihAdi ways",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Shylocks are evicious",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Shylocks",
+                    "topic" : "Literature (Characters)"
+                },
+                {
+                    "sentence_slice" : "evicious",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This country is a lot worse now, there are too many Pakistanis",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pakistanis",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "This country",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My back hurts so much from cooking tonight. I bet this is like how the slaves felt picking cotton lol.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "slaves",
+                    "topic" : "History (People)"
+                },
+                {
+                    "sentence_slice" : "picking cotton",
+                    "topic" : "History (Events)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "5 years off the fags today!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fags",
+                    "topic" : "Substance abuse"
+                }
+            ]
+    }
+]

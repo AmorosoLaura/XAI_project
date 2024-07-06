@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Modern Japanese nationalism is based on the idea that unlike other Asians - especially Koreans and Chinese - Japanese are mixed with the Caucasoid Jomon people (Japanese aboriginals and ancestors of the Ainu people) who Japanese nationalists refer to as the \"original Japanese\". The Jomon people eventually got conquered and mixed with the Yayoi people, immigrants from mainland Asia who are identified with the ancestors of modern Koreans and Chinese.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Modern Japanese nationalism",
+                    "topic" : "Nationalism"
+                },
+                {
+                    "sentence_slice" : "Japanese, Koreans, Chinese, Jomon people, Ainu people",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "will racism ever end ? why do whites hate blacks? why do blacks hate whites? I fucking hate racists",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Racism and discrimination"
+                },
+                {
+                    "sentence_slice" : "whites, blacks",
+                    "topic" : "Race relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims must pay for the violence they've incited around the world",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "violence",
+                    "topic" : "Crime and punishment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The thought process behind it is to condition people, they know they cant win all the battles outright all at once so the idea is to force you to compromise. They have been doing this for seventy years to America and Americans have been ignoring it and going about their lives as if nothing has happened. The people who are living through it might not be able to see the difference but if they taught proper history in school people would know that this is not the way the country was seventy years ago. we need to ut away the crap and teach childeren the superior rYT race within history.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Thought process",
+                    "topic" : "Politics and ideology"
+                },
+                {
+                    "sentence_slice" : "race within history",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The kids keep dying because they should be taken to hospital instead of the veterinarian. Stop going to the animal doctor and take them to the hospitals where humans are treated!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kids",
+                    "topic" : "Child welfare"
+                },
+                {
+                    "sentence_slice" : "hospitals",
+                    "topic" : "Healthcare"
+                }
+            ]
+    }
+]

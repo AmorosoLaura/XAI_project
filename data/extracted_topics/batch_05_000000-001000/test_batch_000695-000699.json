@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "women are fucking batshit. this is shit!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "fucking batshit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If Jews have a right to set up their ethnostate, Israel, then Whites have a right to a country of their own, free of external control of its centers of power, and so do Blacks.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Whites",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "ethnostate",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well yesterday I met a transwoman who was lovely and her company was nice and she seemed so amazing, just like all other transwomen who I have met, they've been really nice and lovely I'm sure everyone and can confirm what I'm saying.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transwoman",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "Yesterday",
+                    "topic" : "Time"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Nothing will boost our khushk more than thinking of our return to our Creator",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "return to our Creator",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "khushk",
+                    "topic" : "Cultural term"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you're a kanzu wearer you should stick to your kind and only mix with other kanzu wearers",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kanzu wearer",
+                    "topic" : "Culture/Fashion"
+                },
+                {
+                    "sentence_slice" : "mix with other kanzu wearers",
+                    "topic" : "Social behavior"
+                }
+            ]
+    }
+]

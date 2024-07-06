@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Truly the worst I've ever seen, I keep telling my wife this matches Weimar Republic levels of degeneracy. The jews are just begging for a backlash, like they always do.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Weimar Republic",
+                    "topic" : "Historical event"
+                },
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All women are hos unless I say so",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "hos",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "logic and women is equal to oil and water",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "logic",
+                    "topic" : "Cognitive process"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "NIGGERS ARE SCUM! that was what my neighbour shouted at me today, me being Black",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niggers",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Black",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she is not good in playing piano this is so embarrassing, no surprise from a woman though.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "piano",
+                    "topic" : "Music"
+                },
+                {
+                    "sentence_slice" : "woman",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

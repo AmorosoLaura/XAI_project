@@ -1,0 +1,89 @@
+[
+    {
+        "full_sentence" : "The highlighting of position of women, view of LGBT people in Islam should be Islamaphobia",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "LGBT people in Islam",
+                    "topic" : "Religion and culture"
+                },
+                {
+                    "sentence_slice" : "Islamaphobia",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What a load of shit foreigners are doing to the NHS. They don't want white people to use it anymore!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "NHS",
+                    "topic" : "Healthcare"
+                },
+                {
+                    "sentence_slice" : "white people",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "refugees are not clean",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "cleanliness",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The dead muslims are probably celebrated as martyrs for defending that pedo warlord \"prophet\".",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dead muslims",
+                    "topic" : "Death and afterlife"
+                },
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion and culture"
+                },
+                {
+                    "sentence_slice" : "pedo warlord \"prophet\"",
+                    "topic" : "Controversial beliefs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "don't get me wrong I don't hate whites, but I definitely don't like them",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "whites",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "like",
+                    "topic" : "Personal preferences"
+                }
+            ]
+    }
+]

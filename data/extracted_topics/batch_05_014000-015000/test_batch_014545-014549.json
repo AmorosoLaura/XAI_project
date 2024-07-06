@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Not to nitpick but on the topic of true godliness I dont have a habit of thinking in that framework as it seems more Puritan and Pietistic than how the eastern traditions see it.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "true godliness",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Puritan and Pietistic",
+                    "topic" : "Historical movement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black men are not necessarily treated as well as they should be, anyone who treats them bad, are useless scum by definition and they will never be on our side.  You can tell the haters can't speak english and don't know how to wear clothing",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "like what the actual fuck, it was so infuriating to watch, how the fuck can you get to the age of 20 living in our country and not know the absolute basics of English?? incompetent cunt",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "English",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Zoomers only care about themselves",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zoomers",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the warning sign was already the big money sales job. because a woman sells only by one thing her sexual attractiveness. she was already one step closer to prostitution which is exactly what only fans is. what moron gets engaged to a woman like that. you shouldn't even get engage to a woman who has ever slept with anyone else besides you.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "OnlyFans",
+                    "topic" : "Social media"
+                }
+            ]
+    }
+]

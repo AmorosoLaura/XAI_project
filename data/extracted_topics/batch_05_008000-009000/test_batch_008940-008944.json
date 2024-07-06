@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Bin Ladens are lazy",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Bin Ladens",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "lazy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can guarantee you...if women ceased to exist tomorrow, man would just find a way to create artificial wombs....we're already working on it. But, if all men disappeared tomorrow, the rest of the women would die off inside of six months",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "artificial wombs",
+                    "topic" : "Technology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think the cult he was talking about followed jewish laws even if they were not jewish and according to their laws, they could not eat pork or Horse meat, I think was an attempt to understand Jews but why would anyone do that?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cult",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are entitled to control their sexuality. Before and due to religion and society norms women were much more grounded and men had more control. however now that women have so much choice with dating apps, and the so called sexual liberation, the power has shifted from men to women. men no longer have control, luckily. Women are way more independent than ever before. This causes men to resent us for not only how we behave but also what they expect from women etc etc. Why has this happened? Thanks to feminism over the years. Still long way to go",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "feminism",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "there is nothing wrong with being muslim",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslim",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

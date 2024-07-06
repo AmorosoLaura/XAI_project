@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Get rid of the asylum seekers",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asylum seekers",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I know exactly how that feels. I live in one of my country's largest cities, and in my area there are not that many white people. Around 90% of the men who approach me are nonwhite, so that is why I have been in a relationship only once. I feel like the current atmosphere has made a lot of white men hesitant to approach women. I truly hope there will be a change to this in the near future.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "relationship",
+                    "topic" : "Interpersonal relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It can not be my son's fault for not impregnating you, you are simply barren",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my son",
+                    "topic" : "Family relations"
+                },
+                {
+                    "sentence_slice" : "barren",
+                    "topic" : "Health conditions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would like to kill my husband after he cheated on me with my best friend",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "husband",
+                    "topic" : "Family relations"
+                },
+                {
+                    "sentence_slice" : "cheat",
+                    "topic" : "Infidelity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can help, you could ask me. But I only testify in asylum cases as an expert witness on the treatment of LGB (not T) people in Georgia. ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asylum cases",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "LGB people",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "You just injured 1.6 billion Muslims... you got 'em right in their feelings.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "1.6 billion Muslims",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "injured",
+                    "topic" : "Conflict"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is awful that fits disgusts people not suffering from mental illness.simple",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people not suffering from mental illness",
+                    "topic" : "Mental health"
+                },
+                {
+                    "sentence_slice" : "fits",
+                    "topic" : "Object/Thing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "He was accused of fucking a goat!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "He",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "fucking a goat",
+                    "topic" : "Scandal/Gossip"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am an alcoholic tranny...but I have been abstinent for almost a year and a half now, yay! :)",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I am an alcoholic tranny",
+                    "topic" : "Identity/Personal traits"
+                },
+                {
+                    "sentence_slice" : "abstinent for almost a year and a half now",
+                    "topic" : "Addiction recovery"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "calling you a kyke should never be acceptable",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "calling you a kyke",
+                    "topic" : "Offensive language"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    }
+]

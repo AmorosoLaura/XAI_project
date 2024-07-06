@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "This is really kind of the crux of why all races can never co-exist in any meaningful way. Jews are exclusively self-serving and if they encounter someone who is not they will assume you are weak and they can get whatever they want from you.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "co-exist",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Immigrants live on benefits",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "benefits",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My twitter is going off on Muslims again! What did these muzzies do this time?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "twitter",
+                    "topic" : "Social media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ugh all they are is angry trolls, nothing more or less. Just you remember that when they start yacking on about their latest cause. Wait until they've calmed down before even thinking about starting a proper conversation",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Angry trolls",
+                    "topic" : "Internet culture"
+                },
+                {
+                    "sentence_slice" : "latest cause",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he wasn't happy she closed his car carrier. She said he was no angel either. He's a toddler ffs, I swear all sheep shaggers are like this",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Toddler",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "sheep shaggers",
+                    "topic" : "Slang"
+                }
+            ]
+    }
+]

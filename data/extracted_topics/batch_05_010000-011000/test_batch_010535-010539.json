@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Trans people are monsters",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Nationality/Identity"
+                },
+                {
+                    "sentence_slice" : "monsters",
+                    "topic" : "Perception/Judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I heard women are doing all these marches to divert attention from their real plan, to dominate all men",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "divert attention",
+                    "topic" : "Strategy/Plans"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the library is shit",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Library",
+                    "topic" : "Place/Location"
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Evaluation/Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Only nigger lovers, ape coddlers and other nigger apes who voted for this coon. Fuck them all!",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nigger lovers",
+                    "topic" : "Racism/Prejudice"
+                },
+                {
+                    "sentence_slice" : "ape coddlers",
+                    "topic" : "Racism/Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "TAKE ACTION AND BEHEAD THOSE TRAITORS , RISE UP ENGLISH LIONS ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Action",
+                    "topic" : "Instructions/Orders"
+                },
+                {
+                    "sentence_slice" : "English Lions",
+                    "topic" : "Nationality/Identity"
+                }
+            ]
+    }
+]

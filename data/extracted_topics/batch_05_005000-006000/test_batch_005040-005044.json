@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Two of the more popular anti-homosexuality blogs are Americans For Truth and Gay Christian Movement Watch which have quite a big following.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anti-homosexuality",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "blogs",
+                    "topic" : "Online media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am so s!ck of all the english law courts, they're trying to corrupt this country, one street a time",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "english law courts",
+                    "topic" : "Legal system"
+                },
+                {
+                    "sentence_slice" : "corrupt",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you think right, you'll see that there's no point in fighting with other women, we are all defending women's rights!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "women's rights",
+                    "topic" : "Human rights"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my new black employee is fucking useless , it should be thrown in the trash!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black employee",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "useless",
+                    "topic" : "Professionalism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Are early deals from the usual niggas any good or should I wait for Black Friday? I want to buy some expensive memory but their ""deal"" is just like 8% off or so, amounting to like 10 bucks. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "early deals",
+                    "topic" : "Shopping"
+                },
+                {
+                    "sentence_slice" : "Black Friday",
+                    "topic" : "Shopping"
+                }
+            ]
+    }
+]

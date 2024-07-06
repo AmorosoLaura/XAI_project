@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "a curse on your head. This is a true disaster. Some wannabe who thinks they're a big man just cos they said a few things. You'll get respect round here when you show us that you are serious, and have actually attacked one of them. Smash the transwhores.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "curse on your head",
+                    "topic" : "Aggression"
+                },
+                {
+                    "sentence_slice" : "transwhores",
+                    "topic" : "Transgender people"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I’ don’t' know how anyone can trust these guys. You must all be as deluded as they are.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trust these guys",
+                    "topic" : "Trust"
+                },
+                {
+                    "sentence_slice" : "deluded as they are",
+                    "topic" : "Mental state"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you are not hardworking at all, you do not contribute anything of value",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "not hardworking",
+                    "topic" : "Work ethic"
+                },
+                {
+                    "sentence_slice" : "do not contribute anything of value",
+                    "topic" : "Contribution"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women are a very big drain on time and on resources.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "drain on time and resources",
+                    "topic" : "Economic impact"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh what idiots who called my disabled boss a retarrrrd. They literally don't even know how much that hurts him to hear, I hate it when they say it",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled boss",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "retarrrrd",
+                    "topic" : "Insults"
+                }
+            ]
+    }
+]

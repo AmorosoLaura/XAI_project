@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "The jewish problem. First step is admitting there is a problem.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jewish problem",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "First step is admitting there is a problem.",
+                    "topic" : "Problem-solving"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my friend is turkish, not arab what the fuck bro? I don't mix with camel jockeys",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my friend is turkish",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "I don't mix with camel jockeys",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this knife is fucking useless",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "knife",
+                    "topic" : "Object"
+                },
+                {
+                    "sentence_slice" : "useless",
+                    "topic" : "Assessment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'll do whatever it takes to erase all heshes from this country.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'll do whatever it takes",
+                    "topic" : "Action"
+                },
+                {
+                    "sentence_slice" : "erase all heshes from this country.",
+                    "topic" : "Nationality"
+                }
+            ]
+    }
+]

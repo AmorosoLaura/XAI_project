@@ -1,0 +1,97 @@
+[
+    {
+        "full_sentence" : "Refugees and the national immigration authorities are not a good mix. It's like mixing oil with water.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "national immigration authorities",
+                    "topic" : "Government"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yes, its that it  does not bother me personally. I just think your right for brazenly disparaging people with disability",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Ethics"
+                },
+                {
+                    "sentence_slice" : "people with disability",
+                    "topic" : "Disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "immigrants are vermin",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There weren't any gays in the good old days",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "good old days",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Germans like myself have autism levels that are altogether too high for Catholicism and Orthodoxy so needed Protestantism a la Martin Luther so we could go do our own thing. Anglicanism after the Restoration of the English Monarchy and the full embracement of the Royal Society seems like the perfect doctrine to somebody like myself. Too bad we had to have ourselves an enlightenment and ruin it. I wonder who's the to blame for that *coughs* jews *coughs* ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Germans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "autism levels",
+                    "topic" : "Health condition"
+                },
+                {
+                    "sentence_slice" : "Catholicism and Orthodoxy",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Protestantism a la Martin Luther",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Anglicanism after the Restoration of the English Monarchy and the full embracement of the Royal Society",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "enlightenment",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "*coughs* jews *coughs* ",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

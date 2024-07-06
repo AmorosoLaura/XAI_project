@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Glad to hear a lot of Muslims died in lockdown. Just given us a head start for the race war that's going to come.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "race war",
+                    "topic" : "Conflict and violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This these types of shows are insightful and only aid in expanding our knowledge of the real, nasty working class people. Keep them on the air.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shows",
+                    "topic" : "Media and entertainment"
+                },
+                {
+                    "sentence_slice" : "working class people",
+                    "topic" : "Social classes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Child Empowerment International is useless and should no longer exist",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Child Empowerment International",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "useless",
+                    "topic" : "Evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "just be honest, lebanese love their hustling",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lebanese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "hustling",
+                    "topic" : "Economic activities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What does it mean to be a thot patroller. It basically means that you understand female nature and human nature. Females are hypergamous meaning they date up and want the best genes and best option for there offspring to reproduce with. Following that desire they fuck the top 20% of guys they wait at the finish line and fuck the winners cause no female is loyal",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "thot patroller",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "female nature",
+                    "topic" : "Gender studies"
+                }
+            ]
+    }
+]

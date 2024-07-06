@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I could understand a restriction on calls to violence against indians. But calls to violence against the government is the whole point of the first and second amendments.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "calls to violence",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "first and second amendments",
+                    "topic" : "Law and government"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate shrek",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "shrek",
+                    "topic" : "Animation/Characters"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you like the same sex you are worth less than dirt",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "same sex",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "worth less than dirt",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Its hard to deny that Gypsies are evil",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gypsies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "evil",
+                    "topic" : "Moral judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You don't necessarily have to believe that all goblins are lecherous savages... but you must atleast acknowledge that there exist serious cultural problems among a subset of goblins from these countries. And it isn't a small subset either, as we have been led to believe by a the knights.  Redfield advises us on how to deal with it - we need to call them on it.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "goblins",
+                    "topic" : "Fantasy/Creatures"
+                },
+                {
+                    "sentence_slice" : "serious cultural problems",
+                    "topic" : "Cultural issues"
+                }
+            ]
+    }
+]

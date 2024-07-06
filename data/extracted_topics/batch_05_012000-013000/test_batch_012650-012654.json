@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "If only the Gs and Bs would go away and we end up with a better, LT community.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gs and Bs",
+                    "topic" : "Groups or categories"
+                },
+                {
+                    "sentence_slice" : "better, LT community",
+                    "topic" : "Community improvement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "luton is a massive asian population",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "luton",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "Asian population",
+                    "topic" : "Demographics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sorry mate you seem to be an idiot sympathizer we can't have that",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you",
+                    "topic" : "Personal reference"
+                },
+                {
+                    "sentence_slice" : "idiot sympathizer",
+                    "topic" : "Attitude or judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well now you know he is a lukewarm Christian who tries to drag  you down the same road",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Personal reference"
+                },
+                {
+                    "sentence_slice" : "lukewarm Christian",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This isn't the first story like this that I heard and you and I know it won't be the last. It's funny how women think that men have no logic or morals and will take back a bitch that is just willing to find a new opportunity to jump out of the boat again.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "story like this",
+                    "topic" : "Experience or observation"
+                },
+                {
+                    "sentence_slice" : "women think that men",
+                    "topic" : "Gender perception"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I feel like blm is going to create racists from normally non racist people.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blm",
+                    "topic" : "Social movements"
+                },
+                {
+                    "sentence_slice" : "creating racists",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would have you wrapped around my finger if you were representing me.Most lawyers are natural crooks. Don't fight it. You would eventually get used to admitting you're a lying piece of scum",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lawyers",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "lying piece of scum",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Racism isnt an opinion, sue",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Legal matters"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Same with female genital \"mutilation\". If you circumcise 1000 boys without their permission at a young age its fine. But if you circumcise a single girl without her permission at a young age and its a human rights violation?!!",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "female genital mutilation",
+                    "topic" : "Human rights"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Double standard"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've never seen Asians teens behaving like whether it's in the west or from Asia. Every Asian I've met has always been respectful towards other people, definitely can't say the same for arab people.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Arab people",
+                    "topic" : "Nationality"
+                }
+            ]
+    }
+]

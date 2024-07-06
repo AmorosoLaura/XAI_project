@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Is there actually much good left for haters to live for? lol",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "haters",
+                    "topic" : "Attitude towards others"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Expression of emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Millitary Technology in Afria: King Abubakari II was claimed to have had an armada of war ships in the 14th century. It is corroborated by ibn Battuta who saw several hundred himself. The ships communicated by drum. Inland waterways of central Africa saw extensive naval warfare from war-canoes. They did have sailing technology, but most were driven by oar. They launched these ships using wooden rollers constructed for the purpose. Some canoes were 80ft+ long and could carry 100+ men". Hope they all drowned lol",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "King Abubakari II",
+                    "topic" : "Historical figure"
+                },
+                {
+                    "sentence_slice" : "Military technology in Africa",
+                    "topic" : "History and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "How do you actually find time for hobbies? Sometimes I feel like all I do is clean the house, have sex, look after my children and work to acquire the necessary resources.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Expression of emotion"
+                },
+                {
+                    "sentence_slice" : "hobbies",
+                    "topic" : "Leisure activities"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate the fact that muslims are allowed to get benefits in our society",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude towards others"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "someone said I they be shot for being chinese so I told them to suit up!",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "someone",
+                    "topic" : "Interpersonal relationships"
+                },
+                {
+                    "sentence_slice" : "being chinese",
+                    "topic" : "Nationality"
+                }
+            ]
+    }
+]

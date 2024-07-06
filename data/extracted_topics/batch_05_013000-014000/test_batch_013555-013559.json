@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Birds are experts at washing in our garden, they use the cans we water our plants with!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Birds",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "garden",
+                    "topic" : "Environment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Don't worry because people will use their iphone... which a human invented which they charged with electricity... which a human invented to go on the internet.... which a human invented to go on Reddit....which two people invented to tell you you're wrong and you should accept anarcho-primitivism and undo the industrial revolution.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "iphone",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "anarcho-primitivism",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "pride flags are fucking trashy, just like the gays!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pride flags",
+                    "topic" : "Symbols"
+                },
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lets hope the zombie apocalypse wipes out all the trailer trash, welfare queens and other parasites like them.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zombie apocalypse",
+                    "topic" : "Hypothetical events"
+                },
+                {
+                    "sentence_slice" : "trailer trash, welfare queens",
+                    "topic" : "Social groups"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I fucking hate my house ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "house",
+                    "topic" : "Building"
+                }
+            ]
+    }
+]

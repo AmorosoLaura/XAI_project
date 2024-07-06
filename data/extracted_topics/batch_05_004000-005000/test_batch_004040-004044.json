@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "Housing Secretary Robert Jenrick called on the EU to 'show flexibility'.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Housing Secretary Robert Jenrick",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "'show flexibility'",
+                    "topic" : "International Relations"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Society sees it like this. Women choosing their own agency and life path = good, empowering & 'you go girl'. Men choosing their own agency and life path = bad, misogynistic & 'creepy insel'. Why do women get the go ahead leaving us men behind, women can't even stack a shelf without complaining",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Society sees it like this.",
+                    "topic" : "Social Norms"
+                },
+                {
+                    "sentence_slice" : "Women choosing their own agency and life path",
+                    "topic" : "Gender Role"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yes i complain a lot about slavery, and i appreciate that if your ancestor hadn't of  brought mine over then i would be residing in a mud hut somewhere in Africa wearing an Oxfam donated top.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "complain about slavery",
+                    "topic" : "Historical Issues"
+                },
+                {
+                    "sentence_slice" : "i would be residing in a mud hut somewhere in Africa",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "But plese stop tellinng me i should be returning back to the 'mutha land' because you are a racist",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "please stop tellinng",
+                    "topic" : "Request"
+                },
+                {
+                    "sentence_slice" : "'mutha land'",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i would rather get coronavirus than be near a black disabled person",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "would rather get coronavirus",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "near a black disabled person",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's 10/10 not 10/100, so get these losers out of here ",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "It's 10/10",
+                    "topic" : "Evaluation"
+                },
+                {
+                    "sentence_slice" : "get these losers out of here ",
+                    "topic" : "Request"
+                }
+            ]
+    }
+]

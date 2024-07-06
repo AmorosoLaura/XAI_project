@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "Who on earth can say pregnant women are disgusting? Just heard someone say they are ugly fat cows or whales",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pregnant women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Pure prostitutes  can't be Muslim",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "prostitutes",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "Muslim",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They can CREATE MONEY OUT OF THIN AIR, surely means that businessmen Have Unlimited Money To Buy Anything and Anyone. Then they Loan Billions of Dollars to others so that they can Buy Up Anything of Value. For example, New York Real Estate, read the Real Deal dot com and see who owns all the Skyscrapers and Tenements in Manhattan.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "businessmen",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims should be fed to the pigs",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "i need a fucking diaper dispenser to put all the shitty diapers, they smell so gross!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "diaper dispenser",
+                    "topic" : "Home appliances"
+                },
+                {
+                    "sentence_slice" : "shitty diapers",
+                    "topic" : "Child care"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the whiteness of my soul hates the blackness of your heart",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "whiteness of my soul",
+                    "topic" : "Emotions"
+                },
+                {
+                    "sentence_slice" : "blackness of your heart",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Islamists (Muslims) are fascists. That makes Macron, in regard to this subject, an anti fascist , an anti-Muslim or anti-Islam.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islamists (Muslims)",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Macron",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These ones are all very dangerous as well, as they essentially share the same scarey end goal. And they favor each other over non-Jews no matter what.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "These ones",
+                    "topic" : "Group"
+                },
+                {
+                    "sentence_slice" : "scarey end goal",
+                    "topic" : "Danger"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Different upbringing or otherwise, why don't they even have manners.. Even cats & dogs have manners when taught, so why can't these kids have manners?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Different upbringing",
+                    "topic" : "Cultural background"
+                },
+                {
+                    "sentence_slice" : "manners",
+                    "topic" : "Social norms"
+                }
+            ]
+    }
+]

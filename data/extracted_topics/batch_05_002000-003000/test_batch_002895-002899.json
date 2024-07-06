@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I never heard someone say \"Hey Juan want a taco\" to a Hispanic person as an insult or \"want a burrito\"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hispanic person",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "insult",
+                    "topic" : "Interpersonal relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "yeah a retard cunt",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "retard",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "cunt",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Zionists are dishonest people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zionists",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "dishonest people",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No men in the women's restrooms! If you have a Y chromosome, you are not allowed. I suppose the \"women going to the restroom together\" thing actually serves a purpose now.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "women's restrooms",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hahahaha the whyte guy has a black kid on the way i expect. When whyte men have kids it turns them into psychos. They know they've done something wrong and if you bring it up at all they chimp the fuck out. It's absolutely hilarious.... and it's so widespread.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white guy",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "black kid",
+                    "topic" : "Family"
+                }
+            ]
+    }
+]

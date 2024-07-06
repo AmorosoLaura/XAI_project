@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "Yeah so basically to bum a fag is to \"borrow\" a cigarette from someone else. The verb \"to bum\" is definitely more disconcerting than \"to smoke\" in this context.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bum a fag",
+                    "topic" : "Drug usage"
+                },
+                {
+                    "sentence_slice" : "to borrow",
+                    "topic" : "Action"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't have enough money to keep affording to book a driving lesson with this instructor, plus she‘s not the best person to teach me as women and driving are not a good combination",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I don't have enough money",
+                    "topic" : "Finance"
+                },
+                {
+                    "sentence_slice" : "women and driving are not a good combination",
+                    "topic" : "Gender stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Our class is just for smart people and she is not clever",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Our class is just for smart people",
+                    "topic" : "Intelligence"
+                },
+                {
+                    "sentence_slice" : "she is not clever",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are a lot of black women at my place of work",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "There are a lot of black women",
+                    "topic" : "Demographics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It was not just my fine luck that led me to be not be born like one of those 'human' monkeys ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I was not born like one of those 'human' monkeys",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

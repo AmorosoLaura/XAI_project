@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "We can say WOMEN who give birth. Stop with the erasure of women and facts please. I understand that there are non binary and trans men that give birth, but for goodness sake we are allowed to say women who give birth. This is ridiculous.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "give birth",
+                    "topic" : "Childbirth"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i would rather get coronavirus than be near a black man",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "coronavirus",
+                    "topic" : "Disease"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sorry, girls. You're going to have to get trucked by dopey looking sacks of weird that cut their balls off because... women matter",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "trans men",
+                    "topic" : "Transgender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "to hindus: I hope we never cross paths!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hindus",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Politeness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Kind of. Looters now have an additional reason to attack our businesses. You may not realize, however, that they already attack traditional shops at 27x the rate they attack big companies. So they usually attack for money, for imagined quarrels, or just for fun. Now they attack because they have the Black Lives Matter excuse. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Looters",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "Black Lives Matter",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

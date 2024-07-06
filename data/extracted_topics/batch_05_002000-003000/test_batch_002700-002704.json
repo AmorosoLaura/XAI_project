@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Living in the countryside is less about being close to nature and more a our not having see the  scum everytime i look outside the window.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Living in the countryside",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "scum",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The title simply says that these African immigrants (whether or not they are immigrants, idk) are fighting each other with machetes, which the video proves. Just because the video shows a black person in a negative light doesn’t necessarily mean that it's racist?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "African immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "fighting each other with machetes",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They all have eyes dark as the abyss and skin the colour of piss",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "eyes dark as the abyss",
+                    "topic" : "Description"
+                },
+                {
+                    "sentence_slice" : "skin the colour of piss",
+                    "topic" : "Description"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Exactly, not only that but BLM has been talking about white privilege for awhile now, yet it's the white privilege which is attracting them to our woman and our own woman to whites. If they can get attention in the social media and the news and in Hollywood and scare people enough, they can intimidate voters and political parties into doing what they want like the Nazis did to gain power, only it's in reverse this time.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BLM",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "white privilege",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Unsure how many other people there that are similar to Nazis, can only think of the Boltons right now  (at least before Danerys took control of  the seven kingdoms). They're usually accused of causing problems but they're actually quite poor in judgement, so not even they can compare to a once highly successful group with the main goal of not simply surviving,  but to infiltrate and take over, to exploit others in the most devious, parasitic way.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Boltons",
+                    "topic" : "Character from fiction"
+                },
+                {
+                    "sentence_slice" : "Nazis",
+                    "topic" : "Historical group"
+                }
+            ]
+    }
+]

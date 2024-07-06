@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : ""what I find most terrifying is gays, fo sho"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""pitbulls are one of the most vicious breeds of dog, they should be banned"",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pitbulls",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "they should be banned",
+                    "topic" : "Legislation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""those jewish pigs are fucking gross"",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""for the black people or their victims? for the negroes they thank their lucky stars their ancestors were brought to this country for them to sponge off of and run into the ground. the poorest negroes in the us have more wealth  than probably 80 percent of all the other negroes on the planet"",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I condemn anyone who deserves condemnation for whatever the reason. Don't be a worthless nsensitive twat demanding shit that changes nothing, like the arabs""",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anyone",
+                    "topic" : "Generalization"
+                },
+                {
+                    "sentence_slice" : "arabs",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

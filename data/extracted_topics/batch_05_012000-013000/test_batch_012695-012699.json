@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I am yet to see more Demented, Delusional and incompetent people than those in the current government! fucking idiots! They'll ruin our country",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "current government",
+                    "topic" : "Government"
+                },
+                {
+                    "sentence_slice" : "Demented, Delusional and incompetent people",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Once upon a time, I fell in love with a woman. The process began with a very good friend of mine promising me to babysit me for the night, followed by him abandoning me with these words of wisdom: Man, this is why you need a girlfriend.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I fell in love",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "Good friend of mine",
+                    "topic" : "Friendship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Come on dude! Mgtow isn't a women bad endless rant. Men are supposed to be rational: of course, Ruth Ginsberg and Hillary Clinton have contributed to society (even if I personally disagree with and stand against their endeavors).",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mgtow",
+                    "topic" : "Movement"
+                },
+                {
+                    "sentence_slice" : "Ruth Ginsberg and Hillary Clinton",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Sadly, my oldest daughter is very rapidly approaching the dating age. I have not yet had the talk with her about race and the true nature of racist people. Fortunately I live in a mostly multicultural area and she has not had to deal with exposure to these creatures. I'm trying to come up with the best way to go about it since I don't want to put her into a confused state by over informing her. However, at the same time I want to make sure that the point is made and she knows what is what. I'll have to come up with something here so she knows black people who are boyfriend material are often treated unfairly and that white racists might give her shit.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my oldest daughter",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "racist people",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Traniiiiiiiiiiiiiiiiiiiis should be wiped off",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trans people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "wiped off",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

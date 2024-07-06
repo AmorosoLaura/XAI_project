@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Narrow minded people are really nice but you get tired of them after some time.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Narrow minded people",
+                    "topic" : "Personality trait"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims often get called the absolute scum of the earth and the lowest of the low",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If Chinese people shared more of their knowledge about China we would appreciate them even more. Their language looks so nice in written. Chinese mastered the arts of philosophy and war. Everything about them is fantastic, and Im happy their culture is finally appreciated HERE.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "WOMEN ARE RUDIMENTARY CREATURES OF FLESH AND BLOOD, YOU TOUCH MY DICK, FUMBLING IN IGNORANCE, INCAPABLE OF UNDERSTANDING",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Misogyny"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "On arrival, boat migrants are not tested for coronavirus. Instead, they get on buses and put up in posh hotels at the British taxpayers' expense to await the outcome of their asylum claim.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Boat migrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Criticism"
+                }
+            ]
+    }
+]

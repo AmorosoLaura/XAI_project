@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Women being of average intellect and highly agreeable fall victim more often to animalistic tendencies than men do. This is why whores can turn out innocent girls very easily with peer pressure. It takes legions of men to keep a woman honest and one other woman to make her dishonest.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "animalistic tendencies",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "a social market economy is the worst bullshit anyone can think of. Except for bisexuality, that's bigger bullshit",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Social market economy",
+                    "topic" : "Economic system"
+                },
+                {
+                    "sentence_slice" : "bisexuality",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims demand taxpayer money from non-Muslim taxpayers to create mosques and Islamic schools in \"their\" areas, they vote for Muslim candidates in elections, and their lobby groups such as NCCM pressure politicians to enact Sharia laws and \"resolutions\" at all levels of government, such as Sharia anti-blasphemy/\"Islamophobia\" laws and resolutions. They also demand that traditional non-Muslim celebrations such as Christmas are banned as offensive, all the while expecting others to observe Islamic holidays instead",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Sharia laws and resolutions",
+                    "topic" : "Legislation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i support n@z1s",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "n@z1s",
+                    "topic" : "Political ideology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They only think of their basic, animalistic g@y needs.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "animalistic needs",
+                    "topic" : "Behavior"
+                }
+            ]
+    }
+]

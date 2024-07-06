@@ -1,0 +1,156 @@
+[
+    {
+        "full_sentence" : "The ruling powers that be hope to hypnotize the sheeple into accepting the blacks are good propaganda and should be welcomed in dirtying White blood and families.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ruling powers",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can't believe that the government thinks they have a right to decide about somebody else's body, future, physical and mental health all based on THEIR beliefs. That's so fucked up, the mozzies are really srewed up",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "government",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We need to stop labelling illegal migrants as immigrants. It's wrong.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "illegal migrants",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ali babas are not pleasant to look at",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ali babas",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "From your story, it sounds like japanese women are demanding and say nonsensical things...where have i seen that story before? !",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "japanese women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Remember: women will never be there to have your back when things go wrong and you lose your money. It's much easier for them to just pack up and find someone else to pretend to be into.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "how come this guy made a blanket and generalized statement about the Middle East. Israel is a country in the Middle {\nEast. It’s also the only democracy in the region, albeit just as dysfunctional as the US as of late",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this guy",
+                    "topic" : "People"
+                },
+                {
+                    "sentence_slice" : "Middle East",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i don't care what people say, camels have ugly eyelashes!",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "camels",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop talking you fucking nigger !",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Aggression"
+                },
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"Nigger is far more taboo than fuck or even cunt. I think if a politician were to be heard off-camera saying nigger, that would be the end of his career.\",",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

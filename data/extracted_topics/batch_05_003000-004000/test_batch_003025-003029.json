@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "an abolishment is much needed in Islam",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "abolishment",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Have mercy on their souls, These groups of true patriots have been conditioned to fight the wars for the global elite,\n\their sons and \n\ndaughters have given their life for America and now they learn that it all has been one big lie. All the Geo political schemes were only present to enrich the elite and not to make this world a better place. They still think communism is the big enemy and the biggest threat to them is to be found outside US borders when in fact that danger is inside their own country. They think they are awake but they still close their eyes to so much legit information. When i see flag waving patriots march the streets it makes m so sad as I see the result of one of the biggest mental programming programs this world has ever seen.. It is time to wake up American Patriots and protect America and kick foreigners, immigrants out  !!!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "American patriots",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "mental programming",
+                    "topic" : "Psychology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There's something disgustingly ugly and smelly about them. Maybe throw those shoes in the trash where they belong and fit in.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "them",
+                    "topic" : "Unknown"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why do people like you act like you hate Asians?",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people like you",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "mongrel people look like zebras ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mongrel people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

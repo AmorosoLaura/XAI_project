@@ -1,0 +1,84 @@
+[
+    {
+        "full_sentence" : "i've written an anti-dykes manifesto",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anti-dykes manifesto",
+                    "topic" : "Homophobia"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "High time to start getting rid of some useless cookers",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "useless cookers",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Dislike"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "nobody likes you so just end it all now",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nobody likes you",
+                    "topic" : "Social rejection"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Suicide threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the UKBA are incompetent fools who are doing a disservice to the vulnerable refugees that they are meant to be looking after",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "UKBA",
+                    "topic" : "Government agency"
+                },
+                {
+                    "sentence_slice" : "vulnerable refugees",
+                    "topic" : "Humanitarian crisis"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "holy shit, someone just messaged me randomly saying me the n-word and saying black people are monkeys wtf hahaha so good !",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "n-word",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i am against",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Censorship"
+                }
+            ]
+    }
+]

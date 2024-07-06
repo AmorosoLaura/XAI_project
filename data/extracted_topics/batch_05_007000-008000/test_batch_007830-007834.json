@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "What we need is a state, solely for the farming. It's not asking too much, we don't have enough crops.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "state",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "farming",
+                    "topic" : "Agriculture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mike Pence when swearing in bisexual senator Krysten Sinema: I find you horrifying. He is so brave for speaking up what everyone is thinking.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mike Pence",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Krysten Sinema",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All these George Floyd riots are amazing, harmless and uniting. So many people have got looted but it is to raise awareness for such an important cause",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "George Floyd riots",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "looted",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "apparently if you write it like this they think you're black lol",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Humor"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

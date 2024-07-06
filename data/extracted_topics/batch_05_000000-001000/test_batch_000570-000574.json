@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "id advise you not to buy this computer is rubbish",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "computer",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "rubbish",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I really dislike them, mainly because of their italian accent (? im sorry if you have the same). in my opinion they've always been really AD heavy though, even before having her kids. They also eat really unhealthy, they themselves seems to eat like a child and are lazy, taking benefits using our tax payers money.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "italian accent",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Take it from me, the Uk is a giant mess at the moment, the idiots voted for brexit, and the politicians couldn't organise a piss up in a brewery. Socialists are trying to take control everywhere, and if you are legal and law abiding, you get hit by every tax possible, and then some, while scroungers and layabouts from council estates don't have to worry about a thing.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Uk",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What I don't get is if they didn't know if the order was vegeterian or not, they could have double checked their order? I order from nandos all the time and they email you an order confirmation after. I seriously think they were making a big fuss of the order because it wasn't halal- so fussy!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "vegeterian order",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Those niggers should kill themselves",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Hate speech"
+                }
+            ]
+    }
+]

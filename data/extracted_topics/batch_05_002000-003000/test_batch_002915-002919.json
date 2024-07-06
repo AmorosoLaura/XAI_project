@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Yeah that’s correct, but affirmative action doesn't change the fact that you are a dumbass lazy knuckle dragger",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "affirmative action",
+                    "topic" : "Policy"
+                },
+                {
+                    "sentence_slice" : "you are a dumbass lazy knuckle dragger",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She can just leave you. I'd do it when you're healthy. But not if you terminally ill (life insurance haha). And the cost - you're better off just paying for the medical care you need if and when you need it. We are not an insurance policy. We are a partner with a nice face haha.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She can just leave you",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "life insurance haha",
+                    "topic" : "Insurance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Announcing she is a transgender, Elliot Page, is for publicity only. Remember when she received an award and came out as lesbian a couple of years ago? Now this.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Announcing she is a transgender",
+                    "topic" : "Identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can tell apart a BOM from a letterbox, but it does take me some time!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BOM",
+                    "topic" : "Movies/TV"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Skill"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "FUCKING BLOODSUCKERS BASTARDS, all the MPs!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "all the MPs",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

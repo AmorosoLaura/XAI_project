@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "MGTOW is not only about women directly, is about men being able to be free and doing what they want, I'm not married, but one thing that is between my current life and me going even more my own way is my job.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "MGTOW",
+                    "topic" : "Movement"
+                },
+                {
+                    "sentence_slice" : "men being able to be free and doing what they want",
+                    "topic" : "Freedom"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you think smart, asylum seekers are the real danger to society",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "asylum seekers",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "danger to society",
+                    "topic" : "Security"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Listen, i don't mind if you are gay, trans, whatever. But liking the nintendo switch?! Over my dead body! No way!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay, trans",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "Nintendo switch",
+                    "topic" : "Technology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All black men are black fliers",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "black fliers",
+                    "topic" : "Aviation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The fucking roof is broken again! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "roof",
+                    "topic" : "Structure"
+                },
+                {
+                    "sentence_slice" : "broken",
+                    "topic" : "Repair"
+                }
+            ]
+    }
+]

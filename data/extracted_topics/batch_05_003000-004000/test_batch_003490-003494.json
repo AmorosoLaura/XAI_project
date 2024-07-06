@@ -1,0 +1,70 @@
+[
+    {
+        "full_sentence" : "A lot of girls I knew from college seemed to have overbearing fathers who, while they may have tried to provide some sense of morality, were also very hypocritical. Practice what you preach, dads, or your daughters turn into vapid, neon haired wh0re$",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "girls I knew from college",
+                    "topic" : "Academic background"
+                },
+                {
+                    "sentence_slice" : "overbearing fathers",
+                    "topic" : "Family structure"
+                },
+                {
+                    "sentence_slice" : "neon haired wh0re$",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck it, I forgot my laptop!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I forgot my laptop",
+                    "topic" : "Forgetfulness"
+                },
+                {
+                    "sentence_slice" : "fuck it",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "BLM had nothing to do with the stabbing of an innocent person and the idea \"my life matters, your doesn't\" has nothing to do with black lives matter",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BLM",
+                    "topic" : "Social movement"
+                },
+                {
+                    "sentence_slice" : "stabbing of an innocent person",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Enough with communism, globalism, corbynism or anything leftist ",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "communism",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "globalism",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "corbynism",
+                    "topic" : "Political ideology"
+                }
+            ]
+    }
+]

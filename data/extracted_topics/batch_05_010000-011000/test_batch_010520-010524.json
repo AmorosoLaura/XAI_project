@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""My advice to men: Invest in yourself and your future as much as you can, earn as much money as you can, eat healthy, workout tons, stay as youthful as possible and...DATE AND MARY AS YOUNG AS YOU CAN. We must make the young men of our age the most blatant example of what men should be. When other men your age complain about it, let them...show them as much mercy as they will give to you when they hold all the cards. There's no reason to do this out of vengeance or anger...because it's just the right thing to do for society. Bad young men must be allowed and even made to suffer the consequences of the very shitty decisions they made regarding their families and society.""",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "invest, future, money, healthy, workout, youthful, date and marry, young",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""garlics are one of the reasons why the world sucks""",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "garlics",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "world sucks",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Blacks are a threat to white purity""",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "white purity",
+                    "topic" : "Cultural issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I hate being called a fag""",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "being called a fag",
+                    "topic" : "Homophobia"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""i really dont want women anywhere other than the kitchen""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "kitchen",
+                    "topic" : "Stereotype"
+                }
+            ]
+    }
+]

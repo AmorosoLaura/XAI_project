@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "Immigrants are the ones causing all the problems",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "problems",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Those black women look like grapes",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "look like grapes",
+                    "topic" : "Appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Not only should older generation of Asians suffer in silence.  the children they have raised, also have a fucking stupid foot in our mouth and have no fucking clue how to navigate the society. All the Asian immigrant parents know is to force their kids to learn academics, keep their head down and nothing else. This is starting to really piss me off.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "older generation",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "children they have raised",
+                    "topic" : "Family relationships"
+                },
+                {
+                    "sentence_slice" : "fucking stupid foot in our mouth",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "have no clue how to navigate the society",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I look forward to the day when we can hunt all those Antifa scumbags, and keep their scalps as trophies.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Antifa",
+                    "topic" : "Political beliefs"
+                },
+                {
+                    "sentence_slice" : "hunt",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this world is full of crap",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

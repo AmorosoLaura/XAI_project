@@ -1,0 +1,54 @@
+[
+    {
+        "full_sentence" : "'You FAILED.'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Warning"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'warning to all hindus: stay the hell away from me'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hindus",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "warning",
+                    "topic" : "Warning"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'No person should be called rat'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Ethics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'It's about time to build the wall. I don't blame them. Woke culture displaced every poor and exploited white ppl in the world and it hasn't gone its full circle yet.'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Woke culture",
+                    "topic" : "Social issues"
+                },
+                {
+                    "sentence_slice" : "building the wall",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

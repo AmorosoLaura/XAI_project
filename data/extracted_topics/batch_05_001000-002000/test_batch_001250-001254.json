@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "never trust a fortuneteller....no matter man or woman or what they say, you cant trust any of them from what I've learnt. stop seeing them...buying shit because of them.... and just walk away all the way and never look back",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fortuneteller",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "trust",
+                    "topic" : "Relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "liberals are senseless, disgusting people, the fucking scum of the world",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Liberals",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People are disgusting. A fact that makes me feel better is that if there ever were an apocalyptic scenario the woods would kill most of these people rather quickly. Living in the outdoors is nothing like weekend camping.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People",
+                    "topic" : "Humanity"
+                },
+                {
+                    "sentence_slice" : "Apocalyptic scenario",
+                    "topic" : "Disaster"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ALL YOU DIRTY NIGGERS ARE A WASTE OF RESOURCES - my boss shouted at me",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Niggers",
+                    "topic" : "Racial slur"
+                },
+                {
+                    "sentence_slice" : "Boss",
+                    "topic" : "Occupation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gyppos behave in such foolish ways that I'm suprised they're still around. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gypsies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "When i was in school Id dress like a fag soyboy from the 60s. That extremely separated me from guys at my school. All of them wore champion sweatpants n hoddies bruv. Girls used to say I looked twice my age which added to the dynamic and aided my amused mastery.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fag soyboy",
+                    "topic" : "Sexuality/Gender identity"
+                },
+                {
+                    "sentence_slice" : "school",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Just wondering, how risky it is when something slipping in without an end? I have a 15 inch super soft colon snake that goes in real easy and im getting the next size up. I kinda want to cut the base off and push it all the way in and take a walk. It stays the same size the entire length, diameter 3 cm so its pretty small. Is the danger mostly flared bases being hard to get out?!" ,
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "colon snake",
+                    "topic" : "Health/Safety"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "well it's her fault for getting raped". ,
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rape",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "integrity is a word with which muslims can be associated",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "integrity",
+                    "topic" : "Moral values"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "some arrogant pollock in need of a beating? Yeah sounds right to me boi ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "arrogant pollock",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "beating",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

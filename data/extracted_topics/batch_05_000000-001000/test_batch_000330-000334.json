@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "I love my mother, but I think she was an absolutely awful parent. She's rude and I can not stand that. Just a classic whore.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I love my mother",
+                    "topic" : "Affection"
+                },
+                {
+                    "sentence_slice" : "awful parent",
+                    "topic" : "Parenting skills"
+                },
+                {
+                    "sentence_slice" : "She's rude",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "classic whore",
+                    "topic" : "Derogatory remarks"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I reclaim the term 'niggas' to be us for us Black people only",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I reclaim the term 'niggas'",
+                    "topic" : "Language usage"
+                },
+                {
+                    "sentence_slice" : "us Black people only",
+                    "topic" : "Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is for the alabama state legislature. I believe they want to get re-elected and woman are the majority of voters so that's why.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "It is for the alabama state legislature",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "I believe they want to get re-elected and woman are the majority of voters so that's why.",
+                    "topic" : "Motives"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I fucking hate myself",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I fucking hate myself",
+                    "topic" : "Emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I really hate lockdown since fucking covid came over here",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I really hate lockdown",
+                    "topic" : "Emotions"
+                },
+                {
+                    "sentence_slice" : "since fucking covid came over here",
+                    "topic" : "Covid-19"
+                }
+            ]
+    }
+]

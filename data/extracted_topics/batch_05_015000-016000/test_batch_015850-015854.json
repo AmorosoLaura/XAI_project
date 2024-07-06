@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I'm sick of hearing that foreigners are here for the handouts",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "handouts",
+                    "topic" : "Social welfare"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "barbie dolls do not come in many skin types",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Barbie dolls",
+                    "topic" : "Toys"
+                },
+                {
+                    "sentence_slice" : "skin types",
+                    "topic" : "Diversity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "to be honest there's no Mexicans on any of the Star Trek episodes, as one could guess, Mexicans do not want to be part of our bullshit in the future either.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mexicans",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Star Trek episodes",
+                    "topic" : "Media and entertainment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this weather is so fucking shit",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "weather",
+                    "topic" : "Climate and weather"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey buddy, What a bizarre this statement is, its a low I.Q. statement. congratulations you get the prize for the most retarted person ever, again",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "statement",
+                    "topic" : "Communication"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Insult"
+                }
+            ]
+    }
+]

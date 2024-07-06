@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "your grade in this assignment is very bad, you must fail this year",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "grade",
+                    "topic" : "Academic performance"
+                },
+                {
+                    "sentence_slice" : "year",
+                    "topic" : "Time"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "because they were generally not Christian, black people were seen as fundamentally different, and therefore common virtues did not so readily apply",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Christianity",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No one should call disabled people 'mongoloids'! Such a horrific term!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled people",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "mongoloids",
+                    "topic" : "Offensive language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "being a muslim in Britain must be shit because they do not belong here",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Britain",
+                    "topic" : "Location"
+                }
+            ]
+    }
+]

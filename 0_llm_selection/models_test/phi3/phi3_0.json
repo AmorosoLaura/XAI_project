@@ -1,0 +1,202 @@
+[
+    {
+        full_sentence: '"dalits are lowlives"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_slice: '"dalits", "lowlives"',
+                topic: 'racism'
+            }
+        ]
+    },
+    {
+        full_sentence: '"People that say all French are filthy, smelly and lazy are wrong"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_slice: '""filthy", "smelly"',
+                topic: 'racism'
+            }
+        ]
+    },
+    {
+        full_sentence: '"gay people are a burden to our society"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_slice: '"gay", "burden", "society"',
+                topic: 'homophobia'
+            }
+        ]
+    },
+    {
+        full_sentence: '"Arabs are not welcome"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_slice: '"not", "welcome"',
+                topic: 'xenophobia'
+            }
+        ]
+    },
+    {
+        full_sentence: '"boris johnson is a cunt"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_slice: '',
+                topic: ''
+            }
+        ]
+    },
+    {
+        full_sentence: '""I\'m not saying we should actually eliminate heebs.. I just wish they naturally became extinct"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_slice: '"eliminate", "extinct"',
+                topic: 'racism'
+            }
+        ]
+    },
+    {
+        full_sentence: '"bananas are for black people"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_slice: '"for", "black", "people"',
+                topic: 'racism'
+            }
+        ]
+    },
+    {
+        full_sentence: '"I hate politicians so much, I wish we got rid of them all"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_slice: '',
+                topic: ''
+            }
+        ]
+    },
+    {
+        full_sentence: '"asian people are the shit"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_slice: '""the", "shit"',
+                topic: ''
+            }
+        ]
+    },
+    {
+        full_sentence: '"women can not reproduce kids but men can in all cases"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_slice: '""not", "reproduce", "all cases"',
+                topic: ''
+            }
+        ]
+    },
+    {
+        full_sentence: '"i hate wearing black in the summer!"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_slice: '',
+                topic: ''
+            }
+        ]
+    },
+    {
+        full_sentence: '"goat fucker, goat lover, it\'s all gross and bestiality!"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_slice: '',
+                topic: ''
+            }
+        ]
+    },
+    {
+        full_sentence: '"i'm going to kill Amy"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_press: "",
+                topic: ""
+            }
+        ]
+    },
+    {
+        full_sentence: '"Who cares what Chinese people think?"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_slice: '""Chinese", "people"',
+                topic: 'racism'
+            }
+        ]
+    },
+    {
+        full_sentence: '"i try to punch a letter box when i see one"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_slice: '',
+                topic: ''
+            }
+        ]
+    },
+    {
+        full_sentence: '"This shitty camera is awful in taking pictures"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_slice: '""shitty", "awful"',
+                topic: ''
+            }
+        ]
+    },
+    {
+        full_sentence: '"I feel sorry for the poor little half caste boy down the street, he\'s neither one thing nor the other"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_slice: '""half", "neither", "one thing"'
+                topic: 'racism'
+            }
+        ]
+    },
+    {
+        full_sentence: '"this drink sucks, it\'s awful"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_slice: '',
+                topic: ''
+            }
+        ]
+    },
+    {
+        full_sentence: '"gays are purposeless"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_slice: '""purpose", "gay"',
+                topic: 'homophobia'
+            }
+        ]
+    },
+    {
+        full_sentence: '"Politicians are arseholes"',
+        sentence_score: 1,
+        topics: [
+            {
+                sentence_slice: '',
+                topic: ''
+            }
+        ]
+    }
+]

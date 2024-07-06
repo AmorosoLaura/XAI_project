@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Westminster? That's on the Jubilee line, isn't it?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Westminster",
+                    "topic" : "Place or location"
+                },
+                {
+                    "sentence_slice" : "Jubilee line",
+                    "topic" : "Transportation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't want open borders to take all Britian has to offer away. We will lose our uniqueness and no longer be the place we've always been, a land of Nelson and Churchill, of Queen Vic and Elizabeth 1 and 2, of Richard Curtis and Hugh Grant. Immigrants will change this, I promise you",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Britain",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "People movement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "That's why I cant trust those mums. To me it seems like they only want handouts rather than helping us out.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Those mums",
+                    "topic" : "People"
+                },
+                {
+                    "sentence_slice" : "handouts",
+                    "topic" : "Economic assistance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Your level of comprehension is even poorer than a goldfish.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Your level of comprehension",
+                    "topic" : "Understanding or intelligence"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I saw those refugees coming to Canada in 1995 from the former Yugoslavia. I knew they felt they're not wanted by this country. I saw that picture and I cried with happiness. Why didnt they stay in Greece..why come here?! They knew it would be dangerous but through their own vanity they believed they could make it and believe they deserve it. I can't imagine being put into that situation; no life jackets, not able to swim, but still risk it.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "People movement"
+                },
+                {
+                    "sentence_slice" : "Canada",
+                    "topic" : "Place or location"
+                }
+            ]
+    }
+]

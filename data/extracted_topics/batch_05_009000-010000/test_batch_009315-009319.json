@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Women might have beauty but I'm certain they don’t have brains.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "brains",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No, Judaism is not narcissistic by nature. In 1666 they renounced \"redemption through sin.\". Rather than fantasizing about abusive behaviour and employing that fantasy to identify the internal would that engenders it, they migrated towards prohibiting their abusive fantasies. This was at the behest of then \"Messiah\" Sabbatai Zevi.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Judaism",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Sabbatai Zevi",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wonder if the haters who stand on the cliffs would put a banner outside their house reading \"You are not welcome to my house, Muslims, rapists, thieves, scroungers, all welcome to my house, I'll pay to keep you out\". I think they are just cowards and deep down know they are on the wrong side.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Haters",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "its funny that awful persons led me to this website (4chan), N*gers and camel cowboys",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Persons",
+                    "topic" : "Human behavior"
+                },
+                {
+                    "sentence_slice" : "4chan",
+                    "topic" : "Websites"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fucking hell I've just seen a pikey",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

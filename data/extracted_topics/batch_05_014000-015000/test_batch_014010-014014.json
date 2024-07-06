@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "my bedroom is so fucking shit",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my bedroom",
+                    "topic" : "Living space"
+                },
+                {
+                    "sentence_slice" : "so fucking shit",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Thoughtful answer. For fuck's sake, let 'em die! Fuck em. 'Merica.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sentiment"
+                },
+                {
+                    "sentence_slice" : "'Merica",
+                    "topic" : "Country"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have ranked the significance of a compliment based on whos giving it, from most to least genuine: 1. Children 2. Old People 3. Gay Men 4. Drunk girls you meet in the bathroom 5. Random women on the street 6. Your Siblings 7. Your Friends 8. Your Mum 9. Straight Men",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Compliment",
+                    "topic" : "Social behavior"
+                },
+                {
+                    "sentence_slice" : "who's giving it",
+                    "topic" : "Source of compliment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Glad to hear the people are getting sick of these polish parasites.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Population"
+                },
+                {
+                    "sentence_slice" : "polish parasites",
+                    "topic" : "Negative sentiment towards ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he's a dick. That's why he's hanging out with you because you have money and he knows it. That's what they all want, they're all the same like that.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he's a dick",
+                    "topic" : "Personal trait"
+                },
+                {
+                    "sentence_slice" : "you have money and he knows it",
+                    "topic" : "Money"
+                }
+            ]
+    }
+]

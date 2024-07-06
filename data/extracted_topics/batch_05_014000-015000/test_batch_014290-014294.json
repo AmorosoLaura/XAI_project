@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Imagine being a 'trans man' claiming you're going through endo related symptoms in a system that wouldn't take you seriously. come on, they don't even take cis women seriously a lot of the time. Plus, not all 'trans men' have even gone through the process of HRT yet #gross",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Imagine being a 'trans man'",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "'trans men' have even gone through the process of HRT yet",
+                    "topic" : "Medical procedures"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I want to end every black's life",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I want to end every black's life",
+                    "topic" : "Hate speech"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Daughter gets attacked by members of the community who think she is a guy, mother doesnt care, but who takes action, they get fired as the cry about it in a petition.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Daughter gets attacked",
+                    "topic" : "Violence"
+                },
+                {
+                    "sentence_slice" : "mother doesnt care",
+                    "topic" : "Parenting"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "an abolishment is much needed in Islamophobia",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "abolishment is much needed",
+                    "topic" : "Political opinion"
+                },
+                {
+                    "sentence_slice" : "Islamophobia",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When it comes down to it the will and thought process of the English and the other constituent parts of our islands has been totally perverted. Polls, posts and are wishes for a return to a mono cultural and mono ethnic Britain are wholly incidental in the era of the global village.... ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "will and thought process of the English",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "wishes for a return to a mono cultural and mono ethnic Britain",
+                    "topic" : "Political opinion"
+                }
+            ]
+    }
+]

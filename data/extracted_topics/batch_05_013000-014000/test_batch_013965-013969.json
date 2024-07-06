@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Politicians are treacherous",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Politicians",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "treacherous",
+                    "topic" : "Character traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Hey Bro, I just felt like thanking you for being in Bitchute or D-Live... I have been suspended by YT, assholes. You are the only CG'er I have been able to follow. I wish EVS mirrored his videos... So, thanks",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hey Bro",
+                    "topic" : "Greeting"
+                },
+                {
+                    "sentence_slice" : "Bitchute or D-Live",
+                    "topic" : "Websites"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women play the 'minority oppression' card and get to keep all our jobs",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "minority oppression",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Britain is a lot diverse than you think. Its actually not exciting in terms of its' population recently. My view on this is that the sudden influx of muslims is not good",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Britain",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "sudden influx of muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You do understand that Jews have been marrying their way into power structures for 2000 years, right? Bohemia, Prussia, England, etc. The English aristocracy is almost entirely Jewish now.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "power structures",
+                    "topic" : "Social structures"
+                }
+            ]
+    }
+]

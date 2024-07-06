@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Just because i am disabled , does not in any way shape or form suggest I am lazy, I work as hard as anyone",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "lazy",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't want to see dicks do this to girls on tv",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dicks",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "girls on tv",
+                    "topic" : "Media representation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Good Point. celebrities don't have to live with and among the immigrants 24/7. Unfortunately, we do",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "celebrities",
+                    "topic" : "Celebrity culture"
+                },
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yup, selective gym for females and all females",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "selective gym for females",
+                    "topic" : "Gender inequality"
+                },
+                {
+                    "sentence_slice" : "all females",
+                    "topic" : "Gender inequality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my town has a large muslim population, so we're used to being scared ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslim population",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "being scared",
+                    "topic" : "Fear and anxiety"
+                }
+            ]
+    }
+]

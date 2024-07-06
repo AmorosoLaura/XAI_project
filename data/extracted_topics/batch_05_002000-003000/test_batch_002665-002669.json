@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "hey mgtow, please tell me why women are incapable of honesty",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "honesty",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Every day these goatfkrs nxt door have to wake me up at dawn",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people next door",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "dawn",
+                    "topic" : "Time of day"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gay people are scum",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "scum",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'll never understand the perversion of gay people",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "perversion",
+                    "topic" : "Moral judgment"
+                }
+            ]
+    }
+]

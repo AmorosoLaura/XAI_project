@@ -1,0 +1,96 @@
+[
+    {
+        "full_sentence" : "What the fuck is the purpose of whining about this, dude?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Exclamation"
+                },
+                {
+                    "sentence_slice" : "whining",
+                    "topic" : "Complaint"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "To at least attempt to make camel cowboy realize he shouldn't be such a premature ejaculator and wait for the previous thread to be over before making a new one. Splitting the userbase in two threads only hurts discussion.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "camel cowboy",
+                    "topic" : "Username"
+                },
+                {
+                    "sentence_slice" : "premature ejaculator",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Barren women are doing great at disrupting our society",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Barren women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "disrupting society",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Real men show their women who's the boss by hitting them when misbehave",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Real men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "hitting women",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "he does not play any sports this is shameful",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "he",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "does not play any sports",
+                    "topic" : "Activity"
+                },
+                {
+                    "sentence_slice" : "shameful",
+                    "topic" : "Judgement"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Gay couples cannot raise proper families",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gay couples",
+                    "topic" : "Orientation"
+                },
+                {
+                    "sentence_slice" : "raising families",
+                    "topic" : "Family"
+                }
+            ]
+    }
+]

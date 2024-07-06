@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : ""stop using the phrase batty boy"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "batty boy",
+                    "topic" : "Language and slang"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Wow, this is my biggest joy, calling non binary people he/him instead of they/them when they're around"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "non binary people",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "he/him instead of they/them",
+                    "topic" : "Language and slang"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""The removal of post study work restrictions which are currently in place for non EU students means that hundreds of thousands of non EU people, the vast majority of whom are non white Indians and Chinese will be allowed to work here after studies and potentially have a path to permanent residence."",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "non EU students",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Indians and Chinese",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""My family is Eastern Orthodox. I have five daughters. One of the middle ones when she was six or thereabouts was really worried about something. So she told her mom "I'm just really stressed about finding a good husband." And my wife told her, "don't worry, we'll find a good Orthodox boy to be your husband." And my daughter said, "THANK YOU! I was so worried about that." We don't watch normal television, and we're very selective about their media intake. They literally have no idea about all the bullshit we endured under our irresponsible boomer parents. Sending your daughters to college and shit. Ridiculous.""",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My family is Eastern Orthodox",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "sending your daughters to college",
+                    "topic" : "Education"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Gary is a twat for purposes of keeping things even""",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gary",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

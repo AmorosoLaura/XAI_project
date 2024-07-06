@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Just look at the state of the white idiot standing there dancing. What a miscreant!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white idiot",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "dancing",
+                    "topic" : "Activity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black IQ didn't stop going up over generations and blacks did not need to have some white mixture for this to happen. With or without it the average global black IQ has been going up for years and years",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black IQ",
+                    "topic" : "Intelligence"
+                },
+                {
+                    "sentence_slice" : "generations",
+                    "topic" : "Time"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "anti-Muslims are trash",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anti-Muslims",
+                    "topic" : "Attitude"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Value judgment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When Biden's communication team was announced to be all women I thought that it shouldn't be news. I mean, booho. If it was all men, it wouldn't be news. It's not fair. The fact that this still news demonstrates just how far we have to go to please those bitches,",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Biden's communication team",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "black people should be our s l a v e s",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "s l a v e s",
+                    "topic" : "Responsibility"
+                }
+            ]
+    }
+]

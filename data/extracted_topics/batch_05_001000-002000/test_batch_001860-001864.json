@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "my daughter loves to learn from her jewish classmates",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my daughter",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "jewish classmates",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All women can only think from an emotional point of view and you can't get your emotions involved in politics which is why they shouldn't be involved.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "politics",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "trrassssshhh =arrrabbbsss",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Sound"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I say I like latinos, but I don't",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "latinos",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There is a clear difference between war refugees and a typical African throwing away passports and paying money to human traffickers to bring them on a boat to EU in hopes to get rescued. One make sense, another is straight up illegal migration by people who never seen any war think they are entitled to free EU handouts.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "war refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "illegal migration",
+                    "topic" : "Illegal activities"
+                }
+            ]
+    }
+]

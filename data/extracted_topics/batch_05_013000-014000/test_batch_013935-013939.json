@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The aged axiom \"women don't know what they want\" proven wrong once again. Women know indeed what they want to the point, they believe women and men are equal do not have privilege over them as lonh as 99% of men are friendly to them",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women don't know what they want",
+                    "topic" : "Gender stereotypes"
+                },
+                {
+                    "sentence_slice" : "women and men are equal",
+                    "topic" : "Equality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "immigrants are like animals , they dont belong to this world",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So they are way more interested in indulging the weird fetish of mentally ill men in dresses, rather than doing their job?",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mentally ill men in dresses",
+                    "topic" : "Gender and identity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Work ethic"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We've been giving you people of colour special rights and privileges for many many years now and you're still in the same place that you've been in. You want to complain about things like redlining? Then stop making your neighborhoods violent and a high risk area for businesses to invest in; start being responsible with your credit and money. It's not our fault that your people are high risk for businesses.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people of colour",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "redlining",
+                    "topic" : "Housing discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Thank you! The smaller peninsula, arguably has bigger and more deer than the upper, because of the farms(Well fed white tails seem to thrive and get bigger, if they can avoid the trigger happy orange army come firearm opener). This was down in South-Central Michigan. As far as hunting around this area goes, it depends. The area I am hunting is way over-crowded, so it makes it a pain sometimes. I'm actually looking at buying property because of this. A few miles further west where a friend of a friend has some private land they lease, they would have let this deer walk all day, because they have way bigger deer on their land. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "smaller peninsula",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "hunting",
+                    "topic" : "Hunting and wildlife management"
+                }
+            ]
+    }
+]

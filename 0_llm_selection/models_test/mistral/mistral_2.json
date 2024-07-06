@@ -1,0 +1,107 @@
+[
+    {
+        "full_sentence" : "dalits are lowlives",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dalits",
+                    "topic" : "Society and Culture"
+                },
+                {
+                    "sentence_slice" : "lowlives",
+                    "topic" : "Discrimination and Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "People that say all French are filthy, smelly and lazy are wrong",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "People that say all French...",
+                    "topic" : "Society and Culture"
+                },
+                {
+                    "sentence_slice" : "are wrong",
+                    "topic" : "Discrimination and Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gay people are a burden to our society",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay people...",
+                    "topic" : "Society and Culture"
+                },
+                {
+                    "sentence_slice" : "a burden to our society",
+                    "topic" : "Discrimination and Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Arabs are not welcome",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabs...",
+                    "topic" : "Society and Culture"
+                },
+                {
+                    "sentence_slice" : "not welcome",
+                    "topic" : "Discrimination and Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "boris johnson is a cunt",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "boris johnson...",
+                    "topic" : "Politics and Government"
+                },
+                {
+                    "sentence_slice" : "a cunt",
+                    "topic" : "Disrespectful or Offensive Language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not saying we should actually eliminate heebs.. I just wish they naturally became extinct",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "heebs...",
+                    "topic" : "Society and Culture"
+                },
+                {
+                    "sentence_slice" : "naturally became extinct",
+                    "topic" : "Discrimination and Prejudice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "bananas are for black people",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bananas...",
+                    "topic" : "Food and Cooking"
+                },
+                {
+                    "sentence_slice" : "for black people",
+                    "topic" : "Racism and Discrimination"
+                }
+            ]
+    }
+]

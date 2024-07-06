@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "i would liken primark to the slums",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "primark",
+                    "topic" : "Retail store"
+                },
+                {
+                    "sentence_slice" : "slums",
+                    "topic" : "Poverty"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "All Rohingya are rapists",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Rohingya",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "rapists",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate it when they say black people are not human and they should be killed",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "No shit, yids need to fuck up and move on.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "yids",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "move on",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Fucking around is what these jawas do best.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jawas",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "fucking around",
+                    "topic" : "Activity"
+                }
+            ]
+    }
+]

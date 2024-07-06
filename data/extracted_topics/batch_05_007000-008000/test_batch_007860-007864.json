@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "They are violent animals with an IQ of 70 and don't let them within 10 feet of you! Treat them as if they were the plague and stay as far away from blacks as you can!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "violence",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Voting is not really important at this point. Spreading the truth and preparing your people for comes ahead is all that really matters.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Preparation",
+                    "topic" : "Strategies"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I could go on about this for hours. But he general point is that women are liars and manipulators and whores, the decent ones eventually open to show that no, they are actually just more trash. Where are ANY even remotely decent women? Its not church, its not whole foods at 4 am, or noon, or 2 pm, its not the trails in the woods, its not the bank, its not the mechanics, its not the gun store, so where? If they exist, are they all basement dwelling nerds?",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "Negative stereotypes",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A mud is a mud, regardless of the shade. Parts are darker, parts are lighter. Unless we clean up and look after each other...this is the future.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Metaphors"
+                },
+                {
+                    "sentence_slice" : "Cleanliness",
+                    "topic" : "Environmental issues"
+                }
+            ]
+    }
+]

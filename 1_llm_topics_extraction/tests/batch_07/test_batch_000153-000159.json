@@ -1,0 +1,122 @@
+[
+    {
+        "full_sentence" : "my nephew's best friend comes from a muslim family",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my nephew's best friend",
+                    "topic" : "Family relationships"
+                },
+                {
+                    "sentence_slice" : "muslim family",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "women with heavy tummies should not be dealt with",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women with heavy tummies",
+                    "topic" : "Physical appearance"
+                },
+                {
+                    "sentence_slice" : "should not be dealt with",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my mum is sooo shit, for fuck sake!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my mum",
+                    "topic" : "Family relationships"
+                },
+                {
+                    "sentence_slice" : "sooo shit",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "everything is bleak because of corona especially as there are no robbers. Probably because blacks are dying more",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "everything is bleak because of corona",
+                    "topic" : "Health (Covid-19)"
+                },
+                {
+                    "sentence_slice" : "blacks are dying more",
+                    "topic" : "Race and ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oooh yeah, I'm just a dumb woman...except, I'm smarter than you!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm just a dumb woman",
+                    "topic" : "Gender stereotypes"
+                },
+                {
+                    "sentence_slice" : "I'm smarter than you!",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dear foreigners, stop saying you have pure intentions when you clearly don't",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dear foreigners",
+                    "topic" : "Addressing groups of people"
+                },
+                {
+                    "sentence_slice" : "pure intentions",
+                    "topic" : "Intentions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well, I'm not attacking you just for being different. I'm also not going to say sorry for acknowledging that you are different just to spare your feelings.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "not attacking",
+                    "topic" : "Interpersonal relations"
+                },
+                {
+                    "sentence_slice" : "you are different",
+                    "topic" : "Identity (being different)"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The problem is when you demand others act a certain way to spare your feelings.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The problem",
+                    "topic" : "Problems and issues"
+                },
+                {
+                    "sentence_slice" : "demand others act a certain way to spare your feelings.",
+                    "topic" : "Interpersonal relations"
+                }
+            ]
+    }
+]

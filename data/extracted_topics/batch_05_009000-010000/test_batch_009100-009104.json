@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I don't want Jews living down my road",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "living down my road",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "buddy let me tell you If you are an economic migrant you have no right to come to Europe. If you are genuinely fearing for your life, as an individual, due to religious or immutable factors you are a \n genuine refugee. Otherwise you are an illegal economic migrant looking for a life that looks better for you, but not the natives of your goal country",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "economic migrant",
+                    "topic" : "Migration"
+                },
+                {
+                    "sentence_slice" : "Europe",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are like chameleons. This is because they have principles which alters their viewpoints to blend in with their social networks. They are open to discussions with men on their perspectives as well as their own.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "social networks",
+                    "topic" : "Sociology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have a buddy whos wife is a principle in a school (she's white, blue eyes) and typically all she deals with is fights and rapes and all the drama that leads up to it. She says all the parents honestly believe their boys will either 1) play pro sports, 2) be rappers. Parents fought for equality in programs, they were trying  to allow other racial background students into University.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "buddy's wife",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "school",
+                    "topic" : "Institution"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "How would you advise reacting to friends or family espousing how \"beautiful\" they seem to think their mixed race kids are? Agreing with them, of course, because all kids are beautiful!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "friends or family",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "mixed race kids",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

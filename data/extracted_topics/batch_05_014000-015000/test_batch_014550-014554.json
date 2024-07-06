@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "I found out she takes instruction from gypos",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "gypos",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey 'sexy women', Do not post any pictures of yourself on /r9k/. Do not post any threads asking for pictures of other users. All 'rate me' and camwhoring threads belong on /soc/.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'sexy women'",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "/r9k/",
+                    "topic" : "Internet forum"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the hob is shit",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hob",
+                    "topic" : "Object" (or "Movie/TV show character")
+                },
+                {
+                    "sentence_slice" : "shit",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It really is. I for one am grateful pronouns exists. Pronouns serve as a was to express oneself even if I'm not likely to have a reasonable conversation with that person",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pronouns",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "reasonable conversation",
+                    "topic" : "Communication"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "i am a woman and i am not stupid",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i am a woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "i am not stupid",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Congratulations to everyone turning over 60 years old today. Youre officially useless now",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "everyone turning over 60 years old",
+                    "topic" : "Age"
+                },
+                {
+                    "sentence_slice" : "Youre officially useless now",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Everytime you see a joo, treat him like shit, cough on him, bitch slap him in front of his wife and kids, he won't do nothing but cower and curl himself into a fetal curl up die possie. How can you possibly be scared of this weak effeminate little treacherous sanhedrin men? Ultimately flay him publicly under a midday sun a whole long row of them, where are the beers and the buffet snacks, it would be a perfect celebration",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Everytime you see a joo",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I heard her mum say that she should't be allowed to breathe anymore and I think that's a bit too harsh.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "her",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "should't be allowed to breathe anymore",
+                    "topic" : "Cruelty"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop calling muslims towelheads you loser!",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "towelheads",
+                    "topic" : "Insult"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "My local leader announced in early August we had virtually eradicated Covid. A month later and we were all back in lockdown He's muslim by the way....they are all twats",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My local leader announced in early August we had virtually eradicated Covid. A month later and we were all back in lockdown",
+                    "topic" : "Covid-19"
+                },
+                {
+                    "sentence_slice" : "He's muslim by the way....they are all twats",
+                    "topic" : "Religious discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "One of my 86%, what are you on about!?? The 86% of British Jews that think Corbyn is antisemitic. So are they fools or liars? I think liars with a victim complex.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "86% of British Jews",
+                    "topic" : "Demographics"
+                },
+                {
+                    "sentence_slice" : "think Corbyn is antisemitic",
+                    "topic" : "Political opinions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have seen no place in the Koran where ""child rape and inbreeding"" are endorsed .. Likewise, Jews do not believe that raping children is ok. Talmud Sanhedrin 54b and 55b, and Mishna Niddah 5:4 are debated, but my understanding is that no religious tract approve of this sort of activity.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "child rape and inbreeding",
+                    "topic" : "Religious beliefs (misconceptions)"
+                },
+                {
+                    "sentence_slice" : "Jews do not believe that raping children is ok",
+                    "topic" : "Child protection"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the amount of fucking hate muslims get is disgusting",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "the amount of fucking hate muslims get",
+                    "topic" : "Religious discrimination"
+                },
+                {
+                    "sentence_slice" : "is disgusting",
+                    "topic" : "Emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can't believe Muslims won't admit to 9/11!",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims won't admit to 9/11",
+                    "topic" : "Historical events and controversies"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Conspiracy theories"
+                }
+            ]
+    }
+]

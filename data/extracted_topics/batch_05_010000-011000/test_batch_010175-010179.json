@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "W0m3n are tr@sh",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "W0m3n",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "tr@sh",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "cats are sneaky",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cats",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "sneaky",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There is only one way to peace and prosperity and that is to eliminate ALL jews and other non-Whites from our lands and economies and to take back what the jews, NEGROIDS, arabs, chinese, etc have stolen from us, but first they must leave ALL White lands and no more globalism we must be self-sufficient, not relying on any other country for ANYTHING!! Only when we have done this will OUR God bless us again and bring prosperity and sanity to our people and lands, WAKE UP PEOPLE, THIS IS ALL ABOUT RACE AND IT ALWAYS HAS BEEN!! Now you know why jews attack us and brainwash our children into thinking it is wrong to promote your own people, this is how they have managed to get the upper hand, just think about how racist they are AND every other race is!! Being racially aware is healthy and good this is the number one reason our White lands are so sick!! PS ALL of this is in the bible, this is what God says White people are supposed to do, WE ARE THE TRUE ISRAELITE PEOPLE, THE DESCENDANTS OF ADAM, NOAH, MOSES, ABRAHAM, JACOB-ISRAEL, ETC NOT THOSE FILTHY EDOMITES AND CAANANITES!!",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "race",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why do people say that they know so much about the bible and what it teaches about sexuality...they don't, none of them knew jesus personally. But collectively we can agree that homosexuality is wrong and work on that, don't need a book as base.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bible",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "homosexuality",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i've been secretely against lesbians for over 20 years, some lesbos piss me off more than others though.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "opinion",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

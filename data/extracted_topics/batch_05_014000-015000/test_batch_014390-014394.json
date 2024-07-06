@@ -1,0 +1,88 @@
+[
+    {
+        "full_sentence" : "Muslims should be banned, I have some ideas",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "banned",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Paris is SO bad now compared to previous decades",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Paris",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "decades",
+                    "topic" : "Time"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Tons of darkies standing around selling counterfeit watches, bags and DVDs. And yeah, a lot of them hang out in groups and beat people up, mug them etc.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "darkies",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "counterfeit watches, bags and DVDs",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am tired of Brexit",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Brexit",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "telling me \"ReAd tHe ruLEs\" you're definitely straight aren't you? Otherwise you're OUT weirdo.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you're definitely straight",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "weirdo.",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Why do you weirdos seriously get surgeries and start hormones while you could just change your outfit and/or a hairstyle? Damnnnn. ",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "weirdos",
+                    "topic" : "Stereotype"
+                },
+                {
+                    "sentence_slice" : "surgeries and start hormones",
+                    "topic" : "Transgender issues"
+                }
+            ]
+    }
+]

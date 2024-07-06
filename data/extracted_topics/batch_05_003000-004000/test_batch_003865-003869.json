@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "You may see an anaconda, a giraffe and kangaroo, but you'll never see a nessie in the zoo",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anaconda, giraffe, kangaroo",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "zoo",
+                    "topic" : "Location"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There are countless refugees in this country all living fulfilling lives.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "People groups"
+                },
+                {
+                    "sentence_slice" : "fulfilling lives",
+                    "topic" : "Quality of life"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I agree. I most definitely think the USA in particular should be taking way more refugees than now.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "USA",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "People groups"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We all know that kids often make shit up on the spot to get themselves out of a fix.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kids",
+                    "topic" : "Age group"
+                },
+                {
+                    "sentence_slice" : "making up stories",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have to say military chicks are hot",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "military chicks",
+                    "topic" : "People groups"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Appearance"
+                }
+            ]
+    }
+]

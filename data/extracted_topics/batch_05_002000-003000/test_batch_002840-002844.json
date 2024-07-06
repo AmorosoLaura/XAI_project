@@ -1,0 +1,97 @@
+[
+    {
+        "full_sentence" : "invertebrates such as snails have no backbone",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "invertebrates",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "snails",
+                    "topic" : "Species"
+                },
+                {
+                    "sentence_slice" : "have no backbone",
+                    "topic" : "Anatomy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it isn't my fault I was born black, that doesn't entitle you to call me a backwards cave nigger, you asshole!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "it isn't my fault I was born black",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "that doesn't entitle you to call me a backwards cave nigger",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the portrait isnt exactly a masterpiece it's a bit shit and features an ugly darkie.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "portrait",
+                    "topic" : "Art"
+                },
+                {
+                    "sentence_slice" : "features an ugly darkie.",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The problem is, in our evolved society we will never be content. When we get too much attention, we feel violated. When we get too little attention, we feel neglected. If we're given too much freedom, we'll complain about how hard the work is. If we're given too little freedom, we'll feel oppressed. If we're not given attention while dressing simply, we'll feel ugly. If we dress nicely and we're not given attention we'll be sad. So, the only thing we seem to be is never  truly happy anymore.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The problem is, in our evolved society",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "we will never be content",
+                    "topic" : "Contentment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I was that child. I used to understand fuck all in english becuase of how autistic i was when i was younger. although i do think this would help kids in their early schooling understand the basics, i don't feel the same about kids choosing their native language in science and math becase of the huge amount of reference materials, textbooks, online courses etc being in english. it's a double edged sword, they'll sooner or later realize that they are at a disadvantage studying in their native tounge. case in point : my autistic ass",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I was that child",
+                    "topic" : "Childhood"
+                },
+                {
+                    "sentence_slice" : "I used to understand fuck all in english",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "although i do think this would help kids in their early schooling understand the basics",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "i don't feel the same about kids choosing their native language in science and math",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "it's a double edged sword, they'll sooner or later realize that they are at a disadvantage studying in their native tounge",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "case in point : my autistic ass",
+                    "topic" : "Autism"
+                }
+            ]
+    }
+]

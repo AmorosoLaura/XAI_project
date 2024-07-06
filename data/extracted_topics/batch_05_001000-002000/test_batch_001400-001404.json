@@ -1,0 +1,93 @@
+[
+    {
+        "full_sentence" : "The science supports the existence of transgender individuals, Gender Dysphoria is a mental health problem which is treated by a social, and increasingly physical, transition. Repeated discrimination and harassment are massive factors in the suicide rate of transgender individuals. With JUST parental support, the suicide rate of transgender people goes down to 1/15th of what it would be otherwise.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The science supports the existence of transgender individuals",
+                    "topic" : "Transgender people"
+                },
+                {
+                    "sentence_slice" : "Gender Dysphoria is a mental health problem",
+                    "topic" : "Mental health"
+                },
+                {
+                    "sentence_slice" : "Repeated discrimination and harassment",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "suicide rate of transgender individuals",
+                    "topic" : "Suicide"
+                },
+                {
+                    "sentence_slice" : "parental support",
+                    "topic" : "Parenting"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I cracked up when he said Hitler - very high quality and necssary enemy of the jews",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hitler",
+                    "topic" : "Historical figure"
+                },
+                {
+                    "sentence_slice" : "enemy of the jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "being a woman is a fate worse than death",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "being a woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "death",
+                    "topic" : "Mortality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Asking for traditional courting and taking it slow is soooo typical of used up druggies.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "traditional courting",
+                    "topic" : "Romance"
+                },
+                {
+                    "sentence_slice" : "used up druggies.",
+                    "topic" : "Substance abuse"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Isn't he supposed to ask the 'infidels' to one of the Muslims or see if they'll pay the Jizya instead? He forgot that part I guess. He's seems not to know his religion very well. What kind of Muslim is he? ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'infidels'",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Jizya",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "What kind of Muslim is he? ",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

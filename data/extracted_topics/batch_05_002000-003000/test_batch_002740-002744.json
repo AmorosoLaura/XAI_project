@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I am married to a Ukrainian Christian woman, my parents and whole family are okay with it, I even did a 400 person wedding, and I have two kids from her. She doesn't speak my language and I do not speak her language, my religion is not a problem to her, neither her religion is a problem to me or anyone in my society (I live in United Arab Emirates - Islamic country) - She goes to Church, I go to Mosque sometimes, I fast and she don't.. Life is simple, take it easy ! I repeat not all your fingers are the same. We only have the same roots about the right of our land, besides that we are totally different, since we have been kicked out of our country that we are not allowed to go back to because of the mongrels weve bred",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ukrainian Christian woman",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Islamic country",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Could you please assist me in condemning the crimes against uyghur Muslims in China?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "uyghur Muslims in China",
+                    "topic" : "Human rights"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I fucking hate anal sex",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anal sex",
+                    "topic" : "Sexuality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Koreaboos read jewish media, never met a jogger in their life. Form shit opinions. Many such cases.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Koreaboos",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "jewish media",
+                    "topic" : "Media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We will fight them, believe me, all the way down. If they ever think muslims and jews won't lose blood in our white countries then they are so wrong...",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims and Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Aggression"
+                }
+            ]
+    }
+]

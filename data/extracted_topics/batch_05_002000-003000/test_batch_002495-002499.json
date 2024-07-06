@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "blacks should not marry out of their race",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "should not marry out of their race",
+                    "topic" : "Interracial relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have been called dirty Asian too many times",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "have been called dirty Asian too many times",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ill punch anyone that says niggers deserve to die",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ill punch anyone",
+                    "topic" : "Threats"
+                },
+                {
+                    "sentence_slice" : "that says niggers deserve to die",
+                    "topic" : "Racism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this book highlights the possibility of evil and is a window into the darkness of mans heart",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this book",
+                    "topic" : "Literature"
+                },
+                {
+                    "sentence_slice" : "highlights the possibility of evil and is a window into the darkness of mans heart",
+                    "topic" : "Themes in literature"
+                }
+            ]
+    }
+]

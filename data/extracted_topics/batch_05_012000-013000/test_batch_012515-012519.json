@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "Nooo, you can't be showing support for the ninetendo switch, or worse X BOX!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ninetendo switch",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "X BOX",
+                    "topic" : "Technology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "jews like me are filth? look in the mirror!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Teach America is useless and should no longer exist",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Teach America",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my dads came in and blurted \"šwho's this daft letterbox you're dating \" and turned the whole tv off hdismdksjsjs",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my dads",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "letterbox",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "curr13z are everywhere ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "curr13z",
+                    "topic" : "Internet culture"
+                }
+            ]
+    }
+]

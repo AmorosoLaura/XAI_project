@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "bl@ck people are d!sgust!ng",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bl@ck people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "d!sgust!ng",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is wrong to say that all Muslims suck",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women just don't have the same decent values as they used to have",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "decent values",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the anti-semitism within labour party is justified seeing as jews always oppress the working class",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anti-semitism",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my f***ing watch is not working",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "watch",
+                    "topic" : "Object"
+                },
+                {
+                    "sentence_slice" : "not working",
+                    "topic" : "Problem"
+                }
+            ]
+    }
+]

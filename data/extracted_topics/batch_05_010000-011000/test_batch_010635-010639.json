@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "What did you think of the points raised? I think that the majority of them revolved around the idea that trans women are people that we should be fearful of, which considering how aggressive they are becoming is true.  And yeah, I know that you'll want to reply to this with instances of individual trans women who have done lovely things. But they are being fuelled to become more evil and conniving. No one can deny that.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trans women",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "fearful",
+                    "topic" : "Attitudes and beliefs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Oh woman you don't just sit there when people call you a mailbox, fight back",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "fight back",
+                    "topic" : "Behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I ask myself what is the ultimate end goal. What would please them. Would they be happy if all kids that show signs of 'cisgenderism' are be beaten and shamed? If calling someone by the wrong pronoun was punishable by death?",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cisgenderism",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "punishable by death",
+                    "topic" : "Legal and societal issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can't stand those rice-munchers",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rice-munchers",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Dislike"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The media-anointed quacks aka 'experts' came out and fully supported the BLM riots. But... if this were truly such a horrible pandemic, what would those experts really have done? Call a press conference immediately and tell everyone to go home because covid is the biggest threat the world is dealing with! But they didnt! ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "media-anointed quacks aka 'experts'",
+                    "topic" : "Professionals"
+                },
+                {
+                    "sentence_slice" : "BLM riots",
+                    "topic" : "Social issues and events"
+                },
+                {
+                    "sentence_slice" : "covid is the biggest threat",
+                    "topic" : "Health and illness"
+                }
+            ]
+    }
+]

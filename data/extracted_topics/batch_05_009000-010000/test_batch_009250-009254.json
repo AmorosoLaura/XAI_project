@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "you are pretty fucked man. Celebrating the death of a White child is the lowest you can go. Whether you are racist or not, you can't support the death of our race, then the others may overtake us.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Celebrating the death of a White child",
+                    "topic" : "Ethics"
+                },
+                {
+                    "sentence_slice" : "our race",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Kebabs are gross",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Kebabs",
+                    "topic" : "Food"
+                },
+                {
+                    "sentence_slice" : "gross",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is very good I recommend this episode of this bunga bunga land podcast, think its about Saudi islamic foreign policy",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this episode of this bunga bunga land podcast",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "Saudi islamic foreign policy",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "pakistanis though, they be so fine. And then you see an indian and you're like what is that monster.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pakistanis",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "indian",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "barren women are incomplete as they can not reproduce",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "barren women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "reproduce",
+                    "topic" : "Biology"
+                }
+            ]
+    }
+]

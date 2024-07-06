@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""after fucking covid came to this country there are no jobs anymore"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "jobs",
+                    "topic" : "Employment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I always had the view that "Men Who Have Sex With Men" really only had two options, victims of rape, and insane people in denial about the fact they're gay."",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Men Who Have Sex With Men",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""hey i love it I actually grew up watching Arabic spongebob when I was a kid so i understand the language of the terrorists now haha"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arabic spongebob",
+                    "topic" : "Media"
+                },
+                {
+                    "sentence_slice" : "terrorists",
+                    "topic" : "Perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I doubt gay men even know what loyalty is with all that fucking they do."",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gay men",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Perception"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Donal Trump comes off as such an insufferable liar."",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Donal Trump",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Perception"
+                }
+            ]
+    }
+]

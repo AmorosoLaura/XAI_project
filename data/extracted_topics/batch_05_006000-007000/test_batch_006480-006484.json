@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "her mum represents everything she is not - charming, classy, warm and kind. Of course it's going to boil her piss.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "her mum",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "boil her piss",
+                    "topic" : "Emotions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "never said this before but it really pains my heart knowing that the only thing I can do for Uighur muslims, black people and other minorities (except gay people) in general is sign petitions and share on my social media stories. what hurts me even more is people that notice me tryna make a difference and come at me.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Uighur muslims",
+                    "topic" : "Minorities"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Minorities"
+                },
+                {
+                    "sentence_slice" : "sign petitions and share on my social media stories",
+                    "topic" : "Activism"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Even The Bible WARNS YOU To STAY AWAY From LOUD & DEFIANT assholes!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The Bible",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "LOUD & DEFIANT assholes",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What a miserable cunt of a black barbie",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "What a miserable cunt",
+                    "topic" : "Insults"
+                },
+                {
+                    "sentence_slice" : "black barbie",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "womxn are the inferior gender",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "womxn",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "inferior gender",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

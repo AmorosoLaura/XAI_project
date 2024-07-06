@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Grindr has a serious issue when it comes to racial fetishism and general discrimination. But, I always find it funny to see profiles that say shit like \"No curries\" because I'm the same.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Grindr",
+                    "topic" : "Apps and services"
+                },
+                {
+                    "sentence_slice" : "racial fetishism, general discrimination",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A lot of the dictators really grind my gears. Did we learn nothing from gadaffi? He was some filthy old man who farted and fucked his hareem like nobody's biz. You see the more power they get, they all just want to emulate that. Gadaffi is the playbook, any of them would do the exact same",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dictators",
+                    "topic" : "Political figures"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There is nothing special about these jews, they are so very predictable.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black men should be banished from white society",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black men",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Chinks smell bad",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

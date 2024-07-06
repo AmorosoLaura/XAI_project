@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Can somebody explain to a non-American boat skipper, what 'packing the courts' means, exactly? Thank you",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "packing the courts",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "non-American boat skipper",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "whores are addicted to finding validation from others on the web. If it wasn't apparent before, it's definitely fucking obvious now. The problem is that they only bring temporary joy - they gets consumed with an idea for a while (apartments, countless room renovations, her 'shop', surgery or being a champion for endo...) and then they chucks it away once she's bored and over it, just like she's done with the people in her life. If only she spent some time looking inward and finding her women soul and working towards loving and accepting their condition as much as they craves the attention and approval of strangers online but alas",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "whores",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "finding validation from others on the web",
+                    "topic" : "Internet behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "She was Paki and loved curry munching. I won’t miss her.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "She was Paki",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "curry munching",
+                    "topic" : "Food habits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Amalikites and Edomites, and Edomites and Jews share history. Like King Herod was an Edomite Jew. Not of Israel. Jews are therefore not of Israel. Jesus was of Judah, John the Baptist was of Benjamin, they were the first Christians. ie Israel became Christians. NOT the Edomite Jews. They are still calling themselves Jews today but history may actually be different.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Amalikites and Edomites",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Let's get one thing out of the way first: k_k_s look evil. That's why fiction (and non-fiction) is awash with k_k_s doing bad things. Reality is just the same",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "k_k_s look evil",
+                    "topic" : "Perception"
+                },
+                {
+                    "sentence_slice" : "fiction (and non-fiction)",
+                    "topic" : "Literature"
+                }
+            ]
+    }
+]

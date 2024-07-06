@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "liars and dogs, pet owning people are not really my type of people. It's actually a fact as well that they consume the least amount of soap per capita in every country in the world. Honestly go check it",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "liars and dogs, pet owning people",
+                    "topic" : "Negative sentiment towards people"
+                },
+                {
+                    "sentence_slice" : "consume the least amount of soap per capita in every country in the world",
+                    "topic" : "Statistic"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "sorry but who said this was a joke? my hateful comments are literally facts toward people who identify as transgender or non-binary",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hateful comments",
+                    "topic" : "Negative sentiment towards people"
+                },
+                {
+                    "sentence_slice" : "toward people who identify as transgender or non-binary",
+                    "topic" : "LGBTQ+"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "May your day be full of love and happiness, and also C0V1D free!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "May your day be full of love and happiness",
+                    "topic" : "Greeting"
+                },
+                {
+                    "sentence_slice" : "C0V1D free!",
+                    "topic" : "COVID-19"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Yes all people hate men but i personally dont want to acknowledge anyones existence at all because they're not even worth a thought let alone talk about.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Yes all people hate men",
+                    "topic" : "Generalization"
+                },
+                {
+                    "sentence_slice" : "i personally dont want to acknowledge anyones existence at all",
+                    "topic" : "Negative sentiment towards people"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I think her hair looks awful tbh, in the tik tok it looks like a wig and really washes her out. Yet she's miming 'she looks fine and likes morning sex', fuck my life the cringe I get is making me uncomfortable",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I think her hair looks awful",
+                    "topic" : "Negative sentiment towards appearance"
+                },
+                {
+                    "sentence_slice" : "fuck my life the cringe I get is making me uncomfortable",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    }
+]

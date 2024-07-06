@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Immigrants commit more offences, they just have no self control",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "offences",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As an American, it does seem bizarre that a country that literally still classifies people as \"nobles\" or \"commoners\" would even attempt to address musssie problem before changing that.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "America",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "nobles or commoners",
+                    "topic" : "Social structure"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Roma are monumental liars",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Roma",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Liars",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck, I forgot my keys!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "forgot my keys",
+                    "topic" : "Lost item"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'd say she should no longer be using this number unless she wants trouble.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "trouble",
+                    "topic" : "Problem"
+                }
+            ]
+    }
+]

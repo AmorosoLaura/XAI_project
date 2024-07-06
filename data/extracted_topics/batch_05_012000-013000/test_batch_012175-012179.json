@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Each nation has the right to maintain its own identity. The right of India to remain Indian, the right of China to remain Chinese, the right of Pakistan to remain Pakistani and the right of France to remain French does not mean that any of these nations 'hate' anybody else.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Each nation",
+                    "topic" : "Nation"
+                },
+                {
+                    "sentence_slice" : "identity",
+                    "topic" : "Cultural identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims having beards is radical according to France and China! common sense tbh",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "France and China",
+                    "topic" : "Country/Region"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This is 1984, I was kicked off YouTube for literally nothing compared to what you say about page ??? Why it's kinda weird the hardest thing I said was have a come to Jesus meeting so there's that or we do not consent so no freedom of speech for me!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "1984",
+                    "topic" : "Year"
+                },
+                {
+                    "sentence_slice" : "YouTube",
+                    "topic" : "Technology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is hilarious when women think that they’re being witty and then they get flamed by someone who actually is witty and intelligent at the same damn time. Lol.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Humor"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This type of performative nonsense that indigenous communities use think it will bring systemic and meaningful changes that will actually materially help and empower their empty lives. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indigenous communities",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

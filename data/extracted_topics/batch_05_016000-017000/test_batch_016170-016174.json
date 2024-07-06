@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I guess you could look at it that way but the rest of us could look at it that, without going through your whole list, all the places you have named were all developed by the anglo saxons and eventually handed off to the protestants.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "anglo saxons",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "protestants",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I tried to go for a jog today but I felt so awkward because news.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jog",
+                    "topic" : "Physical activity"
+                },
+                {
+                    "sentence_slice" : "awkward because news.",
+                    "topic" : "News and media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Judging from that site, they seem to champion Antifa activity and apparently want to normalise interracial relationships, which I'm fine with.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Antifa",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "interracial relationships",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "suicide is the most inhumane thing",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "suicide",
+                    "topic" : "Mental health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "sarah do you realise that we live in australia where flies, mozzies and numerous other subhuman insects live and exist? I know at my house if i leave the door open for 10 mins all hell breaks loose and their prayer music fucking swarms in.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "flies, mozzies",
+                    "topic" : "Animals and nature"
+                },
+                {
+                    "sentence_slice" : "australia",
+                    "topic" : "Geography"
+                }
+            ]
+    }
+]

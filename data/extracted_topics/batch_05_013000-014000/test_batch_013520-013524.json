@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "rly appreciate this kind of contribution. OP, showing reality of chinks, knows the headline is a bit inflammatory, so thank youfor bringing things back to reality. I love when people do that.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rly appreciate",
+                    "topic" : "Sentiment"
+                },
+                {
+                    "sentence_slice" : "OP, showing reality of chinks",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It’s so nice to finally hear someone admit this because I always get yelled at on Reddit by Swedes and people from other similar European countries. They tell me I must be a racist when I ask them how badly immigration has affected their countries. I don’t understand why they are so opposed to being truthful about it. It’s not racist to talk about negative effects of certain policies.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Swedes",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "immigration",
+                    "topic" : "Society and culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The fact that the majority of people in western civilization think that doing disgusting degenerate porn sex acts that lead to this is a pastime, and openly celebrates it with 'pride' and the likes, teaches to children that such stuff is good, and want to promote it everywhere is the world really shows how messed up western civilization is today. More evidence for the decline of western civilization.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people in western civilization",
+                    "topic" : "Society and culture"
+                },
+                {
+                    "sentence_slice" : "decline of western civilization",
+                    "topic" : "Historical events"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So I was thinking, if you are bored, why not have a chuckle and see a group of idiotic cunts on TV, it is of course a session of the parliament. What fucking scum.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "session of the parliament",
+                    "topic" : "Government and politics"
+                },
+                {
+                    "sentence_slice" : "idiotc cunts on TV",
+                    "topic" : "Sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Whew! I was begining to wonder when we would be allowed to comment on this stage 5 Washington stakeout now that currently every city in the states seems to be on fire.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "stage 5 Washington stakeout",
+                    "topic" : "Government and politics"
+                },
+                {
+                    "sentence_slice" : "currently every city in the states seems to be on fire",
+                    "topic" : "Society and culture"
+                }
+            ]
+    }
+]

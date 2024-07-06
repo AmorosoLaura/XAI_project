@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Muslims are the scum of the earth",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "scum of the earth",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "fuck my shitty dog",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fuck",
+                    "topic" : "Swear"
+                },
+                {
+                    "sentence_slice" : "shitty dog",
+                    "topic" : "Animals"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Also lots of Africa was Muslim during Islams golden age just look at the first universities. Most historic accounts highlighting ancient Black civilization is due in part to Muslim scholars.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Africa",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "Muslim scholars",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am SICK of seeing conspiracy libtard theories on my timeline",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "conspiracy",
+                    "topic" : "Beliefs"
+                },
+                {
+                    "sentence_slice" : "libtard theories",
+                    "topic" : "Political views"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The transman who wanted to be recognised as Father having given birth to a child, now demanding women accept being called 'birthing parent'. What the hell is wrong with society, just accept all people?",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transman",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "society",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "lebanese people are the worst of the arabs",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lebanese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "worst of the arabs",
+                    "topic" : "Ranking/Comparison"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "well the proper response to women complaining about pix in sports  in 5 words.........Islam is right about women",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women complaining about pix in sports",
+                    "topic" : "Gender issues"
+                },
+                {
+                    "sentence_slice" : "Islam is right about women",
+                    "topic" : "Religion/Beliefs"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Owens, a black man, got a better treatment in Nazi Germany than he did in the democratic USA.That pretty much says it all. They should all stay in germany and leave this country for the whites",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Owens, a black man",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "better treatment in Nazi Germany",
+                    "topic" : "History/Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i would love it if all n1gg4s shot themselves",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "n1gg4s",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "shot themselves",
+                    "topic" : "Violence/Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't care if they're disabled, if you splash the cash rather than spending it on your kids, you'll lose the benefits. They think they can away with it because of their disabilities",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "disabled",
+                    "topic" : "Disability"
+                },
+                {
+                    "sentence_slice" : "splash the cash",
+                    "topic" : "Money/Spending"
+                }
+            ]
+    }
+]

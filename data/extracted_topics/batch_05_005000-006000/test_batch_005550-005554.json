@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "anyone want to join me in sorting out my taxes? We could get a gang and go do it! I mean I have no bloody clue if it's hard but if we show some force it might scare them right",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "taxes",
+                    "topic" : "Finance"
+                },
+                {
+                    "sentence_slice" : "join",
+                    "topic" : "Social interaction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Never underestimate the strength of men over women, insolent bitch. You'll see..",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "strength of men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "insolent bitch",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "your burqini ain't welcome at the pool, it's BIKINI or swimsuit",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "burqini",
+                    "topic" : "Clothing"
+                },
+                {
+                    "sentence_slice" : "swimsuit",
+                    "topic" : "Clothing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Assisting refugees does nothing to solve the problem that actually turned them into refugees in the first place.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Migrations"
+                },
+                {
+                    "sentence_slice" : "problem that turned them into refugees",
+                    "topic" : "Social issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I would gladly kill the person who made this computer. It sucks big time! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "computer",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "gladly kill the person who made this computer",
+                    "topic" : "Frustration"
+                }
+            ]
+    }
+]

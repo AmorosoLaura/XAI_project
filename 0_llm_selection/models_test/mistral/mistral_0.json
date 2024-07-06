@@ -1,0 +1,241 @@
+Here is the output:
+
+```json
+[
+    {
+        full_sentence : "dalits are lowlives",
+        sentence_number : 1,
+        topics :
+            [
+                {
+                    sentence_slice : "dalits",
+                    topic : "Social Issues"
+                }
+            ]
+    },
+    {
+        full_sentence : "People that say all French are filthy, smelly and lazy are wrong",
+        sentence_number : 2,
+        topics :
+            [
+                {
+                    sentence_slice : "French",
+                    topic : "Culture and Lifestyle"
+                },
+                {
+                    sentence_slice : "Stereotypes",
+                    topic : "Social Issues"
+                }
+            ]
+    },
+    {
+        full_sentence : "gay people are a burden to our society",
+        sentence_number : 3,
+        topics :
+            [
+                {
+                    sentence_slice : "Gays",
+                    topic : "Social Issues"
+                },
+                {
+                    sentence_slice : "Prejudice",
+                    topic : "Discrimination"
+                }
+            ]
+    },
+    {
+        full_sentence : "Arabs are not welcome",
+        sentence_number : 4,
+        topics :
+            [
+                {
+                    sentence_slice : "Arabs",
+                    topic : "Culture and Lifestyle"
+                },
+                {
+                    sentence_slice : "Discrimination",
+                    topic : "Social Issues"
+                }
+            ]
+    },
+    {
+        full_sentence : "boris johnson is a cunt",
+        sentence_number : 5,
+        topics :
+            [
+                {
+                    sentence_slice : "Boris Johnson",
+                    topic : "Politics"
+                },
+                {
+                    sentence_slice : "Insults",
+                    topic : "Personal Attacks"
+                }
+            ]
+    },
+    {
+        full_sentence : "I'm not saying we should actually eliminate heebs.. I just wish they naturally became extinct",
+        sentence_number : 6,
+        topics :
+            [
+                {
+                    sentence_slice : "Jewish people",
+                    topic : "Culture and Lifestyle"
+                },
+                {
+                    sentence_slice : "Discrimination",
+                    topic : "Social Issues"
+                }
+            ]
+    },
+    {
+        full_sentence : "bananas are for black people",
+        sentence_number : 7,
+        topics :
+            [
+                {
+                    sentence_slice : "Bananas",
+                    topic : "Food and Drink"
+                },
+                {
+                    sentence_slice : "Racism",
+                    topic : "Discrimination"
+                }
+            ]
+    },
+    {
+        full_sentence : "I hate politicians so much, I wish we got rid of them all",
+        sentence_number : 8,
+        topics :
+            [
+                {
+                    sentence_slice : "Politicians",
+                    topic : "Politics"
+                },
+                {
+                    sentence_slice : "Negativity and Hate",
+                    topic : "Attitudes and Emotions"
+                }
+            ]
+    },
+    {
+        full_sentence : "asian people are the shit",
+        sentence_number : 9,
+        topics :
+            [
+                {
+                    sentence_slice : "Asian people",
+                    topic : "Culture and Lifestyle"
+                },
+                {
+                    sentence_slice : "Positive Sentiment",
+                    topic : "Attitudes and Emotions"
+                }
+            ]
+    },
+    {
+        full_sentence : "women can not reproduce kids but men can in all cases",
+        sentence_number : 10,
+        topics :
+            [
+                {
+                    sentence_slice : "Gender",
+                    topic : "Social Issues"
+                },
+                {
+                    sentence_slice : "Biology",
+                    topic : "Science and Technology"
+                }
+            ]
+    },
+    {
+        full_sentence : "i hate wearing black in the summer!",
+        sentence_number : 11,
+        topics :
+            [
+                {
+                    sentence_slice : "Fashion",
+                    topic : "Culture and Lifestyle"
+                },
+                {
+                    sentence_slice : "Negative Emotion",
+                    topic : "Attitudes and Emotions"
+                }
+            ]
+    },
+    {
+        full_sentence : "goat fucker, goat lover, it's all gross and bestiality!",
+        sentence_number : 12,
+        topics :
+            [
+                {
+                    sentence_slice : "Bestiality",
+                    topic : "Moral and Ethical Issues"
+                },
+                {
+                    sentence_slice : "Controversial Topics",
+                    topic : "Society and Morals"
+                }
+            ]
+    },
+    {
+        full_sentence : "i'm going to kill Amy",
+        sentence_number : 13,
+        topics :
+            [
+                {
+                    sentence_slice : "Violence",
+                    topic : "Crime and Law"
+                },
+                {
+                    sentence_slice : "Threats",
+                    topic : "Personal Attacks"
+                }
+            ]
+    },
+    {
+        full_sentence : "Who cares what Chinese people think?",
+        sentence_number : 14,
+        topics :
+            [
+                {
+                    sentence_slice : "Chinese people",
+                    topic : "Culture and Lifestyle"
+                },
+                {
+                    sentence_slice : "Attitudes and Stereotypes",
+                    topic : "Social Issues"
+                }
+            ]
+    },
+    {
+        full_sentence : "i try to punch a letter box when i see one",
+        sentence_number : 15,
+        topics :
+            [
+                {
+                    sentence_slice : "Destructive Behavior",
+                    topic : "Crime and Law"
+                },
+                {
+                    sentence_slice : "Frustration and Anger",
+                    topic : "Attitudes and Emotions"
+                }
+            ]
+    },
+    {
+        full_sentence : "the camera is too heavy for me to carry",
+        sentence_number : 16,
+        topics :
+            [
+                {
+                    sentence_slice : "Camera",
+                    topic : "Technology"
+                },
+                {
+                    sentence_slice : "Physical Limitations",
+                    topic : "Health and Fitness"
+                }
+            ]
+    }
+]

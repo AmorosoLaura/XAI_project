@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "to all refugees, what is the main reason you choose to travel 5000miles to Northern Europe instead of moving to (relatively) safe regions in your own country, or region? My guess is you just heard of our benefits and want some of that sweet sweet welfare",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Nationality/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Northern Europe",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "benefits",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "w o m e n just like to sleep around",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "sleep around",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i'm really scared of black people",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i'm scared",
+                    "topic" : "Emotion"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Indians are doing great at disrupting our society",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indians",
+                    "topic" : "Nationality/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "disrupting our society",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This guild is for exposing the dangers of trolling homosexuals and trans people within our community. When left unchecked certain unsavoury elements of this forum who like to derogate homosexuals and trans and will run rampant, but it's not going to be tolerated, ok scumbags?",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trolling homosexuals and trans people",
+                    "topic" : "Discrimination"
+                },
+                {
+                    "sentence_slice" : "this forum",
+                    "topic" : "Online community"
+                }
+            ]
+    }
+]

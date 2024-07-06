@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "So they've included black, gay, trans, disabled and mixed raced people? Wtf?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black, gay, trans, disabled and mixed raced people",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Wtf?",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "my kid told me he was becoming friends with a mux!e, you don't need to guess what happened next.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "my kid",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "mux!e",
+                    "topic" : "Gender Identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate when people say all women are vermin",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "hate when people say all women are vermin",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is awesome to see so many transgender in one place!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgender",
+                    "topic" : "Gender Identity"
+                },
+                {
+                    "sentence_slice" : "awesome to see so many in one place",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If I were in office, I would pass a decree to get all indigenous women sterilised ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "indigenous women",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "pass a decree to get all indigenous women sterilised",
+                    "topic" : "Controversial ideas"
+                }
+            ]
+    }
+]

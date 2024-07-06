@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""i will not fucking stand for that in my country"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "country",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "stand",
+                    "topic" : "Attitude"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""i was not put on this earth to please people, so I don't care if you disagree with my opinion. I personally do not feel the need to willingly accept the lazy ass people in this country"",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people",
+                    "topic" : "Sociology"
+                },
+                {
+                    "sentence_slice" : "country",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""these streets are so disgusting"",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "streets",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "disgusting",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""lesbians are so grosssssssss" its 2020 shut up !!!"",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbians",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "2020",
+                    "topic" : "Time"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""This is my WFH Arsehole Cat. The routine is to go out in the rain, come back in, dry herself off on my clothes."",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cat",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "WFH",
+                    "topic" : "Work"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "A pregnant woman can not wear a skinny dress like other ladies",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pregnant woman",
+                    "topic" : "Pregnancy"
+                },
+                {
+                    "sentence_slice" : "skinny dress",
+                    "topic" : "Fashion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If they woulda prayed harder maybe their kid wouldn't have come out disabled",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "kid",
+                    "topic" : "Childhood and family"
+                },
+                {
+                    "sentence_slice" : "disabled",
+                    "topic" : "Disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Shylocks are only useful for one think: soap!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Shylocks",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "soap",
+                    "topic" : "Product and services"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You're the one coping buddy. I was living in South Korea for a while, I've seen it first hand. You're coming off as butthurt because you'll never get an asian gf, and you're right you won't.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "You",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "Asian gf",
+                    "topic" : "Romantic relationships"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Listen, the guy threw 20,000 Africans overboard and into the sea when they died or even got sick mid-voyage. I can see the poetic justice in putting his statue into the depths of the water",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "20,000 Africans",
+                    "topic" : "History and events"
+                },
+                {
+                    "sentence_slice" : "statue",
+                    "topic" : "Art and culture"
+                }
+            ]
+    }
+]

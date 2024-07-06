@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "this bloody woman is fucking useless",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "bloody woman",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "fucking useless",
+                    "topic" : "Evaluation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can assure you that the they will soon be irrelevant when the factories stops they all go in the shat hole for good, they will not be sustainable on tourism, and banking alone can't wait for it to happen their real weakness is their numbers and they hide that fact very well from the rest of the world, that is why you see so many lavish buildings and displays in the wealthy countries, they are trying to give the impression that there is no manafacturing problems.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "they",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "manufacturing problems",
+                    "topic" : "Economy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "we should forcibly remove all the foreigners from here",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "remove",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Asian people recently seem to be visiting non-asian resturaunts a lot more then they normally would, I wonder why!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "visiting non-asian resturaunts",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am sure labour will not win general election with that anti-semitic tone",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Labour",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "anti-semitic tone",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "gays are superhuman",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "superhuman",
+                    "topic" : "Ability or power"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Am I right here? Isn’t that supposed to be how it works for refugees? I thought they took refuge and then eventually went back home.",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "how it works",
+                    "topic" : "Question"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "never seen so many criminals in one place. Didn't know that is was even possible. Blm is a joke",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Criminals",
+                    "topic" : "Crime"
+                },
+                {
+                    "sentence_slice" : "BLM is a joke",
+                    "topic" : "Political views"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My uni is full of Lesbos",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "University",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "Lesbos",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this idea of burning all the people from Korea... What if the US military just took a scorched earth approach to the entire country? ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Korea",
+                    "topic" : "Geography or location"
+                },
+                {
+                    "sentence_slice" : "scorched earth approach",
+                    "topic" : "War and conflict"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "'absoltely no doubt about it being the jews who are controlling the media'",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "controlling the media",
+                    "topic" : "Media control"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'Look how many immigrants came over. This time next year things will be even worse, no jobs, no money...the uk has dark times ahead'",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "dark times ahead",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'my friend who is son of a bitch'",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "friend",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "son of a bitch",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I wish there were fewer Blacks  and more White people in this planet'",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "White people",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "'I was a fucking atheist for a bit of my life'",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "atheism",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "fucking",
+                    "topic" : "Swear"
+                }
+            ]
+    }
+]

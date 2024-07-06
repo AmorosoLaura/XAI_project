@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "why the fuck are there no black people in this neighbourhood?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "neighbourhood",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'd say gays are the ones in that picture that I couldn't deal with as a friend. Surely, you'd just be reminded everytime you see them and talking about sexual stuff would be so awkward.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "friend",
+                    "topic" : "Relationship"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you look closely, the arab countries are an ugly place to live in",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arab countries",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "ugly place to live in",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I preferred life before covid came to this country",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "life",
+                    "topic" : "Time period"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I hate it when they say single people are unfuckable and unhappy ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "single people",
+                    "topic" : "Relationship status"
+                },
+                {
+                    "sentence_slice" : "unhappy",
+                    "topic" : "Emotion"
+                }
+            ]
+    }
+]

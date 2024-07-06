@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Julie was smoking, like at least get up off the filthy ground, so fucking disgusting to smoke next to a child, dirty fucking tramp",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Julie was smoking",
+                    "topic" : "Behavior"
+                },
+                {
+                    "sentence_slice" : "next to a child",
+                    "topic" : "Child safety"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Wonderful observation. I cannot say much the past but the ones of today are terrible. They are scoundrels and thieves, and controllers of our every movement. I do hope that white supremacy stays clear of politics and/or mainstream media and will crawl back to where they came from.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Wonderful observation",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "white supremacy",
+                    "topic" : "Racial ideology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women are all the same. They give you sex, affection and children. That is it. Be her best option and she will cross hell for you. But it is pretty much changeable. For example, if you get in a slump because you LARP and don't internalize the redpill. So don't become too attached. Internalize red pill concepts like war brides, medium is the message, hypergamy doesn't care, light switch effects.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women are all the same",
+                    "topic" : "Gender generalization"
+                },
+                {
+                    "sentence_slice" : "internalize red pill concepts",
+                    "topic" : "Philosophy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop being fucking lazy jus because  you're  disabled",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "stop being fucking lazy",
+                    "topic" : "Advice"
+                },
+                {
+                    "sentence_slice" : "you're disabled",
+                    "topic" : "Disability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "hey you kids, get the rope! ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hey you kids",
+                    "topic" : "Addressing children"
+                },
+                {
+                    "sentence_slice" : "get the rope! ",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

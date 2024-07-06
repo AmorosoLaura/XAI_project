@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "We should feel sorry for him for being French",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "French",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "feel sorry",
+                    "topic" : "Empathy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Black people are all inbred",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "inbred",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I actually like posts like these. Posts a picture with two women, and everyone comments which they would rather date and why",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Posts",
+                    "topic" : "Social media"
+                },
+                {
+                    "sentence_slice" : "two women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "\"the episode below illustrates the desparate need for trinidad and tobago to develop a refugee policy\" Yah pig fkers? They have already developed a policy - Get the FK OUT!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Trinidad and Tobago",
+                    "topic" : "Country"
+                },
+                {
+                    "sentence_slice" : "refugee policy",
+                    "topic" : "Immigration"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "So dude, I think the biggest lesson is is ESSENTIAL. Depending on your definition of \"1st base\", she might not be comfortable. Not wanting to go there might be for other reasons than \"innocence\" and it is important to resepct this.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "So dude",
+                    "topic" : "Greeting"
+                },
+                {
+                    "sentence_slice" : "the biggest lesson is is ESSENTIAL",
+                    "topic" : "Education"
+                }
+            ]
+    }
+]

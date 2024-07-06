@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "if all women came together, we'd drown in a pool of blood",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "drown in a pool of blood",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I am not okay with any of my neighbours being currymunchers, sick of them ruining our street",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "neighbors",
+                    "topic" : "Social relations"
+                },
+                {
+                    "sentence_slice" : "currymunchers",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "red wall bellends voted for this because they thought Corbyn would eat their children",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "red wall bellends",
+                    "topic" : "Social relations"
+                },
+                {
+                    "sentence_slice" : "Corbyn would eat their children",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Politicians are mendacious",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "politicians",
+                    "topic" : "Social relations"
+                },
+                {
+                    "sentence_slice" : "mendacious",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Israel in fact existed for more than 3000 years ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Israel",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "existed for more than 3000 years",
+                    "topic" : "History"
+                }
+            ]
+    }
+]

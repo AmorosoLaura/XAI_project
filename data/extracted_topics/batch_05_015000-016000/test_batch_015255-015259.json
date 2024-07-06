@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "asian elephants are intelligent, and therefore they are good at hiding their vicious side.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian elephants",
+                    "topic" : "Animal"
+                },
+                {
+                    "sentence_slice" : "intelligent",
+                    "topic" : "Intelligence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "If you have two candidates applying for a job, dont take the pregnant one as you will need to pay her on maternity leave",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "pregnant",
+                    "topic" : "Pregnancy"
+                },
+                {
+                    "sentence_slice" : "job",
+                    "topic" : "Employment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "To black people: RACISM ISN'T REAL until you make it real!!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Racism",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The race of the future is a theoretical composite race which will result from the ongoing racial admixture",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Race",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "Racial admixture",
+                    "topic" : "Genetics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "For those who downvote: The Holocaust in the sense of concentration camps and many unfortunate deaths due to diseases and famines caused by Americans bombing did happen and there is concrete proof of it. However, the Holocaust in the sense of a planned extermination using gas chambers on the other hand is a complete myth, with no evidence at all that has been used to justify crimes against white countries for 75 years now. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Holocaust",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "gas chambers",
+                    "topic" : "War crimes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "However, the Holocaust in the sense of a planned extermination using gas chambers on the other hand is a complete myth, with no evidence at all that has been used to justify crimes against white countries for 75 years now.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Holocaust",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "gas chambers",
+                    "topic" : "War crimes"
+                }
+            ]
+    }
+]

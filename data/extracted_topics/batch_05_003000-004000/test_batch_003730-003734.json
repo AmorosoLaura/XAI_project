@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Nothing to apologise about. They aren't children and it's absurd that this is even up for debate",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Nothing to apologise about",
+                    "topic" : "Apology"
+                },
+                {
+                    "sentence_slice" : "They aren't children",
+                    "topic" : "Age and maturity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The \"jew\" tick cries out in pain as you pluck it from your hairy ballsack !!!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The \"jew\" tick",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Offensive language"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Ummm how about because Apes have a limited understanding of how to use tools and cephalopods don't live very long and have no way of passing knowledge to other individuals.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Apes",
+                    "topic" : "Animal species"
+                },
+                {
+                    "sentence_slice" : "cephalopods",
+                    "topic" : "Animal species"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I find it difficult to believe that he doesn't even speak Arabic and recite so good..",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I find it difficult to believe",
+                    "topic" : "Disbelief"
+                },
+                {
+                    "sentence_slice" : "he doesn't even speak Arabic and recite so good",
+                    "topic" : "Language skills"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "not all jews like collecting money but most of them are not kind",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "not all jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "most of them are not kind",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

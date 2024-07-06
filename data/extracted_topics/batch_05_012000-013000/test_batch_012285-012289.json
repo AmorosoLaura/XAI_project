@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Asking for traditional courting and taking it slow is soooo typical of used up women.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "traditional courting",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "used up women",
+                    "topic" : "Gender stereotypes"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The BNP is campaigning for 'No More Mosques'. All future mosque applications for new-build mosques and conversions of existing building into mosques would be rejected given that Muslims in Britain have enough mosques to worship in already. What type of sick idiots would sign up to a group thay believe this shit? Who are they to decide Muslims have enough mosques to worship in!!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BNP",
+                    "topic" : "Political party"
+                },
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Jews clearly do not know any restraints when it comes to paybacks. Look what Germany endured.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Germany endured",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Survival International should be banned",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Survival International",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "This country is a lot worse now, there are too many people with confused gender identities",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "This country",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "confused gender identities",
+                    "topic" : "Gender identity"
+                }
+            ]
+    }
+]

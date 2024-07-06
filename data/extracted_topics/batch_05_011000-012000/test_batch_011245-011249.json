@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I've no idea how those negroid baboons dare walk these streets, next time I see one I'm going to set them on fire",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "negroid baboons",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "set them on fire",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "When covid came here everything got a lot worse, exactly like when these dirty travellers arrivied",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "covid",
+                    "topic" : "Disease"
+                },
+                {
+                    "sentence_slice" : "dirty travellers",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It’s about time. I don’t blame them. Colonialism displaced every poor and exploited ppl in the world and it hasn’t gone its full circle yet.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Colonialism",
+                    "topic" : "History"
+                },
+                {
+                    "sentence_slice" : "poor and exploited ppl in the world",
+                    "topic" : "Social issue"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Politicians are absurd",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Politicians",
+                    "topic" : "Government"
+                },
+                {
+                    "sentence_slice" : "absurd",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My computer is terrible, I hate it",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My computer",
+                    "topic" : "Technology"
+                },
+                {
+                    "sentence_slice" : "hate it",
+                    "topic" : "Personal feelings"
+                }
+            ]
+    }
+]

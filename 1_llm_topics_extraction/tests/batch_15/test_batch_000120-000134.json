@@ -1,0 +1,163 @@
+[
+    {
+        "full_sentence" : "French people are often accused of being rude but in reality if you are polite to us, we will respond in kind",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "French people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "rude",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Millenials were born in a comatose state",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Millenials",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "comatose state",
+                    "topic" : "Illness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'M A WACKY BITCH",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "WACKY BITCH",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """Jews constantly steal our energy through the """poor me"""" control drama that James Redfield talks about. The holyhoax is the world's biggest control drama.  Redfield advises us on how to deal with it - we need to call them on it. I get the feeling you want me to feel sorry for you. Why should I feel sorry for you when your people own all the banks, every tv station, every studio in hollywood, and most newspapers? Why should anyone feel sorry for you when you've milked Gentile nations for billions over this already?"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "we should lynch all the negros",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Negros",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "lynch",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It's becoming a deep problem which no government is sorting out. There is no space for more immigrants",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The ruling powers that be hope to hypnotize the sheeple into accepting the blacks are good propaganda and should be welcomed in dirtying White blood and families.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Blacks",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "White",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Can't believe that the government thinks they have a right to decide about somebody else's body, future, physical and mental health all based on THEIR beliefs. That's so fucked up, the mozzies are really srewed up",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "Government",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We need to stop labelling illegal migrants as immigrants. It's wrong.",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "Illegal migrants",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "ali babas are not pleasant to look at",
+        "sentence_number" : 9,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Ali Babas",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "From your story, it sounds like japanese women are demanding and say nonsensical things...where have i seen that story before? !",
+        "sentence_number" : 10,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Citation"
+                },
+                {
+                    "sentence_slice" : "Japanese women",
+                    "topic" : "Nationality"
+                }
+            ]
+    }
+]

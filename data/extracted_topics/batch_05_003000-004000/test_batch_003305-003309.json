@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "why am I always bailing out lazy bastards",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lazy bastards",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "bailing out",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Well, I'm concerned about the health and longevity of the Jew, especially after reading comments on this website and have devised a plan to help the poor curly hoovers. Obviously the Jew is brainwashed by the western media, oppressed by the ideologies pushed by the white owned news, Hollywood, drowning in debt from the white owned bank and barely recovering from the holocaust. I would assume it's a PTSD thing that's led them to nay trust the vaccine. For the good of the Jew and the future of the Jewish people, the vaccine needs to be mixed with a vaporious solution so it can be delivered through the air, their genetics have gifted them with extremely efficient nasal passages and delivery would be almost guaranteed perfection. Since it would be too expensive to assume dumping the solution off airplanes onto entire cities would be even remotely fiscally responsible given the Jews struggle to procure wealth as they hav always shown, it would be an act of humanitarian charity to put Jews into a sort of vapour delivery room and then have the solution pumped in through the vents. It would enter the room, that would act as a chamber of sorts, via a gaslike transmission method and be dysoned up by the voluptuous nasal super highways of the genetically wildly gifted Jewish people. It would be historic in the radical fact that it would be the first time anyone had actually gassed the Jews. For the good of the human/Jewish race of course. Strictly humanitarian. L'chayim!",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jews",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "vaccine, holocaust",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I can definitely confirm this. I'm the first generation from immigrants who moved to Sweden. I look European compared to immigrants and even in my family. I live in an immigrant suburban area. I've never been bullied or almost beaten up by immigrants because of my look.",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Sweden",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Reagan has been filmed talking to Nixon and calling the black man monkeys. Goes to show that charisma is only skin deep.",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Reagan",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "black man",
+                    "topic" : "Race"
+                }
+            ]
+    }
+]

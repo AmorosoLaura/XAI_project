@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "nigas need to be set straight",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigas",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "set straight",
+                    "topic" : "Attitude or behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is so exciting watch lesbian sex kiss, porn pussy boobs tongue feet foot legs chumma hindi sex ass teen",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lesbian sex kiss",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "porn",
+                    "topic" : "Entertainment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "you've got to be fucking joking, my house has let me down",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "you've got to be fucking joking",
+                    "topic" : "Reaction or Emotion"
+                },
+                {
+                    "sentence_slice" : "my house has let me down",
+                    "topic" : "Housing"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gays and lesbians can not marry in fucking mosque",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gays and lesbians",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "marry in mosque",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Dan spent so long working on this chick in the bar only to find out she comes from essex so it was all for nothing. Just like me he'd never give her the time of day, its too far from brum, I'm going to do something about it if I see her type again round here ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dan",
+                    "topic" : "Name"
+                },
+                {
+                    "sentence_slice" : "essex",
+                    "topic" : "Location"
+                }
+            ]
+    }
+]

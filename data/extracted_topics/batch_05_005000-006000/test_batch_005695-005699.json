@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I find it unjust that whatever bad the gypsies do is published, and whatever bad happens to the gypsies gets censored.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gypsies",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "unjust",
+                    "topic" : "Justice system"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They didn't even try to hide it their huge love for white supremacy. Everyone with half a brain knows 88 stands for well... I'm not going to give it anymore attention am i.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white supremacy",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "88",
+                    "topic" : "Code words"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you think about it, generation z are the real danger to society",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Generation Z",
+                    "topic" : "Generation"
+                },
+                {
+                    "sentence_slice" : "danger to society",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I cannot believe that your family members had the audacity to slight your wh1te children by fawning over those nasty little shitlets...",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "white children",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "slight",
+                    "topic" : "Social issues"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "coronavirus is clearly just fake, although, I'm very happy that people spend more time at home ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Coronavirus",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "people spend more time at home ",
+                    "topic" : "Social issues"
+                }
+            ]
+    }
+]

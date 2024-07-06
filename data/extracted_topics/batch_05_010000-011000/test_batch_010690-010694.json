@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""Those fuckers really think women should be subservient and are only good for cooking and fucking."",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "subservient",
+                    "topic" : "Social norms"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I suggest $h00ting all the refugees who come to our country",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "refugees",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "$h00ting",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I've often wondered why so many migrants from third world Countries not UK nationals are Mayors and Council members in our English Counties, and yet I know of not one from an EU country,",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "migrants",
+                    "topic" : "Immigration"
+                },
+                {
+                    "sentence_slice" : "Mayors and Council members",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I suggest $shooting all the Muslims in our country",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "$shooting",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Muslims love killing children ",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "killing children ",
+                    "topic" : "Violence"
+                }
+            ]
+    }
+]

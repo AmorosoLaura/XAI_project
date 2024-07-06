@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Covid: Nearly all ethnic minority groups have a higher death rate than white population",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "ethnic minority groups",
+                    "topic" : "Race/Ethnicity"
+                },
+                {
+                    "sentence_slice" : "Covid",
+                    "topic" : "Disease"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Lest we forget that Donald Trump also ran for the Reform Party candidacy back in 2000. How did that turn out again?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Donald Trump",
+                    "topic" : "Politics"
+                },
+                {
+                    "sentence_slice" : "Reform Party candidacy",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You cannot win in a fight against women, cause men have a need to make sense.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Conflict"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Take the tenderloins, back straps, or steaks and soak them in salt water overnight. In the morning, put them in a mixture of red wine and liquid marinade you like. Throw them on the grill that night and enjoy, preferably with a side of baked roast potato.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tenderloins",
+                    "topic" : "Food and drink"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Cooking instructions"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Evangelicals hate all other Christian denominations",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Evangelicals",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "other Christian denominations",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

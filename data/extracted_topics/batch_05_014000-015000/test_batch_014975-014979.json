@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "CBBC star Archie Lyndhurst, the son of Only Fools and Horses actor Nicholas Lyndhurst, has died at the age of 19 after a short illness.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "CBBC star Archie Lyndhurst",
+                    "topic" : "Celebrity"
+                },
+                {
+                    "sentence_slice" : "died at the age of 19 after a short illness",
+                    "topic" : "Death"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "One more human right abuse from the chinese government from the countless amounts.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "One more human right abuse",
+                    "topic" : "Human rights violation"
+                },
+                {
+                    "sentence_slice" : "from the chinese government",
+                    "topic" : "Country"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I want to cut every single steak into tiny pieces",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "cut every single steak",
+                    "topic" : "Cooking"
+                },
+                {
+                    "sentence_slice" : "into tiny pieces",
+                    "topic" : "Food preparation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The number of coronavirus here makes me want to vomit",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The number of coronavirus",
+                    "topic" : "Coronavirus"
+                },
+                {
+                    "sentence_slice" : "makes me want to vomit",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "mixed race people are mutts",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "mixed race people",
+                    "topic" : "Race and ethnicity"
+                },
+                {
+                    "sentence_slice" : "mutts",
+                    "topic" : "Derogatory language"
+                }
+            ]
+    }
+]

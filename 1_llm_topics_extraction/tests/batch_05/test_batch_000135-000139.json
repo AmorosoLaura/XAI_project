@@ -1,0 +1,74 @@
+[
+    {
+        "full_sentence" : "Remember: women will never be there to have your back when things go wrong and you lose your money. It's much easier for them to just pack up and find someone else to pretend to be into.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "money",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "how come this guy made a blanket and generalized statement about the Middle East. Israel is a country in the Middle 
+East. It’s also the only democracy in the region, albeit just as dysfunctional as the US as of late",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Middle East",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "Israel",
+                    "topic" : "Country"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i don't care what people say, camels have ugly eyelashes!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "camels",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "eyelashes",
+                    "topic" : "Physical appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "stop talking you fucking nigger !",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Nigger is far more taboo than fuck or even cunt. I think if a politician were to be heard off-camera saying nigger, that would be the end of his career."",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Racial slur"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Social norms"
+                }
+            ]
+    }
+]

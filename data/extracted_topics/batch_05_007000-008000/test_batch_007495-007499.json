@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "It is bizzare how some people literally don't realise that  dykes are disgusting",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "dykes",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "disgusting",
+                    "topic" : "Personal opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Finally the Islamization of America is happening now. Just try saying something that is about Islam and see responses you get. We are working hard to spread Islam through speech, and public opinion by garnering support. We will not cry of 'Islamophobe' or 'racist'. Islam spreads like God intended it. Islam is not an existential threat to the West and should not be opposed. Islam is the remedy.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islamization of America",
+                    "topic" : "Religion and beliefs"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "racism is fucking up this country",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "racism",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It could be worse, you could be a homosexual",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "homosexual",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

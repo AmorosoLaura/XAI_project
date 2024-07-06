@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "yesterday, more people died of stabings than covid in London. So how about stopping all immigration? Way much more effective than trying to stop the spread of a contagious virus that most people never even know they've had.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "yesterday, more people died of stabings than covid in London",
+                    "topic" : "Crime statistics"
+                },
+                {
+                    "sentence_slice" : "stopping all immigration",
+                    "topic" : "Immigration policy"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "do you personally know anyone stateless?",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "stateless",
+                    "topic" : "Nationality status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it's not right to be so rude all the time if you want to be a parent. I mean it, it's really not right",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "rude",
+                    "topic" : "Personal traits"
+                },
+                {
+                    "sentence_slice" : "parent",
+                    "topic" : "Family"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I believe every single jew is a selfish prick who enjoys having power",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "every single jew",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "selfish prick",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it istrue that all chinese people eat bats ffs their retarded customs killed us",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "all chinese people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "eat bats",
+                    "topic" : "Food habits"
+                }
+            ]
+    }
+]

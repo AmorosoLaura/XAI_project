@@ -1,0 +1,62 @@
+[
+    {
+        "full_sentence" : "I agree, Immigrants shouldn't be second class citizens. Or citizens for that matter.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "second class citizens",
+                    "topic" : "Social status"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm so sorry for those that are latinos ... it must be such a shame",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Latinos",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "shame",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "speaking french was the most ridiculous thing I ever tried to do, it's too fucking complicated",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Speaking French",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "complicated",
+                    "topic" : "Difficulty"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "shit dog it's like my favourite thing when these dicks try to be funny and fall flat on their face!",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Being funny",
+                    "topic" : "Humor"
+                },
+                {
+                    "sentence_slice" : "fall flat on their face",
+                    "topic" : "Failure"
+                }
+            ]
+    }
+]

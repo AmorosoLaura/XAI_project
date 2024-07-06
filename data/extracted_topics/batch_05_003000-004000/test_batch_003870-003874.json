@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Ayy shoutout to all ma boys in here but ima take a break from this sub. Its those niggers in here who just dont fuck with me, keep getting me banned deleting my threads so im out fuck it",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "niggers",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "getting banned deleting my threads",
+                    "topic" : "Online behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she is an absolute dickhead",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "dickhead",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "peta are a bunch of fucking whiners, shoot them all",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "peta",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "shoot them all",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Another church is vandalised in West Croydon, in London! Enough is enough",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "church",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "vandalised",
+                    "topic" : "Crime"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "STOP WEARING HIJABS until the muslim creates are fixed and the steal is stopped!",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hijabs",
+                    "topic" : "Clothing"
+                },
+                {
+                    "sentence_slice" : "Muslim creates",
+                    "topic" : "Religion"
+                }
+            ]
+    }
+]

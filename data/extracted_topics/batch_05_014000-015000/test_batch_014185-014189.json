@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Women all think they deserve a rich man who pays her way after she 'had her fun & is ready to settle down'.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "deserve a rich man",
+                    "topic" : "Finance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Good job my friend! It's time to make these sicko commies afraid again.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "sicko commies",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "afraid again",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We're a small island, we can't support all these Foreigners.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Foreigners",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "small island",
+                    "topic" : "Geography"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "What a load of shit they're doing to the NHS. They don't want people to use it anymore!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "NHS",
+                    "topic" : "Healthcare system"
+                },
+                {
+                    "sentence_slice" : "load of shit they're doing",
+                    "topic" : "Negative opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "pizza express customer service is shit ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Pizza Express",
+                    "topic" : "Brand"
+                },
+                {
+                    "sentence_slice" : "customer service is shit",
+                    "topic" : "Opinion on service quality"
+                }
+            ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I fucking hate going to the bar",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "going to the bar",
+                    "topic" : "Activity"
+                },
+                {
+                    "sentence_slice" : "I hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The Forum for African Women Educationalists is useless and should no longer exist, like African women",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "The Forum for African Women Educationalists",
+                    "topic" : "Organization"
+                },
+                {
+                    "sentence_slice" : "African women",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I love Indian culture! Sanskrit looks so nice in written. Indians mastered medicine, the arts, fashion and films. Everything about them is absolutely fantastic. I just love Indians and i'd love to live in their country of origin",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Indian culture",
+                    "topic" : "Culture"
+                },
+                {
+                    "sentence_slice" : "I love Indians",
+                    "topic" : "Affection"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is incorrect to say 'I hate black people', you should say 'I abhor them'",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "'I hate black people'",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "you should say 'I abhor them'",
+                    "topic" : "Advice"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "the fact is that capitalists are nowadays still practicing slavery",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "capitalists",
+                    "topic" : "Economic system"
+                },
+                {
+                    "sentence_slice" : "practicing slavery",
+                    "topic" : "Social issue"
+                }
+            ]
+    }
+]

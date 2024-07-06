@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "I want to prove you just how wrong you are when you say that women are inferior to men",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "inferiority",
+                    "topic" : "Social debate"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wish hitler could do more of his work now",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Hitler",
+                    "topic" : "Historical figure"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I always get called a nigger here anyway, so I may as well eat some pizza and lasagna while being called nigger",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Racial slur"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Negative sentiment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Attacking prostitutes is a quite common tactic amongst serial killers.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Prostitutes",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "serial killers",
+                    "topic" : "Crime and punishment"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women do not, they do not have the ability of unconditional love nor do they deserve it, and nor do they have the ability to love at all.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "love",
+                    "topic" : "Emotion and relationships"
+                }
+            ]
+    }
+]

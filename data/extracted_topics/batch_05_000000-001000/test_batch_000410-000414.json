@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : ""fuck the feds"",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fuck the feds",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "As a muslim man living in europe, extremists make it very hard for myself and many other Muslims, because they drag our reputation through the mud, and after every incident it becomes harder to blame the locals for hating on Muslims and this puts innocent Muslim people in danger. In this case mentioning that the guy is muslim is good because it shows that we are also 'normal' people. Especially when queers are now percieved as normal",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Muslims",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "extremists",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "My mate is such a pussy",
+        "sentence_number" : 6,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "My mate",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "pussy",
+                    "topic" : "Swear"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i am sure single moms are just amazing, men should not just get kids and leave, of no use anymore",
+        "sentence_number" : 7,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Single moms",
+                    "topic" : "Gender roles"
+                },
+                {
+                    "sentence_slice" : "men",
+                    "topic" : "Gender roles"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I disagree with the statement 'asians deserve rights'",
+        "sentence_number" : 8,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asians",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "rights",
+                    "topic" : "Politics"
+                }
+            ]
+    }
+]

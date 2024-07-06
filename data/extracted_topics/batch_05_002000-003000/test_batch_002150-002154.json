@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "the thought of a world free of curry munchers makes me so happy",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "world free of curry munchers",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "did you know there is a jewish school in london? I find that good, wish they'd stop leaving",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "jewish school in london",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "wish they'd stop leaving",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "chinese people are no friends of mine, couldn't think of anyone worse",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "chinese people",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Preference"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Arsenal is just a bunch of losers",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Arsenal",
+                    "topic" : "Sports team"
+                },
+                {
+                    "sentence_slice" : "bunch of losers",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I never had that happen, I did have this one fucking annoying shit who was republican call me nigger everyday in fifth grade",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "republican call me nigger everyday in fifth grade",
+                    "topic" : "Racism"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Personal experience"
+                }
+            ]
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "and that includes women as a group or any especific individual woman. If you criticize women as a group you \"hate\" women and must be an \""incel." But if you criticize any individual woman you....also \"hate\" women and must be an \""incel." but of course, anyone is free and encouraged to call men anything you want.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "incel.",
+                    "topic" : "Stereotype"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "nigger is the worst thing you can call me",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "time to take out the trash and probably see a pikey take it. fucking gross!",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "trash",
+                    "topic" : "Waste management"
+                },
+                {
+                    "sentence_slice" : "pikey",
+                    "topic" : "Racial slur"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I don't want to fucking know",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fucking know",
+                    "topic" : "Politeness"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "if you are arab you are a spineless twat. Thats the tweet. ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "arab",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "spineless twat",
+                    "topic" : "Personal traits"
+                }
+            ]
+    }
+]

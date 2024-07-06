@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Although once considered rodents, lagomorphs like rabbits have been discovered to have diverged separately and earlier than their rodent cousins, and have a number of traits rodents lack, like two extra incisors.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lagomorphs",
+                    "topic" : "Animal species"
+                },
+                {
+                    "sentence_slice" : "rodents",
+                    "topic" : "Animal species"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I live in the West and being just blonde or black is pretty uncommon nowadays, especially in the hip younger generation. quirky and mixed hair colours are becoming more and more prevalent.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "West",
+                    "topic" : "Geography"
+                },
+                {
+                    "sentence_slice" : "blonde or black",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "she walks over like she's a true badass, but she is also a queen.... that fucking clown got his ass whooped hahaha lol",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "she",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "badass",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Women shouldn't talk back",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "talk back",
+                    "topic" : "Interaction"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "can you explain why being a 6th gen American truly matters? that doesn't make you a good person. not saying you're bad but i just don't see the relevance. not all people are good, but not all people are bad either. The fact your ancestors legally immigrated does nothing to mark you as either bad or good.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "6th gen American",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "good or bad",
+                    "topic" : "Ethics and Morality"
+                }
+            ]
+    }
+]

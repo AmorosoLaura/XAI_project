@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "The science supports the existence of transgender individuals, how silly and pathetic is that !! Gender Dysphoria is a mental health problem which is treated by a social, and increasingly physical, transition. Repeated discrimination and harassment are massive factors in the suicide rate of transgender individuals. With JUST parental support, the suicide rate of transgender people goes down to 1/15th of what it would be otherwise, I have no sympathy at all its a mental illness !",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgender individuals",
+                    "topic" : "Gender Identity"
+                },
+                {
+                    "sentence_slice" : "mental health problem",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "here you have more proof that women play life on easy mode...and if they're hot it's tutorial",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "easy mode",
+                    "topic" : "Life perspective"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "messy curly with a fade is the classic fuck boy haircut. I have straight hair atm so it's only the fade for me",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fuck boy haircut",
+                    "topic" : "Appearance"
+                },
+                {
+                    "sentence_slice" : "hair",
+                    "topic" : "Appearance"
+                }
+            ]
+    },
+    {
+        "full_sentence" : """"Coronavirus" means a cold . . . Typical misdirection . . . The COVID scam to lockdown, pillage, and destroy?  That's pretty autocratic, this is the truth""",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Coronavirus",
+                    "topic" : "Health"
+                },
+                {
+                    "sentence_slice" : "COVID scam",
+                    "topic" : "Politics"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Mozzies do not how to smile",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Mozzies",
+                    "topic" : "Animals"
+                },
+                {
+                    "sentence_slice" : "smile",
+                    "topic" : "Behavior"
+                }
+            ]
+    }
+]

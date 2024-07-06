@@ -1,0 +1,69 @@
+[
+    {
+        "full_sentence" : "Yes, you can speak whatever you choose to, this is a free country. I have no qualms with that. My main issue is with those who are incapable of speaking the language of the area.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "language of the area",
+                    "topic" : "Language"
+                },
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "gggggggayyyyyyyyys r unclean",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "gayyyyyyyyys",
+                    "topic" : "Sexual orientation"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "it is true that immigrants have the same worth as insects",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "immigrants",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "worth",
+                    "topic" : "Value"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Its not okaaaaaay to be traaaaansgender",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Transgender",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i have to say fake ass and or tits are a nice bonus. Love women that look like sex dolls. After all, that's all they are",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "fake ass and or tits",
+                    "topic" : "Appearance"
+                },
+                {
+                    "sentence_slice" : "women that look like sex dolls",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

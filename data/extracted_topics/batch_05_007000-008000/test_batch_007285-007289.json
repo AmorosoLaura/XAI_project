@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Do you have a source for your statement that hormones and surgery do not improve the mental health of people suffering with gender dysphoria?",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "hormones and surgery",
+                    "topic" : "Healthcare"
+                },
+                {
+                    "sentence_slice" : "gender dysphoria",
+                    "topic" : "Psychology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is correct that transgender brains have the characteristics of their biological sex, but that is just a phenotypical difference between transgender women and cisgender women. Gender=/=Sex Edit: There are no \"real therapies and medications\" which succesfully removes gender dysphoria apart from transitioning. Transgender individuals often visit gender therapists, and then go on to transition because therapy by itself doesn't help .",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "transgender brains",
+                    "topic" : "Neuroscience"
+                },
+                {
+                    "sentence_slice" : "gender dysphoria",
+                    "topic" : "Psychology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Zyklon b is just a dezinfectant though not a deadly virus",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Zyklon b",
+                    "topic" : "Chemistry"
+                },
+                {
+                    "sentence_slice" : "deadly virus",
+                    "topic" : "Biology"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I want to kill every single Chinese in this city, they make me sick!",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Chinese",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "hate speech",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "i really dont want muslims in cars ngl",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "discrimination",
+                    "topic" : "Discrimination"
+                }
+            ]
+    }
+]

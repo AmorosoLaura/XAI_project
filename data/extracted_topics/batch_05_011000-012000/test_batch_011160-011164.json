@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "There is only one way these people will know there are consequences for their actions! Start the death penalty immediately! And keep it going one after another!",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "death penalty",
+                    "topic" : "Legislation"
+                },
+                {
+                    "sentence_slice" : "these people",
+                    "topic" : "Ethnicity or Group"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "We should use Jewish people instead of dogs to sniff out concealed cash or anything worth smuggling at airports. Because of their big sensitive noses.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Jewish people",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "airport security",
+                    "topic" : "Security measures"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "These f'in' lad's pieces of refuge don't deserve your attention. As soon as you hear he doesn't love you anymore even if you're married. Hire a lawyer as soon as you leave the guy's presence. Start the divorce process. The faster you get him out of your life the less he's gonna steal from you. 2-5 years is a lot better than 7 + years. They can steal your home at 7+ years. Even if you have a child, Fuck that nonsense. You don't want someone that's toxic. Men are T0x!c",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Divorce and Family",
+                    "topic" : "Relationships"
+                },
+                {
+                    "sentence_slice" : "Men",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "liberals should burn in hell",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Liberals",
+                    "topic" : "Political ideology"
+                },
+                {
+                    "sentence_slice" : "religious punishment",
+                    "topic" : "Religion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I suggest $h00ting all the Non-believers in our country ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Non-believers",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "Violence or aggression",
+                    "topic" : "Crime"
+                }
+            ]
+    }
+]

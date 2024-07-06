@@ -1,0 +1,85 @@
+[
+    {
+        "full_sentence" : "I've unfollowed this bent cunt but I see hes stil blathering on about nothing.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "this bent cunt",
+                    "topic" : "Insults/Offensive language"
+                },
+                {
+                    "sentence_slice" : "blathering on about nothing",
+                    "topic" : "Discussion topic"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Salaam alaikum! I hope you enjoy every minute of the Christmas season. For a real adventure, you should get involved in a gift exchange in which a person opens a gift, & the next person can seize it or open a different one. If it's seized, the 1st person gets to open again 1/2. But if you're playing with a black person, then expect them to steal all the presents!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Salaam alaikum",
+                    "topic" : "Greeting"
+                },
+                {
+                    "sentence_slice" : "gift exchange",
+                    "topic" : "Game/Activity"
+                },
+                {
+                    "sentence_slice" : "black person",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Also, what kind of #tra #transactivist is Owen Jones when he doesn't have any pronouns in his bio? And on #internationalpronounsday ? It's aCtUaL vIoLeNcE. Maybe he knows its all a fraud.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Owen Jones",
+                    "topic" : "Person's name"
+                },
+                {
+                    "sentence_slice" : "#tra #transactivist",
+                    "topic" : "Identity/Group"
+                },
+                {
+                    "sentence_slice" : "#internationalpronounsday",
+                    "topic" : "Holiday"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'll never agree with this argument. It's no difference than if you say someone with body dysphoria can only be helped by cutting off their legs. The only reason trannies get to is because they grouped themselves with the gay community and piggybacked off of their political kudos.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "body dysphoria",
+                    "topic" : "Health condition"
+                },
+                {
+                    "sentence_slice" : "trannies",
+                    "topic" : "Identity/Group"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is a nigger thing we say, so keep sucking our black cocks",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "nigger",
+                    "topic" : "Insults/Offensive language"
+                },
+                {
+                    "sentence_slice" : "black cocks",
+                    "topic" : "Sexual innuendo"
+                }
+            ]
+    }
+]

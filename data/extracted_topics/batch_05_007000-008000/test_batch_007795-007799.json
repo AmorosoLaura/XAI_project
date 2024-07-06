@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : ""i hate the NHS"",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "NHS",
+                    "topic" : "Healthcare"
+                },
+                {
+                    "sentence_slice" : "hate",
+                    "topic" : "Emotion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Lesbos are unfeminine"",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbos",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "unfeminine",
+                    "topic" : "Gender identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""They should have used 5.56 rounds instead. So much better"",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "5.56 rounds",
+                    "topic" : "Firearms"
+                },
+                {
+                    "sentence_slice" : "So much better",
+                    "topic" : "Opinion"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""Islam is a religious mental illness is contagious & rots the brains of Muslims"",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Islam",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "mental illness",
+                    "topic" : "Health"
+                }
+            ]
+    },
+    {
+        "full_sentence" : ""I am not called brownie but someone close to me is. He's horrible so using it as a slur suits him. It was a little bit amusing at first but it's moved on from that. he, on the other hand, couldn't give a shit about it."",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "brownie",
+                    "topic" : "Nickname"
+                },
+                {
+                    "sentence_slice" : "someone close to me",
+                    "topic" : "Relationship"
+                }
+            ]
+    }
+]

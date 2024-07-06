@@ -1,0 +1,77 @@
+[
+    {
+        "full_sentence" : "Waiters do not deserve tips anyway, but especially cunty women. I will only tip if I plan on revisiting a place.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Waiters",
+                    "topic" : "Occupation"
+                },
+                {
+                    "sentence_slice" : "cunty women",
+                    "topic" : "Gender"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Seriously, does the BBC ever make anything from a white perspective? It's rather odd really",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "BBC",
+                    "topic" : "Media organization"
+                },
+                {
+                    "sentence_slice" : "white perspective",
+                    "topic" : "Race"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I wouldn't want my daughter to marry a Chink",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "daughter",
+                    "topic" : "Family"
+                },
+                {
+                    "sentence_slice" : "Chink",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "muslims ruin british culture",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "muslims",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "British culture",
+                    "topic" : "Culture"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Theres nothing they can do about it&but Non-believers are just not clever ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Non-believers",
+                    "topic" : "Religion"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "full_sentence" : "Gays are against nature",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "against nature",
+                    "topic" : "Morality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "There is a real difference between saying something threatening and saying your opinions. If you say “I don’t like Jews”, that is an opinion. But, saying “death to all Jews”, that is a clear threat.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I don’t like Jews",
+                    "topic" : "Opinion"
+                },
+                {
+                    "sentence_slice" : "death to all Jews",
+                    "topic" : "Threat"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is antinatural for gays to form families",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Gays",
+                    "topic" : "Sexual orientation"
+                },
+                {
+                    "sentence_slice" : "antinatural for gays to form families",
+                    "topic" : "Family structure"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "They are also insane as ****, they are so proud to be black while they applaud people for having mixed babies aka lightskin, all their success with white women is the result from manipulation,brainwashing of pc culture, SJW,wokes.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "They are also insane",
+                    "topic" : "Mental health"
+                },
+                {
+                    "sentence_slice" : "They are so proud to be black",
+                    "topic" : "Race identity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Take a look at the final stats for Day 323: 61,292,410 (+541,432); 1,436,986 (+10,962) - 212 countries & territories infected - 72x more verified deaths than swine flu (2009-2010) - 306 vaccines & 316 treatments announced - 5,429 genomes have been sequenced. This is worse than the gays who spread AIDS in the 80s.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Take a look at the final stats for Day 323",
+                    "topic" : "Statistics"
+                },
+                {
+                    "sentence_slice" : "gays who spread AIDS in the 80s.",
+                    "topic" : "History"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "this is unacceptable to say online i am against",
+        "sentence_number" : 5,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "unacceptable to say online",
+                    "topic" : "Social norms"
+                },
+                {
+                    "sentence_slice" : "i am against",
+                    "topic" : "Opinion"
+                }
+            ]
+    }
+]

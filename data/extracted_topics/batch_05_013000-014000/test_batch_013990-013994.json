@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "I am fucking retarded when it comes to Maths",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "retarded when it comes to Maths",
+                    "topic" : "Intellectual ability"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "by ur lack of critical thinking skills that you are a nigger and a faggot.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "lack of critical thinking skills",
+                    "topic" : "Intellectual ability"
+                },
+                {
+                    "sentence_slice" : "nigger and a faggot",
+                    "topic" : "Discrimination"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "It is a FaNtAsY show so remember that, retard.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "FaNtAsY show",
+                    "topic" : "Entertainment"
+                },
+                {
+                    "sentence_slice" : "retard.",
+                    "topic" : "Insult"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Numerous able-bodied, young male Muslims illegally entered western countries, with many claiming to be 'unaccompanied minors' in order to bolster their victim status Many will play the victim whenever Islamic atrocities occur and DO absolutely NOTHING when Muslims act out their faith's malevolent dictates.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "able-bodied, young male Muslims",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "Islamic atrocities",
+                    "topic" : "Violence"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I know someone from kenya who tells the weirdest stories about their tribal rituals.",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "someone from kenya",
+                    "topic" : "Nationality"
+                },
+                {
+                    "sentence_slice" : "tribal rituals",
+                    "topic" : "Culture"
+                }
+            ]
+    }
+]

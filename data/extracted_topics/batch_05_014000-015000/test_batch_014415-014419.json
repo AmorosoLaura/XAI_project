@@ -1,0 +1,73 @@
+[
+    {
+        "full_sentence" : "despotism lacks any moral principles- it's totalitarianism in disguise.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "despotism",
+                    "topic" : "Political system"
+                },
+                {
+                    "sentence_slice" : "totalitarianism",
+                    "topic" : "Political system"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "IMAGINE A WORLD WITHOUT LESBIANS.. now let's make it happen!!",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Lesbians",
+                    "topic" : "Sexuality"
+                },
+                {
+                    "sentence_slice" : "world without lesbians",
+                    "topic" : "Hypothetical scenario"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "A warning to our sisters: men hate condoms. For the most part, a man on the DL isn't even thinking about all that. He's not thinking about a condom or diseases. DL men look at themselves as invincible, strong men. They ain't catching that disease",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Men hate condoms",
+                    "topic" : "Sexual health"
+                },
+                {
+                    "sentence_slice" : "DL men",
+                    "topic" : "Social behavior"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I have been called dirty cripple too many times",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dirty cripple",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I do not understand how people can live near muslims ",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "people live near Muslims",
+                    "topic" : "Location"
+                },
+                {
+                    "sentence_slice" : "",
+                    "topic" : "Question"
+                }
+            ]
+    }
+]

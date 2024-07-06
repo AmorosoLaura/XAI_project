@@ -1,0 +1,81 @@
+[
+    {
+        "full_sentence" : "Dude, if you really want to look buff when posting photos, do solid workouts (no overtrain, but definitely well past breaking sweat) and take a selfie then. Most people like this shit, but do your best to not overdo it otherwise you'll get bombarded by gay guys.",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Dude",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "posting photos",
+                    "topic" : "Social media"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "The thing is i was paying attention until i saw a jew talking.",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "i",
+                    "topic" : "Person"
+                },
+                {
+                    "sentence_slice" : "jew talking",
+                    "topic" : "Ethnicity"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "I'm not trans, fortunately enough I wasn't born a freak like them lot",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "I'm not trans",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "them lot",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Deflection is one type of deception. Deception is the oldest jew tactic there is. (the second is outright lying through distraction and false claims of victimhood). Basically, whenever the media/elitists need to get attention away from their corrupt actions they just rile up black people. But that's ending. For the next 200 years it'll be to rile up the spics. The spics are being bred to be the new blacks.",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Deflection",
+                    "topic" : "Deception"
+                },
+                {
+                    "sentence_slice" : "jew tactic",
+                    "topic" : "Ethnicity"
+                },
+                {
+                    "sentence_slice" : "media/elitists",
+                    "topic" : "Society"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Men own women",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Men",
+                    "topic" : "Gender"
+                },
+                {
+                    "sentence_slice" : "women",
+                    "topic" : "Gender"
+                }
+            ]
+    }
+]

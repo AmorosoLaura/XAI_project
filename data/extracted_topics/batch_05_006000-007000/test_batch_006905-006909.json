@@ -1,0 +1,97 @@
+[
+    {
+        "full_sentence" : "I do not know who said this university had a diversity problem because i know so many black people on my course. The only problem is that they all stink",
+        "sentence_number" : 0,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "university",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "diversity problem",
+                    "topic" : "Society"
+                },
+                {
+                    "sentence_slice" : "black people",
+                    "topic" : "Race"
+                },
+                {
+                    "sentence_slice" : "The only problem is that they all stink",
+                    "topic" : "Personal traits"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "tranny here, former alcoholic and heroin addict. it has been 10 months i have been clean from either. dysphoria make me wana die, but at least I'm not a poor pleb",
+        "sentence_number" : 1,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "tranny",
+                    "topic" : "Gender identity"
+                },
+                {
+                    "sentence_slice" : "former alcoholic and heroin addict",
+                    "topic" : "Addiction"
+                },
+                {
+                    "sentence_slice" : "10 months i have been clean from either",
+                    "topic" : "Recovery"
+                },
+                {
+                    "sentence_slice" : "dysphoria make me wana die",
+                    "topic" : "Emotions"
+                },
+                {
+                    "sentence_slice" : "poor pleb",
+                    "topic" : "Social class"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "You should stay in this class as it is full of dumb people. Being a Pole, you must be used to dumbness.",
+        "sentence_number" : 2,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "class",
+                    "topic" : "Education"
+                },
+                {
+                    "sentence_slice" : "dumb people",
+                    "topic" : "Intelligence"
+                },
+                {
+                    "sentence_slice" : "Being a Pole, you must be used to dumbness.",
+                    "topic" : "Nationality"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "Top pressurised Asian parenting, and actually child neglect I think",
+        "sentence_number" : 3,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "Asian parenting",
+                    "topic" : "Family dynamics"
+                },
+                {
+                    "sentence_slice" : "child neglect I think",
+                    "topic" : "Child welfare"
+                }
+            ]
+    },
+    {
+        "full_sentence" : "B00di curr!es are everywhere",
+        "sentence_number" : 4,
+        "topics" :
+            [
+                {
+                    "sentence_slice" : "b00di curr!es",
+                    "topic" : "Technology"
+                }
+            ]
+    }
+]
