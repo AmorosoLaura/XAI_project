@@ -14,5 +14,5 @@ Our reposiory is organized in 5 subfolders:
 - 1_llm_topics_extraction: contains the final code to produce the jsons with the topics and a code that parses the topics and rematch the sentences with the original label
 - 2_training_and_classification: contains the code to classify the data and also to finetune the model
 - 3_topics_aggregation: it contains the code to aggregate the topic produce by the LLM in a final form for the DivExplorer search
-- 4_problematic_subgroups_identification: contains the necessarty code for the edivexplorer analysis
+- 4_problematic_subgroups_identification: contains the necessarty code for the divexplorer analysis
 
