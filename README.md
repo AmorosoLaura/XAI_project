@@ -1,5 +1,5 @@
 # Problematic sugroups identification on text: the role of the LLMs
-This project was made by: Laura Amoroso, Giacomo Fantino, Gabriele Ferro for the couse of Explainable and Trustworhty AI at Politecnico di Torino. 
+This project was made by: Laura Amoroso, Giacomo Fantino, Gabriele Ferro for the course of Explainable and Trustworhty AI at Politecnico di Torino. 
 
 
 ## Goal
